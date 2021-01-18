@@ -1,7 +1,6 @@
 # 2021 Books
 
-## Life 3.0
-![Life 3.0]("https://covers.openlibrary.org/b/isbn/9781101946596-S.jpg")
+## ![Life 3.0](https://covers.openlibrary.org/b/isbn/9781101946596-S.jpg) Life 3.0
 
 *Max Tegmark*
 
