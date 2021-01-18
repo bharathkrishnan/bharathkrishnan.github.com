@@ -1,6 +1,4 @@
-% bookcellent
-
-# 2021
+# 2021 Books
 
 ## Life 3.0
 *Max Tegmark*
