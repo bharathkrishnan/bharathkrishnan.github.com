@@ -1,0 +1,5 @@
+#Jekyll Configuration
+name: BookCellent
+description: Excellent Books
+url: "https://www.bookcellent.com"
+markdown: GFM
