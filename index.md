@@ -4,5 +4,10 @@
 
 *Max Tegmark*
 
-[MA Library](https://library.minlib.net/search/i=9781101946596) / [Open Library](http://openlibrary.org/isbn/9781101946596) / [Book Shop](https://bookshop.org/books/life-3-0-being-human-in-the-age-of-artificial-intelligence/9781101970317) / [Amazon](https://smile.amazon.com/dp/1101970316)
+[Massachusetts Library](https://library.minlib.net/search/i=9781101946596) / [Open Library](http://openlibrary.org/isbn/9781101946596) / [Book Shop](https://bookshop.org/books/life-3-0-being-human-in-the-age-of-artificial-intelligence/9781101970317) / [Amazon](https://smile.amazon.com/dp/1101970316)
 
+## ![Dune](https://covers.openlibrary.org/b/isbn/9780441013593-S.jpg) Dune
+
+*Frank Herbert*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780441013593) / [Open Library](http://openlibrary.org/isbn/9780441013593) / [Book Shop](https://bookshop.org/books/dune-9780441005901/9780441172719) / [Amazon](https://smile.amazon.com/dp/0441013597)
