@@ -1,10 +1,10 @@
 # 2021 Books
 
-## ![The Player of Games](https://covers.openlibrary.org/b/isbn/9780061053566-S.jpg) The Player of Games
+## ![The Player of Games](https://covers.openlibrary.org/b/isbn/9780316005401-S.jpg) The Player of Games
 
 *Iain M. Banks*
 
-[Massachusetts Library](https://library.minlib.net/search/i=9780061053566) / [Open Library](http://openlibrary.org/isbn/9780061053566) / [Book Shop](https://bookshop.org/books/the-player-of-games/9780316005401) / [Amazon](https://smile.amazon.com/dp/0061053562)
+[Massachusetts Library](https://library.minlib.net/search/i=9780316005401) / [Open Library](http://openlibrary.org/isbn/9780316005401) / [Book Shop](https://bookshop.org/books/the-player-of-games/9780316005401) / [Amazon](https://smile.amazon.com/dp/0316005401)
 
 ## ![Dune](https://covers.openlibrary.org/b/isbn/9780441013593-S.jpg) Dune
 
