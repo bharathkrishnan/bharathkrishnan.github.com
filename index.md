@@ -18,3 +18,26 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781101946596) / [Open Library](http://openlibrary.org/isbn/9781101946596) / [Book Shop](https://bookshop.org/books/life-3-0-being-human-in-the-age-of-artificial-intelligence/9781101970317) / [Amazon](https://smile.amazon.com/dp/1101970316)
 
+## ![Dead Space](https://covers.openlibrary.org/b/isbn/1984803727-S.jpg) Dead Space
+
+*Kali Wallace*
+
+[Massachusetts Library](https://library.minlib.net/search/i=1984803727) / [Open Library](http://openlibrary.org/isbn/1984803727) / [Book Shop](https://bookshop.org/books/dead-space-9781984803726/9781984803726) / [Amazon](https://smile.amazon.com/dp/1984803727)
+
+## ![The Hydrogen Sonata](https://covers.openlibrary.org/b/isbn/9780316212373-S.jpg) The Hydrogen Sonata
+
+*Iain Banks*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780316212373) / [Open Library](http://openlibrary.org/isbn/9780316212373) / [Book Shop](https://bookshop.org/books/the-hydrogen-sonata/9780316212366) / [Amazon](https://smile.amazon.com/dp/0316212377)
+
+## ![Salvation Day](https://covers.openlibrary.org/b/isbn/9781984803696-S.jpg) Salvation Day
+
+*Kali Wallace*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781984803696) / [Open Library](http://openlibrary.org/isbn/9781984803696) / [Book Shop](https://bookshop.org/books/salvation-day/9781984803696) / [Amazon](https://smile.amazon.com/dp/1984803697)
+
+## ![To Sleep In a Sea Of Stars](https://covers.openlibrary.org/b/isbn/9781250762849-S.jpg) To Sleep In a Sea Of Stars
+
+*Christopher Paolini*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781250762849) / [Open Library](http://openlibrary.org/isbn/9781250762849) / [Book Shop](https://bookshop.org/books/to-sleep-in-a-sea-of-stars/9781250762849) / [Amazon](https://smile.amazon.com/dp/1250762847)
