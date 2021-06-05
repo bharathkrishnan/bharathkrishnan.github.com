@@ -51,8 +51,8 @@
             "ISBN13" : "9781984803696",
             "ISBN10" : "1984803697",
             "ReadYear" : 2021,
-            "Progress" : 0.0,
-            "Rating" : 0.0
+            "Progress" : 1.0,
+            "Rating" : 3.0
         },
         {
             "Authors" : ["Christopher Paolini"],

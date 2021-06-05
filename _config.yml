@@ -3,3 +3,5 @@ name: BookCellent
 description: Excellent Books
 url: "https://www.bookcellent.com"
 markdown: GFM
+plugins:
+  - jemoji
