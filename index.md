@@ -50,9 +50,9 @@ Progress: 100.0%
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781984803696) / [Open Library](http://openlibrary.org/isbn/9781984803696) / [Book Shop](https://bookshop.org/books/salvation-day/9781984803696) / [Amazon](https://smile.amazon.com/dp/1984803697)
 
-Progress: 0.0%
+Progress: 100.0%
 
-
+:star: :star: :star:
 
 ## ![To Sleep in a Sea of Stars](https://covers.openlibrary.org/b/isbn/9781250762849-S.jpg) To Sleep in a Sea of Stars
 *Christopher Paolini*
