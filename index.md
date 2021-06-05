@@ -53,3 +53,27 @@
 *Reed Hastings* & *Erin Meyer*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781984877864) / [Open Library](http://openlibrary.org/isbn/9781984877864) / [Book Shop](https://bookshop.org/books/no-rules-rules-netflix-and-the-culture-of-reinvention/9781984877864) / [Amazon](https://smile.amazon.com/dp/1984877860)
+
+## ![The Effort](https://covers.openlibrary.org/b/isbn/9781538717615-S.jpg) The Effort
+
+*Claire Holroyde*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781538717615) / [Open Library](http://openlibrary.org/isbn/9781538717615) / [Book Shop](https://bookshop.org/books/the-effort/9781538717615) / [Amazon](https://smile.amazon.com/dp/1538717611)
+
+## ![Machinehood](https://covers.openlibrary.org/b/isbn/9781982148065-S.jpg) Machinehood
+
+*S. B. Divya*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781982148065) / [Open Library](http://openlibrary.org/isbn/9781982148065) / [Book Shop](https://bookshop.org/books/machinehood/9781982148065) / [Amazon](https://smile.amazon.com/dp/1982148063)
+
+## ![The Premonition](https://covers.openlibrary.org/b/isbn/9780393881554-S.jpg) The Premonition
+
+*Michael Lewis*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780393881554) / [Open Library](http://openlibrary.org/isbn/9780393881554) / [Book Shop](https://bookshop.org/books/the-premonition/9780393881554) / [Amazon](https://smile.amazon.com/dp/0393881555)
+
+## ![Persephone Station](https://covers.openlibrary.org/b/isbn/9781534414594-S.jpg) Persephone Station
+
+*Stina Leicht*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781534414594) / [Open Library](http://openlibrary.org/isbn/9781534414594) / [Book Shop](https://bookshop.org/books/the-premonition/9781534414594) / [Amazon](https://smile.amazon.com/dp/1534414592)

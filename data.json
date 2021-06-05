@@ -80,6 +80,42 @@
             "ReadYear" : 2021,
             "Progress" : 1.0,
             "Rating" : 3.0
+        },
+        {
+            "Author" : ["Claire Holroyde"],
+            "Title" : "The Effort",
+            "ISBN13" : "9781538717615",
+            "ISBN10" : "1538717611",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Author" : ["S. B. Divya"],
+            "Title" : "Machinehood",
+            "ISBN13" : "9781982148065",
+            "ISBN10" : "1982148063",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Author" : ["Michael Lewis"],
+            "Title" : "The Premonition",
+            "ISBN13" : "9780393881554",
+            "ISBN10" : "0393881555",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Author" : ["Stina Leicht"],
+            "Title" : "Persephone Station",
+            "ISBN13" : "9781534414594",
+            "ISBN10" : "1534414592",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
         }
     ]
 }
