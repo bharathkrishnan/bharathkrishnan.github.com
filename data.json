@@ -1,0 +1,67 @@
+{
+    "Books" : [
+        {
+            "Author" : "Iain M. Banks",
+            "Title" : "The Player of Games",
+            "ISBN13" : "9780316005401",
+            "ISBN10" : "0316005401",
+            "ReadYear" : 2021,
+            "Progress" : 1.0,
+            "Rating" : 5.0
+        },
+        {
+            "Author" : "Frank Herbert",
+            "Title" : "Dune",
+            "ISBN13" : "9780441013593",
+            "ISBN10" : "0441013597",
+            "ReadYear" : 2021,
+            "Progress" : 1.0,
+            "Rating" : 5.0
+        },
+        {
+            "Author" : "Max Tegmark",
+            "Title" : "Life 3.0",
+            "ISBN13" : "9781101946596",
+            "ISBN10" : "1101970316",
+            "ReadYear" : 2021,
+            "Progress" : 0.1,
+            "Rating" : 5.0
+        },
+        {
+            "Author" : "Kali Wallace",
+            "Title" : "Dead Space",
+            "ISBN13" : "9781984803726",
+            "ISBN10" : "1984803727",
+            "ReadYear" : 2021,
+            "Progress" : 1.0,
+            "Rating" : 5.0
+        },
+        {
+            "Author" : "Iain M. Banks",
+            "Title" : "The Hydrogen Sonata",
+            "ISBN13" : "9780316212373",
+            "ISBN10" : "0316212377",
+            "ReadYear" : 2021,
+            "Progress" : 1.0,
+            "Rating" : 5.0
+        },
+        {
+            "Author" : "Kali Wallace",
+            "Title" : "Salvation Day",
+            "ISBN13" : "9781984803696",
+            "ISBN10" : "1984803697",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Author" : "Christopher Paolini",
+            "Title" : "To Sleep in a Sea of Stars",
+            "ISBN13" : "9781250762849",
+            "ISBN10" : "1250762847",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        }
+    ]
+}
