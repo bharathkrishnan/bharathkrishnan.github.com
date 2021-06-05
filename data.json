@@ -1,7 +1,7 @@
 {
     "Books" : [
         {
-            "Author" : ["Iain M. Banks"],
+            "Authors" : ["Iain M. Banks"],
             "Title" : "The Player of Games",
             "ISBN13" : "9780316005401",
             "ISBN10" : "0316005401",
@@ -10,7 +10,7 @@
             "Rating" : 5.0
         },
         {
-            "Author" : ["Frank Herbert"],
+            "Authors" : ["Frank Herbert"],
             "Title" : "Dune",
             "ISBN13" : "9780441013593",
             "ISBN10" : "0441013597",
@@ -19,7 +19,7 @@
             "Rating" : 5.0
         },
         {
-            "Author" : ["Max Tegmark"],
+            "Authors" : ["Max Tegmark"],
             "Title" : "Life 3.0",
             "ISBN13" : "9781101946596",
             "ISBN10" : "1101970316",
@@ -28,7 +28,7 @@
             "Rating" : 5.0
         },
         {
-            "Author" : ["Kali Wallace"],
+            "Authors" : ["Kali Wallace"],
             "Title" : "Dead Space",
             "ISBN13" : "9781984803726",
             "ISBN10" : "1984803727",
@@ -37,7 +37,7 @@
             "Rating" : 5.0
         },
         {
-            "Author" : ["Iain M. Banks"],
+            "Authors" : ["Iain M. Banks"],
             "Title" : "The Hydrogen Sonata",
             "ISBN13" : "9780316212373",
             "ISBN10" : "0316212377",
@@ -46,7 +46,7 @@
             "Rating" : 5.0
         },
         {
-            "Author" : ["Kali Wallace"],
+            "Authors" : ["Kali Wallace"],
             "Title" : "Salvation Day",
             "ISBN13" : "9781984803696",
             "ISBN10" : "1984803697",
@@ -55,7 +55,7 @@
             "Rating" : 0.0
         },
         {
-            "Author" : ["Christopher Paolini"],
+            "Authors" : ["Christopher Paolini"],
             "Title" : "To Sleep in a Sea of Stars",
             "ISBN13" : "9781250762849",
             "ISBN10" : "1250762847",
@@ -64,7 +64,7 @@
             "Rating" : 0.0
         },
         {
-            "Author" : ["Arkady Martine"],
+            "Authors" : ["Arkady Martine"],
             "Title" : "A Desolation Called Peace",
             "ISBN13" : "9781250186461",
             "ISBN10" : "1250186463",
@@ -73,7 +73,7 @@
             "Rating" : 4.0
         },
         {
-            "Author" : ["Reed Hastings", "Erin Meyer"],
+            "Authors" : ["Reed Hastings", "Erin Meyer"],
             "Title" : "No Rules Rules: Netflix and the Culture of Reinvention",
             "ISBN13" : "9781984877864",
             "ISBN10" : "1984877860",
@@ -82,7 +82,7 @@
             "Rating" : 3.0
         },
         {
-            "Author" : ["Claire Holroyde"],
+            "Authors" : ["Claire Holroyde"],
             "Title" : "The Effort",
             "ISBN13" : "9781538717615",
             "ISBN10" : "1538717611",
@@ -91,7 +91,7 @@
             "Rating" : 0.0
         },
         {
-            "Author" : ["S. B. Divya"],
+            "Authors" : ["S. B. Divya"],
             "Title" : "Machinehood",
             "ISBN13" : "9781982148065",
             "ISBN10" : "1982148063",
@@ -100,7 +100,7 @@
             "Rating" : 0.0
         },
         {
-            "Author" : ["Michael Lewis"],
+            "Authors" : ["Michael Lewis"],
             "Title" : "The Premonition",
             "ISBN13" : "9780393881554",
             "ISBN10" : "0393881555",
@@ -109,7 +109,7 @@
             "Rating" : 0.0
         },
         {
-            "Author" : ["Stina Leicht"],
+            "Authors" : ["Stina Leicht"],
             "Title" : "Persephone Station",
             "ISBN13" : "9781534414594",
             "ISBN10" : "1534414592",
