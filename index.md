@@ -41,3 +41,15 @@
 *Christopher Paolini*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781250762849) / [Open Library](http://openlibrary.org/isbn/9781250762849) / [Book Shop](https://bookshop.org/books/to-sleep-in-a-sea-of-stars/9781250762849) / [Amazon](https://smile.amazon.com/dp/1250762847)
+
+## ![A Desolation Called Peace](https://covers.openlibrary.org/b/isbn/9781250186461-S.jpg) A Desolation Called Peace
+
+*Arkady Martine*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781250186461) / [Open Library](http://openlibrary.org/isbn/9781250186461) / [Book Shop](https://bookshop.org/books/a-desolation-called-peace/9781250186461) / [Amazon](https://smile.amazon.com/dp/1250186463)
+
+## ![No Rules Rules: Netflix and the Culture of Reinvention](https://covers.openlibrary.org/b/isbn/9781984877864-S.jpg) No Rules Rules: Netflix and the Culture of Reinvention
+
+*Reed Hastings* & *Erin Meyer*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781984877864) / [Open Library](http://openlibrary.org/isbn/9781984877864) / [Book Shop](https://bookshop.org/books/no-rules-rules-netflix-and-the-culture-of-reinvention/9781984877864) / [Amazon](https://smile.amazon.com/dp/1984877860)
