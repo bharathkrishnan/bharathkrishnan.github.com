@@ -14,8 +14,9 @@ def main():
         with open('../index.md', 'w') as o:
             o.write('# 2021: {0} Authors, {1} / {2} Books Read \n\n'.format(len(authors), nrbooks, len(books)))
             for book in books:
-                o.write(book.print())
-                o.write('\n')
+                if book.readYear == 2021:
+                    o.write(book.print())
+                    o.write('\n')
 
 if __name__ == '__main__':
     main()

@@ -25,7 +25,7 @@
             "ISBN10" : "1101970316",
             "ReadYear" : 2021,
             "Progress" : 0.1,
-            "Rating" : 5.0
+            "Rating" : 1.0
         },
         {
             "Authors" : ["Kali Wallace"],
@@ -113,6 +113,60 @@
             "Title" : "Persephone Station",
             "ISBN13" : "9781534414594",
             "ISBN10" : "1534414592",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Geoffrey A. Moore"],
+            "Title" : "Crossing The Chasm",
+            "ISBN13" : "9780062353948",
+            "ISBN10" : "0062292986",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["James Clear"],
+            "Title" : "Atomic Habits",
+            "ISBN13" : "9780735211292",
+            "ISBN10" : "0735211299",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["James Altucher"],
+            "Title" : "Skip the Line",
+            "ISBN13" : "978-0062998927",
+            "ISBN10" : "0062998927",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Stephen Walker"],
+            "Title" : "Beyond: The Astonishing Story of the First Human to Leave Our Planet and Journey into Space",
+            "ISBN13" : "978-0062978158",
+            "ISBN10" : "0062978152",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Chris Voss"],
+            "Title" : "Never Split the Difference: Negotiating As If Your Life Depended On It",
+            "ISBN13" : "978-0062407801",
+            "ISBN10" : "0062407805",
+            "ReadYear" : 2020,
+            "Progress" : 1.0,
+            "Rating" : 3.0
+        },
+        {
+            "Authors" : ["Ronald Brownstein"],
+            "Title" : "Rock Me on the Water: 1974-The Year Los Angeles Transformed Movies, Music, Television, and Politics",
+            "ISBN13" : "978-0062407801",
+            "ISBN10" : "0062407805",
             "ReadYear" : 2021,
             "Progress" : 0.0,
             "Rating" : 0.0

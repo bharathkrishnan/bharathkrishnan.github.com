@@ -1,4 +1,4 @@
-# 2021: 12 Authors, 7 / 13 Books Read 
+# 2021: 18 Authors, 8 / 19 Books Read 
 
 ## ![The Player of Games](https://covers.openlibrary.org/b/isbn/9780316005401-S.jpg) The Player of Games
 *Iain M. Banks*
@@ -25,7 +25,7 @@
 
 ![10%](https://progress-bar.dev/10) 
 
-:star: :star: :star: :star: :star:
+:star:
 
 ## ![Dead Space](https://covers.openlibrary.org/b/isbn/9781984803726-S.jpg) Dead Space
 *Kali Wallace*
@@ -112,6 +112,51 @@
 *Stina Leicht*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781534414594) / [Open Library](http://openlibrary.org/isbn/9781534414594) / [Local Book Shop](https://bookshop.org/books/persephone-station/9781534414594) / [Amazon](https://smile.amazon.com/dp/1534414592)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![Crossing The Chasm](https://covers.openlibrary.org/b/isbn/9780062353948-S.jpg) Crossing The Chasm
+*Geoffrey A. Moore*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780062353948) / [Open Library](http://openlibrary.org/isbn/9780062353948) / [Local Book Shop](https://bookshop.org/books/crossing-the-chasm/9780062353948) / [Amazon](https://smile.amazon.com/dp/0062292986)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![Atomic Habits](https://covers.openlibrary.org/b/isbn/9780735211292-S.jpg) Atomic Habits
+*James Clear*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780735211292) / [Open Library](http://openlibrary.org/isbn/9780735211292) / [Local Book Shop](https://bookshop.org/books/atomic-habits/9780735211292) / [Amazon](https://smile.amazon.com/dp/0735211299)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![Skip the Line](https://covers.openlibrary.org/b/isbn/978-0062998927-S.jpg) Skip the Line
+*James Altucher*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0062998927) / [Open Library](http://openlibrary.org/isbn/978-0062998927) / [Local Book Shop](https://bookshop.org/books/skip-the-line/978-0062998927) / [Amazon](https://smile.amazon.com/dp/0062998927)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![Beyond: The Astonishing Story of the First Human to Leave Our Planet and Journey into Space](https://covers.openlibrary.org/b/isbn/978-0062978158-S.jpg) Beyond: The Astonishing Story of the First Human to Leave Our Planet and Journey into Space
+*Stephen Walker*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0062978158) / [Open Library](http://openlibrary.org/isbn/978-0062978158) / [Local Book Shop](https://bookshop.org/books/beyond:-the-astonishing-story-of-the-first-human-to-leave-our-planet-and-journey-into-space/978-0062978158) / [Amazon](https://smile.amazon.com/dp/0062978152)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![Rock Me on the Water: 1974-The Year Los Angeles Transformed Movies, Music, Television, and Politics](https://covers.openlibrary.org/b/isbn/978-0062407801-S.jpg) Rock Me on the Water: 1974-The Year Los Angeles Transformed Movies, Music, Television, and Politics
+*Ronald Brownstein*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0062407801) / [Open Library](http://openlibrary.org/isbn/978-0062407801) / [Local Book Shop](https://bookshop.org/books/rock-me-on-the-water:-1974-the-year-los-angeles-transformed-movies,-music,-television,-and-politics/978-0062407801) / [Amazon](https://smile.amazon.com/dp/0062407805)
 
 ![0%](https://progress-bar.dev/0) 
 
