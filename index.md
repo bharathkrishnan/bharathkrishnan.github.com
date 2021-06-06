@@ -153,10 +153,10 @@
 
 
 
-## ![Rock Me on the Water: 1974-The Year Los Angeles Transformed Movies, Music, Television, and Politics](https://covers.openlibrary.org/b/isbn/978-0062407801-S.jpg) Rock Me on the Water: 1974-The Year Los Angeles Transformed Movies, Music, Television, and Politics
+## ![Rock Me on the Water: 1974-The Year Los Angeles Transformed Movies, Music, Television, and Politics](https://covers.openlibrary.org/b/isbn/9780062899217-S.jpg) Rock Me on the Water: 1974-The Year Los Angeles Transformed Movies, Music, Television, and Politics
 *Ronald Brownstein*
 
-[Massachusetts Library](https://library.minlib.net/search/i=978-0062407801) / [Open Library](http://openlibrary.org/isbn/978-0062407801) / [Local Book Shop](https://bookshop.org/books/rock-me-on-the-water:-1974-the-year-los-angeles-transformed-movies,-music,-television,-and-politics/978-0062407801) / [Amazon](https://smile.amazon.com/dp/0062407805)
+[Massachusetts Library](https://library.minlib.net/search/i=9780062899217) / [Open Library](http://openlibrary.org/isbn/9780062899217) / [Local Book Shop](https://bookshop.org/books/rock-me-on-the-water:-1974-the-year-los-angeles-transformed-movies,-music,-television,-and-politics/9780062899217) / [Amazon](https://smile.amazon.com/dp/006289921X)
 
 ![0%](https://progress-bar.dev/0) 
 
