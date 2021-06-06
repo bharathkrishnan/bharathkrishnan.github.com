@@ -1,4 +1,4 @@
-# 2021 Books
+# 2021: 12 Authors, 7 / 13 Books Read 
 
 ## ![The Player of Games](https://covers.openlibrary.org/b/isbn/9780316005401-S.jpg) The Player of Games
 *Iain M. Banks*
