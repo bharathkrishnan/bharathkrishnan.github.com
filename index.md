@@ -1,4 +1,4 @@
-# 2021: 18 Authors, 9 / 19 Books Read 
+# 2021: 20 Authors, 9 / 20 Books Read 
 
 ## ![The Player of Games](https://covers.openlibrary.org/b/isbn/9780316005401-S.jpg) The Player of Games
 *Iain M. Banks*
@@ -157,6 +157,15 @@
 *Ronald Brownstein*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062899217) / [Open Library](http://openlibrary.org/isbn/9780062899217) / [Local Book Shop](https://bookshop.org/books/rock-me-on-the-water:-1974-the-year-los-angeles-transformed-movies,-music,-television,-and-politics/9780062899217) / [Amazon](https://smile.amazon.com/dp/006289921X)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![World Travel: An Irreverent Guide](https://covers.openlibrary.org/b/isbn/9780062802798-S.jpg) World Travel: An Irreverent Guide
+*Anthony Bourdain & Laurie Woolever*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780062802798) / [Open Library](http://openlibrary.org/isbn/9780062802798) / [Local Book Shop](https://bookshop.org/books/world-travel:-an-irreverent-guide/9780062802798) / [Amazon](https://smile.amazon.com/dp/0062802798)
 
 ![0%](https://progress-bar.dev/0) 
 

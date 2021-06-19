@@ -170,6 +170,15 @@
             "ReadYear" : 2021,
             "Progress" : 0.0,
             "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Anthony Bourdain", "Laurie Woolever"],
+            "Title" : "World Travel: An Irreverent Guide",
+            "ISBN13" : "9780062802798",
+            "ISBN10" : "0062802798",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
         }
     ]
 }
