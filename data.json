@@ -120,7 +120,7 @@
         {
             "Authors" : ["Geoffrey A. Moore"],
             "Title" : "Crossing The Chasm",
-            "ISBN13" : "9780062353948",
+            "ISBN13" : "9780062356857",
             "ISBN10" : "0062292986",
             "ReadYear" : 2021,
             "Progress" : 0.0,
@@ -137,9 +137,9 @@
         },
         {
             "Authors" : ["James Altucher"],
-            "Title" : "Skip the Line",
-            "ISBN13" : "978-0062998927",
-            "ISBN10" : "0062998927",
+            "Title" : "Skip the Line: The 10,000 Experiments Rule and Other Surprising Advice for Reaching Your Goals",
+            "ISBN13" : "9781799952268",
+            "ISBN10" : "1799952266",
             "ReadYear" : 2021,
             "Progress" : 0.0,
             "Rating" : 0.0
@@ -147,7 +147,7 @@
         {
             "Authors" : ["Stephen Walker"],
             "Title" : "Beyond: The Astonishing Story of the First Human to Leave Our Planet and Journey into Space",
-            "ISBN13" : "978-0062978158",
+            "ISBN13" : "9780062978158",
             "ISBN10" : "0062978152",
             "ReadYear" : 2021,
             "Progress" : 0.0,

@@ -117,10 +117,10 @@
 
 :star: :star:
 
-## ![Crossing The Chasm](https://covers.openlibrary.org/b/isbn/9780062353948-S.jpg) Crossing The Chasm
+## ![Crossing The Chasm](https://covers.openlibrary.org/b/isbn/9780062356857-S.jpg) Crossing The Chasm
 *Geoffrey A. Moore*
 
-[Massachusetts Library](https://library.minlib.net/search/i=9780062353948) / [Open Library](http://openlibrary.org/isbn/9780062353948) / [Local Book Shop](https://bookshop.org/books/crossing-the-chasm/9780062353948) / [Amazon](https://smile.amazon.com/dp/0062292986)
+[Massachusetts Library](https://library.minlib.net/search/i=9780062356857) / [Open Library](http://openlibrary.org/isbn/9780062356857) / [Local Book Shop](https://bookshop.org/books/crossing-the-chasm/9780062356857) / [Amazon](https://smile.amazon.com/dp/0062292986)
 
 ![0%](https://progress-bar.dev/0) 
 
@@ -135,19 +135,19 @@
 
 
 
-## ![Skip the Line](https://covers.openlibrary.org/b/isbn/978-0062998927-S.jpg) Skip the Line
+## ![Skip the Line: The 10,000 Experiments Rule and Other Surprising Advice for Reaching Your Goals](https://covers.openlibrary.org/b/isbn/9781799952268-S.jpg) Skip the Line: The 10,000 Experiments Rule and Other Surprising Advice for Reaching Your Goals
 *James Altucher*
 
-[Massachusetts Library](https://library.minlib.net/search/i=978-0062998927) / [Open Library](http://openlibrary.org/isbn/978-0062998927) / [Local Book Shop](https://bookshop.org/books/skip-the-line/978-0062998927) / [Amazon](https://smile.amazon.com/dp/0062998927)
+[Massachusetts Library](https://library.minlib.net/search/i=9781799952268) / [Open Library](http://openlibrary.org/isbn/9781799952268) / [Local Book Shop](https://bookshop.org/books/skip-the-line:-the-10,000-experiments-rule-and-other-surprising-advice-for-reaching-your-goals/9781799952268) / [Amazon](https://smile.amazon.com/dp/1799952266)
 
 ![0%](https://progress-bar.dev/0) 
 
 
 
-## ![Beyond: The Astonishing Story of the First Human to Leave Our Planet and Journey into Space](https://covers.openlibrary.org/b/isbn/978-0062978158-S.jpg) Beyond: The Astonishing Story of the First Human to Leave Our Planet and Journey into Space
+## ![Beyond: The Astonishing Story of the First Human to Leave Our Planet and Journey into Space](https://covers.openlibrary.org/b/isbn/9780062978158-S.jpg) Beyond: The Astonishing Story of the First Human to Leave Our Planet and Journey into Space
 *Stephen Walker*
 
-[Massachusetts Library](https://library.minlib.net/search/i=978-0062978158) / [Open Library](http://openlibrary.org/isbn/978-0062978158) / [Local Book Shop](https://bookshop.org/books/beyond:-the-astonishing-story-of-the-first-human-to-leave-our-planet-and-journey-into-space/978-0062978158) / [Amazon](https://smile.amazon.com/dp/0062978152)
+[Massachusetts Library](https://library.minlib.net/search/i=9780062978158) / [Open Library](http://openlibrary.org/isbn/9780062978158) / [Local Book Shop](https://bookshop.org/books/beyond:-the-astonishing-story-of-the-first-human-to-leave-our-planet-and-journey-into-space/9780062978158) / [Amazon](https://smile.amazon.com/dp/0062978152)
 
 ![0%](https://progress-bar.dev/0) 
 
