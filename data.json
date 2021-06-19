@@ -114,8 +114,8 @@
             "ISBN13" : "9781534414594",
             "ISBN10" : "1534414592",
             "ReadYear" : 2021,
-            "Progress" : 0.0,
-            "Rating" : 0.0
+            "Progress" : 1.0,
+            "Rating" : 2.0
         },
         {
             "Authors" : ["Geoffrey A. Moore"],

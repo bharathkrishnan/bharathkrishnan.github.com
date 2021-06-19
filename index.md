@@ -1,4 +1,4 @@
-# 2021: 18 Authors, 8 / 19 Books Read 
+# 2021: 18 Authors, 9 / 19 Books Read 
 
 ## ![The Player of Games](https://covers.openlibrary.org/b/isbn/9780316005401-S.jpg) The Player of Games
 *Iain M. Banks*
@@ -113,9 +113,9 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781534414594) / [Open Library](http://openlibrary.org/isbn/9781534414594) / [Local Book Shop](https://bookshop.org/books/persephone-station/9781534414594) / [Amazon](https://smile.amazon.com/dp/1534414592)
 
-![0%](https://progress-bar.dev/0) 
+![100%](https://progress-bar.dev/100) 
 
-
+:star: :star:
 
 ## ![Crossing The Chasm](https://covers.openlibrary.org/b/isbn/9780062353948-S.jpg) Crossing The Chasm
 *Geoffrey A. Moore*
