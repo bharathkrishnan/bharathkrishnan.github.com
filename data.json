@@ -179,6 +179,78 @@
             "ReadYear" : 2021,
             "Progress" : 0.0,
             "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Max Hastings"],
+            "Title" : "Operation Pedestal: The Fleet That Battled to Malta, 1942",
+            "ISBN13" : "9780062980151",
+            "ISBN10" : "0062980157",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Will Larson"],
+            "Title" : "An Elegant Puzzle: Systems of Engineering Management",
+            "ISBN13" : "9781732265189",
+            "ISBN10" : "1732265186",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Ben Horovitz"],
+            "Title" : "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers",
+            "ISBN13" : "9780062273208",
+            "ISBN10" : "0062273205",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Kai-Fu Lee"],
+            "Title" : "AI Superpowers: China, Silicon Valley, And The New World Order",
+            "ISBN13" : "9781328546395",
+            "ISBN10" : "132854639X",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["William J Bernstein"],
+            "Title" : "A Splendid Exchange: How Trade Shaped the World",
+            "ISBN13" : "9780802144164",
+            "ISBN10" : "0802144160",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["S. B. Divya"],
+            "Title" : "Machinehood",
+            "ISBN13" : "9781982148065",
+            "ISBN10" : "1982148063",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Kim Stanley Robinson"],
+            "Title" : "The Years of Rice and Salt",
+            "ISBN13" : "9780553109207",
+            "ISBN10" : "0553109200",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Kim Scott"],
+            "Title" : "Just Work: How to Root Out Bias, Prejudice, and Bullying to Build a Kick-Ass Culture of Inclusivity",
+            "ISBN13" : "9781250203489",
+            "ISBN10" : "1250203481",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
         }
     ]
 }

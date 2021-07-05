@@ -1,4 +1,4 @@
-# 2021: 20 Authors, 9 / 20 Books Read 
+# 2021: 27 Authors, 9 / 28 Books Read 
 
 ## ![The Player of Games](https://covers.openlibrary.org/b/isbn/9780316005401-S.jpg) The Player of Games
 *Iain M. Banks*
@@ -166,6 +166,78 @@
 *Anthony Bourdain & Laurie Woolever*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062802798) / [Open Library](http://openlibrary.org/isbn/9780062802798) / [Local Book Shop](https://bookshop.org/books/world-travel:-an-irreverent-guide/9780062802798) / [Amazon](https://smile.amazon.com/dp/0062802798)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![Operation Pedestal: The Fleet That Battled to Malta, 1942](https://covers.openlibrary.org/b/isbn/9780062980151-S.jpg) Operation Pedestal: The Fleet That Battled to Malta, 1942
+*Max Hastings*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780062980151) / [Open Library](http://openlibrary.org/isbn/9780062980151) / [Local Book Shop](https://bookshop.org/books/operation-pedestal:-the-fleet-that-battled-to-malta,-1942/9780062980151) / [Amazon](https://smile.amazon.com/dp/0062980157)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![An Elegant Puzzle: Systems of Engineering Management](https://covers.openlibrary.org/b/isbn/9781732265189-S.jpg) An Elegant Puzzle: Systems of Engineering Management
+*Will Larson*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781732265189) / [Open Library](http://openlibrary.org/isbn/9781732265189) / [Local Book Shop](https://bookshop.org/books/an-elegant-puzzle:-systems-of-engineering-management/9781732265189) / [Amazon](https://smile.amazon.com/dp/1732265186)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://covers.openlibrary.org/b/isbn/9780062273208-S.jpg) The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers
+*Ben Horovitz*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780062273208) / [Open Library](http://openlibrary.org/isbn/9780062273208) / [Local Book Shop](https://bookshop.org/books/the-hard-thing-about-hard-things:-building-a-business-when-there-are-no-easy-answers/9780062273208) / [Amazon](https://smile.amazon.com/dp/0062273205)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![AI Superpowers: China, Silicon Valley, And The New World Order](https://covers.openlibrary.org/b/isbn/9781328546395-S.jpg) AI Superpowers: China, Silicon Valley, And The New World Order
+*Kai-Fu Lee*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781328546395) / [Open Library](http://openlibrary.org/isbn/9781328546395) / [Local Book Shop](https://bookshop.org/books/ai-superpowers:-china,-silicon-valley,-and-the-new-world-order/9781328546395) / [Amazon](https://smile.amazon.com/dp/132854639X)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![A Splendid Exchange: How Trade Shaped the World](https://covers.openlibrary.org/b/isbn/9780802144164-S.jpg) A Splendid Exchange: How Trade Shaped the World
+*William J Bernstein*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780802144164) / [Open Library](http://openlibrary.org/isbn/9780802144164) / [Local Book Shop](https://bookshop.org/books/a-splendid-exchange:-how-trade-shaped-the-world/9780802144164) / [Amazon](https://smile.amazon.com/dp/0802144160)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![Machinehood](https://covers.openlibrary.org/b/isbn/9781982148065-S.jpg) Machinehood
+*S. B. Divya*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781982148065) / [Open Library](http://openlibrary.org/isbn/9781982148065) / [Local Book Shop](https://bookshop.org/books/machinehood/9781982148065) / [Amazon](https://smile.amazon.com/dp/1982148063)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![The Years of Rice and Salt](https://covers.openlibrary.org/b/isbn/9780553109207-S.jpg) The Years of Rice and Salt
+*Kim Stanley Robinson*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780553109207) / [Open Library](http://openlibrary.org/isbn/9780553109207) / [Local Book Shop](https://bookshop.org/books/the-years-of-rice-and-salt/9780553109207) / [Amazon](https://smile.amazon.com/dp/0553109200)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![Just Work: How to Root Out Bias, Prejudice, and Bullying to Build a Kick-Ass Culture of Inclusivity](https://covers.openlibrary.org/b/isbn/9781250203489-S.jpg) Just Work: How to Root Out Bias, Prejudice, and Bullying to Build a Kick-Ass Culture of Inclusivity
+*Kim Scott*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781250203489) / [Open Library](http://openlibrary.org/isbn/9781250203489) / [Local Book Shop](https://bookshop.org/books/just-work:-how-to-root-out-bias,-prejudice,-and-bullying-to-build-a-kick-ass-culture-of-inclusivity/9781250203489) / [Amazon](https://smile.amazon.com/dp/1250203481)
 
 ![0%](https://progress-bar.dev/0) 
 
