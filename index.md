@@ -1,4 +1,4 @@
-# 2021: 27 Authors, 9 / 28 Books Read 
+# 2021: 26 Authors, 9 / 27 Books Read 
 
 ## ![The Player of Games](https://covers.openlibrary.org/b/isbn/9780316005401-S.jpg) The Player of Games
 *Iain M. Banks*
@@ -229,15 +229,6 @@
 *Kim Stanley Robinson*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780553109207) / [Open Library](http://openlibrary.org/isbn/9780553109207) / [Local Book Shop](https://bookshop.org/books/the-years-of-rice-and-salt/9780553109207) / [Amazon](https://smile.amazon.com/dp/0553109200)
-
-![0%](https://progress-bar.dev/0) 
-
-
-
-## ![Just Work: How to Root Out Bias, Prejudice, and Bullying to Build a Kick-Ass Culture of Inclusivity](https://covers.openlibrary.org/b/isbn/9781250203489-S.jpg) Just Work: How to Root Out Bias, Prejudice, and Bullying to Build a Kick-Ass Culture of Inclusivity
-*Kim Scott*
-
-[Massachusetts Library](https://library.minlib.net/search/i=9781250203489) / [Open Library](http://openlibrary.org/isbn/9781250203489) / [Local Book Shop](https://bookshop.org/books/just-work:-how-to-root-out-bias,-prejudice,-and-bullying-to-build-a-kick-ass-culture-of-inclusivity/9781250203489) / [Amazon](https://smile.amazon.com/dp/1250203481)
 
 ![0%](https://progress-bar.dev/0) 
 
