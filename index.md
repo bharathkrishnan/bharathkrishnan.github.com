@@ -1,4 +1,4 @@
-# 2021: 27 Authors, 10 / 28 Books Read 
+# 2021: 28 Authors, 10 / 29 Books Read 
 
 ## ![The Player of Games](https://covers.openlibrary.org/b/isbn/9780316005401-S.jpg) The Player of Games
 *Iain M. Banks*
@@ -240,6 +240,15 @@
 [Massachusetts Library](https://library.minlib.net/search/i=9780593135204) / [Open Library](http://openlibrary.org/isbn/9780593135204) / [Local Book Shop](https://bookshop.org/books/project-hail-mary:-a-novel/9780593135204) / [Amazon](https://smile.amazon.com/dp/0593135202)
 
 ![10%](https://progress-bar.dev/10) 
+
+
+
+## ![In Search of a Kingdom: Francis Drake, Elizabeth I, and the Perilous Birth of the British Empire](https://covers.openlibrary.org/b/isbn/9780062875358-S.jpg) In Search of a Kingdom: Francis Drake, Elizabeth I, and the Perilous Birth of the British Empire
+*Laurence Bergreen*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780062875358) / [Open Library](http://openlibrary.org/isbn/9780062875358) / [Local Book Shop](https://bookshop.org/books/in-search-of-a-kingdom:-francis-drake,-elizabeth-i,-and-the-perilous-birth-of-the-british-empire/9780062875358) / [Amazon](https://smile.amazon.com/dp/0062875353)
+
+![0%](https://progress-bar.dev/0) 
 
 
 

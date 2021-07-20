@@ -251,6 +251,15 @@
             "ReadYear" : 2021,
             "Progress" : 0.1,
             "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Laurence Bergreen"],
+            "Title" : "In Search of a Kingdom: Francis Drake, Elizabeth I, and the Perilous Birth of the British Empire",
+            "ISBN13" : "9780062875358",
+            "ISBN10" : "0062875353",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
         }
     ]
 }
