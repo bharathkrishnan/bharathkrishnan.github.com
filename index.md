@@ -1,4 +1,4 @@
-# 2021: 26 Authors, 9 / 27 Books Read 
+# 2021: 27 Authors, 10 / 28 Books Read 
 
 ## ![The Player of Games](https://covers.openlibrary.org/b/isbn/9780316005401-S.jpg) The Player of Games
 *Iain M. Banks*
@@ -221,16 +221,25 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781982148065) / [Open Library](http://openlibrary.org/isbn/9781982148065) / [Local Book Shop](https://bookshop.org/books/machinehood/9781982148065) / [Amazon](https://smile.amazon.com/dp/1982148063)
 
-![0%](https://progress-bar.dev/0) 
+![100%](https://progress-bar.dev/100) 
 
-
+:star: :star: :star: :star:
 
 ## ![The Years of Rice and Salt](https://covers.openlibrary.org/b/isbn/9780553109207-S.jpg) The Years of Rice and Salt
 *Kim Stanley Robinson*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780553109207) / [Open Library](http://openlibrary.org/isbn/9780553109207) / [Local Book Shop](https://bookshop.org/books/the-years-of-rice-and-salt/9780553109207) / [Amazon](https://smile.amazon.com/dp/0553109200)
 
-![0%](https://progress-bar.dev/0) 
+![10%](https://progress-bar.dev/10) 
+
+
+
+## ![Project Hail Mary: A Novel](https://covers.openlibrary.org/b/isbn/9780593135204-S.jpg) Project Hail Mary: A Novel
+*Andy Weir*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780593135204) / [Open Library](http://openlibrary.org/isbn/9780593135204) / [Local Book Shop](https://bookshop.org/books/project-hail-mary:-a-novel/9780593135204) / [Amazon](https://smile.amazon.com/dp/0593135202)
+
+![10%](https://progress-bar.dev/10) 
 
 
 

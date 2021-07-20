@@ -231,8 +231,8 @@
             "ISBN13" : "9781982148065",
             "ISBN10" : "1982148063",
             "ReadYear" : 2021,
-            "Progress" : 0.0,
-            "Rating" : 0.0
+            "Progress" : 1.0,
+            "Rating" : 4.0
         },
         {
             "Authors" : ["Kim Stanley Robinson"],
@@ -240,7 +240,16 @@
             "ISBN13" : "9780553109207",
             "ISBN10" : "0553109200",
             "ReadYear" : 2021,
-            "Progress" : 0.0,
+            "Progress" : 0.1,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Andy Weir"],
+            "Title" : "Project Hail Mary: A Novel",
+            "ISBN13" : "9780593135204",
+            "ISBN10" : "0593135202",
+            "ReadYear" : 2021,
+            "Progress" : 0.1,
             "Rating" : 0.0
         }
     ]
