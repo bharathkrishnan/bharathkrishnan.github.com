@@ -249,8 +249,8 @@
             "ISBN13" : "9780593135204",
             "ISBN10" : "0593135202",
             "ReadYear" : 2021,
-            "Progress" : 0.1,
-            "Rating" : 0.0
+            "Progress" : 1.0,
+            "Rating" : 5.0
         },
         {
             "Authors" : ["Laurence Bergreen"],
