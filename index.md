@@ -1,4 +1,4 @@
-# 2021: 28 Authors, 11 / 29 Books Read 
+# 2021: 33 Authors, 12 / 33 Books Read 
 
 ## ![The Player of Games](https://covers.openlibrary.org/b/isbn/9780316005401-S.jpg) The Player of Games
 *Iain M. Banks*
@@ -89,15 +89,6 @@
 ![40%](https://progress-bar.dev/40) 
 
 :star:
-
-## ![Machinehood](https://covers.openlibrary.org/b/isbn/9781982148065-S.jpg) Machinehood
-*S. B. Divya*
-
-[Massachusetts Library](https://library.minlib.net/search/i=9781982148065) / [Open Library](http://openlibrary.org/isbn/9781982148065) / [Local Book Shop](https://bookshop.org/books/machinehood/9781982148065) / [Amazon](https://smile.amazon.com/dp/1982148063)
-
-![0%](https://progress-bar.dev/0) 
-
-
 
 ## ![The Premonition](https://covers.openlibrary.org/b/isbn/9780393881554-S.jpg) The Premonition
 *Michael Lewis*
@@ -247,6 +238,51 @@
 *Laurence Bergreen*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062875358) / [Open Library](http://openlibrary.org/isbn/9780062875358) / [Local Book Shop](https://bookshop.org/books/in-search-of-a-kingdom:-francis-drake,-elizabeth-i,-and-the-perilous-birth-of-the-british-empire/9780062875358) / [Amazon](https://smile.amazon.com/dp/0062875353)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![Every Sky a Grave](https://covers.openlibrary.org/b/isbn/9781982107758-S.jpg) Every Sky a Grave
+*Jay Posey*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781982107758) / [Open Library](http://openlibrary.org/isbn/9781982107758) / [Local Book Shop](https://bookshop.org/books/every-sky-a-grave/9781982107758) / [Amazon](https://smile.amazon.com/dp/1982107758)
+
+![100%](https://progress-bar.dev/100) 
+
+:star: :star: :star: :star: :star:
+
+## ![Breath: The New Science of a Lost Art](https://covers.openlibrary.org/b/isbn/9780735213616-S.jpg) Breath: The New Science of a Lost Art
+*James Nestor*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780735213616) / [Open Library](http://openlibrary.org/isbn/9780735213616) / [Local Book Shop](https://bookshop.org/books/breath:-the-new-science-of-a-lost-art/9780735213616) / [Amazon](https://smile.amazon.com/dp/0735213615)
+
+![20%](https://progress-bar.dev/20) 
+
+
+
+## ![Think Again: The Power of Knowing What You Don't Know](https://covers.openlibrary.org/b/isbn/9781984878106-S.jpg) Think Again: The Power of Knowing What You Don't Know
+*Adam Grant*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781984878106) / [Open Library](http://openlibrary.org/isbn/9781984878106) / [Local Book Shop](https://bookshop.org/books/think-again:-the-power-of-knowing-what-you-don't-know/9781984878106) / [Amazon](https://smile.amazon.com/dp/1984878107)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![The Diabetes Code: Prevent and Reverse Type 2 Diabetes Naturally](https://covers.openlibrary.org/b/isbn/9781771642651-S.jpg) The Diabetes Code: Prevent and Reverse Type 2 Diabetes Naturally
+*Jason Fung*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781771642651) / [Open Library](http://openlibrary.org/isbn/9781771642651) / [Local Book Shop](https://bookshop.org/books/the-diabetes-code:-prevent-and-reverse-type-2-diabetes-naturally/9781771642651) / [Amazon](https://smile.amazon.com/dp/1771642653)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![Machine: A White Space Novel](https://covers.openlibrary.org/b/isbn/9781534403017-S.jpg) Machine: A White Space Novel
+*Elizabeth Bear*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781534403017) / [Open Library](http://openlibrary.org/isbn/9781534403017) / [Local Book Shop](https://bookshop.org/books/machine:-a-white-space-novel/9781534403017) / [Amazon](https://smile.amazon.com/dp/1534403019)
 
 ![0%](https://progress-bar.dev/0) 
 

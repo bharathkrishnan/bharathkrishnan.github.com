@@ -91,15 +91,6 @@
             "Rating" : 1.0
         },
         {
-            "Authors" : ["S. B. Divya"],
-            "Title" : "Machinehood",
-            "ISBN13" : "9781982148065",
-            "ISBN10" : "1982148063",
-            "ReadYear" : 2021,
-            "Progress" : 0.0,
-            "Rating" : 0.0
-        },
-        {
             "Authors" : ["Michael Lewis"],
             "Title" : "The Premonition",
             "ISBN13" : "9780393881554",
@@ -257,6 +248,51 @@
             "Title" : "In Search of a Kingdom: Francis Drake, Elizabeth I, and the Perilous Birth of the British Empire",
             "ISBN13" : "9780062875358",
             "ISBN10" : "0062875353",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Jay Posey"],
+            "Title" : "Every Sky a Grave",
+            "ISBN13" : "9781982107758",
+            "ISBN10" : "1982107758",
+            "ReadYear" : 2021,
+            "Progress" : 1.0,
+            "Rating" : 5.0
+        },
+        {
+            "Authors" : ["James Nestor"],
+            "Title" : "Breath: The New Science of a Lost Art",
+            "ISBN13" : "9780735213616",
+            "ISBN10" : "0735213615",
+            "ReadYear" : 2021,
+            "Progress" : 0.2,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Adam Grant"],
+            "Title" : "Think Again: The Power of Knowing What You Don't Know",
+            "ISBN13" : "9781984878106",
+            "ISBN10" : "1984878107",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Jason Fung"],
+            "Title" : "The Diabetes Code: Prevent and Reverse Type 2 Diabetes Naturally",
+            "ISBN13" : "9781771642651",
+            "ISBN10" : "1771642653",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Elizabeth Bear"],
+            "Title" : "Machine: A White Space Novel",
+            "ISBN13" : "9781534403017",
+            "ISBN10" : "1534403019",
             "ReadYear" : 2021,
             "Progress" : 0.0,
             "Rating" : 0.0
