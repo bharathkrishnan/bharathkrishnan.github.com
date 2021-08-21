@@ -294,6 +294,15 @@
             "ISBN13" : "9781534403017",
             "ISBN10" : "1534403019",
             "ReadYear" : 2021,
+            "Progress" : 1.0,
+            "Rating" : 5.0
+        },
+        {
+            "Authors" : ["Brad Stone"],
+            "Title" : "Amazon Unbound: Jeff Bezos and the Invention of a Global Empire",
+            "ISBN13" : "9781982132613",
+            "ISBN10" : "1982132612",
+            "ReadYear" : 2021,
             "Progress" : 0.0,
             "Rating" : 0.0
         }
