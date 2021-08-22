@@ -267,8 +267,8 @@
             "ISBN13" : "9780735213616",
             "ISBN10" : "0735213615",
             "ReadYear" : 2021,
-            "Progress" : 0.2,
-            "Rating" : 0.0
+            "Progress" : 1.0,
+            "Rating" : 2.0
         },
         {
             "Authors" : ["Adam Grant"],
