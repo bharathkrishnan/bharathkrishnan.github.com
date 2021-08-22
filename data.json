@@ -305,6 +305,24 @@
             "ReadYear" : 2021,
             "Progress" : 0.0,
             "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Peter Bregman"],
+            "Title" : "Four Seconds: All the Time You Need to Replace Counter-Productive Habits with Ones That Really Work",
+            "ISBN13" : "9780062372420",
+            "ISBN10" : "0062372424",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Jon Levy"],
+            "Title" : "You're Invited: The Art and Science of Cultivating Influence",
+            "ISBN13" : "9780063030978",
+            "ISBN10" : "0063030977",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
         }
     ]
 }

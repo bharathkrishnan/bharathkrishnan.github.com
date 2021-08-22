@@ -1,4 +1,4 @@
-# 2021: 34 Authors, 14 / 34 Books Read 
+# 2021: 36 Authors, 14 / 36 Books Read 
 
 ## ![The Player of Games](https://covers.openlibrary.org/b/isbn/9780316005401-S.jpg) The Player of Games
 *Iain M. Banks*
@@ -292,6 +292,24 @@
 *Brad Stone*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781982132613) / [Open Library](http://openlibrary.org/isbn/9781982132613) / [Local Book Shop](https://bookshop.org/books/amazon-unbound:-jeff-bezos-and-the-invention-of-a-global-empire/9781982132613) / [Amazon](https://smile.amazon.com/dp/1982132612)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![Four Seconds: All the Time You Need to Replace Counter-Productive Habits with Ones That Really Work](https://covers.openlibrary.org/b/isbn/9780062372420-S.jpg) Four Seconds: All the Time You Need to Replace Counter-Productive Habits with Ones That Really Work
+*Peter Bregman*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780062372420) / [Open Library](http://openlibrary.org/isbn/9780062372420) / [Local Book Shop](https://bookshop.org/books/four-seconds:-all-the-time-you-need-to-replace-counter-productive-habits-with-ones-that-really-work/9780062372420) / [Amazon](https://smile.amazon.com/dp/0062372424)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![You're Invited: The Art and Science of Cultivating Influence](https://covers.openlibrary.org/b/isbn/9780063030978-S.jpg) You're Invited: The Art and Science of Cultivating Influence
+*Jon Levy*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780063030978) / [Open Library](http://openlibrary.org/isbn/9780063030978) / [Local Book Shop](https://bookshop.org/books/you're-invited:-the-art-and-science-of-cultivating-influence/9780063030978) / [Amazon](https://smile.amazon.com/dp/0063030977)
 
 ![0%](https://progress-bar.dev/0) 
 
