@@ -318,7 +318,7 @@
 ## ![Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley](https://covers.openlibrary.org/b/isbn/9780062458193-S.jpg) Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley
 *Antonio Garcia Martinez*
 
-[Massachusetts Library](https://library.minlib.net/search/i=9780062458193) / [Open Library](http://openlibrary.org/isbn/9780062458193) / [Local Book Shop](https://bookshop.org/books/chaos-monkeys:-obscene-fortune-and-random-failure-in-silicon-valley/9780062458193) / [Amazon](https://smile.amazon.com/dp/0062458191)
+[Massachusetts Library](https://library.minlib.net/search/i=9780062458193) / [Open Library](http://openlibrary.org/isbn/9780062458193) / [Local Book Shop](https://bookshop.org/books/chaos-monkeys:-obscene-fortune-and-random-failure-in-silicon-valley/9780062458193) / [Amazon](https://smile.amazon.com/dp/0062458205)
 
 ![0%](https://progress-bar.dev/0) 
 
