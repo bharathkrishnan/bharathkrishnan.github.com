@@ -1,4 +1,4 @@
-# 2021: 36 Authors, 14 / 36 Books Read 
+# 2021: 37 Authors, 15 / 37 Books Read 
 
 ## ![The Player of Games](https://covers.openlibrary.org/b/isbn/9780316005401-S.jpg) The Player of Games
 *Iain M. Banks*
@@ -266,9 +266,9 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781984878106) / [Open Library](http://openlibrary.org/isbn/9781984878106) / [Local Book Shop](https://bookshop.org/books/think-again:-the-power-of-knowing-what-you-don't-know/9781984878106) / [Amazon](https://smile.amazon.com/dp/1984878107)
 
-![0%](https://progress-bar.dev/0) 
+![100%](https://progress-bar.dev/100) 
 
-
+:star: :star: :star: :star: :star:
 
 ## ![The Diabetes Code: Prevent and Reverse Type 2 Diabetes Naturally](https://covers.openlibrary.org/b/isbn/9781771642651-S.jpg) The Diabetes Code: Prevent and Reverse Type 2 Diabetes Naturally
 *Jason Fung*
@@ -293,7 +293,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781982132613) / [Open Library](http://openlibrary.org/isbn/9781982132613) / [Local Book Shop](https://bookshop.org/books/amazon-unbound:-jeff-bezos-and-the-invention-of-a-global-empire/9781982132613) / [Amazon](https://smile.amazon.com/dp/1982132612)
 
-![0%](https://progress-bar.dev/0) 
+![40%](https://progress-bar.dev/40) 
 
 
 
@@ -310,6 +310,15 @@
 *Jon Levy*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780063030978) / [Open Library](http://openlibrary.org/isbn/9780063030978) / [Local Book Shop](https://bookshop.org/books/you're-invited:-the-art-and-science-of-cultivating-influence/9780063030978) / [Amazon](https://smile.amazon.com/dp/0063030977)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley](https://covers.openlibrary.org/b/isbn/9780062458193-S.jpg) Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley
+*Antonio Garcia Martinez*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780062458193) / [Open Library](http://openlibrary.org/isbn/9780062458193) / [Local Book Shop](https://bookshop.org/books/chaos-monkeys:-obscene-fortune-and-random-failure-in-silicon-valley/9780062458193) / [Amazon](https://smile.amazon.com/dp/0062458191)
 
 ![0%](https://progress-bar.dev/0) 
 

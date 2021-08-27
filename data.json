@@ -276,8 +276,8 @@
             "ISBN13" : "9781984878106",
             "ISBN10" : "1984878107",
             "ReadYear" : 2021,
-            "Progress" : 0.0,
-            "Rating" : 0.0
+            "Progress" : 1.0,
+            "Rating" : 5.0
         },
         {
             "Authors" : ["Jason Fung"],
@@ -303,7 +303,7 @@
             "ISBN13" : "9781982132613",
             "ISBN10" : "1982132612",
             "ReadYear" : 2021,
-            "Progress" : 0.0,
+            "Progress" : 0.4,
             "Rating" : 0.0
         },
         {
@@ -320,6 +320,15 @@
             "Title" : "You're Invited: The Art and Science of Cultivating Influence",
             "ISBN13" : "9780063030978",
             "ISBN10" : "0063030977",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Antonio Garcia Martinez"],
+            "Title" : "Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley",
+            "ISBN13" : "9780062458193",
+            "ISBN10" : "0062458191",
             "ReadYear" : 2021,
             "Progress" : 0.0,
             "Rating" : 0.0
