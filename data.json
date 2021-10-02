@@ -280,15 +280,6 @@
             "Rating" : 5.0
         },
         {
-            "Authors" : ["Jason Fung"],
-            "Title" : "The Diabetes Code: Prevent and Reverse Type 2 Diabetes Naturally",
-            "ISBN13" : "9781771642651",
-            "ISBN10" : "1771642653",
-            "ReadYear" : 2021,
-            "Progress" : 0.0,
-            "Rating" : 0.0
-        },
-        {
             "Authors" : ["Elizabeth Bear"],
             "Title" : "Machine: A White Space Novel",
             "ISBN13" : "9781534403017",
@@ -303,8 +294,8 @@
             "ISBN13" : "9781982132613",
             "ISBN10" : "1982132612",
             "ReadYear" : 2021,
-            "Progress" : 0.4,
-            "Rating" : 0.0
+            "Progress" : 1.0,
+            "Rating" : 2.0
         },
         {
             "Authors" : ["Peter Bregman"],
@@ -329,6 +320,42 @@
             "Title" : "Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley",
             "ISBN13" : "9780062458193",
             "ISBN10" : "0062458205",
+            "ReadYear" : 2021,
+            "Progress" : 0.1,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Becky Chambers"],
+            "Title" : "The Galaxy, and the Ground Within: Wayfarers 4",
+            "ISBN13" : "9781473647664",
+            "ISBN10" : "1473647665",
+            "ReadYear" : 2021,
+            "Progress" : 0.1,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Christopher Mims"],
+            "Title" : "Arriving Today: From Factory to Front Door -- Why Everything Has Changed About How and What We Buy",
+            "ISBN13" : "9780062987952",
+            "ISBN10" : "006298795X",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Joe Navarro", "Tony Sciarra Poynter"],
+            "Title" : "Be Exceptional: Master the Five Traits That Set Extraordinary People Apart",
+            "ISBN13" : "9780063025394",
+            "ISBN10" : "0063025396",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Mark Piesing"],
+            "Title" : "N-4 Down: The Hunt for the Arctic Airship Italia",
+            "ISBN13" : "9780062851529",
+            "ISBN10" : "0062851527",
             "ReadYear" : 2021,
             "Progress" : 0.0,
             "Rating" : 0.0
