@@ -1,4 +1,4 @@
-# 2021: 41 Authors, 16 / 40 Books Read 
+# 2021: 43 Authors, 17 / 42 Books Read 
 
 ## ![The Player of Games](https://covers.openlibrary.org/b/isbn/9780316005401-S.jpg) The Player of Games
 *Iain M. Banks*
@@ -311,7 +311,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062458193) / [Open Library](http://openlibrary.org/isbn/9780062458193) / [Local Book Shop](https://bookshop.org/books/chaos-monkeys:-obscene-fortune-and-random-failure-in-silicon-valley/9780062458193) / [Amazon](https://smile.amazon.com/dp/0062458205)
 
-![10%](https://progress-bar.dev/10) 
+![20%](https://progress-bar.dev/20) 
 
 
 
@@ -320,16 +320,16 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781473647664) / [Open Library](http://openlibrary.org/isbn/9781473647664) / [Local Book Shop](https://bookshop.org/books/the-galaxy,-and-the-ground-within:-wayfarers-4/9781473647664) / [Amazon](https://smile.amazon.com/dp/1473647665)
 
-![10%](https://progress-bar.dev/10) 
+![100%](https://progress-bar.dev/100) 
 
-
+:star: :star: :star: :star:
 
 ## ![Arriving Today: From Factory to Front Door -- Why Everything Has Changed About How and What We Buy](https://covers.openlibrary.org/b/isbn/9780062987952-S.jpg) Arriving Today: From Factory to Front Door -- Why Everything Has Changed About How and What We Buy
 *Christopher Mims*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062987952) / [Open Library](http://openlibrary.org/isbn/9780062987952) / [Local Book Shop](https://bookshop.org/books/arriving-today:-from-factory-to-front-door----why-everything-has-changed-about-how-and-what-we-buy/9780062987952) / [Amazon](https://smile.amazon.com/dp/006298795X)
 
-![0%](https://progress-bar.dev/0) 
+![20%](https://progress-bar.dev/20) 
 
 
 
@@ -346,6 +346,24 @@
 *Mark Piesing*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062851529) / [Open Library](http://openlibrary.org/isbn/9780062851529) / [Local Book Shop](https://bookshop.org/books/n-4-down:-the-hunt-for-the-arctic-airship-italia/9780062851529) / [Amazon](https://smile.amazon.com/dp/0062851527)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![Impact Players: How to Take the Lead, Play Bigger, and Multiply Your Impact](https://covers.openlibrary.org/b/isbn/9780063063327-S.jpg) Impact Players: How to Take the Lead, Play Bigger, and Multiply Your Impact
+*Liz Wiseman*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780063063327) / [Open Library](http://openlibrary.org/isbn/9780063063327) / [Local Book Shop](https://bookshop.org/books/impact-players:-how-to-take-the-lead,-play-bigger,-and-multiply-your-impact/9780063063327) / [Amazon](https://smile.amazon.com/dp/0063063328)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![The Last Mughal: The Fall of a Dynasty: Delhi, 1857](https://covers.openlibrary.org/b/isbn/9781400043101-S.jpg) The Last Mughal: The Fall of a Dynasty: Delhi, 1857
+*William Dalrymple*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781400043101) / [Open Library](http://openlibrary.org/isbn/9781400043101) / [Local Book Shop](https://bookshop.org/books/the-last-mughal:-the-fall-of-a-dynasty:-delhi,-1857/9781400043101) / [Amazon](https://smile.amazon.com/dp/1400043107)
 
 ![0%](https://progress-bar.dev/0) 
 

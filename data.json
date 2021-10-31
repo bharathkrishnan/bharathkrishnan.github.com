@@ -321,7 +321,7 @@
             "ISBN13" : "9780062458193",
             "ISBN10" : "0062458205",
             "ReadYear" : 2021,
-            "Progress" : 0.1,
+            "Progress" : 0.2,
             "Rating" : 0.0
         },
         {
@@ -330,8 +330,8 @@
             "ISBN13" : "9781473647664",
             "ISBN10" : "1473647665",
             "ReadYear" : 2021,
-            "Progress" : 0.1,
-            "Rating" : 0.0
+            "Progress" : 1.0,
+            "Rating" : 4.0
         },
         {
             "Authors" : ["Christopher Mims"],
@@ -339,7 +339,7 @@
             "ISBN13" : "9780062987952",
             "ISBN10" : "006298795X",
             "ReadYear" : 2021,
-            "Progress" : 0.0,
+            "Progress" : 0.2,
             "Rating" : 0.0
         },
         {
@@ -356,6 +356,24 @@
             "Title" : "N-4 Down: The Hunt for the Arctic Airship Italia",
             "ISBN13" : "9780062851529",
             "ISBN10" : "0062851527",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Liz Wiseman"],
+            "Title" : "Impact Players: How to Take the Lead, Play Bigger, and Multiply Your Impact",
+            "ISBN13" : "9780063063327",
+            "ISBN10" : "0063063328",
+            "ReadYear" : 2021,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["William Dalrymple"],
+            "Title" : "The Last Mughal: The Fall of a Dynasty: Delhi, 1857",
+            "ISBN13" : "9781400043101",
+            "ISBN10" : "1400043107",
             "ReadYear" : 2021,
             "Progress" : 0.0,
             "Rating" : 0.0
