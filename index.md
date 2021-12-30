@@ -1,4 +1,4 @@
-# 2021: 43 Authors, 17 / 42 Books Read 
+# 2021: 44 Authors, 18 / 43 Books Read 
 
 ## ![The Player of Games](https://covers.openlibrary.org/b/isbn/9780316005401-S.jpg) The Player of Games
 *Iain M. Banks*
@@ -365,7 +365,16 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781400043101) / [Open Library](http://openlibrary.org/isbn/9781400043101) / [Local Book Shop](https://bookshop.org/books/the-last-mughal:-the-fall-of-a-dynasty:-delhi,-1857/9781400043101) / [Amazon](https://smile.amazon.com/dp/1400043107)
 
-![0%](https://progress-bar.dev/0) 
+![10%](https://progress-bar.dev/10) 
 
 
+
+## ![Stolen Earth](https://covers.openlibrary.org/b/isbn/9781789093155-S.jpg) Stolen Earth
+*J T Nicholas*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781789093155) / [Open Library](http://openlibrary.org/isbn/9781789093155) / [Local Book Shop](https://bookshop.org/books/stolen-earth/9781789093155) / [Amazon](https://smile.amazon.com/dp/1789093155)
+
+![110%](https://progress-bar.dev/110) 
+
+:star: :star:
 

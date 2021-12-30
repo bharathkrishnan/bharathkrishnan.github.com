@@ -375,8 +375,17 @@
             "ISBN13" : "9781400043101",
             "ISBN10" : "1400043107",
             "ReadYear" : 2021,
-            "Progress" : 0.0,
+            "Progress" : 0.1,
             "Rating" : 0.0
+        },
+        {
+            "Authors" : ["J T Nicholas"],
+            "Title" : "Stolen Earth",
+            "ISBN13" : "9781789093155",
+            "ISBN10" : "1789093155",
+            "ReadYear" : 2021,
+            "Progress" : 1.1,
+            "Rating" : 2.0
         }
     ]
 }
