@@ -3,20 +3,29 @@ import json
 from itertools import chain
 
 def main():
-    books = []
+    years = {}
+    books = {}
     with open('../data.json', 'r') as datafile:
         bdata = json.load(datafile)
         for b in bdata['Books']:
-            books.append(Book(b))
-        nrbooks = len([x for x in books if x.progress > 0.7])
-        authors = set(list(chain.from_iterable([x.authors for x in books])))
+            y = b['ReadYear']
+            years[y] = 1
+            if y not in books:
+                books[y] = []
+            books[y].append(Book(b))
+        nrbooks = {}
+        authors = {}
+        for y in years:
+            nrbooks[y] = len([x for x in books[y] if x.progress > 0.7])
+            authors[y] = set(list(chain.from_iterable([x.authors for x in books[y]])))
 
         with open('../index.md', 'w') as o:
-            o.write('# 2021: {0} Authors, {1} / {2} Books Read \n\n'.format(len(authors), nrbooks, len(books)))
-            for book in books:
-                if book.readYear == 2021:
-                    o.write(book.print())
-                    o.write('\n')
-
+            for y in [x for (x,z) in sorted(years.items(), reverse=True)]:
+                o.write('# {0}: {1} Authors, {2} / {3} Books Read \n\n'.format(y, len(authors[y]), nrbooks[y], len(books[y])))
+                for book in books[y]:
+                    if book.readYear == y:
+                        o.write(book.print())
+                        o.write('\n')
+                o.write('---\n')
 if __name__ == '__main__':
     main()

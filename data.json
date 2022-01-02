@@ -384,8 +384,35 @@
             "ISBN13" : "9781789093155",
             "ISBN10" : "1789093155",
             "ReadYear" : 2021,
-            "Progress" : 1.1,
+            "Progress" : 1.0,
             "Rating" : 2.0
+        },
+        {
+            "Authors" : ["Neal Stephenson"],
+            "Title" : "Termination Shock",
+            "ISBN13" : "9780063028050",
+            "ISBN10" : "0063028050",
+            "ReadYear" : 2022,
+            "Progress" : 0.1,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Pranay Lal"],
+            "Title" : "Invisible Empire: The Natural History of Viruses",
+            "ISBN13" : "9780670095766",
+            "ISBN10" : "0670095761",
+            "ReadYear" : 2022,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Eric Schmidt", "Jonathan Rosenberg", "Alan Eagle"],
+            "Title" : "Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell",
+            "ISBN13" : "9780062839268",
+            "ISBN10" : "0062839268",
+            "ReadYear" : 2022,
+            "Progress" : 0.0,
+            "Rating" : 0.0
         }
     ]
 }

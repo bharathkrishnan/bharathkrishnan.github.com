@@ -1,4 +1,34 @@
-# 2021: 44 Authors, 18 / 43 Books Read 
+# 2022: 5 Authors, 0 / 3 Books Read 
+
+## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-S.jpg) Termination Shock
+*Neal Stephenson*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780063028050) / [Open Library](http://openlibrary.org/isbn/9780063028050) / [Local Book Shop](https://bookshop.org/books/termination-shock/9780063028050) / [Amazon](https://smile.amazon.com/dp/0063028050)
+
+![10%](https://progress-bar.dev/10) 
+
+
+
+## ![Invisible Empire: The Natural History of Viruses](https://covers.openlibrary.org/b/isbn/9780670095766-S.jpg) Invisible Empire: The Natural History of Viruses
+*Pranay Lal*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780670095766) / [Open Library](http://openlibrary.org/isbn/9780670095766) / [Local Book Shop](https://bookshop.org/books/invisible-empire:-the-natural-history-of-viruses/9780670095766) / [Amazon](https://smile.amazon.com/dp/0670095761)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell](https://covers.openlibrary.org/b/isbn/9780062839268-S.jpg) Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell
+*Eric Schmidt & Jonathan Rosenberg & Alan Eagle*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780062839268) / [Open Library](http://openlibrary.org/isbn/9780062839268) / [Local Book Shop](https://bookshop.org/books/trillion-dollar-coach:-the-leadership-playbook-of-silicon-valley's-bill-campbell/9780062839268) / [Amazon](https://smile.amazon.com/dp/0062839268)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+---
+# 2021: 43 Authors, 17 / 42 Books Read 
 
 ## ![The Player of Games](https://covers.openlibrary.org/b/isbn/9780316005401-S.jpg) The Player of Games
 *Iain M. Banks*
@@ -374,7 +404,20 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781789093155) / [Open Library](http://openlibrary.org/isbn/9781789093155) / [Local Book Shop](https://bookshop.org/books/stolen-earth/9781789093155) / [Amazon](https://smile.amazon.com/dp/1789093155)
 
-![110%](https://progress-bar.dev/110) 
+![100%](https://progress-bar.dev/100) 
 
 :star: :star:
 
+---
+# 2020: 1 Authors, 1 / 1 Books Read 
+
+## ![Never Split the Difference: Negotiating As If Your Life Depended On It](https://covers.openlibrary.org/b/isbn/9780062407801-S.jpg) Never Split the Difference: Negotiating As If Your Life Depended On It
+*Chris Voss*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780062407801) / [Open Library](http://openlibrary.org/isbn/9780062407801) / [Local Book Shop](https://bookshop.org/books/never-split-the-difference:-negotiating-as-if-your-life-depended-on-it/9780062407801) / [Amazon](https://smile.amazon.com/dp/0062407805)
+
+![100%](https://progress-bar.dev/100) 
+
+:star: :star: :star:
+
+---
