@@ -393,8 +393,8 @@
             "ISBN13" : "9780063028050",
             "ISBN10" : "0063028050",
             "ReadYear" : 2022,
-            "Progress" : 0.1,
-            "Rating" : 0.0
+            "Progress" : 1.0,
+            "Rating" : 5.0
         },
         {
             "Authors" : ["Pranay Lal"],
@@ -404,6 +404,15 @@
             "ReadYear" : 2022,
             "Progress" : 0.0,
             "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Eric Berger"],
+            "Title" : "Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX",
+            "ISBN13" : "9780062979971",
+            "ISBN10" : "0062979973",
+            "ReadYear" : 2022,
+            "Progress" : 1.0,
+            "Rating" : 3.0
         },
         {
             "Authors" : ["Eric Schmidt", "Jonathan Rosenberg", "Alan Eagle"],
