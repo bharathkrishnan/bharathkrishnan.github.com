@@ -415,6 +415,15 @@
             "Rating" : 3.0
         },
         {
+            "Authors" : ["John Doerr"],
+            "Title" : "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs",
+            "ISBN13" : "9780525536222",
+            "ISBN10" : "0525536221",
+            "ReadYear" : 2022,
+            "Progress" : 1.0,
+            "Rating" : 2.0
+        },
+        {
             "Authors" : ["Eric Schmidt", "Jonathan Rosenberg", "Alan Eagle"],
             "Title" : "Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell",
             "ISBN13" : "9780062839268",
@@ -425,3 +434,4 @@
         }
     ]
 }
+

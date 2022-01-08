@@ -1,4 +1,4 @@
-# 2022: 6 Authors, 2 / 4 Books Read 
+# 2022: 7 Authors, 3 / 5 Books Read 
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-S.jpg) Termination Shock
 *Neal Stephenson*
@@ -26,6 +26,15 @@
 ![100%](https://progress-bar.dev/100) 
 
 :star: :star: :star:
+
+## ![Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://covers.openlibrary.org/b/isbn/9780525536222-S.jpg) Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs
+*John Doerr*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780525536222) / [Open Library](http://openlibrary.org/isbn/9780525536222) / [Local Book Shop](https://bookshop.org/books/measure-what-matters:-how-google,-bono,-and-the-gates-foundation-rock-the-world-with-okrs/9780525536222) / [Amazon](https://smile.amazon.com/dp/0525536221)
+
+![100%](https://progress-bar.dev/100) 
+
+:star: :star:
 
 ## ![Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell](https://covers.openlibrary.org/b/isbn/9780062839268-S.jpg) Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell
 *Eric Schmidt & Jonathan Rosenberg & Alan Eagle*
