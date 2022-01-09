@@ -1,4 +1,4 @@
-Author Joe Navarro,  Books Read 1 / 1
+# Joe Navarro:  Books Read 0 / 1
 
 ## ![Be Exceptional: Master the Five Traits That Set Extraordinary People Apart](https://covers.openlibrary.org/b/isbn/9780063025394-S.jpg) Be Exceptional: Master the Five Traits That Set Extraordinary People Apart
 *[Joe Navarro](../JoeNavarro) & [Tony Sciarra Poynter](../TonySciarraPoynter)*

@@ -1,4 +1,4 @@
-Author Jay Posey,  Books Read 1 / 1
+# Jay Posey:  Books Read 1 / 1
 
 ## ![Every Sky a Grave](https://covers.openlibrary.org/b/isbn/9781982126681-S.jpg) Every Sky a Grave
 *[Jay Posey](../JayPosey)*

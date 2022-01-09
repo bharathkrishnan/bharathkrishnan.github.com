@@ -1,4 +1,4 @@
-Author J T Nicholas,  Books Read 1 / 1
+# J T Nicholas:  Books Read 1 / 1
 
 ## ![Stolen Earth](https://covers.openlibrary.org/b/isbn/9781789093155-S.jpg) Stolen Earth
 *[J T Nicholas](../JTNicholas)*

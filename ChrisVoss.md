@@ -1,4 +1,4 @@
-Author Chris Voss,  Books Read 1 / 1
+# Chris Voss:  Books Read 1 / 1
 
 ## ![Never Split the Difference: Negotiating As If Your Life Depended On It](https://covers.openlibrary.org/b/isbn/9780062407801-S.jpg) Never Split the Difference: Negotiating As If Your Life Depended On It
 *[Chris Voss](../ChrisVoss)*

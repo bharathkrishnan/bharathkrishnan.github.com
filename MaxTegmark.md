@@ -1,4 +1,4 @@
-Author Max Tegmark,  Books Read 1 / 1
+# Max Tegmark:  Books Read 0 / 1
 
 ## ![Life 3.0](https://covers.openlibrary.org/b/isbn/9781101946596-S.jpg) Life 3.0
 *[Max Tegmark](../MaxTegmark)*

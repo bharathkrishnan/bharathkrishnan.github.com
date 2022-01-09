@@ -1,4 +1,4 @@
-Author Christopher Paolini,  Books Read 1 / 1
+# Christopher Paolini:  Books Read 0 / 1
 
 ## ![To Sleep in a Sea of Stars](https://covers.openlibrary.org/b/isbn/9781250762849-S.jpg) To Sleep in a Sea of Stars
 *[Christopher Paolini](../ChristopherPaolini)*

@@ -1,4 +1,4 @@
-Author Iain M. Banks,  Books Read 2 / 2
+# Iain M. Banks:  Books Read 2 / 2
 
 ## ![The Player of Games](https://covers.openlibrary.org/b/isbn/9780316005401-S.jpg) The Player of Games
 *[Iain M. Banks](../IainMBanks)*

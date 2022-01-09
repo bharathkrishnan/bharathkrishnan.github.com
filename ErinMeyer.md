@@ -1,4 +1,4 @@
-Author Erin Meyer,  Books Read 1 / 1
+# Erin Meyer:  Books Read 1 / 1
 
 ## ![No Rules Rules: Netflix and the Culture of Reinvention](https://covers.openlibrary.org/b/isbn/9781984877864-S.jpg) No Rules Rules: Netflix and the Culture of Reinvention
 *[Reed Hastings](../ReedHastings) & [Erin Meyer](../ErinMeyer)*

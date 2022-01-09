@@ -1,4 +1,4 @@
-Author Kim Stanley Robinson,  Books Read 1 / 1
+# Kim Stanley Robinson:  Books Read 0 / 1
 
 ## ![The Years of Rice and Salt](https://covers.openlibrary.org/b/isbn/9780553109207-S.jpg) The Years of Rice and Salt
 *[Kim Stanley Robinson](../KimStanleyRobinson)*

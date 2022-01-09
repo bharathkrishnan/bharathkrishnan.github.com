@@ -1,4 +1,4 @@
-Author Frank Herbert,  Books Read 1 / 1
+# Frank Herbert:  Books Read 1 / 1
 
 ## ![Dune](https://covers.openlibrary.org/b/isbn/9780441013593-S.jpg) Dune
 *[Frank Herbert](../FrankHerbert)*

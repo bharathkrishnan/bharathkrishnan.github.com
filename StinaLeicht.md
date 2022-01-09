@@ -1,4 +1,4 @@
-Author Stina Leicht,  Books Read 1 / 1
+# Stina Leicht:  Books Read 1 / 1
 
 ## ![Persephone Station](https://covers.openlibrary.org/b/isbn/9781534414594-S.jpg) Persephone Station
 *[Stina Leicht](../StinaLeicht)*

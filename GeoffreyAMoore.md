@@ -1,4 +1,4 @@
-Author Geoffrey A. Moore,  Books Read 1 / 1
+# Geoffrey A. Moore:  Books Read 0 / 1
 
 ## ![Crossing The Chasm](https://covers.openlibrary.org/b/isbn/9780062356857-S.jpg) Crossing The Chasm
 *[Geoffrey A. Moore](../GeoffreyAMoore)*

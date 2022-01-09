@@ -1,4 +1,4 @@
-Author Christopher Mims,  Books Read 1 / 1
+# Christopher Mims:  Books Read 0 / 1
 
 ## ![Arriving Today: From Factory to Front Door -- Why Everything Has Changed About How and What We Buy](https://covers.openlibrary.org/b/isbn/9780062987952-S.jpg) Arriving Today: From Factory to Front Door -- Why Everything Has Changed About How and What We Buy
 *[Christopher Mims](../ChristopherMims)*

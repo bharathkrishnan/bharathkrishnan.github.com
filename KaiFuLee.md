@@ -1,4 +1,4 @@
-Author Kai-Fu Lee,  Books Read 1 / 1
+# Kai-Fu Lee:  Books Read 0 / 1
 
 ## ![AI Superpowers: China, Silicon Valley, And The New World Order](https://covers.openlibrary.org/b/isbn/9781328546395-S.jpg) AI Superpowers: China, Silicon Valley, And The New World Order
 *[Kai-Fu Lee](../KaiFuLee)*

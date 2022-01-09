@@ -1,4 +1,4 @@
-Author Jon Levy,  Books Read 1 / 1
+# Jon Levy:  Books Read 0 / 1
 
 ## ![You're Invited: The Art and Science of Cultivating Influence](https://covers.openlibrary.org/b/isbn/9780063030978-S.jpg) You're Invited: The Art and Science of Cultivating Influence
 *[Jon Levy](../JonLevy)*

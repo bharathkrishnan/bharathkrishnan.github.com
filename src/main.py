@@ -5,9 +5,8 @@ from itertools import chain
 
 def write_author_page(author, books):
     a = Author(author)
-    print(a.print_link())
     with open('../{0}.md'.format(a.safe_name()), 'w') as o:
-        o.write('# Author {0},  Books Read {1} / {2}\n\n'.format(a.print(), len(books), len(books)))
+        o.write('# {0}:  Books Read {1} / {2}\n\n'.format(a.print(), len([x for x in books if x.progress > 0.7]), len(books)))
         for book in books:
             o.write(book.print())
             o.write('\n')

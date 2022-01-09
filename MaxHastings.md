@@ -1,4 +1,4 @@
-Author Max Hastings,  Books Read 1 / 1
+# Max Hastings:  Books Read 0 / 1
 
 ## ![Operation Pedestal: The Fleet That Battled to Malta, 1942](https://covers.openlibrary.org/b/isbn/9780062980151-S.jpg) Operation Pedestal: The Fleet That Battled to Malta, 1942
 *[Max Hastings](../MaxHastings)*
