@@ -1,7 +1,7 @@
 # 2022: 7 Authors, 3 / 5 Books Read 
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-S.jpg) Termination Shock
-*Neal Stephenson*
+*[Neal Stephenson](../NealStephenson)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780063028050) / [Open Library](http://openlibrary.org/isbn/9780063028050) / [Local Book Shop](https://bookshop.org/books/termination-shock/9780063028050) / [Amazon](https://smile.amazon.com/dp/0063028050)
 
@@ -10,7 +10,7 @@
 :star: :star: :star: :star: :star:
 
 ## ![Invisible Empire: The Natural History of Viruses](https://covers.openlibrary.org/b/isbn/9780670095766-S.jpg) Invisible Empire: The Natural History of Viruses
-*Pranay Lal*
+*[Pranay Lal](../PranayLal)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780670095766) / [Open Library](http://openlibrary.org/isbn/9780670095766) / [Local Book Shop](https://bookshop.org/books/invisible-empire:-the-natural-history-of-viruses/9780670095766) / [Amazon](https://smile.amazon.com/dp/0670095761)
 
@@ -19,7 +19,7 @@
 
 
 ## ![Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX](https://covers.openlibrary.org/b/isbn/9780062979971-S.jpg) Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX
-*Eric Berger*
+*[Eric Berger](../EricBerger)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062979971) / [Open Library](http://openlibrary.org/isbn/9780062979971) / [Local Book Shop](https://bookshop.org/books/liftoff:-elon-musk-and-the-desperate-early-days-that-launched-spacex/9780062979971) / [Amazon](https://smile.amazon.com/dp/0062979973)
 
@@ -28,7 +28,7 @@
 :star: :star: :star:
 
 ## ![Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://covers.openlibrary.org/b/isbn/9780525536222-S.jpg) Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs
-*John Doerr*
+*[John Doerr](../JohnDoerr)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780525536222) / [Open Library](http://openlibrary.org/isbn/9780525536222) / [Local Book Shop](https://bookshop.org/books/measure-what-matters:-how-google,-bono,-and-the-gates-foundation-rock-the-world-with-okrs/9780525536222) / [Amazon](https://smile.amazon.com/dp/0525536221)
 
@@ -37,7 +37,7 @@
 :star: :star:
 
 ## ![Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell](https://covers.openlibrary.org/b/isbn/9780062839268-S.jpg) Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell
-*Eric Schmidt & Jonathan Rosenberg & Alan Eagle*
+*[Eric Schmidt](../EricSchmidt) & [Jonathan Rosenberg](../JonathanRosenberg) & [Alan Eagle](../AlanEagle)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062839268) / [Open Library](http://openlibrary.org/isbn/9780062839268) / [Local Book Shop](https://bookshop.org/books/trillion-dollar-coach:-the-leadership-playbook-of-silicon-valley's-bill-campbell/9780062839268) / [Amazon](https://smile.amazon.com/dp/0062839268)
 
@@ -49,7 +49,7 @@
 # 2021: 43 Authors, 17 / 42 Books Read 
 
 ## ![The Player of Games](https://covers.openlibrary.org/b/isbn/9780316005401-S.jpg) The Player of Games
-*Iain M. Banks*
+*[Iain M. Banks](../IainMBanks)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780316005401) / [Open Library](http://openlibrary.org/isbn/9780316005401) / [Local Book Shop](https://bookshop.org/books/the-player-of-games/9780316005401) / [Amazon](https://smile.amazon.com/dp/0316005401)
 
@@ -58,7 +58,7 @@
 :star: :star: :star: :star: :star:
 
 ## ![Dune](https://covers.openlibrary.org/b/isbn/9780441013593-S.jpg) Dune
-*Frank Herbert*
+*[Frank Herbert](../FrankHerbert)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780441013593) / [Open Library](http://openlibrary.org/isbn/9780441013593) / [Local Book Shop](https://bookshop.org/books/dune/9780441013593) / [Amazon](https://smile.amazon.com/dp/0441013597)
 
@@ -67,7 +67,7 @@
 :star: :star: :star: :star: :star:
 
 ## ![Life 3.0](https://covers.openlibrary.org/b/isbn/9781101946596-S.jpg) Life 3.0
-*Max Tegmark*
+*[Max Tegmark](../MaxTegmark)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781101946596) / [Open Library](http://openlibrary.org/isbn/9781101946596) / [Local Book Shop](https://bookshop.org/books/life-3.0/9781101946596) / [Amazon](https://smile.amazon.com/dp/1101970316)
 
@@ -76,7 +76,7 @@
 :star:
 
 ## ![Dead Space](https://covers.openlibrary.org/b/isbn/9781984803726-S.jpg) Dead Space
-*Kali Wallace*
+*[Kali Wallace](../KaliWallace)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781984803726) / [Open Library](http://openlibrary.org/isbn/9781984803726) / [Local Book Shop](https://bookshop.org/books/dead-space/9781984803726) / [Amazon](https://smile.amazon.com/dp/1984803727)
 
@@ -85,7 +85,7 @@
 :star: :star: :star: :star: :star:
 
 ## ![The Hydrogen Sonata](https://covers.openlibrary.org/b/isbn/9780316212373-S.jpg) The Hydrogen Sonata
-*Iain M. Banks*
+*[Iain M. Banks](../IainMBanks)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780316212373) / [Open Library](http://openlibrary.org/isbn/9780316212373) / [Local Book Shop](https://bookshop.org/books/the-hydrogen-sonata/9780316212373) / [Amazon](https://smile.amazon.com/dp/0316212377)
 
@@ -94,7 +94,7 @@
 :star: :star: :star: :star: :star:
 
 ## ![Salvation Day](https://covers.openlibrary.org/b/isbn/9781984803696-S.jpg) Salvation Day
-*Kali Wallace*
+*[Kali Wallace](../KaliWallace)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781984803696) / [Open Library](http://openlibrary.org/isbn/9781984803696) / [Local Book Shop](https://bookshop.org/books/salvation-day/9781984803696) / [Amazon](https://smile.amazon.com/dp/1984803697)
 
@@ -103,7 +103,7 @@
 :star: :star: :star:
 
 ## ![To Sleep in a Sea of Stars](https://covers.openlibrary.org/b/isbn/9781250762849-S.jpg) To Sleep in a Sea of Stars
-*Christopher Paolini*
+*[Christopher Paolini](../ChristopherPaolini)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781250762849) / [Open Library](http://openlibrary.org/isbn/9781250762849) / [Local Book Shop](https://bookshop.org/books/to-sleep-in-a-sea-of-stars/9781250762849) / [Amazon](https://smile.amazon.com/dp/1250762847)
 
@@ -112,7 +112,7 @@
 
 
 ## ![A Desolation Called Peace](https://covers.openlibrary.org/b/isbn/9781250186461-S.jpg) A Desolation Called Peace
-*Arkady Martine*
+*[Arkady Martine](../ArkadyMartine)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781250186461) / [Open Library](http://openlibrary.org/isbn/9781250186461) / [Local Book Shop](https://bookshop.org/books/a-desolation-called-peace/9781250186461) / [Amazon](https://smile.amazon.com/dp/1250186463)
 
@@ -121,7 +121,7 @@
 :star: :star: :star: :star:
 
 ## ![No Rules Rules: Netflix and the Culture of Reinvention](https://covers.openlibrary.org/b/isbn/9781984877864-S.jpg) No Rules Rules: Netflix and the Culture of Reinvention
-*Reed Hastings & Erin Meyer*
+*[Reed Hastings](../ReedHastings) & [Erin Meyer](../ErinMeyer)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781984877864) / [Open Library](http://openlibrary.org/isbn/9781984877864) / [Local Book Shop](https://bookshop.org/books/no-rules-rules:-netflix-and-the-culture-of-reinvention/9781984877864) / [Amazon](https://smile.amazon.com/dp/1984877860)
 
@@ -130,7 +130,7 @@
 :star: :star: :star:
 
 ## ![The Effort](https://covers.openlibrary.org/b/isbn/9781538717615-S.jpg) The Effort
-*Claire Holroyde*
+*[Claire Holroyde](../ClaireHolroyde)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781538717615) / [Open Library](http://openlibrary.org/isbn/9781538717615) / [Local Book Shop](https://bookshop.org/books/the-effort/9781538717615) / [Amazon](https://smile.amazon.com/dp/1538717611)
 
@@ -139,7 +139,7 @@
 :star:
 
 ## ![The Premonition](https://covers.openlibrary.org/b/isbn/9780393881554-S.jpg) The Premonition
-*Michael Lewis*
+*[Michael Lewis](../MichaelLewis)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780393881554) / [Open Library](http://openlibrary.org/isbn/9780393881554) / [Local Book Shop](https://bookshop.org/books/the-premonition/9780393881554) / [Amazon](https://smile.amazon.com/dp/0393881555)
 
@@ -148,7 +148,7 @@
 
 
 ## ![Persephone Station](https://covers.openlibrary.org/b/isbn/9781534414594-S.jpg) Persephone Station
-*Stina Leicht*
+*[Stina Leicht](../StinaLeicht)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781534414594) / [Open Library](http://openlibrary.org/isbn/9781534414594) / [Local Book Shop](https://bookshop.org/books/persephone-station/9781534414594) / [Amazon](https://smile.amazon.com/dp/1534414592)
 
@@ -157,7 +157,7 @@
 :star: :star:
 
 ## ![Crossing The Chasm](https://covers.openlibrary.org/b/isbn/9780062356857-S.jpg) Crossing The Chasm
-*Geoffrey A. Moore*
+*[Geoffrey A. Moore](../GeoffreyAMoore)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062356857) / [Open Library](http://openlibrary.org/isbn/9780062356857) / [Local Book Shop](https://bookshop.org/books/crossing-the-chasm/9780062356857) / [Amazon](https://smile.amazon.com/dp/0062292986)
 
@@ -166,7 +166,7 @@
 
 
 ## ![Atomic Habits](https://covers.openlibrary.org/b/isbn/9780735211292-S.jpg) Atomic Habits
-*James Clear*
+*[James Clear](../JamesClear)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780735211292) / [Open Library](http://openlibrary.org/isbn/9780735211292) / [Local Book Shop](https://bookshop.org/books/atomic-habits/9780735211292) / [Amazon](https://smile.amazon.com/dp/0735211299)
 
@@ -175,7 +175,7 @@
 
 
 ## ![Skip the Line: The 10,000 Experiments Rule and Other Surprising Advice for Reaching Your Goals](https://covers.openlibrary.org/b/isbn/9781799952268-S.jpg) Skip the Line: The 10,000 Experiments Rule and Other Surprising Advice for Reaching Your Goals
-*James Altucher*
+*[James Altucher](../JamesAltucher)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781799952268) / [Open Library](http://openlibrary.org/isbn/9781799952268) / [Local Book Shop](https://bookshop.org/books/skip-the-line:-the-10,000-experiments-rule-and-other-surprising-advice-for-reaching-your-goals/9781799952268) / [Amazon](https://smile.amazon.com/dp/1799952266)
 
@@ -184,7 +184,7 @@
 
 
 ## ![Beyond: The Astonishing Story of the First Human to Leave Our Planet and Journey into Space](https://covers.openlibrary.org/b/isbn/9780062978158-S.jpg) Beyond: The Astonishing Story of the First Human to Leave Our Planet and Journey into Space
-*Stephen Walker*
+*[Stephen Walker](../StephenWalker)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062978158) / [Open Library](http://openlibrary.org/isbn/9780062978158) / [Local Book Shop](https://bookshop.org/books/beyond:-the-astonishing-story-of-the-first-human-to-leave-our-planet-and-journey-into-space/9780062978158) / [Amazon](https://smile.amazon.com/dp/0062978152)
 
@@ -193,7 +193,7 @@
 
 
 ## ![Rock Me on the Water: 1974-The Year Los Angeles Transformed Movies, Music, Television, and Politics](https://covers.openlibrary.org/b/isbn/9780062899217-S.jpg) Rock Me on the Water: 1974-The Year Los Angeles Transformed Movies, Music, Television, and Politics
-*Ronald Brownstein*
+*[Ronald Brownstein](../RonaldBrownstein)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062899217) / [Open Library](http://openlibrary.org/isbn/9780062899217) / [Local Book Shop](https://bookshop.org/books/rock-me-on-the-water:-1974-the-year-los-angeles-transformed-movies,-music,-television,-and-politics/9780062899217) / [Amazon](https://smile.amazon.com/dp/006289921X)
 
@@ -202,7 +202,7 @@
 
 
 ## ![World Travel: An Irreverent Guide](https://covers.openlibrary.org/b/isbn/9780062802798-S.jpg) World Travel: An Irreverent Guide
-*Anthony Bourdain & Laurie Woolever*
+*[Anthony Bourdain](../AnthonyBourdain) & [Laurie Woolever](../LaurieWoolever)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062802798) / [Open Library](http://openlibrary.org/isbn/9780062802798) / [Local Book Shop](https://bookshop.org/books/world-travel:-an-irreverent-guide/9780062802798) / [Amazon](https://smile.amazon.com/dp/0062802798)
 
@@ -211,7 +211,7 @@
 
 
 ## ![Operation Pedestal: The Fleet That Battled to Malta, 1942](https://covers.openlibrary.org/b/isbn/9780062980151-S.jpg) Operation Pedestal: The Fleet That Battled to Malta, 1942
-*Max Hastings*
+*[Max Hastings](../MaxHastings)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062980151) / [Open Library](http://openlibrary.org/isbn/9780062980151) / [Local Book Shop](https://bookshop.org/books/operation-pedestal:-the-fleet-that-battled-to-malta,-1942/9780062980151) / [Amazon](https://smile.amazon.com/dp/0062980157)
 
@@ -220,7 +220,7 @@
 
 
 ## ![An Elegant Puzzle: Systems of Engineering Management](https://covers.openlibrary.org/b/isbn/9781732265189-S.jpg) An Elegant Puzzle: Systems of Engineering Management
-*Will Larson*
+*[Will Larson](../WillLarson)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781732265189) / [Open Library](http://openlibrary.org/isbn/9781732265189) / [Local Book Shop](https://bookshop.org/books/an-elegant-puzzle:-systems-of-engineering-management/9781732265189) / [Amazon](https://smile.amazon.com/dp/1732265186)
 
@@ -229,7 +229,7 @@
 
 
 ## ![The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://covers.openlibrary.org/b/isbn/9780062273208-S.jpg) The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers
-*Ben Horovitz*
+*[Ben Horovitz](../BenHorovitz)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062273208) / [Open Library](http://openlibrary.org/isbn/9780062273208) / [Local Book Shop](https://bookshop.org/books/the-hard-thing-about-hard-things:-building-a-business-when-there-are-no-easy-answers/9780062273208) / [Amazon](https://smile.amazon.com/dp/0062273205)
 
@@ -238,7 +238,7 @@
 
 
 ## ![AI Superpowers: China, Silicon Valley, And The New World Order](https://covers.openlibrary.org/b/isbn/9781328546395-S.jpg) AI Superpowers: China, Silicon Valley, And The New World Order
-*Kai-Fu Lee*
+*[Kai-Fu Lee](../KaiFuLee)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781328546395) / [Open Library](http://openlibrary.org/isbn/9781328546395) / [Local Book Shop](https://bookshop.org/books/ai-superpowers:-china,-silicon-valley,-and-the-new-world-order/9781328546395) / [Amazon](https://smile.amazon.com/dp/132854639X)
 
@@ -247,7 +247,7 @@
 
 
 ## ![A Splendid Exchange: How Trade Shaped the World](https://covers.openlibrary.org/b/isbn/9780871139795-S.jpg) A Splendid Exchange: How Trade Shaped the World
-*William J Bernstein*
+*[William J Bernstein](../WilliamJBernstein)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780871139795) / [Open Library](http://openlibrary.org/isbn/9780871139795) / [Local Book Shop](https://bookshop.org/books/a-splendid-exchange:-how-trade-shaped-the-world/9780871139795) / [Amazon](https://smile.amazon.com/dp/0871139790)
 
@@ -256,7 +256,7 @@
 
 
 ## ![Machinehood](https://covers.openlibrary.org/b/isbn/9781982148065-S.jpg) Machinehood
-*S. B. Divya*
+*[S. B. Divya](../SBDivya)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781982148065) / [Open Library](http://openlibrary.org/isbn/9781982148065) / [Local Book Shop](https://bookshop.org/books/machinehood/9781982148065) / [Amazon](https://smile.amazon.com/dp/1982148063)
 
@@ -265,7 +265,7 @@
 :star: :star: :star: :star:
 
 ## ![The Years of Rice and Salt](https://covers.openlibrary.org/b/isbn/9780553109207-S.jpg) The Years of Rice and Salt
-*Kim Stanley Robinson*
+*[Kim Stanley Robinson](../KimStanleyRobinson)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780553109207) / [Open Library](http://openlibrary.org/isbn/9780553109207) / [Local Book Shop](https://bookshop.org/books/the-years-of-rice-and-salt/9780553109207) / [Amazon](https://smile.amazon.com/dp/0553109200)
 
@@ -274,7 +274,7 @@
 
 
 ## ![Project Hail Mary: A Novel](https://covers.openlibrary.org/b/isbn/9780593135204-S.jpg) Project Hail Mary: A Novel
-*Andy Weir*
+*[Andy Weir](../AndyWeir)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780593135204) / [Open Library](http://openlibrary.org/isbn/9780593135204) / [Local Book Shop](https://bookshop.org/books/project-hail-mary:-a-novel/9780593135204) / [Amazon](https://smile.amazon.com/dp/0593135202)
 
@@ -283,7 +283,7 @@
 :star: :star: :star: :star: :star:
 
 ## ![In Search of a Kingdom: Francis Drake, Elizabeth I, and the Perilous Birth of the British Empire](https://covers.openlibrary.org/b/isbn/9780062875358-S.jpg) In Search of a Kingdom: Francis Drake, Elizabeth I, and the Perilous Birth of the British Empire
-*Laurence Bergreen*
+*[Laurence Bergreen](../LaurenceBergreen)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062875358) / [Open Library](http://openlibrary.org/isbn/9780062875358) / [Local Book Shop](https://bookshop.org/books/in-search-of-a-kingdom:-francis-drake,-elizabeth-i,-and-the-perilous-birth-of-the-british-empire/9780062875358) / [Amazon](https://smile.amazon.com/dp/0062875361)
 
@@ -292,7 +292,7 @@
 
 
 ## ![Every Sky a Grave](https://covers.openlibrary.org/b/isbn/9781982126681-S.jpg) Every Sky a Grave
-*Jay Posey*
+*[Jay Posey](../JayPosey)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781982126681) / [Open Library](http://openlibrary.org/isbn/9781982126681) / [Local Book Shop](https://bookshop.org/books/every-sky-a-grave/9781982126681) / [Amazon](https://smile.amazon.com/dp/198212668X)
 
@@ -301,7 +301,7 @@
 :star: :star: :star: :star: :star:
 
 ## ![Breath: The New Science of a Lost Art](https://covers.openlibrary.org/b/isbn/9780735213616-S.jpg) Breath: The New Science of a Lost Art
-*James Nestor*
+*[James Nestor](../JamesNestor)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780735213616) / [Open Library](http://openlibrary.org/isbn/9780735213616) / [Local Book Shop](https://bookshop.org/books/breath:-the-new-science-of-a-lost-art/9780735213616) / [Amazon](https://smile.amazon.com/dp/0735213615)
 
@@ -310,7 +310,7 @@
 :star: :star:
 
 ## ![Think Again: The Power of Knowing What You Don't Know](https://covers.openlibrary.org/b/isbn/9781984878106-S.jpg) Think Again: The Power of Knowing What You Don't Know
-*Adam Grant*
+*[Adam Grant](../AdamGrant)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781984878106) / [Open Library](http://openlibrary.org/isbn/9781984878106) / [Local Book Shop](https://bookshop.org/books/think-again:-the-power-of-knowing-what-you-don't-know/9781984878106) / [Amazon](https://smile.amazon.com/dp/1984878107)
 
@@ -319,7 +319,7 @@
 :star: :star: :star: :star: :star:
 
 ## ![Machine: A White Space Novel](https://covers.openlibrary.org/b/isbn/9781534403017-S.jpg) Machine: A White Space Novel
-*Elizabeth Bear*
+*[Elizabeth Bear](../ElizabethBear)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781534403017) / [Open Library](http://openlibrary.org/isbn/9781534403017) / [Local Book Shop](https://bookshop.org/books/machine:-a-white-space-novel/9781534403017) / [Amazon](https://smile.amazon.com/dp/1534403019)
 
@@ -328,7 +328,7 @@
 :star: :star: :star: :star: :star:
 
 ## ![Amazon Unbound: Jeff Bezos and the Invention of a Global Empire](https://covers.openlibrary.org/b/isbn/9781982132613-S.jpg) Amazon Unbound: Jeff Bezos and the Invention of a Global Empire
-*Brad Stone*
+*[Brad Stone](../BradStone)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781982132613) / [Open Library](http://openlibrary.org/isbn/9781982132613) / [Local Book Shop](https://bookshop.org/books/amazon-unbound:-jeff-bezos-and-the-invention-of-a-global-empire/9781982132613) / [Amazon](https://smile.amazon.com/dp/1982132612)
 
@@ -337,7 +337,7 @@
 :star: :star:
 
 ## ![Four Seconds: All the Time You Need to Replace Counter-Productive Habits with Ones That Really Work](https://covers.openlibrary.org/b/isbn/9780062372420-S.jpg) Four Seconds: All the Time You Need to Replace Counter-Productive Habits with Ones That Really Work
-*Peter Bregman*
+*[Peter Bregman](../PeterBregman)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062372420) / [Open Library](http://openlibrary.org/isbn/9780062372420) / [Local Book Shop](https://bookshop.org/books/four-seconds:-all-the-time-you-need-to-replace-counter-productive-habits-with-ones-that-really-work/9780062372420) / [Amazon](https://smile.amazon.com/dp/0062372424)
 
@@ -346,7 +346,7 @@
 
 
 ## ![You're Invited: The Art and Science of Cultivating Influence](https://covers.openlibrary.org/b/isbn/9780063030978-S.jpg) You're Invited: The Art and Science of Cultivating Influence
-*Jon Levy*
+*[Jon Levy](../JonLevy)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780063030978) / [Open Library](http://openlibrary.org/isbn/9780063030978) / [Local Book Shop](https://bookshop.org/books/you're-invited:-the-art-and-science-of-cultivating-influence/9780063030978) / [Amazon](https://smile.amazon.com/dp/0063030977)
 
@@ -355,7 +355,7 @@
 
 
 ## ![Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley](https://covers.openlibrary.org/b/isbn/9780062458193-S.jpg) Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley
-*Antonio Garcia Martinez*
+*[Antonio Garcia Martinez](../AntonioGarciaMartinez)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062458193) / [Open Library](http://openlibrary.org/isbn/9780062458193) / [Local Book Shop](https://bookshop.org/books/chaos-monkeys:-obscene-fortune-and-random-failure-in-silicon-valley/9780062458193) / [Amazon](https://smile.amazon.com/dp/0062458205)
 
@@ -364,7 +364,7 @@
 
 
 ## ![The Galaxy, and the Ground Within: Wayfarers 4](https://covers.openlibrary.org/b/isbn/9781473647664-S.jpg) The Galaxy, and the Ground Within: Wayfarers 4
-*Becky Chambers*
+*[Becky Chambers](../BeckyChambers)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781473647664) / [Open Library](http://openlibrary.org/isbn/9781473647664) / [Local Book Shop](https://bookshop.org/books/the-galaxy,-and-the-ground-within:-wayfarers-4/9781473647664) / [Amazon](https://smile.amazon.com/dp/1473647665)
 
@@ -373,7 +373,7 @@
 :star: :star: :star: :star:
 
 ## ![Arriving Today: From Factory to Front Door -- Why Everything Has Changed About How and What We Buy](https://covers.openlibrary.org/b/isbn/9780062987952-S.jpg) Arriving Today: From Factory to Front Door -- Why Everything Has Changed About How and What We Buy
-*Christopher Mims*
+*[Christopher Mims](../ChristopherMims)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062987952) / [Open Library](http://openlibrary.org/isbn/9780062987952) / [Local Book Shop](https://bookshop.org/books/arriving-today:-from-factory-to-front-door----why-everything-has-changed-about-how-and-what-we-buy/9780062987952) / [Amazon](https://smile.amazon.com/dp/006298795X)
 
@@ -382,7 +382,7 @@
 
 
 ## ![Be Exceptional: Master the Five Traits That Set Extraordinary People Apart](https://covers.openlibrary.org/b/isbn/9780063025394-S.jpg) Be Exceptional: Master the Five Traits That Set Extraordinary People Apart
-*Joe Navarro & Tony Sciarra Poynter*
+*[Joe Navarro](../JoeNavarro) & [Tony Sciarra Poynter](../TonySciarraPoynter)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780063025394) / [Open Library](http://openlibrary.org/isbn/9780063025394) / [Local Book Shop](https://bookshop.org/books/be-exceptional:-master-the-five-traits-that-set-extraordinary-people-apart/9780063025394) / [Amazon](https://smile.amazon.com/dp/0063025396)
 
@@ -391,7 +391,7 @@
 
 
 ## ![N-4 Down: The Hunt for the Arctic Airship Italia](https://covers.openlibrary.org/b/isbn/9780062851529-S.jpg) N-4 Down: The Hunt for the Arctic Airship Italia
-*Mark Piesing*
+*[Mark Piesing](../MarkPiesing)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062851529) / [Open Library](http://openlibrary.org/isbn/9780062851529) / [Local Book Shop](https://bookshop.org/books/n-4-down:-the-hunt-for-the-arctic-airship-italia/9780062851529) / [Amazon](https://smile.amazon.com/dp/0062851527)
 
@@ -400,7 +400,7 @@
 
 
 ## ![Impact Players: How to Take the Lead, Play Bigger, and Multiply Your Impact](https://covers.openlibrary.org/b/isbn/9780063063327-S.jpg) Impact Players: How to Take the Lead, Play Bigger, and Multiply Your Impact
-*Liz Wiseman*
+*[Liz Wiseman](../LizWiseman)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780063063327) / [Open Library](http://openlibrary.org/isbn/9780063063327) / [Local Book Shop](https://bookshop.org/books/impact-players:-how-to-take-the-lead,-play-bigger,-and-multiply-your-impact/9780063063327) / [Amazon](https://smile.amazon.com/dp/0063063328)
 
@@ -409,7 +409,7 @@
 
 
 ## ![The Last Mughal: The Fall of a Dynasty: Delhi, 1857](https://covers.openlibrary.org/b/isbn/9781400043101-S.jpg) The Last Mughal: The Fall of a Dynasty: Delhi, 1857
-*William Dalrymple*
+*[William Dalrymple](../WilliamDalrymple)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781400043101) / [Open Library](http://openlibrary.org/isbn/9781400043101) / [Local Book Shop](https://bookshop.org/books/the-last-mughal:-the-fall-of-a-dynasty:-delhi,-1857/9781400043101) / [Amazon](https://smile.amazon.com/dp/1400043107)
 
@@ -418,7 +418,7 @@
 
 
 ## ![Stolen Earth](https://covers.openlibrary.org/b/isbn/9781789093155-S.jpg) Stolen Earth
-*J T Nicholas*
+*[J T Nicholas](../JTNicholas)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781789093155) / [Open Library](http://openlibrary.org/isbn/9781789093155) / [Local Book Shop](https://bookshop.org/books/stolen-earth/9781789093155) / [Amazon](https://smile.amazon.com/dp/1789093155)
 
@@ -430,7 +430,7 @@
 # 2020: 1 Authors, 1 / 1 Books Read 
 
 ## ![Never Split the Difference: Negotiating As If Your Life Depended On It](https://covers.openlibrary.org/b/isbn/9780062407801-S.jpg) Never Split the Difference: Negotiating As If Your Life Depended On It
-*Chris Voss*
+*[Chris Voss](../ChrisVoss)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062407801) / [Open Library](http://openlibrary.org/isbn/9780062407801) / [Local Book Shop](https://bookshop.org/books/never-split-the-difference:-negotiating-as-if-your-life-depended-on-it/9780062407801) / [Amazon](https://smile.amazon.com/dp/0062407805)
 
