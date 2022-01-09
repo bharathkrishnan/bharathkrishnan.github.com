@@ -1,4 +1,4 @@
-# Claire Holroyde:  Books Read 0 / 1, Avg Rating: 0.0 
+# Claire Holroyde:  Books Read 0 / 1, Avg Rating: 1.0 :star:
 
 ## ![The Effort](https://covers.openlibrary.org/b/isbn/9781538717615-S.jpg) The Effort
 *[Claire Holroyde](../ClaireHolroyde)*

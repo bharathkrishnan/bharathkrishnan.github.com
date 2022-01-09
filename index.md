@@ -46,7 +46,7 @@
 
 
 ---
-# 2021: 43 Authors, 17 / 42 Books Read, Avg Rating: 1.57 :star: :star:
+# 2021: 43 Authors, 17 / 42 Books Read, Avg Rating: 1.62 :star: :star:
 
 ## ![The Player of Games](https://covers.openlibrary.org/b/isbn/9780316005401-S.jpg) The Player of Games
 *[Iain M. Banks](../IainMBanks)*
