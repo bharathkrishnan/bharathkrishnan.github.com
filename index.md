@@ -1,4 +1,4 @@
-# 2022: 7 Authors, 3 / 5 Books Read 
+# 2022: 7 Authors, 3 / 5 Books Read, Avg Rating: 2.0 :star: :star:
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-S.jpg) Termination Shock
 *[Neal Stephenson](../NealStephenson)*
@@ -46,7 +46,7 @@
 
 
 ---
-# 2021: 43 Authors, 17 / 42 Books Read 
+# 2021: 43 Authors, 17 / 42 Books Read, Avg Rating: 1.57 :star: :star:
 
 ## ![The Player of Games](https://covers.openlibrary.org/b/isbn/9780316005401-S.jpg) The Player of Games
 *[Iain M. Banks](../IainMBanks)*
@@ -427,7 +427,7 @@
 :star: :star:
 
 ---
-# 2020: 1 Authors, 1 / 1 Books Read 
+# 2020: 1 Authors, 1 / 1 Books Read, Avg Rating: 3.0 :star: :star: :star:
 
 ## ![Never Split the Difference: Negotiating As If Your Life Depended On It](https://covers.openlibrary.org/b/isbn/9780062407801-S.jpg) Never Split the Difference: Negotiating As If Your Life Depended On It
 *[Chris Voss](../ChrisVoss)*

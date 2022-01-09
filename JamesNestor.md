@@ -1,4 +1,4 @@
-# James Nestor:  Books Read 1 / 1
+# James Nestor:  Books Read 1 / 1, Avg Rating: 2.0 :star: :star:
 
 ## ![Breath: The New Science of a Lost Art](https://covers.openlibrary.org/b/isbn/9780735213616-S.jpg) Breath: The New Science of a Lost Art
 *[James Nestor](../JamesNestor)*

@@ -1,4 +1,4 @@
-# Antonio Garcia Martinez:  Books Read 0 / 1
+# Antonio Garcia Martinez:  Books Read 0 / 1, Avg Rating: 0.0 
 
 ## ![Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley](https://covers.openlibrary.org/b/isbn/9780062458193-S.jpg) Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley
 *[Antonio Garcia Martinez](../AntonioGarciaMartinez)*

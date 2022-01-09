@@ -1,4 +1,4 @@
-# Elizabeth Bear:  Books Read 1 / 1
+# Elizabeth Bear:  Books Read 1 / 1, Avg Rating: 5.0 :star: :star: :star: :star: :star:
 
 ## ![Machine: A White Space Novel](https://covers.openlibrary.org/b/isbn/9781534403017-S.jpg) Machine: A White Space Novel
 *[Elizabeth Bear](../ElizabethBear)*

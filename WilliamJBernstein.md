@@ -1,4 +1,4 @@
-# William J Bernstein:  Books Read 0 / 1
+# William J Bernstein:  Books Read 0 / 1, Avg Rating: 0.0 
 
 ## ![A Splendid Exchange: How Trade Shaped the World](https://covers.openlibrary.org/b/isbn/9780871139795-S.jpg) A Splendid Exchange: How Trade Shaped the World
 *[William J Bernstein](../WilliamJBernstein)*

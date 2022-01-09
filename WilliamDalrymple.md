@@ -1,4 +1,4 @@
-# William Dalrymple:  Books Read 0 / 1
+# William Dalrymple:  Books Read 0 / 1, Avg Rating: 0.0 
 
 ## ![The Last Mughal: The Fall of a Dynasty: Delhi, 1857](https://covers.openlibrary.org/b/isbn/9781400043101-S.jpg) The Last Mughal: The Fall of a Dynasty: Delhi, 1857
 *[William Dalrymple](../WilliamDalrymple)*

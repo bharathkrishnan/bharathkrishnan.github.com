@@ -1,4 +1,4 @@
-# James Altucher:  Books Read 0 / 1
+# James Altucher:  Books Read 0 / 1, Avg Rating: 0.0 
 
 ## ![Skip the Line: The 10,000 Experiments Rule and Other Surprising Advice for Reaching Your Goals](https://covers.openlibrary.org/b/isbn/9781799952268-S.jpg) Skip the Line: The 10,000 Experiments Rule and Other Surprising Advice for Reaching Your Goals
 *[James Altucher](../JamesAltucher)*

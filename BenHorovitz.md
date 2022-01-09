@@ -1,4 +1,4 @@
-# Ben Horovitz:  Books Read 0 / 1
+# Ben Horovitz:  Books Read 0 / 1, Avg Rating: 0.0 
 
 ## ![The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://covers.openlibrary.org/b/isbn/9780062273208-S.jpg) The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers
 *[Ben Horovitz](../BenHorovitz)*

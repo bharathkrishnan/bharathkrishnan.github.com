@@ -1,4 +1,4 @@
-# Jonathan Rosenberg:  Books Read 0 / 1
+# Jonathan Rosenberg:  Books Read 0 / 1, Avg Rating: 0.0 
 
 ## ![Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell](https://covers.openlibrary.org/b/isbn/9780062839268-S.jpg) Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell
 *[Eric Schmidt](../EricSchmidt) & [Jonathan Rosenberg](../JonathanRosenberg) & [Alan Eagle](../AlanEagle)*

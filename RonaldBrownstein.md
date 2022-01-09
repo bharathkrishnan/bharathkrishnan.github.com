@@ -1,4 +1,4 @@
-# Ronald Brownstein:  Books Read 0 / 1
+# Ronald Brownstein:  Books Read 0 / 1, Avg Rating: 0.0 
 
 ## ![Rock Me on the Water: 1974-The Year Los Angeles Transformed Movies, Music, Television, and Politics](https://covers.openlibrary.org/b/isbn/9780062899217-S.jpg) Rock Me on the Water: 1974-The Year Los Angeles Transformed Movies, Music, Television, and Politics
 *[Ronald Brownstein](../RonaldBrownstein)*

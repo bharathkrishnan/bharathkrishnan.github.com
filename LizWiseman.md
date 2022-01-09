@@ -1,4 +1,4 @@
-# Liz Wiseman:  Books Read 0 / 1
+# Liz Wiseman:  Books Read 0 / 1, Avg Rating: 0.0 
 
 ## ![Impact Players: How to Take the Lead, Play Bigger, and Multiply Your Impact](https://covers.openlibrary.org/b/isbn/9780063063327-S.jpg) Impact Players: How to Take the Lead, Play Bigger, and Multiply Your Impact
 *[Liz Wiseman](../LizWiseman)*

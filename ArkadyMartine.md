@@ -1,4 +1,4 @@
-# Arkady Martine:  Books Read 1 / 1
+# Arkady Martine:  Books Read 1 / 1, Avg Rating: 4.0 :star: :star: :star: :star:
 
 ## ![A Desolation Called Peace](https://covers.openlibrary.org/b/isbn/9781250186461-S.jpg) A Desolation Called Peace
 *[Arkady Martine](../ArkadyMartine)*

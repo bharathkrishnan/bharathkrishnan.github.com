@@ -1,4 +1,4 @@
-# Kali Wallace:  Books Read 2 / 2
+# Kali Wallace:  Books Read 2 / 2, Avg Rating: 4.0 :star: :star: :star: :star:
 
 ## ![Dead Space](https://covers.openlibrary.org/b/isbn/9781984803726-S.jpg) Dead Space
 *[Kali Wallace](../KaliWallace)*

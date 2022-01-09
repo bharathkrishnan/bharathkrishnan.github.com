@@ -1,4 +1,4 @@
-# Will Larson:  Books Read 0 / 1
+# Will Larson:  Books Read 0 / 1, Avg Rating: 0.0 
 
 ## ![An Elegant Puzzle: Systems of Engineering Management](https://covers.openlibrary.org/b/isbn/9781732265189-S.jpg) An Elegant Puzzle: Systems of Engineering Management
 *[Will Larson](../WillLarson)*

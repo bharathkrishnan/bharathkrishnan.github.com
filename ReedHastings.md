@@ -1,4 +1,4 @@
-# Reed Hastings:  Books Read 1 / 1
+# Reed Hastings:  Books Read 1 / 1, Avg Rating: 3.0 :star: :star: :star:
 
 ## ![No Rules Rules: Netflix and the Culture of Reinvention](https://covers.openlibrary.org/b/isbn/9781984877864-S.jpg) No Rules Rules: Netflix and the Culture of Reinvention
 *[Reed Hastings](../ReedHastings) & [Erin Meyer](../ErinMeyer)*

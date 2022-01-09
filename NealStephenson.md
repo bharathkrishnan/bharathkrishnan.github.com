@@ -1,4 +1,4 @@
-# Neal Stephenson:  Books Read 1 / 1
+# Neal Stephenson:  Books Read 1 / 1, Avg Rating: 5.0 :star: :star: :star: :star: :star:
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-S.jpg) Termination Shock
 *[Neal Stephenson](../NealStephenson)*

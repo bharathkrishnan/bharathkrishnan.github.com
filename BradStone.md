@@ -1,4 +1,4 @@
-# Brad Stone:  Books Read 1 / 1
+# Brad Stone:  Books Read 1 / 1, Avg Rating: 2.0 :star: :star:
 
 ## ![Amazon Unbound: Jeff Bezos and the Invention of a Global Empire](https://covers.openlibrary.org/b/isbn/9781982132613-S.jpg) Amazon Unbound: Jeff Bezos and the Invention of a Global Empire
 *[Brad Stone](../BradStone)*

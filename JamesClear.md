@@ -1,4 +1,4 @@
-# James Clear:  Books Read 0 / 1
+# James Clear:  Books Read 0 / 1, Avg Rating: 0.0 
 
 ## ![Atomic Habits](https://covers.openlibrary.org/b/isbn/9780735211292-S.jpg) Atomic Habits
 *[James Clear](../JamesClear)*

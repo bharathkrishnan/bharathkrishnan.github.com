@@ -1,4 +1,4 @@
-# Max Tegmark:  Books Read 0 / 1
+# Max Tegmark:  Books Read 0 / 1, Avg Rating: 0.0 
 
 ## ![Life 3.0](https://covers.openlibrary.org/b/isbn/9781101946596-S.jpg) Life 3.0
 *[Max Tegmark](../MaxTegmark)*
