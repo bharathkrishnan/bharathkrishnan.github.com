@@ -9,7 +9,7 @@ def get_stats(books):
     stats['num_books_finished'] = len([x for x in books if x.progress > 0.7])
     stats['perc_books_finished'] = round(stats['num_books_finished']*100.0/stats['num_books'],2)
     stats['num_authors'] = len(set([z.print() for z in list(chain.from_iterable([x.authors for x in books]))]))
-    stats['avg_rating'] = round(sum([x.rating for x in books if x.progress == 1.0 or x.rating > 0])/len(books),2)
+    stats['avg_rating'] = round(sum([x.rating for x in books if x.progress == 1.0 or x.rating > 0])/max(1,len([x for x in books if x.progress == 1.0 or x.rating > 0])),2)
     return stats
 
 def write_author_page(author, books):

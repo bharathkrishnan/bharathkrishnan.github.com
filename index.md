@@ -1,4 +1,4 @@
-# 2022: 8 Authors, 4 / 6 Books Read, Avg Rating: 2.5 :star: :star:
+# 2022: 8 Authors, 4 / 6 Books Read, Avg Rating: 3.75 :star: :star: :star: :star:
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-S.jpg) Termination Shock
 *[Neal Stephenson](../NealStephenson)*
@@ -55,7 +55,7 @@
 :star: :star: :star: :star: :star:
 
 ---
-# 2021: 43 Authors, 17 / 42 Books Read, Avg Rating: 1.62 :star: :star:
+# 2021: 43 Authors, 17 / 42 Books Read, Avg Rating: 3.58 :star: :star: :star: :star:
 
 ## ![The Player of Games](https://covers.openlibrary.org/b/isbn/9780316005401-S.jpg) The Player of Games
 *[Iain M. Banks](../IainMBanks)*
