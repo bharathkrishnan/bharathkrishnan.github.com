@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062839268) / [Open Library](http://openlibrary.org/isbn/9780062839268) / [Local Book Shop](https://bookshop.org/books/trillion-dollar-coach:-the-leadership-playbook-of-silicon-valley's-bill-campbell/9780062839268) / [Amazon](https://smile.amazon.com/dp/0062839268)
 
-![0%](https://progress-bar.dev/0) 
+![50%](https://progress-bar.dev/50) 
 
 
 

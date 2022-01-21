@@ -429,9 +429,17 @@
             "ISBN13" : "9780062839268",
             "ISBN10" : "0062839268",
             "ReadYear" : 2022,
-            "Progress" : 0.0,
+            "Progress" : 0.5,
             "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Alastair Reynolds"],
+            "Title" : "Inhibitor Phase (Revelation Space)",
+            "ISBN13" : "9780316462761",
+            "ISBN10" : "0316462764",
+            "ReadYear" : 2022,
+            "Progress" : 1.0,
+            "Rating" : 5.0
         }
     ]
 }
-

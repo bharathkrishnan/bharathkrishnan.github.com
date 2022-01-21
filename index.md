@@ -1,4 +1,4 @@
-# 2022: 7 Authors, 3 / 5 Books Read, Avg Rating: 2.0 :star: :star:
+# 2022: 8 Authors, 4 / 6 Books Read, Avg Rating: 2.5 :star: :star:
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-S.jpg) Termination Shock
 *[Neal Stephenson](../NealStephenson)*
@@ -41,9 +41,18 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062839268) / [Open Library](http://openlibrary.org/isbn/9780062839268) / [Local Book Shop](https://bookshop.org/books/trillion-dollar-coach:-the-leadership-playbook-of-silicon-valley's-bill-campbell/9780062839268) / [Amazon](https://smile.amazon.com/dp/0062839268)
 
-![0%](https://progress-bar.dev/0) 
+![50%](https://progress-bar.dev/50) 
 
 
+
+## ![Inhibitor Phase (Revelation Space)](https://covers.openlibrary.org/b/isbn/9780316462761-S.jpg) Inhibitor Phase (Revelation Space)
+*[Alastair Reynolds](../AlastairReynolds)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780316462761) / [Open Library](http://openlibrary.org/isbn/9780316462761) / [Local Book Shop](https://bookshop.org/books/inhibitor-phase-(revelation-space)/9780316462761) / [Amazon](https://smile.amazon.com/dp/0316462764)
+
+![100%](https://progress-bar.dev/100) 
+
+:star: :star: :star: :star: :star:
 
 ---
 # 2021: 43 Authors, 17 / 42 Books Read, Avg Rating: 1.62 :star: :star:
