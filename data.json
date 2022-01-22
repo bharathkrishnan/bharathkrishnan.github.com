@@ -429,8 +429,8 @@
             "ISBN13" : "9780062839268",
             "ISBN10" : "0062839268",
             "ReadYear" : 2022,
-            "Progress" : 0.5,
-            "Rating" : 0.0
+            "Progress" : 1.0,
+            "Rating" : 2.5
         },
         {
             "Authors" : ["Alastair Reynolds"],
@@ -440,6 +440,24 @@
             "ReadYear" : 2022,
             "Progress" : 1.0,
             "Rating" : 5.0
+        },
+        {
+            "Authors" : ["Dave Eggers"],
+            "Title" : "The Circle",
+            "ISBN13" : "9780345807298",
+            "ISBN10" : "0345807294",
+            "ReadYear" : 2022,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Dave Eggers"],
+            "Title" : "The Every: A novel",
+            "ISBN13" : "9780593315347",
+            "ISBN10" : "0593315340",
+            "ReadYear" : 2022,
+            "Progress" : 0.0,
+            "Rating" : 0.0
         }
     ]
 }
