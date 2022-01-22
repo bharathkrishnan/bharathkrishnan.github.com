@@ -443,15 +443,6 @@
         },
         {
             "Authors" : ["Dave Eggers"],
-            "Title" : "The Circle",
-            "ISBN13" : "9780345807298",
-            "ISBN10" : "0345807294",
-            "ReadYear" : 2022,
-            "Progress" : 0.0,
-            "Rating" : 0.0
-        },
-        {
-            "Authors" : ["Dave Eggers"],
             "Title" : "The Every: A novel",
             "ISBN13" : "9780593315347",
             "ISBN10" : "0593315340",
