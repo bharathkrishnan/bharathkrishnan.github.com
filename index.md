@@ -1,4 +1,4 @@
-# 2022: 9 Authors, 5 / 7 Books Read, Avg Rating: 3.5 :star: :star: :star: :star:
+# 2022: 10 Authors, 5 / 8 Books Read, Avg Rating: 3.5 :star: :star: :star: :star:
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-S.jpg) Termination Shock
 *[Neal Stephenson](../NealStephenson)*
@@ -59,7 +59,16 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780593315347) / [Open Library](http://openlibrary.org/isbn/9780593315347) / [Local Book Shop](https://bookshop.org/books/the-every:-a-novel/9780593315347) / [Amazon](https://smile.amazon.com/dp/0593315340)
 
-![0%](https://progress-bar.dev/0) 
+![10%](https://progress-bar.dev/10) 
+
+
+
+## ![It's Better to Be Feared: The New England Patriots Dynasty and the Pursuit of Greatness](https://covers.openlibrary.org/b/isbn/9781631498237-S.jpg) It's Better to Be Feared: The New England Patriots Dynasty and the Pursuit of Greatness
+*[Seth Wickersham](../SethWickersham)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781631498237) / [Open Library](http://openlibrary.org/isbn/9781631498237) / [Local Book Shop](https://bookshop.org/books/it's-better-to-be-feared:-the-new-england-patriots-dynasty-and-the-pursuit-of-greatness/9781631498237) / [Amazon](https://smile.amazon.com/dp/1631498231)
+
+![10%](https://progress-bar.dev/10) 
 
 
 

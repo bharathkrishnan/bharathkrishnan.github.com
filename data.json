@@ -447,7 +447,16 @@
             "ISBN13" : "9780593315347",
             "ISBN10" : "0593315340",
             "ReadYear" : 2022,
-            "Progress" : 0.0,
+            "Progress" : 0.1,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Seth Wickersham"],
+            "Title" : "It's Better to Be Feared: The New England Patriots Dynasty and the Pursuit of Greatness",
+            "ISBN13" : "9781631498237",
+            "ISBN10" : "1631498231",
+            "ReadYear" : 2022,
+            "Progress" : 0.1,
             "Rating" : 0.0
         }
     ]

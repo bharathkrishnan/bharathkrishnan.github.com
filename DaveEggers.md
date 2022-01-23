@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780593315347) / [Open Library](http://openlibrary.org/isbn/9780593315347) / [Local Book Shop](https://bookshop.org/books/the-every:-a-novel/9780593315347) / [Amazon](https://smile.amazon.com/dp/0593315340)
 
-![0%](https://progress-bar.dev/0) 
+![10%](https://progress-bar.dev/10) 
 
 
 
