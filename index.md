@@ -1,4 +1,4 @@
-# 2022: 10 Authors, 5 / 8 Books Read, Avg Rating: 3.5 :star: :star: :star: :star:
+# 2022: 10 Authors, 6 / 9 Books Read, Avg Rating: 3.75 :star: :star: :star: :star:
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-S.jpg) Termination Shock
 *[Neal Stephenson](../NealStephenson)*
@@ -71,6 +71,15 @@
 ![10%](https://progress-bar.dev/10) 
 
 
+
+## ![Terminal World](https://covers.openlibrary.org/b/isbn/9780441018666-S.jpg) Terminal World
+*[Alastair Reynolds](../AlastairReynolds)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780441018666) / [Open Library](http://openlibrary.org/isbn/9780441018666) / [Local Book Shop](https://bookshop.org/books/terminal-world/9780441018666) / [Amazon](https://smile.amazon.com/dp/0441018661)
+
+![100%](https://progress-bar.dev/100) 
+
+:star: :star: :star: :star: :star:
 
 ---
 # 2021: 43 Authors, 17 / 42 Books Read, Avg Rating: 3.58 :star: :star: :star: :star:
