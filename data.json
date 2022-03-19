@@ -467,6 +467,42 @@
             "ReadYear" : 2022,
             "Progress" : 1.0,
             "Rating" : 5.0
+        },
+        {
+            "Authors" : ["Mike Isaac"],
+            "Title" : "Super Pumped: The Battle for Uber",
+            "ISBN13" : "978-0393652246",
+            "ISBN10" : "0393652246",
+            "ReadYear" : 2022,
+            "Progress" : 0.25,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Jimmy Soni"],
+            "Title" : "The Founders: The Story of Paypal and the Entrepreneurs Who Shaped Silicon Valley",
+            "ISBN13" : "978-1501197260",
+            "ISBN10" : "1501197266",
+            "ReadYear" : 2022,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Gregory Zuckerman"],
+            "Title" : "A Shot to Save the World: The Inside Story of the Life-or-Death Race for a COVID-19 Vaccine",
+            "ISBN13" : "978-0593420393",
+            "ISBN10" : "059342039X",
+            "ReadYear" : 2022,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["James S. A. Corey"],
+            "Title" : "Leviathan Falls (The Expanse, 9)",
+            "ISBN13" : "978-0316332910",
+            "ISBN10" : "0316332917",
+            "ReadYear" : 2022,
+            "Progress" : 0.0,
+            "Rating" : 0.0
         }
     ]
 }

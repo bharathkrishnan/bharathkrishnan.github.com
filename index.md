@@ -1,4 +1,4 @@
-# 2022: 10 Authors, 6 / 9 Books Read, Avg Rating: 3.75 :star: :star: :star: :star:
+# 2022: 14 Authors, 6 / 13 Books Read, Avg Rating: 3.75 :star: :star: :star: :star:
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-S.jpg) Termination Shock
 *[Neal Stephenson](../NealStephenson)*
@@ -80,6 +80,42 @@
 ![100%](https://progress-bar.dev/100) 
 
 :star: :star: :star: :star: :star:
+
+## ![Super Pumped: The Battle for Uber](https://covers.openlibrary.org/b/isbn/978-0393652246-S.jpg) Super Pumped: The Battle for Uber
+*[Mike Isaac](../MikeIsaac)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0393652246) / [Open Library](http://openlibrary.org/isbn/978-0393652246) / [Local Book Shop](https://bookshop.org/books/super-pumped:-the-battle-for-uber/978-0393652246) / [Amazon](https://smile.amazon.com/dp/0393652246)
+
+![25%](https://progress-bar.dev/25) 
+
+
+
+## ![The Founders: The Story of Paypal and the Entrepreneurs Who Shaped Silicon Valley](https://covers.openlibrary.org/b/isbn/978-1501197260-S.jpg) The Founders: The Story of Paypal and the Entrepreneurs Who Shaped Silicon Valley
+*[Jimmy Soni](../JimmySoni)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-1501197260) / [Open Library](http://openlibrary.org/isbn/978-1501197260) / [Local Book Shop](https://bookshop.org/books/the-founders:-the-story-of-paypal-and-the-entrepreneurs-who-shaped-silicon-valley/978-1501197260) / [Amazon](https://smile.amazon.com/dp/1501197266)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![A Shot to Save the World: The Inside Story of the Life-or-Death Race for a COVID-19 Vaccine](https://covers.openlibrary.org/b/isbn/978-0593420393-S.jpg) A Shot to Save the World: The Inside Story of the Life-or-Death Race for a COVID-19 Vaccine
+*[Gregory Zuckerman](../GregoryZuckerman)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0593420393) / [Open Library](http://openlibrary.org/isbn/978-0593420393) / [Local Book Shop](https://bookshop.org/books/a-shot-to-save-the-world:-the-inside-story-of-the-life-or-death-race-for-a-covid-19-vaccine/978-0593420393) / [Amazon](https://smile.amazon.com/dp/059342039X)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![Leviathan Falls (The Expanse, 9)](https://covers.openlibrary.org/b/isbn/978-0316332910-S.jpg) Leviathan Falls (The Expanse, 9)
+*[James S. A. Corey](../JamesSACorey)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0316332910) / [Open Library](http://openlibrary.org/isbn/978-0316332910) / [Local Book Shop](https://bookshop.org/books/leviathan-falls-(the-expanse,-9)/978-0316332910) / [Amazon](https://smile.amazon.com/dp/0316332917)
+
+![0%](https://progress-bar.dev/0) 
+
+
 
 ---
 # 2021: 43 Authors, 17 / 42 Books Read, Avg Rating: 3.58 :star: :star: :star: :star:
