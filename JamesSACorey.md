@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0316332910) / [Open Library](http://openlibrary.org/isbn/978-0316332910) / [Local Book Shop](https://bookshop.org/books/leviathan-falls-(the-expanse,-9)/978-0316332910) / [Amazon](https://smile.amazon.com/dp/0316332917)
 
-![0%](https://progress-bar.dev/0) 
+![10%](https://progress-bar.dev/10) 
 
 
 

@@ -1,4 +1,4 @@
-# 2022: 14 Authors, 6 / 13 Books Read, Avg Rating: 3.75 :star: :star: :star: :star:
+# 2022: 15 Authors, 6 / 14 Books Read, Avg Rating: 3.75 :star: :star: :star: :star:
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-S.jpg) Termination Shock
 *[Neal Stephenson](../NealStephenson)*
@@ -95,7 +95,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-1501197260) / [Open Library](http://openlibrary.org/isbn/978-1501197260) / [Local Book Shop](https://bookshop.org/books/the-founders:-the-story-of-paypal-and-the-entrepreneurs-who-shaped-silicon-valley/978-1501197260) / [Amazon](https://smile.amazon.com/dp/1501197266)
 
-![0%](https://progress-bar.dev/0) 
+![10%](https://progress-bar.dev/10) 
 
 
 
@@ -104,7 +104,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0593420393) / [Open Library](http://openlibrary.org/isbn/978-0593420393) / [Local Book Shop](https://bookshop.org/books/a-shot-to-save-the-world:-the-inside-story-of-the-life-or-death-race-for-a-covid-19-vaccine/978-0593420393) / [Amazon](https://smile.amazon.com/dp/059342039X)
 
-![0%](https://progress-bar.dev/0) 
+![10%](https://progress-bar.dev/10) 
 
 
 
@@ -112,6 +112,15 @@
 *[James S. A. Corey](../JamesSACorey)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0316332910) / [Open Library](http://openlibrary.org/isbn/978-0316332910) / [Local Book Shop](https://bookshop.org/books/leviathan-falls-(the-expanse,-9)/978-0316332910) / [Amazon](https://smile.amazon.com/dp/0316332917)
+
+![10%](https://progress-bar.dev/10) 
+
+
+
+## ![The Man from the Future: The Visionary Life of John von Neumann](https://covers.openlibrary.org/b/isbn/978-1324003991-S.jpg) The Man from the Future: The Visionary Life of John von Neumann
+*[Ananyo Bhattacharya](../AnanyoBhattacharya)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-1324003991) / [Open Library](http://openlibrary.org/isbn/978-1324003991) / [Local Book Shop](https://bookshop.org/books/the-man-from-the-future:-the-visionary-life-of-john-von-neumann/978-1324003991) / [Amazon](https://smile.amazon.com/dp/1324003995)
 
 ![0%](https://progress-bar.dev/0) 
 

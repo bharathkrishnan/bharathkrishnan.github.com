@@ -483,7 +483,7 @@
             "ISBN13" : "978-1501197260",
             "ISBN10" : "1501197266",
             "ReadYear" : 2022,
-            "Progress" : 0.0,
+            "Progress" : 0.1,
             "Rating" : 0.0
         },
         {
@@ -492,7 +492,7 @@
             "ISBN13" : "978-0593420393",
             "ISBN10" : "059342039X",
             "ReadYear" : 2022,
-            "Progress" : 0.0,
+            "Progress" : 0.1,
             "Rating" : 0.0
         },
         {
@@ -500,6 +500,15 @@
             "Title" : "Leviathan Falls (The Expanse, 9)",
             "ISBN13" : "978-0316332910",
             "ISBN10" : "0316332917",
+            "ReadYear" : 2022,
+            "Progress" : 0.1,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Ananyo Bhattacharya"],
+            "Title" : "The Man from the Future: The Visionary Life of John von Neumann",
+            "ISBN13" : "978-1324003991",
+            "ISBN10" : "1324003995",
             "ReadYear" : 2022,
             "Progress" : 0.0,
             "Rating" : 0.0

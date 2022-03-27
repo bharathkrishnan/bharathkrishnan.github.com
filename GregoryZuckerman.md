@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0593420393) / [Open Library](http://openlibrary.org/isbn/978-0593420393) / [Local Book Shop](https://bookshop.org/books/a-shot-to-save-the-world:-the-inside-story-of-the-life-or-death-race-for-a-covid-19-vaccine/978-0593420393) / [Amazon](https://smile.amazon.com/dp/059342039X)
 
-![0%](https://progress-bar.dev/0) 
+![10%](https://progress-bar.dev/10) 
 
 
 
