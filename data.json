@@ -510,6 +510,15 @@
             "ISBN13" : "978-1324003991",
             "ISBN10" : "1324003995",
             "ReadYear" : 2022,
+            "Progress" : 0.3,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Simon Winchester"],
+            "Title" : "The Men Who United the States: America's Explorers, Inventors, Eccentrics and Mavericks, and the Creation of One Nation, Indivisible",
+            "ISBN13" : "978-0062079602",
+            "ISBN10" : "0062079603",
+            "ReadYear" : 2022,
             "Progress" : 0.0,
             "Rating" : 0.0
         }

@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-1324003991) / [Open Library](http://openlibrary.org/isbn/978-1324003991) / [Local Book Shop](https://bookshop.org/books/the-man-from-the-future:-the-visionary-life-of-john-von-neumann/978-1324003991) / [Amazon](https://smile.amazon.com/dp/1324003995)
 
-![0%](https://progress-bar.dev/0) 
+![30%](https://progress-bar.dev/30) 
 
 
 

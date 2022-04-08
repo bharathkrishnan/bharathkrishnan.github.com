@@ -1,4 +1,4 @@
-# 2022: 15 Authors, 6 / 14 Books Read, Avg Rating: 3.75 :star: :star: :star: :star:
+# 2022: 16 Authors, 6 / 15 Books Read, Avg Rating: 3.75 :star: :star: :star: :star:
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-S.jpg) Termination Shock
 *[Neal Stephenson](../NealStephenson)*
@@ -121,6 +121,15 @@
 *[Ananyo Bhattacharya](../AnanyoBhattacharya)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-1324003991) / [Open Library](http://openlibrary.org/isbn/978-1324003991) / [Local Book Shop](https://bookshop.org/books/the-man-from-the-future:-the-visionary-life-of-john-von-neumann/978-1324003991) / [Amazon](https://smile.amazon.com/dp/1324003995)
+
+![30%](https://progress-bar.dev/30) 
+
+
+
+## ![The Men Who United the States: America's Explorers, Inventors, Eccentrics and Mavericks, and the Creation of One Nation, Indivisible](https://covers.openlibrary.org/b/isbn/978-0062079602-S.jpg) The Men Who United the States: America's Explorers, Inventors, Eccentrics and Mavericks, and the Creation of One Nation, Indivisible
+*[Simon Winchester](../SimonWinchester)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0062079602) / [Open Library](http://openlibrary.org/isbn/978-0062079602) / [Local Book Shop](https://bookshop.org/books/the-men-who-united-the-states:-america's-explorers,-inventors,-eccentrics-and-mavericks,-and-the-creation-of-one-nation,-indivisible/978-0062079602) / [Amazon](https://smile.amazon.com/dp/0062079603)
 
 ![0%](https://progress-bar.dev/0) 
 
