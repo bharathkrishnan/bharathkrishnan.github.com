@@ -1,4 +1,4 @@
-# 2022: 16 Authors, 6 / 15 Books Read, Avg Rating: 3.75 :star: :star: :star: :star:
+# 2022: 23 Authors, 7 / 20 Books Read, Avg Rating: 3.79 :star: :star: :star: :star:
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-S.jpg) Termination Shock
 *[Neal Stephenson](../NealStephenson)*
@@ -122,14 +122,59 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-1324003991) / [Open Library](http://openlibrary.org/isbn/978-1324003991) / [Local Book Shop](https://bookshop.org/books/the-man-from-the-future:-the-visionary-life-of-john-von-neumann/978-1324003991) / [Amazon](https://smile.amazon.com/dp/1324003995)
 
-![30%](https://progress-bar.dev/30) 
+![100%](https://progress-bar.dev/100) 
 
-
+:star: :star: :star: :star:
 
 ## ![The Men Who United the States: America's Explorers, Inventors, Eccentrics and Mavericks, and the Creation of One Nation, Indivisible](https://covers.openlibrary.org/b/isbn/978-0062079602-S.jpg) The Men Who United the States: America's Explorers, Inventors, Eccentrics and Mavericks, and the Creation of One Nation, Indivisible
 *[Simon Winchester](../SimonWinchester)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0062079602) / [Open Library](http://openlibrary.org/isbn/978-0062079602) / [Local Book Shop](https://bookshop.org/books/the-men-who-united-the-states:-america's-explorers,-inventors,-eccentrics-and-mavericks,-and-the-creation-of-one-nation,-indivisible/978-0062079602) / [Amazon](https://smile.amazon.com/dp/0062079603)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![Re-Coil](https://covers.openlibrary.org/b/isbn/978-1789093131-S.jpg) Re-Coil
+*[J. T. Nicholas](../JTNicholas)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-1789093131) / [Open Library](http://openlibrary.org/isbn/978-1789093131) / [Local Book Shop](https://bookshop.org/books/re-coil/978-1789093131) / [Amazon](https://smile.amazon.com/dp/1789093139)
+
+![40%](https://progress-bar.dev/40) 
+
+
+
+## ![The Vortex: A True Story of History's Deadliest Storm, an Unspeakable War, and Liberation](https://covers.openlibrary.org/b/isbn/978-0062985415-S.jpg) The Vortex: A True Story of History's Deadliest Storm, an Unspeakable War, and Liberation
+*[Scott Carney](../ScottCarney) & [Jason Miklian](../JasonMiklian)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0062985415) / [Open Library](http://openlibrary.org/isbn/978-0062985415) / [Local Book Shop](https://bookshop.org/books/the-vortex:-a-true-story-of-history's-deadliest-storm,-an-unspeakable-war,-and-liberation/978-0062985415) / [Amazon](https://smile.amazon.com/dp/0062985418)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![The Man with the Silver Saab: A Detective Varg Novel](https://covers.openlibrary.org/b/isbn/978-0593316108-S.jpg) The Man with the Silver Saab: A Detective Varg Novel
+*[Alexander McCall Smith](../AlexanderMcCallSmith)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0593316108) / [Open Library](http://openlibrary.org/isbn/978-0593316108) / [Local Book Shop](https://bookshop.org/books/the-man-with-the-silver-saab:-a-detective-varg-novel/978-0593316108) / [Amazon](https://smile.amazon.com/dp/059331610X)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![Human Hacking: Win Friends, Influence People, and Leave Them Better Off for Having Met You](https://covers.openlibrary.org/b/isbn/978-0063001787-S.jpg) Human Hacking: Win Friends, Influence People, and Leave Them Better Off for Having Met You
+*[Christopher Hadnagy](../ChristopherHadnagy) & [Seth Schulman](../SethSchulman)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0063001787) / [Open Library](http://openlibrary.org/isbn/978-0063001787) / [Local Book Shop](https://bookshop.org/books/human-hacking:-win-friends,-influence-people,-and-leave-them-better-off-for-having-met-you/978-0063001787) / [Amazon](https://smile.amazon.com/dp/0063001780)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![The Power of Flexing: How to Use Small Daily Experiments to Create Big Life-Changing Growth](https://covers.openlibrary.org/b/isbn/978-0063011571-S.jpg) The Power of Flexing: How to Use Small Daily Experiments to Create Big Life-Changing Growth
+*[Susan J. Ashford](../SusanJAshford)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0063011571) / [Open Library](http://openlibrary.org/isbn/978-0063011571) / [Local Book Shop](https://bookshop.org/books/the-power-of-flexing:-how-to-use-small-daily-experiments-to-create-big-life-changing-growth/978-0063011571) / [Amazon](https://smile.amazon.com/dp/0063011573)
 
 ![0%](https://progress-bar.dev/0) 
 

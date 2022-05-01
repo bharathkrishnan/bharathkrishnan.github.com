@@ -510,14 +510,59 @@
             "ISBN13" : "978-1324003991",
             "ISBN10" : "1324003995",
             "ReadYear" : 2022,
-            "Progress" : 0.3,
-            "Rating" : 0.0
+            "Progress" : 1.0,
+            "Rating" : 4.0
         },
         {
             "Authors" : ["Simon Winchester"],
             "Title" : "The Men Who United the States: America's Explorers, Inventors, Eccentrics and Mavericks, and the Creation of One Nation, Indivisible",
             "ISBN13" : "978-0062079602",
             "ISBN10" : "0062079603",
+            "ReadYear" : 2022,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["J. T. Nicholas"],
+            "Title" : "Re-Coil",
+            "ISBN13" : "978-1789093131",
+            "ISBN10" : "1789093139",
+            "ReadYear" : 2022,
+            "Progress" : 0.4,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Scott Carney", "Jason Miklian"],
+            "Title" : "The Vortex: A True Story of History's Deadliest Storm, an Unspeakable War, and Liberation",
+            "ISBN13" : "978-0062985415",
+            "ISBN10" : "0062985418",
+            "ReadYear" : 2022,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Alexander McCall Smith"],
+            "Title" : "The Man with the Silver Saab: A Detective Varg Novel",
+            "ISBN13" : "978-0593316108",
+            "ISBN10" : "059331610X",
+            "ReadYear" : 2022,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Christopher Hadnagy", "Seth Schulman"],
+            "Title" : "Human Hacking: Win Friends, Influence People, and Leave Them Better Off for Having Met You",
+            "ISBN13" : "978-0063001787",
+            "ISBN10" : "0063001780",
+            "ReadYear" : 2022,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Susan J. Ashford"],
+            "Title" : "The Power of Flexing: How to Use Small Daily Experiments to Create Big Life-Changing Growth",
+            "ISBN13" : "978-0063011571",
+            "ISBN10" : "0063011573",
             "ReadYear" : 2022,
             "Progress" : 0.0,
             "Rating" : 0.0
