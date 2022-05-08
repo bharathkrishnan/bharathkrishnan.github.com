@@ -523,13 +523,13 @@
             "Rating" : 0.0
         },
         {
-            "Authors" : ["J. T. Nicholas"],
+            "Authors" : ["J T Nicholas"],
             "Title" : "Re-Coil",
             "ISBN13" : "978-1789093131",
             "ISBN10" : "1789093139",
             "ReadYear" : 2022,
-            "Progress" : 0.9,
-            "Rating" : 0.0
+            "Progress" : 1.0,
+            "Rating" : 2.0
         },
         {
             "Authors" : ["Scott Carney", "Jason Miklian"],

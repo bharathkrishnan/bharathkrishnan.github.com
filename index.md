@@ -1,4 +1,4 @@
-# 2022: 23 Authors, 8 / 20 Books Read, Avg Rating: 3.79 :star: :star: :star: :star:
+# 2022: 23 Authors, 8 / 20 Books Read, Avg Rating: 3.56 :star: :star: :star: :star:
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-S.jpg) Termination Shock
 *[Neal Stephenson](../NealStephenson)*
@@ -136,13 +136,13 @@
 
 
 ## ![Re-Coil](https://covers.openlibrary.org/b/isbn/978-1789093131-S.jpg) Re-Coil
-*[J. T. Nicholas](../JTNicholas)*
+*[J T Nicholas](../JTNicholas)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-1789093131) / [Open Library](http://openlibrary.org/isbn/978-1789093131) / [Local Book Shop](https://bookshop.org/books/re-coil/978-1789093131) / [Amazon](https://smile.amazon.com/dp/1789093139)
 
-![90%](https://progress-bar.dev/90) 
+![100%](https://progress-bar.dev/100) 
 
-
+:star: :star:
 
 ## ![The Vortex: A True Story of History's Deadliest Storm, an Unspeakable War, and Liberation](https://covers.openlibrary.org/b/isbn/978-0062985415-S.jpg) The Vortex: A True Story of History's Deadliest Storm, an Unspeakable War, and Liberation
 *[Scott Carney](../ScottCarney) & [Jason Miklian](../JasonMiklian)*
