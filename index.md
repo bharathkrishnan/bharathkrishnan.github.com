@@ -1,4 +1,4 @@
-# 2022: 23 Authors, 8 / 20 Books Read, Avg Rating: 3.56 :star: :star: :star: :star:
+# 2022: 23 Authors, 9 / 20 Books Read, Avg Rating: 3.5 :star: :star: :star: :star:
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-S.jpg) Termination Shock
 *[Neal Stephenson](../NealStephenson)*
@@ -158,9 +158,9 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0593316108) / [Open Library](http://openlibrary.org/isbn/978-0593316108) / [Local Book Shop](https://bookshop.org/books/the-man-with-the-silver-saab:-a-detective-varg-novel/978-0593316108) / [Amazon](https://smile.amazon.com/dp/059331610X)
 
-![0%](https://progress-bar.dev/0) 
+![100%](https://progress-bar.dev/100) 
 
-
+:star: :star: :star:
 
 ## ![Human Hacking: Win Friends, Influence People, and Leave Them Better Off for Having Met You](https://covers.openlibrary.org/b/isbn/978-0063001787-S.jpg) Human Hacking: Win Friends, Influence People, and Leave Them Better Off for Having Met You
 *[Christopher Hadnagy](../ChristopherHadnagy) & [Seth Schulman](../SethSchulman)*
