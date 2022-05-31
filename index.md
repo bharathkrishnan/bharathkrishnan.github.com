@@ -1,4 +1,4 @@
-# 2022: 23 Authors, 9 / 20 Books Read, Avg Rating: 3.5 :star: :star: :star: :star:
+# 2022: 24 Authors, 10 / 21 Books Read, Avg Rating: 3.65 :star: :star: :star: :star:
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-S.jpg) Termination Shock
 *[Neal Stephenson](../NealStephenson)*
@@ -179,6 +179,15 @@
 ![0%](https://progress-bar.dev/0) 
 
 
+
+## ![The Murder of Roger Ackroyd (Hercule Poirot)](https://covers.openlibrary.org/b/isbn/978-0593466360-S.jpg) The Murder of Roger Ackroyd (Hercule Poirot)
+*[Agatha Christie](../AgathaChristie)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0593466360) / [Open Library](http://openlibrary.org/isbn/978-0593466360) / [Local Book Shop](https://bookshop.org/books/the-murder-of-roger-ackroyd-(hercule-poirot)/978-0593466360) / [Amazon](https://smile.amazon.com/dp/0593466365)
+
+![100%](https://progress-bar.dev/100) 
+
+:star: :star: :star: :star: :star:
 
 ---
 # 2021: 43 Authors, 17 / 42 Books Read, Avg Rating: 3.58 :star: :star: :star: :star:

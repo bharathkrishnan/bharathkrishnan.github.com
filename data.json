@@ -566,6 +566,15 @@
             "ReadYear" : 2022,
             "Progress" : 0.0,
             "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Agatha Christie"],
+            "Title" : "The Murder of Roger Ackroyd (Hercule Poirot)",
+            "ISBN13" : "978-0593466360",
+            "ISBN10" : "0593466365",
+            "ReadYear" : 2022,
+            "Progress" : 1.0,
+            "Rating" : 5.0
         }
     ]
 }
