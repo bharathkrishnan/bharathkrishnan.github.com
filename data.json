@@ -575,6 +575,24 @@
             "ReadYear" : 2022,
             "Progress" : 1.0,
             "Rating" : 5.0
+        },
+        {
+            "Authors" : ["William L. Silber"],
+            "Title" : "The Power of Nothing to Lose: The Hail Mary Effect in Politics, War, and Business",
+            "ISBN13" : "978-0063011526",
+            "ISBN10" : "0063011522",
+            "ReadYear" : 2022,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Ray Dalio"],
+            "Title" : "Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail",
+            "ISBN13" : "978-1982160272",
+            "ISBN10" : "1982160276",
+            "ReadYear" : 2022,
+            "Progress" : 0.0,
+            "Rating" : 0.0
         }
     ]
 }

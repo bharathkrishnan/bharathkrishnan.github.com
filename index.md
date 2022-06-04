@@ -1,4 +1,4 @@
-# 2022: 24 Authors, 10 / 21 Books Read, Avg Rating: 3.65 :star: :star: :star: :star:
+# 2022: 26 Authors, 10 / 23 Books Read, Avg Rating: 3.65 :star: :star: :star: :star:
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-S.jpg) Termination Shock
 *[Neal Stephenson](../NealStephenson)*
@@ -188,6 +188,24 @@
 ![100%](https://progress-bar.dev/100) 
 
 :star: :star: :star: :star: :star:
+
+## ![The Power of Nothing to Lose: The Hail Mary Effect in Politics, War, and Business](https://covers.openlibrary.org/b/isbn/978-0063011526-S.jpg) The Power of Nothing to Lose: The Hail Mary Effect in Politics, War, and Business
+*[William L. Silber](../WilliamLSilber)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0063011526) / [Open Library](http://openlibrary.org/isbn/978-0063011526) / [Local Book Shop](https://bookshop.org/books/the-power-of-nothing-to-lose:-the-hail-mary-effect-in-politics,-war,-and-business/978-0063011526) / [Amazon](https://smile.amazon.com/dp/0063011522)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail](https://covers.openlibrary.org/b/isbn/978-1982160272-S.jpg) Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail
+*[Ray Dalio](../RayDalio)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-1982160272) / [Open Library](http://openlibrary.org/isbn/978-1982160272) / [Local Book Shop](https://bookshop.org/books/principles-for-dealing-with-the-changing-world-order:-why-nations-succeed-and-fail/978-1982160272) / [Amazon](https://smile.amazon.com/dp/1982160276)
+
+![0%](https://progress-bar.dev/0) 
+
+
 
 ---
 # 2021: 43 Authors, 17 / 42 Books Read, Avg Rating: 3.58 :star: :star: :star: :star:
