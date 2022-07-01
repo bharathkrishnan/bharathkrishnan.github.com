@@ -483,8 +483,8 @@
             "ISBN13" : "978-1501197260",
             "ISBN10" : "1501197266",
             "ReadYear" : 2022,
-            "Progress" : 0.4,
-            "Rating" : 0.0
+            "Progress" : 1.0,
+            "Rating" : 3.0
         },
         {
             "Authors" : ["Gregory Zuckerman"],

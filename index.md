@@ -1,4 +1,4 @@
-# 2022: 26 Authors, 10 / 23 Books Read, Avg Rating: 3.65 :star: :star: :star: :star:
+# 2022: 26 Authors, 11 / 23 Books Read, Avg Rating: 3.59 :star: :star: :star: :star:
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-S.jpg) Termination Shock
 *[Neal Stephenson](../NealStephenson)*
@@ -95,9 +95,9 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-1501197260) / [Open Library](http://openlibrary.org/isbn/978-1501197260) / [Local Book Shop](https://bookshop.org/books/the-founders:-the-story-of-paypal-and-the-entrepreneurs-who-shaped-silicon-valley/978-1501197260) / [Amazon](https://smile.amazon.com/dp/1501197266)
 
-![40%](https://progress-bar.dev/40) 
+![100%](https://progress-bar.dev/100) 
 
-
+:star: :star: :star:
 
 ## ![A Shot to Save the World: The Inside Story of the Life-or-Death Race for a COVID-19 Vaccine](https://covers.openlibrary.org/b/isbn/978-0593420393-S.jpg) A Shot to Save the World: The Inside Story of the Life-or-Death Race for a COVID-19 Vaccine
 *[Gregory Zuckerman](../GregoryZuckerman)*
