@@ -537,8 +537,8 @@
             "ISBN13" : "978-0062985415",
             "ISBN10" : "0062985418",
             "ReadYear" : 2022,
-            "Progress" : 0.0,
-            "Rating" : 0.0
+            "Progress" : 1.0,
+            "Rating" : 4.0
         },
         {
             "Authors" : ["Alexander McCall Smith"],
@@ -590,6 +590,42 @@
             "Title" : "Getting to Yes with Yourself: And Other Worthy Opponents",
             "ISBN13" : "978-0062363381",
             "ISBN10" : "0062363387",
+            "ReadYear" : 2022,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Tony Fadell"],
+            "Title" : "Build: An Unorthodox Guide to Making Things Worth Making",
+            "ISBN13" : "978-0063046061",
+            "ISBN10" : "0063046067",
+            "ReadYear" : 2022,
+            "Progress" : 0.1,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Albert Algoud", "Hergé"],
+            "Title" : "Blistering Barnacles: An A-Z of The Rants, Rambles and Rages of Captain Haddock: Celebrating 80 years of Hergé’s beloved comic character",
+            "ISBN13" : "978-0008497354",
+            "ISBN10" : "0008497354",
+            "ReadYear" : 2022,
+            "Progress" : 0.2,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Tarun Saint"],
+            "Title" : "The Gollancz Book of South Asian Science Fiction",
+            "ISBN13" : "978-9388322058",
+            "ISBN10" : "9388322053",
+            "ReadYear" : 2022,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Tarun Saint"],
+            "Title" : "The Gollancz Book of South Asian Science Fiction Volume 2",
+            "ISBN13" : "978-9391028626",
+            "ISBN10" : "9391028624",
             "ReadYear" : 2022,
             "Progress" : 0.0,
             "Rating" : 0.0

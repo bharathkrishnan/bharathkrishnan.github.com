@@ -1,4 +1,4 @@
-# 2022: 26 Authors, 11 / 23 Books Read, Avg Rating: 3.59 :star: :star: :star: :star:
+# 2022: 30 Authors, 12 / 27 Books Read, Avg Rating: 3.62 :star: :star: :star: :star:
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-S.jpg) Termination Shock
 *[Neal Stephenson](../NealStephenson)*
@@ -149,9 +149,9 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0062985415) / [Open Library](http://openlibrary.org/isbn/978-0062985415) / [Local Book Shop](https://bookshop.org/books/the-vortex:-a-true-story-of-history's-deadliest-storm,-an-unspeakable-war,-and-liberation/978-0062985415) / [Amazon](https://smile.amazon.com/dp/0062985418)
 
-![0%](https://progress-bar.dev/0) 
+![100%](https://progress-bar.dev/100) 
 
-
+:star: :star: :star: :star:
 
 ## ![The Man with the Silver Saab: A Detective Varg Novel](https://covers.openlibrary.org/b/isbn/978-0593316108-S.jpg) The Man with the Silver Saab: A Detective Varg Novel
 *[Alexander McCall Smith](../AlexanderMcCallSmith)*
@@ -202,6 +202,42 @@
 *[William Ury](../WilliamUry)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0062363381) / [Open Library](http://openlibrary.org/isbn/978-0062363381) / [Local Book Shop](https://bookshop.org/books/getting-to-yes-with-yourself:-and-other-worthy-opponents/978-0062363381) / [Amazon](https://smile.amazon.com/dp/0062363387)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![Build: An Unorthodox Guide to Making Things Worth Making](https://covers.openlibrary.org/b/isbn/978-0063046061-S.jpg) Build: An Unorthodox Guide to Making Things Worth Making
+*[Tony Fadell](../TonyFadell)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0063046061) / [Open Library](http://openlibrary.org/isbn/978-0063046061) / [Local Book Shop](https://bookshop.org/books/build:-an-unorthodox-guide-to-making-things-worth-making/978-0063046061) / [Amazon](https://smile.amazon.com/dp/0063046067)
+
+![10%](https://progress-bar.dev/10) 
+
+
+
+## ![Blistering Barnacles: An A-Z of The Rants, Rambles and Rages of Captain Haddock: Celebrating 80 years of Hergé’s beloved comic character](https://covers.openlibrary.org/b/isbn/978-0008497354-S.jpg) Blistering Barnacles: An A-Z of The Rants, Rambles and Rages of Captain Haddock: Celebrating 80 years of Hergé’s beloved comic character
+*[Albert Algoud](../AlbertAlgoud) & [Hergé](../Hergé)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0008497354) / [Open Library](http://openlibrary.org/isbn/978-0008497354) / [Local Book Shop](https://bookshop.org/books/blistering-barnacles:-an-a-z-of-the-rants,-rambles-and-rages-of-captain-haddock:-celebrating-80-years-of-hergé’s-beloved-comic-character/978-0008497354) / [Amazon](https://smile.amazon.com/dp/0008497354)
+
+![20%](https://progress-bar.dev/20) 
+
+
+
+## ![The Gollancz Book of South Asian Science Fiction](https://covers.openlibrary.org/b/isbn/978-9388322058-S.jpg) The Gollancz Book of South Asian Science Fiction
+*[Tarun Saint](../TarunSaint)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-9388322058) / [Open Library](http://openlibrary.org/isbn/978-9388322058) / [Local Book Shop](https://bookshop.org/books/the-gollancz-book-of-south-asian-science-fiction/978-9388322058) / [Amazon](https://smile.amazon.com/dp/9388322053)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![The Gollancz Book of South Asian Science Fiction Volume 2](https://covers.openlibrary.org/b/isbn/978-9391028626-S.jpg) The Gollancz Book of South Asian Science Fiction Volume 2
+*[Tarun Saint](../TarunSaint)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-9391028626) / [Open Library](http://openlibrary.org/isbn/978-9391028626) / [Local Book Shop](https://bookshop.org/books/the-gollancz-book-of-south-asian-science-fiction-volume-2/978-9391028626) / [Amazon](https://smile.amazon.com/dp/9391028624)
 
 ![0%](https://progress-bar.dev/0) 
 
