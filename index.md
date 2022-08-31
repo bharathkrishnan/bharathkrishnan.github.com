@@ -1,4 +1,4 @@
-# 2022: 30 Authors, 12 / 27 Books Read, Avg Rating: 3.62 :star: :star: :star: :star:
+# 2022: 31 Authors, 13 / 29 Books Read, Avg Rating: 3.65 :star: :star: :star: :star:
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-S.jpg) Termination Shock
 *[Neal Stephenson](../NealStephenson)*
@@ -238,6 +238,24 @@
 *[Tarun Saint](../TarunSaint)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-9391028626) / [Open Library](http://openlibrary.org/isbn/978-9391028626) / [Local Book Shop](https://bookshop.org/books/the-gollancz-book-of-south-asian-science-fiction-volume-2/978-9391028626) / [Amazon](https://smile.amazon.com/dp/9391028624)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![Spy Hook](https://covers.openlibrary.org/b/isbn/978-0241505472-S.jpg) Spy Hook
+*[Len Deighton](../LenDeighton)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0241505472) / [Open Library](http://openlibrary.org/isbn/978-0241505472) / [Local Book Shop](https://bookshop.org/books/spy-hook/978-0241505472) / [Amazon](https://smile.amazon.com/dp/024150547X)
+
+![100%](https://progress-bar.dev/100) 
+
+:star: :star: :star: :star:
+
+## ![Spy Line](https://covers.openlibrary.org/b/isbn/978-0241505489-S.jpg) Spy Line
+*[Len Deighton](../LenDeighton)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0241505489) / [Open Library](http://openlibrary.org/isbn/978-0241505489) / [Local Book Shop](https://bookshop.org/books/spy-line/978-0241505489) / [Amazon](https://smile.amazon.com/dp/0241505488)
 
 ![0%](https://progress-bar.dev/0) 
 
