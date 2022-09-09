@@ -1,4 +1,4 @@
-# 2022: 31 Authors, 13 / 29 Books Read, Avg Rating: 3.65 :star: :star: :star: :star:
+# 2022: 31 Authors, 14 / 29 Books Read, Avg Rating: 3.68 :star: :star: :star: :star:
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-S.jpg) Termination Shock
 *[Neal Stephenson](../NealStephenson)*
@@ -257,9 +257,9 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0241505489) / [Open Library](http://openlibrary.org/isbn/978-0241505489) / [Local Book Shop](https://bookshop.org/books/spy-line/978-0241505489) / [Amazon](https://smile.amazon.com/dp/0241505488)
 
-![0%](https://progress-bar.dev/0) 
+![100%](https://progress-bar.dev/100) 
 
-
+:star: :star: :star: :star:
 
 ---
 # 2021: 43 Authors, 17 / 42 Books Read, Avg Rating: 3.58 :star: :star: :star: :star:

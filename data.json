@@ -645,8 +645,8 @@
             "ISBN13" : "978-0241505489",
             "ISBN10" : "0241505488",
             "ReadYear" : 2022,
-            "Progress" : 0.0,
-            "Rating" : 0.0
+            "Progress" : 1.0,
+            "Rating" : 4.0
         }
     ]
 }
