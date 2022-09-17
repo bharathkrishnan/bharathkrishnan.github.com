@@ -647,6 +647,15 @@
             "ReadYear" : 2022,
             "Progress" : 1.0,
             "Rating" : 4.0
+        },
+        {
+            "Authors" : ["Len Deighton"],
+            "Title" : "Spy Sinker",
+            "ISBN13" : "978-0241505496",
+            "ISBN10" : "0241505496",
+            "ReadYear" : 2022,
+            "Progress" : 0.1,
+            "Rating" : 0.0
         }
     ]
 }
