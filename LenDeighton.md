@@ -1,4 +1,4 @@
-# Len Deighton:  Books Read 2 / 3, Avg Rating: 4.0 :star: :star: :star: :star:
+# Len Deighton:  Books Read 3 / 3, Avg Rating: 3.67 :star: :star: :star: :star:
 
 ## ![Spy Hook](https://covers.openlibrary.org/b/isbn/978-0241505472-S.jpg) Spy Hook
 *[Len Deighton](../LenDeighton)*
@@ -23,8 +23,8 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0241505496) / [Open Library](http://openlibrary.org/isbn/978-0241505496) / [Local Book Shop](https://bookshop.org/books/spy-sinker/978-0241505496) / [Amazon](https://smile.amazon.com/dp/0241505496)
 
-![10%](https://progress-bar.dev/10) 
+![100%](https://progress-bar.dev/100) 
 
-
+:star: :star: :star:
 
 ---
