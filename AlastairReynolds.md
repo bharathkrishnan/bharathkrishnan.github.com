@@ -1,4 +1,4 @@
-# Alastair Reynolds:  Books Read 2 / 2, Avg Rating: 5.0 :star: :star: :star: :star: :star:
+# Alastair Reynolds:  Books Read 3 / 3, Avg Rating: 4.67 :star: :star: :star: :star: :star:
 
 ## ![Inhibitor Phase (Revelation Space)](https://covers.openlibrary.org/b/isbn/9780316462761-S.jpg) Inhibitor Phase (Revelation Space)
 *[Alastair Reynolds](../AlastairReynolds)*
@@ -17,5 +17,14 @@
 ![100%](https://progress-bar.dev/100) 
 
 :star: :star: :star: :star: :star:
+
+## ![Eversion](https://covers.openlibrary.org/b/isbn/978-0316462822-S.jpg) Eversion
+*[Alastair Reynolds](../AlastairReynolds)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0316462822) / [Open Library](http://openlibrary.org/isbn/978-0316462822) / [Local Book Shop](https://bookshop.org/books/eversion/978-0316462822) / [Amazon](https://smile.amazon.com/dp/0316462829)
+
+![100%](https://progress-bar.dev/100) 
+
+:star: :star: :star: :star:
 
 ---

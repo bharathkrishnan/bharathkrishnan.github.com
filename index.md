@@ -1,4 +1,4 @@
-# 2022: 31 Authors, 15 / 30 Books Read, Avg Rating: 3.63 :star: :star: :star: :star:
+# 2022: 31 Authors, 16 / 31 Books Read, Avg Rating: 3.66 :star: :star: :star: :star:
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-S.jpg) Termination Shock
 *[Neal Stephenson](../NealStephenson)*
@@ -269,6 +269,15 @@
 ![100%](https://progress-bar.dev/100) 
 
 :star: :star: :star:
+
+## ![Eversion](https://covers.openlibrary.org/b/isbn/978-0316462822-S.jpg) Eversion
+*[Alastair Reynolds](../AlastairReynolds)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0316462822) / [Open Library](http://openlibrary.org/isbn/978-0316462822) / [Local Book Shop](https://bookshop.org/books/eversion/978-0316462822) / [Amazon](https://smile.amazon.com/dp/0316462829)
+
+![100%](https://progress-bar.dev/100) 
+
+:star: :star: :star: :star:
 
 ---
 # 2021: 43 Authors, 17 / 42 Books Read, Avg Rating: 3.58 :star: :star: :star: :star:
