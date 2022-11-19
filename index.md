@@ -1,4 +1,4 @@
-# 2022: 31 Authors, 16 / 31 Books Read, Avg Rating: 3.66 :star: :star: :star: :star:
+# 2022: 39 Authors, 16 / 36 Books Read, Avg Rating: 3.66 :star: :star: :star: :star:
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-S.jpg) Termination Shock
 *[Neal Stephenson](../NealStephenson)*
@@ -278,6 +278,51 @@
 ![100%](https://progress-bar.dev/100) 
 
 :star: :star: :star: :star:
+
+## ![Great State: Chine and the World](https://covers.openlibrary.org/b/isbn/978-0062951007-S.jpg) Great State: Chine and the World
+*[Timothy Brook](../TimothyBrook)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0062951007) / [Open Library](http://openlibrary.org/isbn/978-0062951007) / [Local Book Shop](https://bookshop.org/books/great-state:-chine-and-the-world/978-0062951007) / [Amazon](https://smile.amazon.com/dp/0062950983)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![The Lehman Trilogy](https://covers.openlibrary.org/b/isbn/978-0062940445-S.jpg) The Lehman Trilogy
+*[Stefano Massini](../StefanoMassini) & [Richard Dixon](../RichardDixon)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0062940445) / [Open Library](http://openlibrary.org/isbn/978-0062940445) / [Local Book Shop](https://bookshop.org/books/the-lehman-trilogy/978-0062940445) / [Amazon](https://smile.amazon.com/dp/0062940449)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![M: Son of the Century: A Novel](https://covers.openlibrary.org/b/isbn/978-0062956118-S.jpg) M: Son of the Century: A Novel
+*[Antonio Scurati](../AntonioScurati) & [Anne Milano Appel](../AnneMilanoAppel)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0062956118) / [Open Library](http://openlibrary.org/isbn/978-0062956118) / [Local Book Shop](https://bookshop.org/books/m:-son-of-the-century:-a-novel/978-0062956118) / [Amazon](https://smile.amazon.com/dp/0062956116)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![Genius Foods: Become Smarter, Happier, and More Productive While Protecting Your Brain for Life](https://covers.openlibrary.org/b/isbn/978-0062562852-S.jpg) Genius Foods: Become Smarter, Happier, and More Productive While Protecting Your Brain for Life
+*[Max Lugavere](../MaxLugavere) & [Paul Grewal M.D.](../PaulGrewalMD)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0062562852) / [Open Library](http://openlibrary.org/isbn/978-0062562852) / [Local Book Shop](https://bookshop.org/books/genius-foods:-become-smarter,-happier,-and-more-productive-while-protecting-your-brain-for-life/978-0062562852) / [Amazon](https://smile.amazon.com/dp/0062562852)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![Team America: Patton, MacArthur, Marshall, Eisenhower, and the World They Forged](https://covers.openlibrary.org/b/isbn/978-0062883292-S.jpg) Team America: Patton, MacArthur, Marshall, Eisenhower, and the World They Forged
+*[Robert L. O'Connell](../RobertLOConnell)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0062883292) / [Open Library](http://openlibrary.org/isbn/978-0062883292) / [Local Book Shop](https://bookshop.org/books/team-america:-patton,-macarthur,-marshall,-eisenhower,-and-the-world-they-forged/978-0062883292) / [Amazon](https://smile.amazon.com/dp/0062883291)
+
+![10%](https://progress-bar.dev/10) 
+
+
 
 ---
 # 2021: 43 Authors, 17 / 42 Books Read, Avg Rating: 3.58 :star: :star: :star: :star:

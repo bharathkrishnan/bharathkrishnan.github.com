@@ -665,6 +665,51 @@
             "ReadYear" : 2022,
             "Progress" : 1.0,
             "Rating" : 4.0
+        },
+        {
+            "Authors" : ["Timothy Brook"],
+            "Title" : "Great State: Chine and the World",
+            "ISBN13" : "978-0062951007",
+            "ISBN10" : "0062950983",
+            "ReadYear" : 2022,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Stefano Massini", "Richard Dixon"],
+            "Title" : "The Lehman Trilogy",
+            "ISBN13" : "978-0062940445",
+            "ISBN10" : "0062940449",
+            "ReadYear" : 2022,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Authors" : ["Antonio Scurati", "Anne Milano Appel"],
+            "Title" : "M: Son of the Century: A Novel",
+            "ISBN13" : "978-0062956118",
+            "ISBN10" : "0062956116",
+            "ReadYear" : 2022,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Title" : "Genius Foods: Become Smarter, Happier, and More Productive While Protecting Your Brain for Life",
+            "Authors" : ["Max Lugavere", "Paul Grewal M.D."],
+            "ISBN13" : "978-0062562852",
+            "ISBN10" : "0062562852",
+            "ReadYear" : 2022,
+            "Progress" : 0.0,
+            "Rating" : 0.0
+        },
+        {
+            "Title" : "Team America: Patton, MacArthur, Marshall, Eisenhower, and the World They Forged",
+            "Authors" : ["Robert L. O'Connell"],
+            "ISBN13" : "978-0062883292",
+            "ISBN10" : "0062883291",
+            "ReadYear" : 2022,
+            "Progress" : 0.1,
+            "Rating" : 0.0
         }
     ]
 }
