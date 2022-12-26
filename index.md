@@ -1,4 +1,4 @@
-# 2022: 39 Authors, 16 / 36 Books Read, Avg Rating: 3.66 :star: :star: :star: :star:
+# 2022: 40 Authors, 16 / 37 Books Read, Avg Rating: 3.66 :star: :star: :star: :star:
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-S.jpg) Termination Shock
 *[Neal Stephenson](../NealStephenson)*
@@ -319,6 +319,15 @@
 *[Robert L. O'Connell](../RobertLOConnell)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0062883292) / [Open Library](http://openlibrary.org/isbn/978-0062883292) / [Local Book Shop](https://bookshop.org/books/team-america:-patton,-macarthur,-marshall,-eisenhower,-and-the-world-they-forged/978-0062883292) / [Amazon](https://smile.amazon.com/dp/0062883291)
+
+![10%](https://progress-bar.dev/10) 
+
+
+
+## ![The Power Law: Venture Capital and the Making of the New Future](https://covers.openlibrary.org/b/isbn/978-0525559993-S.jpg) The Power Law: Venture Capital and the Making of the New Future
+*[Sebastian Mallaby](../SebastianMallaby)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=978-0525559993) / [Open Library](http://openlibrary.org/isbn/978-0525559993) / [Local Book Shop](https://bookshop.org/books/the-power-law:-venture-capital-and-the-making-of-the-new-future/978-0525559993) / [Amazon](https://smile.amazon.com/dp/052555999X)
 
 ![10%](https://progress-bar.dev/10) 
 

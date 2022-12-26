@@ -710,6 +710,15 @@
             "ReadYear" : 2022,
             "Progress" : 0.1,
             "Rating" : 0.0
+        },
+        {
+            "Title" : "The Power Law: Venture Capital and the Making of the New Future",
+            "Authors" : ["Sebastian Mallaby"],
+            "ISBN13" : "978-0525559993",
+            "ISBN10" : "052555999X",
+            "ReadYear" : 2022,
+            "Progress" : 0.1,
+            "Rating" : 0.0
         }
     ]
 }
