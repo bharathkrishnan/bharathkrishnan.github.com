@@ -58,16 +58,26 @@ def main():
         nrbooks[y] = len([x for x in books[y] if x.progress > 0.7])
         authors[y] = set([z.print() for z in list(chain.from_iterable([x.authors for x in books[y]]))])
 
-    with open('../index.md', 'w') as o:
-        for y in [x for (x,z) in sorted(years.items(), reverse=True)]:
-            #o.write('# {0}: {1} Authors, {2} / {3} Books Read \n\n'.format(y, len(authors[y]), nrbooks[y], len(books[y])))
+    current_year = True
+    for y in tqdm([x for (x,z) in sorted(years.items(), reverse=True)], desc='Book Lists'):
+        with open('../{0}.md'.format(y), 'w') as o:
             o.write('# {0}: {1} Authors, {2} / {3} Books Read, Avg Rating: {4} {5}\n\n'.format(y, yearly_stats[y]['num_authors'], yearly_stats[y]['num_books_finished'], yearly_stats[y]['num_books'], yearly_stats[y]['avg_rating'], ' '.join([':star:' for i in range(round(yearly_stats[y]['avg_rating']))])))
             for book in books[y]:
                 if book.readYear == y:
                     o.write(book.print())
                     o.write('\n')
             o.write('---\n')
-    for author in authorbooks:
+        if current_year:
+            with open('../index.md'.format(y), 'w') as o:
+                o.write('# {0}: {1} Authors, {2} / {3} Books Read, Avg Rating: {4} {5}\n\n'.format(y, yearly_stats[y]['num_authors'], yearly_stats[y]['num_books_finished'], yearly_stats[y]['num_books'], yearly_stats[y]['avg_rating'], ' '.join([':star:' for i in range(round(yearly_stats[y]['avg_rating']))])))
+                for book in books[y]:
+                    if book.readYear == y:
+                        o.write(book.print())
+                        o.write('\n')
+                o.write('---\n')
+            current_year = False
+
+    for author in tqdm(authorbooks, desc='Author Pages'):
         write_author_page(author, authorbooks[author])
     write_books(bdata)
 
