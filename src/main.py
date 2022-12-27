@@ -33,10 +33,10 @@ def write_books(bdata):
         outfile.write(json.dumps(bdata,indent=4))
 
 def print_header(years):
-    s = '# '
+    s = '# Year'
     for y in [x for (x,z) in sorted(years.items(), reverse=True)]:
         s = s + '[ / {0}](../{1}) '.format(y, '' if y == 2022 else y)
-    s = s + '\n--\n'
+    s = s + '\n'
     return s
 
 def main():
@@ -44,7 +44,7 @@ def main():
     years = {}
     books = {}
     authorbooks = {}
-    for b in tqdm(bdata['Books']):
+    for b in tqdm(bdata['Books'], desc='Processing Books'):
         y = b['ReadYear']
         years[y] = 1
         if y not in books:
