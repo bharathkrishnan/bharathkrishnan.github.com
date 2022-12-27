@@ -35,8 +35,8 @@ def write_books(bdata):
 def print_header(years):
     s = '# '
     for y in [x for (x,z) in sorted(years.items(), reverse=True)]:
-        s = s + '[{0}](../{1}) '.format(y, '' if y == 2022 else y)
-    s = s + '\n---\n'
+        s = s + '[ / {0}](../{1}) '.format(y, '' if y == 2022 else y)
+    s = s + '\n--\n'
     return s
 
 def main():
