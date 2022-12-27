@@ -1,6 +1,6 @@
 # Len Deighton:  Books Read 3 / 3, Avg Rating: 3.67 :star: :star: :star: :star:
 
-## ![Spy Hook](https://covers.openlibrary.org/b/isbn/978-0241505472-S.jpg) Spy Hook
+## ![Spy Hook](http://books.google.com/books/content?id=ffr-zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) Spy Hook
 *[Len Deighton](../LenDeighton)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0241505472) / [Open Library](http://openlibrary.org/isbn/978-0241505472) / [Local Book Shop](https://bookshop.org/books/spy-hook/978-0241505472) / [Amazon](https://smile.amazon.com/dp/024150547X)
@@ -9,7 +9,7 @@
 
 :star: :star: :star: :star:
 
-## ![Spy Line](https://covers.openlibrary.org/b/isbn/978-0241505489-S.jpg) Spy Line
+## ![Spy Line](http://books.google.com/books/content?id=vE7yzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) Spy Line
 *[Len Deighton](../LenDeighton)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0241505489) / [Open Library](http://openlibrary.org/isbn/978-0241505489) / [Local Book Shop](https://bookshop.org/books/spy-line/978-0241505489) / [Amazon](https://smile.amazon.com/dp/0241505488)
@@ -18,7 +18,7 @@
 
 :star: :star: :star: :star:
 
-## ![Spy Sinker](https://covers.openlibrary.org/b/isbn/978-0241505496-S.jpg) Spy Sinker
+## ![Spy Sinker](http://books.google.com/books/content?id=rY8QzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) Spy Sinker
 *[Len Deighton](../LenDeighton)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0241505496) / [Open Library](http://openlibrary.org/isbn/978-0241505496) / [Local Book Shop](https://bookshop.org/books/spy-sinker/978-0241505496) / [Amazon](https://smile.amazon.com/dp/0241505496)

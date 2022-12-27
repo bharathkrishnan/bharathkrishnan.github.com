@@ -9,7 +9,7 @@
 
 :star: :star: :star: :star: :star:
 
-## ![Invisible Empire: The Natural History of Viruses](https://covers.openlibrary.org/b/isbn/9780670095766-S.jpg) Invisible Empire: The Natural History of Viruses
+## ![Invisible Empire: The Natural History of Viruses](http://books.google.com/books/content?id=k9SzzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) Invisible Empire: The Natural History of Viruses
 *[Pranay Lal](../PranayLal)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780670095766) / [Open Library](http://openlibrary.org/isbn/9780670095766) / [Local Book Shop](https://bookshop.org/books/invisible-empire:-the-natural-history-of-viruses/9780670095766) / [Amazon](https://smile.amazon.com/dp/0670095761)
@@ -99,7 +99,7 @@
 
 :star: :star: :star:
 
-## ![A Shot to Save the World: The Inside Story of the Life-or-Death Race for a COVID-19 Vaccine](https://covers.openlibrary.org/b/isbn/978-0593420393-S.jpg) A Shot to Save the World: The Inside Story of the Life-or-Death Race for a COVID-19 Vaccine
+## ![A Shot to Save the World: The Inside Story of the Life-or-Death Race for a COVID-19 Vaccine](http://books.google.com/books/content?id=y_JEEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) A Shot to Save the World: The Inside Story of the Life-or-Death Race for a COVID-19 Vaccine
 *[Gregory Zuckerman](../GregoryZuckerman)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0593420393) / [Open Library](http://openlibrary.org/isbn/978-0593420393) / [Local Book Shop](https://bookshop.org/books/a-shot-to-save-the-world:-the-inside-story-of-the-life-or-death-race-for-a-covid-19-vaccine/978-0593420393) / [Amazon](https://smile.amazon.com/dp/059342039X)
@@ -117,7 +117,7 @@
 
 
 
-## ![The Man from the Future: The Visionary Life of John von Neumann](https://covers.openlibrary.org/b/isbn/978-1324003991-S.jpg) The Man from the Future: The Visionary Life of John von Neumann
+## ![The Man from the Future: The Visionary Life of John von Neumann](http://books.google.com/books/content?id=lGmPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) The Man from the Future: The Visionary Life of John von Neumann
 *[Ananyo Bhattacharya](../AnanyoBhattacharya)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-1324003991) / [Open Library](http://openlibrary.org/isbn/978-1324003991) / [Local Book Shop](https://bookshop.org/books/the-man-from-the-future:-the-visionary-life-of-john-von-neumann/978-1324003991) / [Amazon](https://smile.amazon.com/dp/1324003995)
@@ -135,7 +135,7 @@
 
 
 
-## ![Re-Coil](https://covers.openlibrary.org/b/isbn/978-1789093131-S.jpg) Re-Coil
+## ![Re-Coil](http://books.google.com/books/content?id=kPlOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) Re-Coil
 *[J T Nicholas](../JTNicholas)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-1789093131) / [Open Library](http://openlibrary.org/isbn/978-1789093131) / [Local Book Shop](https://bookshop.org/books/re-coil/978-1789093131) / [Amazon](https://smile.amazon.com/dp/1789093139)
@@ -162,7 +162,7 @@
 
 :star: :star: :star:
 
-## ![Human Hacking: Win Friends, Influence People, and Leave Them Better Off for Having Met You](https://covers.openlibrary.org/b/isbn/978-0063001787-S.jpg) Human Hacking: Win Friends, Influence People, and Leave Them Better Off for Having Met You
+## ![Human Hacking: Win Friends, Influence People, and Leave Them Better Off for Having Met You](http://books.google.com/books/content?id=Zoh5zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) Human Hacking: Win Friends, Influence People, and Leave Them Better Off for Having Met You
 *[Christopher Hadnagy](../ChristopherHadnagy) & [Seth Schulman](../SethSchulman)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0063001787) / [Open Library](http://openlibrary.org/isbn/978-0063001787) / [Local Book Shop](https://bookshop.org/books/human-hacking:-win-friends,-influence-people,-and-leave-them-better-off-for-having-met-you/978-0063001787) / [Amazon](https://smile.amazon.com/dp/0063001780)
@@ -171,7 +171,7 @@
 
 
 
-## ![The Power of Flexing: How to Use Small Daily Experiments to Create Big Life-Changing Growth](https://covers.openlibrary.org/b/isbn/978-0063011571-S.jpg) The Power of Flexing: How to Use Small Daily Experiments to Create Big Life-Changing Growth
+## ![The Power of Flexing: How to Use Small Daily Experiments to Create Big Life-Changing Growth](http://books.google.com/books/content?id=xgcszgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) The Power of Flexing: How to Use Small Daily Experiments to Create Big Life-Changing Growth
 *[Susan J. Ashford](../SusanJAshford)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0063011571) / [Open Library](http://openlibrary.org/isbn/978-0063011571) / [Local Book Shop](https://bookshop.org/books/the-power-of-flexing:-how-to-use-small-daily-experiments-to-create-big-life-changing-growth/978-0063011571) / [Amazon](https://smile.amazon.com/dp/0063011573)
@@ -189,7 +189,7 @@
 
 :star: :star: :star: :star: :star:
 
-## ![The Power of Nothing to Lose: The Hail Mary Effect in Politics, War, and Business](https://covers.openlibrary.org/b/isbn/978-0063011526-S.jpg) The Power of Nothing to Lose: The Hail Mary Effect in Politics, War, and Business
+## ![The Power of Nothing to Lose: The Hail Mary Effect in Politics, War, and Business](http://books.google.com/books/content?id=Zm4czgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) The Power of Nothing to Lose: The Hail Mary Effect in Politics, War, and Business
 *[William L. Silber](../WilliamLSilber)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0063011526) / [Open Library](http://openlibrary.org/isbn/978-0063011526) / [Local Book Shop](https://bookshop.org/books/the-power-of-nothing-to-lose:-the-hail-mary-effect-in-politics,-war,-and-business/978-0063011526) / [Amazon](https://smile.amazon.com/dp/0063011522)
@@ -207,7 +207,7 @@
 
 
 
-## ![Build: An Unorthodox Guide to Making Things Worth Making](https://covers.openlibrary.org/b/isbn/978-0063046061-S.jpg) Build: An Unorthodox Guide to Making Things Worth Making
+## ![Build: An Unorthodox Guide to Making Things Worth Making](http://books.google.com/books/content?id=wTiyzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) Build: An Unorthodox Guide to Making Things Worth Making
 *[Tony Fadell](../TonyFadell)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0063046061) / [Open Library](http://openlibrary.org/isbn/978-0063046061) / [Local Book Shop](https://bookshop.org/books/build:-an-unorthodox-guide-to-making-things-worth-making/978-0063046061) / [Amazon](https://smile.amazon.com/dp/0063046067)
@@ -216,7 +216,7 @@
 
 
 
-## ![Blistering Barnacles: An A-Z of The Rants, Rambles and Rages of Captain Haddock: Celebrating 80 years of Hergé’s beloved comic character](https://covers.openlibrary.org/b/isbn/978-0008497354-S.jpg) Blistering Barnacles: An A-Z of The Rants, Rambles and Rages of Captain Haddock: Celebrating 80 years of Hergé’s beloved comic character
+## ![Blistering Barnacles: An A-Z of The Rants, Rambles and Rages of Captain Haddock: Celebrating 80 years of Hergé’s beloved comic character](http://books.google.com/books/content?id=uLNyzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) Blistering Barnacles: An A-Z of The Rants, Rambles and Rages of Captain Haddock: Celebrating 80 years of Hergé’s beloved comic character
 *[Albert Algoud](../AlbertAlgoud) & [Hergé](../Hergé)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0008497354) / [Open Library](http://openlibrary.org/isbn/978-0008497354) / [Local Book Shop](https://bookshop.org/books/blistering-barnacles:-an-a-z-of-the-rants,-rambles-and-rages-of-captain-haddock:-celebrating-80-years-of-hergé’s-beloved-comic-character/978-0008497354) / [Amazon](https://smile.amazon.com/dp/0008497354)
@@ -234,7 +234,7 @@
 
 
 
-## ![The Gollancz Book of South Asian Science Fiction Volume 2](https://covers.openlibrary.org/b/isbn/978-9391028626-S.jpg) The Gollancz Book of South Asian Science Fiction Volume 2
+## ![The Gollancz Book of South Asian Science Fiction Volume 2](None) The Gollancz Book of South Asian Science Fiction Volume 2
 *[Tarun Saint](../TarunSaint)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-9391028626) / [Open Library](http://openlibrary.org/isbn/978-9391028626) / [Local Book Shop](https://bookshop.org/books/the-gollancz-book-of-south-asian-science-fiction-volume-2/978-9391028626) / [Amazon](https://smile.amazon.com/dp/9391028624)
@@ -243,7 +243,7 @@
 
 
 
-## ![Spy Hook](https://covers.openlibrary.org/b/isbn/978-0241505472-S.jpg) Spy Hook
+## ![Spy Hook](http://books.google.com/books/content?id=ffr-zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) Spy Hook
 *[Len Deighton](../LenDeighton)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0241505472) / [Open Library](http://openlibrary.org/isbn/978-0241505472) / [Local Book Shop](https://bookshop.org/books/spy-hook/978-0241505472) / [Amazon](https://smile.amazon.com/dp/024150547X)
@@ -252,7 +252,7 @@
 
 :star: :star: :star: :star:
 
-## ![Spy Line](https://covers.openlibrary.org/b/isbn/978-0241505489-S.jpg) Spy Line
+## ![Spy Line](http://books.google.com/books/content?id=vE7yzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) Spy Line
 *[Len Deighton](../LenDeighton)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0241505489) / [Open Library](http://openlibrary.org/isbn/978-0241505489) / [Local Book Shop](https://bookshop.org/books/spy-line/978-0241505489) / [Amazon](https://smile.amazon.com/dp/0241505488)
@@ -261,7 +261,7 @@
 
 :star: :star: :star: :star:
 
-## ![Spy Sinker](https://covers.openlibrary.org/b/isbn/978-0241505496-S.jpg) Spy Sinker
+## ![Spy Sinker](http://books.google.com/books/content?id=rY8QzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) Spy Sinker
 *[Len Deighton](../LenDeighton)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0241505496) / [Open Library](http://openlibrary.org/isbn/978-0241505496) / [Local Book Shop](https://bookshop.org/books/spy-sinker/978-0241505496) / [Amazon](https://smile.amazon.com/dp/0241505496)
@@ -279,7 +279,7 @@
 
 :star: :star: :star: :star:
 
-## ![Great State: Chine and the World](https://covers.openlibrary.org/b/isbn/978-0062951007-S.jpg) Great State: Chine and the World
+## ![Great State: Chine and the World](http://books.google.com/books/content?id=Of-lDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) Great State: Chine and the World
 *[Timothy Brook](../TimothyBrook)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0062951007) / [Open Library](http://openlibrary.org/isbn/978-0062951007) / [Local Book Shop](https://bookshop.org/books/great-state:-chine-and-the-world/978-0062951007) / [Amazon](https://smile.amazon.com/dp/0062950983)
@@ -306,7 +306,7 @@
 
 
 
-## ![Genius Foods: Become Smarter, Happier, and More Productive While Protecting Your Brain for Life](https://covers.openlibrary.org/b/isbn/978-0062562852-S.jpg) Genius Foods: Become Smarter, Happier, and More Productive While Protecting Your Brain for Life
+## ![Genius Foods: Become Smarter, Happier, and More Productive While Protecting Your Brain for Life](http://books.google.com/books/content?id=dB2VswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) Genius Foods: Become Smarter, Happier, and More Productive While Protecting Your Brain for Life
 *[Max Lugavere](../MaxLugavere) & [Paul Grewal M.D.](../PaulGrewalMD)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-0062562852) / [Open Library](http://openlibrary.org/isbn/978-0062562852) / [Local Book Shop](https://bookshop.org/books/genius-foods:-become-smarter,-happier,-and-more-productive-while-protecting-your-brain-for-life/978-0062562852) / [Amazon](https://smile.amazon.com/dp/0062562852)
@@ -570,7 +570,7 @@
 
 :star: :star: :star: :star: :star:
 
-## ![In Search of a Kingdom: Francis Drake, Elizabeth I, and the Perilous Birth of the British Empire](https://covers.openlibrary.org/b/isbn/9780062875358-S.jpg) In Search of a Kingdom: Francis Drake, Elizabeth I, and the Perilous Birth of the British Empire
+## ![In Search of a Kingdom: Francis Drake, Elizabeth I, and the Perilous Birth of the British Empire](http://books.google.com/books/content?id=ASaWzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) In Search of a Kingdom: Francis Drake, Elizabeth I, and the Perilous Birth of the British Empire
 *[Laurence Bergreen](../LaurenceBergreen)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062875358) / [Open Library](http://openlibrary.org/isbn/9780062875358) / [Local Book Shop](https://bookshop.org/books/in-search-of-a-kingdom:-francis-drake,-elizabeth-i,-and-the-perilous-birth-of-the-british-empire/9780062875358) / [Amazon](https://smile.amazon.com/dp/0062875361)
@@ -669,7 +669,7 @@
 
 
 
-## ![Be Exceptional: Master the Five Traits That Set Extraordinary People Apart](https://covers.openlibrary.org/b/isbn/9780063025394-S.jpg) Be Exceptional: Master the Five Traits That Set Extraordinary People Apart
+## ![Be Exceptional: Master the Five Traits That Set Extraordinary People Apart](http://books.google.com/books/content?id=D_zhzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) Be Exceptional: Master the Five Traits That Set Extraordinary People Apart
 *[Joe Navarro](../JoeNavarro) & [Tony Sciarra Poynter](../TonySciarraPoynter)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780063025394) / [Open Library](http://openlibrary.org/isbn/9780063025394) / [Local Book Shop](https://bookshop.org/books/be-exceptional:-master-the-five-traits-that-set-extraordinary-people-apart/9780063025394) / [Amazon](https://smile.amazon.com/dp/0063025396)

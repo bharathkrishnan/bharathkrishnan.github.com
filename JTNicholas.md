@@ -9,7 +9,7 @@
 
 :star: :star:
 
-## ![Re-Coil](https://covers.openlibrary.org/b/isbn/978-1789093131-S.jpg) Re-Coil
+## ![Re-Coil](http://books.google.com/books/content?id=kPlOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) Re-Coil
 *[J T Nicholas](../JTNicholas)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=978-1789093131) / [Open Library](http://openlibrary.org/isbn/978-1789093131) / [Local Book Shop](https://bookshop.org/books/re-coil/978-1789093131) / [Amazon](https://smile.amazon.com/dp/1789093139)

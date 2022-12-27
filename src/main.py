@@ -2,6 +2,7 @@ from book import Book
 from author import Author
 import json
 from itertools import chain
+from tqdm import tqdm
 
 def get_stats(books):
     stats = {}
@@ -22,45 +23,53 @@ def write_author_page(author, books):
             o.write('\n')
         o.write('---\n')
 
+def read_books():
+    with open('../data.json', 'r') as datafile:
+        bdata = json.load(datafile)
+        return bdata
+
+def write_books(bdata):
+    with open('../data.json', 'w') as outfile:
+        outfile.write(json.dumps(bdata,indent=4))
 
 def main():
+    bdata = read_books()
     years = {}
     books = {}
     authorbooks = {}
-    with open('../data.json', 'r') as datafile:
-        bdata = json.load(datafile)
-        for b in bdata['Books']:
-            y = b['ReadYear']
-            years[y] = 1
-            if y not in books:
-                books[y] = []
-            book = Book(b)
-            books[y].append(book)
-            authors = book.authors
-            for author in authors:
-                author_name = author.print()
-                if author_name not in authorbooks:
-                    authorbooks[author_name] = []
-                authorbooks[author_name].append(book)
-        nrbooks = {}
-        authors = {}
-        yearly_stats = {}
-        for y in years:
-            yearly_stats[y] = get_stats(books[y])
-            nrbooks[y] = len([x for x in books[y] if x.progress > 0.7])
-            authors[y] = set([z.print() for z in list(chain.from_iterable([x.authors for x in books[y]]))])
+    for b in tqdm(bdata['Books']):
+        y = b['ReadYear']
+        years[y] = 1
+        if y not in books:
+            books[y] = []
+        book = Book(b)
+        books[y].append(book)
+        authors = book.authors
+        for author in authors:
+            author_name = author.print()
+            if author_name not in authorbooks:
+                authorbooks[author_name] = []
+            authorbooks[author_name].append(book)
+    nrbooks = {}
+    authors = {}
+    yearly_stats = {}
+    for y in years:
+        yearly_stats[y] = get_stats(books[y])
+        nrbooks[y] = len([x for x in books[y] if x.progress > 0.7])
+        authors[y] = set([z.print() for z in list(chain.from_iterable([x.authors for x in books[y]]))])
 
-        with open('../index.md', 'w') as o:
-            for y in [x for (x,z) in sorted(years.items(), reverse=True)]:
-                #o.write('# {0}: {1} Authors, {2} / {3} Books Read \n\n'.format(y, len(authors[y]), nrbooks[y], len(books[y])))
-                o.write('# {0}: {1} Authors, {2} / {3} Books Read, Avg Rating: {4} {5}\n\n'.format(y, yearly_stats[y]['num_authors'], yearly_stats[y]['num_books_finished'], yearly_stats[y]['num_books'], yearly_stats[y]['avg_rating'], ' '.join([':star:' for i in range(round(yearly_stats[y]['avg_rating']))])))
-                for book in books[y]:
-                    if book.readYear == y:
-                        o.write(book.print())
-                        o.write('\n')
-                o.write('---\n')
-        for author in authorbooks:
-            write_author_page(author, authorbooks[author])
+    with open('../index.md', 'w') as o:
+        for y in [x for (x,z) in sorted(years.items(), reverse=True)]:
+            #o.write('# {0}: {1} Authors, {2} / {3} Books Read \n\n'.format(y, len(authors[y]), nrbooks[y], len(books[y])))
+            o.write('# {0}: {1} Authors, {2} / {3} Books Read, Avg Rating: {4} {5}\n\n'.format(y, yearly_stats[y]['num_authors'], yearly_stats[y]['num_books_finished'], yearly_stats[y]['num_books'], yearly_stats[y]['avg_rating'], ' '.join([':star:' for i in range(round(yearly_stats[y]['avg_rating']))])))
+            for book in books[y]:
+                if book.readYear == y:
+                    o.write(book.print())
+                    o.write('\n')
+            o.write('---\n')
+    for author in authorbooks:
+        write_author_page(author, authorbooks[author])
+    write_books(bdata)
 
 if __name__ == '__main__':
     main()
