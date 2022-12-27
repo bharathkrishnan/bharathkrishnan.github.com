@@ -18,17 +18,13 @@ class Book:
             self.thumbnail = data['ThumbNail']
     
     def get_thumbnail(self):
-        olurl = 'https://covers.openlibrary.org/b/isbn/{0}-S.jpg'.format(self.isbn13) 
+        olurl = 'https://covers.openlibrary.org/b/isbn/{0}-M.jpg'.format(self.isbn13) 
         gburl = 'https://www.googleapis.com/books/v1/volumes?q=isbn:{0}'.format(self.isbn13.replace('-', ''))
         r = requests.get(olurl)
         if r.status_code == 200:
             return olurl
-        print(gburl)
-        print()
-        print('--')
         gbr = requests.get(gburl)
         if gbr.status_code == 200:
-            print(gbr.json())
             if gbr.json()['totalItems'] > 0:
                 return gbr.json()['items'][0]['volumeInfo']['imageLinks']['smallThumbnail']
 

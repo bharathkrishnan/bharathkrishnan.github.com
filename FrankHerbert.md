@@ -1,6 +1,6 @@
 # Frank Herbert:  Books Read 1 / 1, Avg Rating: 5.0 :star: :star: :star: :star: :star:
 
-## ![Dune](https://covers.openlibrary.org/b/isbn/9780441013593-S.jpg) Dune
+## ![Dune](https://covers.openlibrary.org/b/isbn/9780441013593-M.jpg) Dune
 *[Frank Herbert](../FrankHerbert)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780441013593) / [Open Library](http://openlibrary.org/isbn/9780441013593) / [Local Book Shop](https://bookshop.org/books/dune/9780441013593) / [Amazon](https://smile.amazon.com/dp/0441013597)
