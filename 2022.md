@@ -1,4 +1,4 @@
-# Year[ / 2022](../) [ / 2021](../2021) [ / 2020](../2020) 
+# Year: 2022 / [2021](../2021) / [2020](../2020) 
 # 2022: 40 Authors, 16 / 37 Books Read, Avg Rating: 3.66 :star: :star: :star: :star:
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-M.jpg) Termination Shock

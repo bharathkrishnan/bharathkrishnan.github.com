@@ -32,10 +32,21 @@ def write_books(bdata):
     with open('../data.json', 'w') as outfile:
         outfile.write(json.dumps(bdata,indent=4))
 
-def print_header(years):
-    s = '# Year'
+def print_header(years, cur_year):
+    s = '# Year: '
+    first = True
     for y in [x for (x,z) in sorted(years.items(), reverse=True)]:
-        s = s + '[ / {0}](../{1}) '.format(y, '' if y == 2022 else y)
+        if first:
+            if y == cur_year:
+                s = s + '{0} '.format(y)
+            else:
+                s = s + '[{0}](../{1}) '.format(y, '' if y == 2022 else y)
+            first = False
+        else:
+            if y == cur_year:
+                s = s + '/ {0} '.format(y)
+            else:
+                s = s + '/ [{0}](../{1}) '.format(y, '' if y == 2022 else y)
     s = s + '\n'
     return s
 
@@ -68,7 +79,7 @@ def main():
     current_year = True
     for y in tqdm([x for (x,z) in sorted(years.items(), reverse=True)], desc='Book Lists'):
         with open('../{0}.md'.format(y), 'w') as o:
-            o.write(print_header(years))
+            o.write(print_header(years, y))
             o.write('# {0}: {1} Authors, {2} / {3} Books Read, Avg Rating: {4} {5}\n\n'.format(y, yearly_stats[y]['num_authors'], yearly_stats[y]['num_books_finished'], yearly_stats[y]['num_books'], yearly_stats[y]['avg_rating'], ' '.join([':star:' for i in range(round(yearly_stats[y]['avg_rating']))])))
             for book in books[y]:
                 if book.readYear == y:
@@ -77,7 +88,7 @@ def main():
             o.write('---\n')
         if current_year:
             with open('../index.md'.format(y), 'w') as o:
-                o.write(print_header(years))
+                o.write(print_header(years, y))
                 o.write('# {0}: {1} Authors, {2} / {3} Books Read, Avg Rating: {4} {5}\n\n'.format(y, yearly_stats[y]['num_authors'], yearly_stats[y]['num_books_finished'], yearly_stats[y]['num_books'], yearly_stats[y]['avg_rating'], ' '.join([':star:' for i in range(round(yearly_stats[y]['avg_rating']))])))
                 for book in books[y]:
                     if book.readYear == y:
