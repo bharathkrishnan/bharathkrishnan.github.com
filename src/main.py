@@ -16,7 +16,7 @@ def get_stats(books):
 def write_author_page(author, books):
     a = Author(author)
     author_stats = get_stats(books)
-    with open('../{0}.md'.format(a.safe_name()), 'w') as o:
+    with open('../authors/{0}.md'.format(a.safe_name()), 'w') as o:
         o.write('# {0}:  Books Read {1} / {2}, Avg Rating: {3} {4}\n\n'.format(a.print(), author_stats['num_books_finished'], author_stats['num_books'], author_stats['avg_rating'], ' '.join([':star:' for i in range(round(author_stats['avg_rating']))])))
         for book in books:
             o.write(book.print())
