@@ -102,7 +102,14 @@ def main():
                 o.write('## Books read by year\n')
                 for y in tqdm([x for (x,z) in sorted(years.items(), reverse=True)], desc='Book Index'):
                     o.write('- [{0}](books/{0}.md)\n'.format(y))
-                o.write('## Top Authors for 2022\n')
+                o.write('## Top Authors, 2022\n')
+                #o.write(gen_top_authors(2022))
+                o.write('## Books with 5-star reviews, 2022\n')
+                #o.write(gen_five_star(2022))
+                o.write('## Read completion: {0}%\n'.format(get_stats(books[2022])['perc_books_finished']))
+                for b in books[2022]:
+                    o.write('![{0}]({1})'.format(b.title, b.thumbnail))
+                o.write('\n')
                 o.write('#### &copy; {0} Bharath Krishnan'.format(datetime.date.today().year))
 
 if __name__ == '__main__':
