@@ -108,7 +108,7 @@ def main():
                 #o.write(gen_five_star(2022))
                 o.write('## Read completion: {0}%\n'.format(get_stats(books[2022])['perc_books_finished']))
                 for b in books[2022]:
-                    o.write('![{0}]({1})'.format(b.title, b.thumbnail))
+                    o.write('![{0}]({1}=100px)'.format(b.title, b.thumbnail))
                 o.write('\n')
                 o.write('#### &copy; {0} Bharath Krishnan'.format(datetime.date.today().year))
 
