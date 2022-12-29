@@ -3,6 +3,7 @@ from author import Author
 import json
 from itertools import chain
 from tqdm import tqdm
+import datetime
 
 def get_stats(books):
     stats = {}
@@ -100,8 +101,9 @@ def main():
                 o.write('# Excellent Books\n')
                 o.write('## Books read by year\n')
                 for y in tqdm([x for (x,z) in sorted(years.items(), reverse=True)], desc='Book Index'):
-                    o.write('- [{0}]("../books/{0}.md")\n'.format(y))
-                o.write('## Top Authors for 2022')
+                    o.write('- [{0}](books/{0}.md)\n'.format(y))
+                o.write('## Top Authors for 2022\n')
+                o.write('#### &copy; {0} Bharath Krishnan'.format(datetime.date.today().year))
 
 if __name__ == '__main__':
     main()
