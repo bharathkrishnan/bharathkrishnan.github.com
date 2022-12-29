@@ -108,7 +108,7 @@ def main():
                 #o.write(gen_five_star(2022))
                 o.write('## Read completion: {0}%\n'.format(get_stats(books[2022])['perc_books_finished']))
                 for b in books[2022]:
-                    if 'placeholder' not in b.thumbnail and b.progress > 0.7:
+                    if 'placeholder' not in b.thumbnail and b.progress > 0.0:
                         o.write('<img src="{0}" width=128>'.format(b.thumbnail))
                 o.write('\n')
                 o.write('#### &copy; {0} Bharath Krishnan'.format(datetime.date.today().year))
