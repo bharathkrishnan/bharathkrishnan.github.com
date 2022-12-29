@@ -969,6 +969,17 @@
             "Progress": 0.1,
             "Rating": 0.0,
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/978-0525559993-M.jpg"
+        },
+        {
+            "Title": "The Valley of the Cobras (The Adventures of Jo, Zette and Jocko)",
+            "Authors": [
+                "Herg\u00e9"
+            ],
+            "ISBN13": "978-0416596700",
+            "ISBN10": "0416596703",
+            "ReadYear": 2022,
+            "Progress": 0.0,
+            "Rating": 0.0
         }
     ]
 }
