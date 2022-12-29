@@ -14,6 +14,8 @@ class Book:
             self.thumbnail = self.get_thumbnail()
             if self.thumbnail != None:
                 data['ThumbNail'] = self.thumbnail
+            else:
+                self.thumbnail = 'https://via.placeholder.com/128x202?text={0}'.format('+'.join(self.title.split(' ')))
         else:
             self.thumbnail = data['ThumbNail']
     
@@ -32,7 +34,6 @@ class Book:
             else:
                 return None
 
-    # def print(self) -> str:
-    #     return '## ![{0}](https://covers.openlibrary.org/b/isbn/{3}-S.jpg) {0}\n*{1}*\n\n[Massachusetts Library](https://library.minlib.net/search/i={3}) / [Open Library](http://openlibrary.org/isbn/{3}) / [Local Book Shop](https://bookshop.org/books/{4}/{3}) / [Amazon](https://smile.amazon.com/dp/{2})\n\n![{5}%](https://progress-bar.dev/{5}) \n\n{6}\n'.format(self.title, ' & '.join([a.print_link() for a in self.authors]), self.isbn10, self.isbn13, '-'.join(self.title.lower().split()), str(round(self.progress*100)), ' '.join([':star:' for i in range(round(self.rating))]))
     def print(self) -> str:
         return '## ![{0}]({7}) {0}\n*{1}*\n\n[Massachusetts Library](https://library.minlib.net/search/i={3}) / [Open Library](http://openlibrary.org/isbn/{3}) / [Local Book Shop](https://bookshop.org/books/{4}/{3}) / [Amazon](https://smile.amazon.com/dp/{2})\n\n![{5}%](https://progress-bar.dev/{5}) \n\n{6}\n'.format(self.title, ' & '.join([a.print_link() for a in self.authors]), self.isbn10, self.isbn13, '-'.join(self.title.lower().split()), str(round(self.progress*100)), ' '.join([':star:' for i in range(round(self.rating))]), self.thumbnail)
+
