@@ -87,14 +87,21 @@ def main():
 
     current_year = True
     for y in tqdm([x for (x,z) in sorted(years.items(), reverse=True)], desc='Book Lists'):
-        print_year('../{0}.md'.format(y), books, yearly_stats, years, y)
+        print_year('../books/{0}.md'.format(y), books, yearly_stats, years, y)
         if current_year:
-            print_year('../index.md', books, yearly_stats, years, y)
+            print_year('../books/index.md', books, yearly_stats, years, y)
             current_year = False
 
     for author in tqdm(authorbooks, desc='Author Pages'):
         write_author_page(author, authorbooks[author])
     write_books(bdata)
+    #   Generate Index page
+    with open('../index.md', 'w') as o:
+                o.write('# Excellent Books\n')
+                o.write('## Books read by year\n')
+                for y in tqdm([x for (x,z) in sorted(years.items(), reverse=True)], desc='Book Index'):
+                    o.write('- [{0}]("../books/{0}.md")\n'.format(y))
+                o.write('## Top Authors for 2022')
 
 if __name__ == '__main__':
     main()
