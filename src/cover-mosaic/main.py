@@ -80,4 +80,4 @@ def cover_mosaic(request):
     img_io = BytesIO()
     mosaic.save(img_io, "JPEG", quality=70)
     img_io.seek(0)
-    return send_file(img_io, mimetype="image/jpeg", as_attachment=True, attachment_filename='cover_mosaic.jpg')
+    return send_file(img_io, mimetype="image/jpeg", as_attachment=True, download_name='cover_mosaic.jpg')
