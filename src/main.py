@@ -131,7 +131,7 @@ def main():
         o.write('# Cover Image Mosaic Generator\n')
         o.write('Cover images courtesy [Open Library](https://openlibrary.org/) & Google\n')
         o.write('Paste a list of ISBN13 ids in the form below to generate your own Cover Mosaic\n')
-        o.write('<form action="https://test-j7fvcrsyma-uc.a.run.app/" method="POST" enctype="application/json"><div><textarea name="ids" placeholder="[]" /></div><div><button>Mosaic!</button></div></form>')
+        o.write('<form action="https://test-j7fvcrsyma-uc.a.run.app/" method="POST"><div><textarea name="ids" placeholder="[]"></textarea></div><div><button>Mosaic!</button></div></form>')
 
 if __name__ == '__main__':
     main()
