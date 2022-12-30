@@ -181,8 +181,9 @@ def main():
 
     with open("../mosaic/index.html", "w") as o:
         o.write(
-            '<!DOCTYPE html><html lang="en"><head><title>Book cover image mosaic generator</title></head><body><main><h1> Cover Image Mosaic Generator</h1>\n'
+            '<!DOCTYPE html><html lang="en"><head><title>Book cover image mosaic generator</title><link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.classless.min.css"></head>\n'
         )
+        o.write("<body><main><h1> Cover Image Mosaic Generator</h1>\n")
         o.write(
             '<p>Cover images courtesy <a href="https://openlibrary.org/">Open Library</a> & Google</p>\n'
         )
@@ -190,7 +191,7 @@ def main():
             "<p>Paste a list of ISBN13 ids in the form below to generate your own Cover Mosaic</p>\n"
         )
         o.write(
-            '<form action="https://test-j7fvcrsyma-uc.a.run.app/" method="POST"><div><textarea name="ids" placeholder="[]"></textarea></div><div><button>Mosaic!</button></div></form>\n'
+            '<form action="https://test-j7fvcrsyma-uc.a.run.app/" method="POST"><div><textarea name="ids" placeholder="9780441013593,9780316005401"></textarea></div><div><button>Mosaic!</button></div></form>\n'
         )
         o.write("</main></body></html>\n")
 
