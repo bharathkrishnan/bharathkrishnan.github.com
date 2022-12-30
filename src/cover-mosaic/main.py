@@ -50,7 +50,7 @@ def cover_mosaic(request):
     elif request_args and "ids" in request_args:
         ids = request_args["ids"]
     else:
-        ids = request.form.get("ids").split(",")
+        ids = [x.strip().replace('"','') for x in request.form.get("ids").split(",")]
     if len(ids) == 0:
         return "Hmm.. no books to be found here"
     imgs = get_thumbnail(ids)
