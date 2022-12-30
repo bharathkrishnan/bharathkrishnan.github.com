@@ -132,6 +132,12 @@ def main():
         o.write('Cover images courtesy [Open Library](https://openlibrary.org/) & Google\n')
         o.write('Paste a list of ISBN13 ids in the form below to generate your own Cover Mosaic\n')
         o.write('<form action="https://test-j7fvcrsyma-uc.a.run.app/" method="POST"><div><textarea name="ids" placeholder="[]"></textarea></div><div><button>Mosaic!</button></div></form>')
+    with open('../test.html', 'w') as o:
+        o.write('<html><body><h> Cover Image Mosaic Generator</h>\n')
+        o.write('<p>Cover images courtesy [Open Library](https://openlibrary.org/) & Google</p>\n')
+        o.write('<p>Paste a list of ISBN13 ids in the form below to generate your own Cover Mosaic</p>\n')
+        o.write('<form action="https://test-j7fvcrsyma-uc.a.run.app/" method="POST"><div><textarea name="ids" placeholder="[]"></textarea></div><div><button>Mosaic!</button></div></form>\n')
+        o.write('</body></html>\n')
 
 if __name__ == '__main__':
     main()
