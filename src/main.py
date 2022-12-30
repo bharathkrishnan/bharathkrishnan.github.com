@@ -127,5 +127,11 @@ def main():
                 o.write('---\n')
                 o.write('#### &copy; {0} Bharath Krishnan'.format(datetime.date.today().year))
 
+    with open('../mosaic.md', 'w') as o:
+        o.write('# Cover Image Mosaic Generator')
+        o.write('Cover images courtesy [Open Library](https://openlibrary.org/) & Google\n')
+        o.write('Paste a list of ISBN13 ids in the form below to generate your own Cover Mosaic\n')
+        o.write('<form action="https://test-j7fvcrsyma-uc.a.run.app/" method="POST" enctype="application/json"><div><input name="ids" value="" /><input name="ids" value="" /></div><div><button>Mosaic!</button></div></form>')
+
 if __name__ == '__main__':
     main()
