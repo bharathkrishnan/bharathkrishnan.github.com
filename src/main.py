@@ -5,68 +5,103 @@ from itertools import chain
 from tqdm import tqdm
 import datetime
 
+
 def get_stats(books):
     stats = {}
-    stats['num_books'] = len(books)
-    stats['num_books_finished'] = len([x for x in books if x.progress > 0.7])
-    stats['perc_books_finished'] = round(stats['num_books_finished']*100.0/stats['num_books'],2)
-    stats['num_authors'] = len(set([z.print() for z in list(chain.from_iterable([x.authors for x in books]))]))
-    stats['avg_rating'] = round(sum([x.rating for x in books if x.progress == 1.0 or x.rating > 0])/max(1,len([x for x in books if x.progress == 1.0 or x.rating > 0])),2)
+    stats["num_books"] = len(books)
+    stats["num_books_finished"] = len([x for x in books if x.progress > 0.7])
+    stats["perc_books_finished"] = round(
+        stats["num_books_finished"] * 100.0 / stats["num_books"], 2
+    )
+    stats["num_authors"] = len(
+        set([z.print() for z in list(chain.from_iterable([x.authors for x in books]))])
+    )
+    stats["avg_rating"] = round(
+        sum([x.rating for x in books if x.progress == 1.0 or x.rating > 0])
+        / max(1, len([x for x in books if x.progress == 1.0 or x.rating > 0])),
+        2,
+    )
     return stats
+
 
 def write_author_page(author, books):
     a = Author(author)
     author_stats = get_stats(books)
-    with open('../authors/{0}.md'.format(a.safe_name()), 'w') as o:
-        o.write('# {0}:  Books Read {1} / {2}, Avg Rating: {3} {4}\n\n'.format(a.print(), author_stats['num_books_finished'], author_stats['num_books'], author_stats['avg_rating'], ' '.join([':star:' for i in range(round(author_stats['avg_rating']))])))
+    with open("../authors/{0}.md".format(a.safe_name()), "w") as o:
+        o.write(
+            "# {0}:  Books Read {1} / {2}, Avg Rating: {3} {4}\n\n".format(
+                a.print(),
+                author_stats["num_books_finished"],
+                author_stats["num_books"],
+                author_stats["avg_rating"],
+                " ".join([":star:" for i in range(round(author_stats["avg_rating"]))]),
+            )
+        )
         for book in books:
             o.write(book.print())
-            o.write('\n')
-        o.write('---\n')
+            o.write("\n")
+        o.write("---\n")
+
 
 def read_books():
-    with open('../data.json', 'r') as datafile:
+    with open("../data.json", "r") as datafile:
         bdata = json.load(datafile)
         return bdata
 
+
 def write_books(bdata):
-    with open('../data.json', 'w') as outfile:
-        outfile.write(json.dumps(bdata,indent=4))
+    with open("../data.json", "w") as outfile:
+        outfile.write(json.dumps(bdata, indent=4))
+
 
 def print_header(years, cur_year):
-    s = '# Year: '
+    s = "# Year: "
     first = True
-    for y in [x for (x,z) in sorted(years.items(), reverse=True)]:
+    for y in [x for (x, z) in sorted(years.items(), reverse=True)]:
         if first:
             if y == cur_year:
-                s = s + '{0} '.format(y)
+                s = s + "{0} ".format(y)
             else:
-                s = s + '[{0}](../{1}) '.format(y, '' if y == 2022 else y)
+                s = s + "[{0}](../{1}) ".format(y, "" if y == 2022 else y)
             first = False
         else:
             if y == cur_year:
-                s = s + '/ {0} '.format(y)
+                s = s + "/ {0} ".format(y)
             else:
-                s = s + '/ [{0}](../{1}) '.format(y, '' if y == 2022 else y)
-    s = s + '\n'
+                s = s + "/ [{0}](../{1}) ".format(y, "" if y == 2022 else y)
+    s = s + "\n"
     return s
 
+
 def print_year(filename, books, yearly_stats, years, y):
-    with open(filename, 'w') as o:
-                o.write(print_header(years, y))
-                o.write('# {0}: {1} Authors, {2} / {3} Books Read, Avg Rating: {4} {5}\n\n'.format(y, yearly_stats[y]['num_authors'], yearly_stats[y]['num_books_finished'], yearly_stats[y]['num_books'], yearly_stats[y]['avg_rating'], ' '.join([':star:' for i in range(round(yearly_stats[y]['avg_rating']))])))
-                for book in books[y]:
-                    if book.readYear == y:
-                        o.write(book.print())
-                        o.write('\n')
-                o.write('---\n')
+    with open(filename, "w") as o:
+        o.write(print_header(years, y))
+        o.write(
+            "# {0}: {1} Authors, {2} / {3} Books Read, Avg Rating: {4} {5}\n\n".format(
+                y,
+                yearly_stats[y]["num_authors"],
+                yearly_stats[y]["num_books_finished"],
+                yearly_stats[y]["num_books"],
+                yearly_stats[y]["avg_rating"],
+                " ".join(
+                    [":star:" for i in range(round(yearly_stats[y]["avg_rating"]))]
+                ),
+            )
+        )
+        for book in books[y]:
+            if book.readYear == y:
+                o.write(book.print())
+                o.write("\n")
+        o.write("---\n")
+
+
 def main():
     bdata = read_books()
     years = {}
     books = {}
     authorbooks = {}
-    for b in tqdm(bdata['Books'], desc='Processing Books'):
-        y = b['ReadYear']
+    for b in tqdm(bdata["Books"], desc="Processing Books"):
+        y = b["ReadYear"]
         years[y] = 1
         if y not in books:
             books[y] = []
@@ -84,60 +119,81 @@ def main():
     for y in years:
         yearly_stats[y] = get_stats(books[y])
         nrbooks[y] = len([x for x in books[y] if x.progress > 0.7])
-        authors[y] = set([z.print() for z in list(chain.from_iterable([x.authors for x in books[y]]))])
+        authors[y] = set(
+            [
+                z.print()
+                for z in list(chain.from_iterable([x.authors for x in books[y]]))
+            ]
+        )
 
     current_year = True
-    for y in tqdm([x for (x,z) in sorted(years.items(), reverse=True)], desc='Book Lists'):
-        print_year('../books/{0}.md'.format(y), books, yearly_stats, years, y)
+    for y in tqdm(
+        [x for (x, z) in sorted(years.items(), reverse=True)], desc="Book Lists"
+    ):
+        print_year("../books/{0}.md".format(y), books, yearly_stats, years, y)
         if current_year:
-            print_year('../books/index.md', books, yearly_stats, years, y)
+            print_year("../books/index.md", books, yearly_stats, years, y)
             current_year = False
 
-    for author in tqdm(authorbooks, desc='Author Pages'):
+    for author in tqdm(authorbooks, desc="Author Pages"):
         write_author_page(author, authorbooks[author])
     write_books(bdata)
     #   Generate Index page
-    with open('../index.md', 'w') as o:
-                o.write('# Excellent Books\n')
-                o.write('## Books read by year\n')
-                for y in tqdm([x for (x,z) in sorted(years.items(), reverse=True)], desc='Book Index'):
-                    o.write('- [{0}](books/{0}.md)\n'.format(y))
-                #o.write('## Top Authors, 2022\n')
-                #o.write(gen_top_authors(2022))
-                o.write('## Books with 5-star reviews, 2022\n')
-                for b in books[2022]:
-                    if 'placeholder' not in b.thumbnail and b.rating > 4.0:
-                        o.write('<img src="{0}" width=128>'.format(b.thumbnail))
-                o.write('\n')
-                o.write('## Read completion: {0}%\n'.format(get_stats(books[2022])['perc_books_finished']))
-                for b in books[2022]:
-                    if 'placeholder' not in b.thumbnail and b.progress > 0.0:
-                        o.write('<img src="{0}" width=128>'.format(b.thumbnail))
-                o.write('---\n')
-                o.write('# 2021\n')
-                o.write('## Books with 5-star reviews, 2021\n')
-                for b in books[2021]:
-                    if 'placeholder' not in b.thumbnail and b.rating > 4.0:
-                        o.write('<img src="{0}" width=128>'.format(b.thumbnail))
-                o.write('\n')
-                o.write('## Read completion: {0}%\n'.format(get_stats(books[2021])['perc_books_finished']))
-                for b in books[2021]:
-                    if 'placeholder' not in b.thumbnail and b.progress > 0.0:
-                        o.write('<img src="{0}" width=128>'.format(b.thumbnail))
-                o.write('---\n')
-                o.write('#### &copy; {0} Bharath Krishnan'.format(datetime.date.today().year))
+    with open("../index.md", "w") as o:
+        o.write("# Excellent Books\n")
+        o.write("## Books read by year\n")
+        for y in tqdm(
+            [x for (x, z) in sorted(years.items(), reverse=True)], desc="Book Index"
+        ):
+            o.write("- [{0}](books/{0}.md)\n".format(y))
+        # o.write('## Top Authors, 2022\n')
+        # o.write(gen_top_authors(2022))
+        o.write("## Books with 5-star reviews, 2022\n")
+        for b in books[2022]:
+            if "placeholder" not in b.thumbnail and b.rating > 4.0:
+                o.write('<img src="{0}" width=128>'.format(b.thumbnail))
+        o.write("\n")
+        o.write(
+            "## Read completion: {0}%\n".format(
+                get_stats(books[2022])["perc_books_finished"]
+            )
+        )
+        for b in books[2022]:
+            if "placeholder" not in b.thumbnail and b.progress > 0.0:
+                o.write('<img src="{0}" width=128>'.format(b.thumbnail))
+        o.write("---\n")
+        o.write("# 2021\n")
+        o.write("## Books with 5-star reviews, 2021\n")
+        for b in books[2021]:
+            if "placeholder" not in b.thumbnail and b.rating > 4.0:
+                o.write('<img src="{0}" width=128>'.format(b.thumbnail))
+        o.write("\n")
+        o.write(
+            "## Read completion: {0}%\n".format(
+                get_stats(books[2021])["perc_books_finished"]
+            )
+        )
+        for b in books[2021]:
+            if "placeholder" not in b.thumbnail and b.progress > 0.0:
+                o.write('<img src="{0}" width=128>'.format(b.thumbnail))
+        o.write("---\n")
+        o.write("#### &copy; {0} Bharath Krishnan".format(datetime.date.today().year))
 
-    with open('../mosaic.md', 'w') as o:
-        o.write('# Cover Image Mosaic Generator\n')
-        o.write('Cover images courtesy [Open Library](https://openlibrary.org/) & Google\n')
-        o.write('Paste a list of ISBN13 ids in the form below to generate your own Cover Mosaic\n')
-        o.write('<form action="https://test-j7fvcrsyma-uc.a.run.app/" method="POST"><div><textarea name="ids" placeholder="[]"></textarea></div><div><button>Mosaic!</button></div></form>')
-    with open('../test.html', 'w') as o:
-        o.write('<html><body><h> Cover Image Mosaic Generator</h>\n')
-        o.write('<p>Cover images courtesy [Open Library](https://openlibrary.org/) & Google</p>\n')
-        o.write('<p>Paste a list of ISBN13 ids in the form below to generate your own Cover Mosaic</p>\n')
-        o.write('<form action="https://test-j7fvcrsyma-uc.a.run.app/" method="POST"><div><textarea name="ids" placeholder="[]"></textarea></div><div><button>Mosaic!</button></div></form>\n')
-        o.write('</body></html>\n')
+    with open("../mosaic/index.html", "w") as o:
+        o.write(
+            '<!DOCTYPE html><html lang="en"><head><title>Book cover image mosaic generator</title></head><body><main><h1> Cover Image Mosaic Generator</h1>\n'
+        )
+        o.write(
+            '<p>Cover images courtesy <a href="https://openlibrary.org/">Open Library</a> & Google</p>\n'
+        )
+        o.write(
+            "<p>Paste a list of ISBN13 ids in the form below to generate your own Cover Mosaic</p>\n"
+        )
+        o.write(
+            '<form action="https://test-j7fvcrsyma-uc.a.run.app/" method="POST"><div><textarea name="ids" placeholder="[]"></textarea></div><div><button>Mosaic!</button></div></form>\n'
+        )
+        o.write("</main></body></html>\n")
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     main()
