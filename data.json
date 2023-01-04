@@ -980,6 +980,18 @@
             "ReadYear": 2022,
             "Progress": 0.0,
             "Rating": 0.0
+        },
+        {
+            "Title": "Mickey7: A Novel",
+            "Authors": [
+                "Edward Ashton"
+            ],
+            "ISBN13": "978-1250275035",
+            "ISBN10": "1250275032",
+            "ReadYear": 2023,
+            "Progress": 1.0,
+            "Rating": 5.0,
+            "ThumbNail": "https://covers.openlibrary.org/b/isbn/978-1250275035-M.jpg"
         }
     ]
 }

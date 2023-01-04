@@ -1,5 +1,4 @@
-# Year: 2023 / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2023: 1 Authors, 1 / 1 Books Read, Avg Rating: 5.0 :star: :star: :star: :star: :star:
+# Edward Ashton:  Books Read 1 / 1, Avg Rating: 5.0 :star: :star: :star: :star: :star:
 
 ## ![Mickey7: A Novel](https://covers.openlibrary.org/b/isbn/978-1250275035-M.jpg) Mickey7: A Novel
 *[Edward Ashton](../authors/EdwardAshton)*

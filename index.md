@@ -1,6 +1,7 @@
 # Excellent Books
 ## [Book cover mosaic generator](/mosaic)
 ## Books read by year
+- [2023](books/2023.md)
 - [2022](books/2022.md)
 - [2021](books/2021.md)
 - [2020](books/2020.md)
