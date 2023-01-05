@@ -148,13 +148,13 @@ def main():
         ):
             o.write("- [{0}](books/{0}.md)\n".format(y))
         for y in tqdm(
-            [x for (x, z) in sorted(years.items(), reverse=True)], desc="Book Index"
+            [x for (x, z) in sorted(years.items(), reverse=True)], desc="Book Reviews"
         ):
             o.write("## Books with 5-star reviews, {0}\n".format(y))
             for b in books[y]:
                 if "placeholder" not in b.thumbnail and b.rating > 4.0:
-                    o.write('<img src="{0}" width=128>'.format(b.thumbnail))
-            o.write("\n")
+                    o.write('<img src="{0}" width=128>\n'.format(b.thumbnail))
+            o.write("\n\n")
             o.write(
                 "## Read completion: {0}%\n".format(
                     get_stats(books[y])["perc_books_finished"]
@@ -162,8 +162,9 @@ def main():
             )
             for b in books[y]:
                 if "placeholder" not in b.thumbnail and b.progress > 0.0:
-                    o.write('<img src="{0}" width=128>'.format(b.thumbnail))
+                    o.write('<img src="{0}" width=128>\n'.format(b.thumbnail))
             o.write("\n---\n")
+
         o.write("#### &copy; {0} Bharath Krishnan".format(datetime.date.today().year))
 
     with open("../mosaic/index.html", "w") as o:
