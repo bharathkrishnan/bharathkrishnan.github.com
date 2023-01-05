@@ -147,8 +147,9 @@ def main():
             [x for (x, z) in sorted(years.items(), reverse=True)], desc="Book Index"
         ):
             o.write("- [{0}](books/{0}.md)\n".format(y))
-            # o.write('## Top Authors, 2022\n')
-            # o.write(gen_top_authors(2022))
+        for y in tqdm(
+            [x for (x, z) in sorted(years.items(), reverse=True)], desc="Book Index"
+        ):
             o.write("## Books with 5-star reviews, {0}\n".format(y))
             for b in books[y]:
                 if "placeholder" not in b.thumbnail and b.rating > 4.0:
@@ -162,7 +163,7 @@ def main():
             for b in books[y]:
                 if "placeholder" not in b.thumbnail and b.progress > 0.0:
                     o.write('<img src="{0}" width=128>'.format(b.thumbnail))
-            o.write("---\n")
+            o.write("\n---\n")
         o.write("#### &copy; {0} Bharath Krishnan".format(datetime.date.today().year))
 
     with open("../mosaic/index.html", "w") as o:
