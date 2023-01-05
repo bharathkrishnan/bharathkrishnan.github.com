@@ -21,7 +21,7 @@
 ## ![Eversion](https://covers.openlibrary.org/b/isbn/978-0316462822-M.jpg) Eversion
 *[Alastair Reynolds](../authors/AlastairReynolds)*
 
-[Massachusetts Library](https://library.minlib.net/search/i=978-0316462822) / [Open Library](https://openlibrary.org/isbn/978-0316462822) / [Local Book Shop](https://bookshop.org/book/978-0316462822) / [Amazon](https://smile.amazon.com/dp/0316462829)
+[Massachusetts Library](https://library.minlib.net/search/i=9780316462822) / [Open Library](https://openlibrary.org/isbn/9780316462822) / [Local Book Shop](https://bookshop.org/book/9780316462822) / [Amazon](https://smile.amazon.com/dp/0316462829)
 
 ![100%](https://progress-bar.dev/100) 
 

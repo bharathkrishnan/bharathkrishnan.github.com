@@ -7,7 +7,7 @@ class Book:
         self.title = data["Title"]
         self.authors = [Author(x) for x in data["Authors"]]
         self.isbn10 = data["ISBN10"]
-        self.isbn13 = data["ISBN13"]
+        self.isbn13 = data["ISBN13"].replace('-', '')
         self.rating = data["Rating"]
         self.readYear = data["ReadYear"]
         self.progress = data["Progress"]
