@@ -3,7 +3,7 @@
 ## ![Every Sky a Grave](https://covers.openlibrary.org/b/isbn/9781982126681-M.jpg) Every Sky a Grave
 *[Jay Posey](../authors/JayPosey)*
 
-[Massachusetts Library](https://library.minlib.net/search/i=9781982126681) / [Open Library](https://openlibrary.org/isbn/9781982126681) / [Local Book Shop](https://bookshop.org/books/every-sky-a-grave/9781982126681) / [Amazon](https://smile.amazon.com/dp/198212668X)
+[Massachusetts Library](https://library.minlib.net/search/i=9781982126681) / [Open Library](https://openlibrary.org/isbn/9781982126681) / [Local Book Shop](https://bookshop.org/book/9781982126681) / [Amazon](https://smile.amazon.com/dp/198212668X)
 
 ![100%](https://progress-bar.dev/100) 
 

@@ -45,7 +45,7 @@ class Book:
                 return None
 
     def print(self) -> str:
-        return "## ![{0}]({7}) {0}\n*{1}*\n\n[Massachusetts Library](https://library.minlib.net/search/i={3}) / [Open Library](https://openlibrary.org/isbn/{3}) / [Local Book Shop](https://bookshop.org/books/{4}/{3}) / [Amazon](https://smile.amazon.com/dp/{2})\n\n![{5}%](https://progress-bar.dev/{5}) \n\n{6}\n".format(
+        return "## ![{0}]({7}) {0}\n*{1}*\n\n[Massachusetts Library](https://library.minlib.net/search/i={3}) / [Open Library](https://openlibrary.org/isbn/{3}) / [Local Book Shop](https://bookshop.org/book/{3}) / [Amazon](https://smile.amazon.com/dp/{2})\n\n![{5}%](https://progress-bar.dev/{5}) \n\n{6}\n".format(
             self.title,
             " & ".join([a.print_link() for a in self.authors]),
             self.isbn10,

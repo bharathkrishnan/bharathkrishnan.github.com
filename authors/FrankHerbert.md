@@ -3,7 +3,7 @@
 ## ![Dune](https://covers.openlibrary.org/b/isbn/9780441013593-M.jpg) Dune
 *[Frank Herbert](../authors/FrankHerbert)*
 
-[Massachusetts Library](https://library.minlib.net/search/i=9780441013593) / [Open Library](https://openlibrary.org/isbn/9780441013593) / [Local Book Shop](https://bookshop.org/books/dune/9780441013593) / [Amazon](https://smile.amazon.com/dp/0441013597)
+[Massachusetts Library](https://library.minlib.net/search/i=9780441013593) / [Open Library](https://openlibrary.org/isbn/9780441013593) / [Local Book Shop](https://bookshop.org/book/9780441013593) / [Amazon](https://smile.amazon.com/dp/0441013597)
 
 ![100%](https://progress-bar.dev/100) 
 
