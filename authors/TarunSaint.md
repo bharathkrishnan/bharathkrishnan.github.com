@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9789388322058) / [Open Library](https://openlibrary.org/isbn/9789388322058) / [Local Book Shop](https://bookshop.org/book/9789388322058) / [Amazon](https://smile.amazon.com/dp/9388322053)
 
-![0%](https://progress-bar.dev/0) 
+![25%](https://progress-bar.dev/25) 
 
 
 
