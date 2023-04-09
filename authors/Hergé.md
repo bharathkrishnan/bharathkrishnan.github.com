@@ -9,7 +9,7 @@
 
 
 
-## ![The Valley of the Cobras (The Adventures of Jo, Zette and Jocko)](https://via.placeholder.com/128x202?text=The+Valley+of+the+Cobras+(The+Adventures+of+Jo,+Zette+and+Jocko)) The Valley of the Cobras (The Adventures of Jo, Zette and Jocko)
+## ![The Valley of the Cobras (The Adventures of Jo, Zette and Jocko)](https://covers.openlibrary.org/b/isbn/9780416596700-M.jpg) The Valley of the Cobras (The Adventures of Jo, Zette and Jocko)
 *[Hergé](../authors/Hergé)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780416596700) / [Open Library](https://openlibrary.org/isbn/9780416596700) / [Local Book Shop](https://bookshop.org/book/9780416596700) / [Amazon](https://smile.amazon.com/dp/0416596703)

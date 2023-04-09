@@ -845,7 +845,8 @@
             "ISBN10": "9391028624",
             "ReadYear": 2022,
             "Progress": 0.0,
-            "Rating": 0.0
+            "Rating": 0.0,
+            "ThumbNail": "https://covers.openlibrary.org/b/isbn/9789391028626-M.jpg"
         },
         {
             "Authors": [
@@ -979,7 +980,8 @@
             "ISBN10": "0416596703",
             "ReadYear": 2022,
             "Progress": 0.0,
-            "Rating": 0.0
+            "Rating": 0.0,
+            "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780416596700-M.jpg"
         },
         {
             "Title": "Mickey7: A Novel",
@@ -992,6 +994,30 @@
             "Progress": 1.0,
             "Rating": 5.0,
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/978-1250275035-M.jpg"
+        },
+        {
+            "Title": "Meru",
+            "Authors": [
+                "S. B. Divya"
+            ],
+            "ISBN13": "978-1662505096",
+            "ISBN10": "1662505094",
+            "ReadYear": 2023,
+            "Progress": 0.1,
+            "Rating": 0.0,
+            "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781662505096-M.jpg"
+        },
+        {
+            "Title": "The Immortality Thief",
+            "Authors": [
+                "Taran Hunt"
+            ],
+            "ISBN13": "978-1786185129",
+            "ISBN10": "1786185121",
+            "ReadYear": 2023,
+            "Progress": 0.0,
+            "Rating": 0.0,
+            "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781786185129-M.jpg"
         }
     ]
 }

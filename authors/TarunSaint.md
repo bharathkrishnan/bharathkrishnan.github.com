@@ -9,7 +9,7 @@
 
 
 
-## ![The Gollancz Book of South Asian Science Fiction Volume 2](https://via.placeholder.com/128x202?text=The+Gollancz+Book+of+South+Asian+Science+Fiction+Volume+2) The Gollancz Book of South Asian Science Fiction Volume 2
+## ![The Gollancz Book of South Asian Science Fiction Volume 2](https://covers.openlibrary.org/b/isbn/9789391028626-M.jpg) The Gollancz Book of South Asian Science Fiction Volume 2
 *[Tarun Saint](../authors/TarunSaint)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9789391028626) / [Open Library](https://openlibrary.org/isbn/9789391028626) / [Local Book Shop](https://bookshop.org/book/9789391028626) / [Amazon](https://smile.amazon.com/dp/9391028624)
