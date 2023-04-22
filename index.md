@@ -9,7 +9,7 @@
 <img src="https://covers.openlibrary.org/b/isbn/978-1250275035-M.jpg" width=128>
 
 
-## Read completion: 25.0%
+## Read completion: 50.0%
 <img src="https://covers.openlibrary.org/b/isbn/978-9388322058-M.jpg" width=128>
 <img src="https://covers.openlibrary.org/b/isbn/978-1250275035-M.jpg" width=128>
 <img src="https://covers.openlibrary.org/b/isbn/9781662505096-M.jpg" width=128>
