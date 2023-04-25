@@ -1,5 +1,5 @@
 # Year: 2023 / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2023: 4 Authors, 2 / 4 Books Read, Avg Rating: 4.5 :star: :star: :star: :star:
+# 2023: 4 Authors, 3 / 4 Books Read, Avg Rating: 4.33 :star: :star: :star: :star:
 
 ## ![The Gollancz Book of South Asian Science Fiction](https://covers.openlibrary.org/b/isbn/978-9388322058-M.jpg) The Gollancz Book of South Asian Science Fiction
 *[Tarun Saint](../authors/TarunSaint)*
@@ -33,8 +33,8 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781786185129) / [Open Library](https://openlibrary.org/isbn/9781786185129) / [Local Book Shop](https://bookshop.org/book/9781786185129) / [Amazon](https://smile.amazon.com/dp/1786185121)
 
-![0%](https://progress-bar.dev/0) 
+![100%](https://progress-bar.dev/100) 
 
-
+:star: :star: :star: :star:
 
 ---
