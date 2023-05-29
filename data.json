@@ -1018,6 +1018,18 @@
             "Progress": 1.0,
             "Rating": 4.0,
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781786185129-M.jpg"
+        },
+        {
+            "Title": "Antimatter Blues: A Mickey7 Novel",
+            "Authors": [
+                "Edward Ashton"
+            ],
+            "ISBN13": "978-1250275059",
+            "ISBN10": "1250275059",
+            "ReadYear": 2023,
+            "Progress": 0.5,
+            "Rating": 0.0,
+            "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781250275059-M.jpg"
         }
     ]
 }

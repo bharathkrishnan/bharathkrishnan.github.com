@@ -1,5 +1,5 @@
 # Year: 2023 / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2023: 4 Authors, 3 / 4 Books Read, Avg Rating: 4.33 :star: :star: :star: :star:
+# 2023: 4 Authors, 3 / 5 Books Read, Avg Rating: 4.33 :star: :star: :star: :star:
 
 ## ![The Gollancz Book of South Asian Science Fiction](https://covers.openlibrary.org/b/isbn/978-9388322058-M.jpg) The Gollancz Book of South Asian Science Fiction
 *[Tarun Saint](../authors/TarunSaint)*
@@ -36,5 +36,14 @@
 ![100%](https://progress-bar.dev/100) 
 
 :star: :star: :star: :star:
+
+## ![Antimatter Blues: A Mickey7 Novel](https://covers.openlibrary.org/b/isbn/9781250275059-M.jpg) Antimatter Blues: A Mickey7 Novel
+*[Edward Ashton](../authors/EdwardAshton)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781250275059) / [Open Library](https://openlibrary.org/isbn/9781250275059) / [Local Book Shop](https://bookshop.org/book/9781250275059) / [Amazon](https://smile.amazon.com/dp/1250275059)
+
+![50%](https://progress-bar.dev/50) 
+
+
 
 ---
