@@ -1,5 +1,5 @@
 # Year: 2023 / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2023: 5 Authors, 5 / 6 Books Read, Avg Rating: 4.0 :star: :star: :star: :star:
+# 2023: 6 Authors, 5 / 7 Books Read, Avg Rating: 4.0 :star: :star: :star: :star:
 
 ## ![The Gollancz Book of South Asian Science Fiction](https://covers.openlibrary.org/b/isbn/978-9388322058-M.jpg) The Gollancz Book of South Asian Science Fiction
 *[Tarun Saint](../authors/TarunSaint)*
@@ -54,5 +54,14 @@
 ![100%](https://progress-bar.dev/100) 
 
 :star: :star: :star:
+
+## ![Titanium Noir: A novel](https://covers.openlibrary.org/b/isbn/9780593535363-M.jpg) Titanium Noir: A novel
+*[Nick Harkaway](../authors/NickHarkaway)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780593535363) / [Open Library](https://openlibrary.org/isbn/9780593535363) / [Local Book Shop](https://bookshop.org/book/9780593535363) / [Amazon](https://smile.amazon.com/dp/0593535367)
+
+![0%](https://progress-bar.dev/0) 
+
+
 
 ---

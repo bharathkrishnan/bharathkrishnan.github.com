@@ -1042,6 +1042,18 @@
             "Progress": 1.0,
             "Rating": 3.0,
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781982192297-M.jpg"
+        },
+        {
+            "Title": "Titanium Noir: A novel",
+            "Authors": [
+                "Nick Harkaway"
+            ],
+            "ISBN13": "978-0593535363",
+            "ISBN10": "0593535367",
+            "ReadYear": 2023,
+            "Progress": 0.0,
+            "Rating": 0.0,
+            "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780593535363-M.jpg"
         }
     ]
 }
