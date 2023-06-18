@@ -7,15 +7,17 @@
 - [2020](books/2020.md)
 ## Books with 5-star reviews, 2023
 <img src="https://covers.openlibrary.org/b/isbn/978-1250275035-M.jpg" width=128>
+<img src="https://covers.openlibrary.org/b/isbn/9780593535363-M.jpg" width=128>
 
 
-## Read completion: 62.5%
+## Read completion: 75.0%
 <img src="https://covers.openlibrary.org/b/isbn/978-9388322058-M.jpg" width=128>
 <img src="https://covers.openlibrary.org/b/isbn/978-1250275035-M.jpg" width=128>
 <img src="https://covers.openlibrary.org/b/isbn/9781662505096-M.jpg" width=128>
 <img src="https://covers.openlibrary.org/b/isbn/9781786185129-M.jpg" width=128>
 <img src="https://covers.openlibrary.org/b/isbn/9781250275059-M.jpg" width=128>
 <img src="https://covers.openlibrary.org/b/isbn/9781982192297-M.jpg" width=128>
+<img src="https://covers.openlibrary.org/b/isbn/9780593535363-M.jpg" width=128>
 
 ---
 ## Books with 5-star reviews, 2022

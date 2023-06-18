@@ -1,5 +1,5 @@
 # Year: 2023 / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2023: 7 Authors, 5 / 8 Books Read, Avg Rating: 4.0 :star: :star: :star: :star:
+# 2023: 7 Authors, 6 / 8 Books Read, Avg Rating: 4.17 :star: :star: :star: :star:
 
 ## ![The Gollancz Book of South Asian Science Fiction](https://covers.openlibrary.org/b/isbn/978-9388322058-M.jpg) The Gollancz Book of South Asian Science Fiction
 *[Tarun Saint](../authors/TarunSaint)*
@@ -60,9 +60,9 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780593535363) / [Open Library](https://openlibrary.org/isbn/9780593535363) / [Local Book Shop](https://bookshop.org/book/9780593535363) / [Amazon](https://smile.amazon.com/dp/0593535367)
 
-![0%](https://progress-bar.dev/0) 
+![100%](https://progress-bar.dev/100) 
 
-
+:star: :star: :star: :star: :star:
 
 ## ![The Song of the Cell: An Exploration of Medicine and the New Human](https://covers.openlibrary.org/b/isbn/9781982117351-M.jpg) The Song of the Cell: An Exploration of Medicine and the New Human
 *[Siddhartha Mukherjee](../authors/SiddharthaMukherjee)*
