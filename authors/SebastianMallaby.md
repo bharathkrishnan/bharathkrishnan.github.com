@@ -3,7 +3,7 @@
 ## ![The Power Law: Venture Capital and the Making of the New Future](https://covers.openlibrary.org/b/isbn/978-0525559993-M.jpg) The Power Law: Venture Capital and the Making of the New Future
 *[Sebastian Mallaby](../authors/SebastianMallaby)*
 
-[Massachusetts Library](https://library.minlib.net/search/i=9780525559993) / [Open Library](https://openlibrary.org/isbn/9780525559993) / [Local Book Shop](https://bookshop.org/book/9780525559993) / [Amazon](https://smile.amazon.com/dp/052555999X)
+[Massachusetts Library](https://library.minlib.net/search/i=9780525559993) / [Open Library](https://openlibrary.org/isbn/9780525559993) / [Local Book Shop](https://bookshop.org/book/9780525559993) / [Amazon](https://amazon.com/dp/052555999X)
 
 ![10%](https://progress-bar.dev/10) 
 
