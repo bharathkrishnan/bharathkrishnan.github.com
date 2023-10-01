@@ -23,6 +23,7 @@ class Book:
             self.thumbnail = data["ThumbNail"]
 
     def get_thumbnail(self):
+        # https://secure.syndetics.com/index.aspx?isbn=9780525538424/mc.gif&upc=&client=bcclsvega&type=unbound
         olurl = "https://covers.openlibrary.org/b/isbn/{0}-M.jpg".format(self.isbn13)
         gburl = "https://www.googleapis.com/books/v1/volumes?q=isbn:{0}".format(
             self.isbn13.replace("-", "")
