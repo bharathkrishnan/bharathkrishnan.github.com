@@ -1,5 +1,5 @@
 # Year: 2023 / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2023: 8 Authors, 6 / 9 Books Read, Avg Rating: 4.17 :star: :star: :star: :star:
+# 2023: 9 Authors, 7 / 10 Books Read, Avg Rating: 3.71 :star: :star: :star: :star:
 
 ## ![The Gollancz Book of South Asian Science Fiction](https://covers.openlibrary.org/b/isbn/978-9388322058-M.jpg) The Gollancz Book of South Asian Science Fiction
 *[Tarun Saint](../authors/TarunSaint)*
@@ -81,5 +81,14 @@
 ![10%](https://progress-bar.dev/10) 
 
 
+
+## ![The Fox](https://covers.openlibrary.org/b/isbn/9780525538424-M.jpg) The Fox
+*[Frederick Forsyth](../authors/FrederickForsyth)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780525538424) / [Open Library](https://openlibrary.org/isbn/9780525538424) / [Local Book Shop](https://bookshop.org/book/9780525538424) / [Amazon](https://amazon.com/dp/0525538429)
+
+![100%](https://progress-bar.dev/100) 
+
+:star:
 
 ---

@@ -1078,6 +1078,18 @@
             "Progress": 0.1,
             "Rating": 0.0,
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780425167724-M.jpg"
+        },
+        {
+            "Title": "The Fox",
+            "Authors": [
+                "Frederick Forsyth"
+            ],
+            "ISBN13": "978-0525538424",
+            "ISBN10": "0525538429",
+            "ReadYear": 2023,
+            "Progress": 1.0,
+            "Rating": 1.0,
+            "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780525538424-M.jpg"
         }
     ]
 }
