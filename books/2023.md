@@ -1,5 +1,5 @@
 # Year: 2023 / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2023: 9 Authors, 7 / 10 Books Read, Avg Rating: 3.71 :star: :star: :star: :star:
+# 2023: 10 Authors, 8 / 11 Books Read, Avg Rating: 3.88 :star: :star: :star: :star:
 
 ## ![The Gollancz Book of South Asian Science Fiction](https://covers.openlibrary.org/b/isbn/978-9388322058-M.jpg) The Gollancz Book of South Asian Science Fiction
 *[Tarun Saint](../authors/TarunSaint)*
@@ -90,5 +90,14 @@
 ![100%](https://progress-bar.dev/100) 
 
 :star:
+
+## ![Counterweight: A Novel](https://covers.openlibrary.org/b/isbn/9780593317211-M.jpg) Counterweight: A Novel
+*[Djuna](../authors/Djuna)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780593317211) / [Open Library](https://openlibrary.org/isbn/9780593317211) / [Local Book Shop](https://bookshop.org/book/9780593317211) / [Amazon](https://amazon.com/dp/0593317211)
+
+![100%](https://progress-bar.dev/100) 
+
+:star: :star: :star: :star: :star:
 
 ---

@@ -1090,6 +1090,18 @@
             "Progress": 1.0,
             "Rating": 1.0,
             "ThumbNail": "https://books.google.com/books/content?id=whmtDwAAQBAJ&w=96&img=1&zoom=5&printsec=frontcover"
+        },
+        {
+            "Title": "Counterweight: A Novel",
+            "Authors": [
+                "Djuna"
+            ],
+            "ISBN13": "978-0593317211",
+            "ISBN10": "0593317211",
+            "ReadYear": 2023,
+            "Progress": 1.0,
+            "Rating": 5.0,
+            "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780593317211-M.jpg"
         }
     ]
 }
