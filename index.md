@@ -11,7 +11,7 @@
 <img src="https://covers.openlibrary.org/b/isbn/9780593317211-M.jpg" width=128>
 
 
-## Read completion: 72.73%
+## Read completion: 66.67%
 <img src="https://covers.openlibrary.org/b/isbn/978-9388322058-M.jpg" width=128>
 <img src="https://covers.openlibrary.org/b/isbn/978-1250275035-M.jpg" width=128>
 <img src="https://covers.openlibrary.org/b/isbn/9781662505096-M.jpg" width=128>
@@ -22,6 +22,7 @@
 <img src="https://covers.openlibrary.org/b/isbn/9780425167724-M.jpg" width=128>
 <img src="https://books.google.com/books/content?id=whmtDwAAQBAJ&w=96&img=1&zoom=5&printsec=frontcover" width=128>
 <img src="https://covers.openlibrary.org/b/isbn/9780593317211-M.jpg" width=128>
+<img src="https://covers.openlibrary.org/b/isbn/9780316289719-M.jpg" width=128>
 
 ---
 ## Books with 5-star reviews, 2022
