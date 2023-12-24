@@ -1111,8 +1111,8 @@
             "ISBN13": "978-0316289719",
             "ISBN10": "031628971X",
             "ReadYear": 2023,
-            "Progress": 0.1,
-            "Rating": 0.0,
+            "Progress": 1.0,
+            "Rating": 5.0,
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780316289719-M.jpg"
         }
     ]
