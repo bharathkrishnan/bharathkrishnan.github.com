@@ -1,5 +1,5 @@
 # Year: 2023 / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2023: 11 Authors, 9 / 12 Books Read, Avg Rating: 4.0 :star: :star: :star: :star:
+# 2023: 11 Authors, 10 / 13 Books Read, Avg Rating: 4.1 :star: :star: :star: :star:
 
 ## ![The Gollancz Book of South Asian Science Fiction](https://covers.openlibrary.org/b/isbn/978-9388322058-M.jpg) The Gollancz Book of South Asian Science Fiction
 *[Tarun Saint](../authors/TarunSaint)*
@@ -104,6 +104,15 @@
 *[Ann Leckie](../authors/AnnLeckie)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780316289719) / [Open Library](https://openlibrary.org/isbn/9780316289719) / [Local Book Shop](https://bookshop.org/book/9780316289719) / [Amazon](https://amazon.com/dp/031628971X)
+
+![100%](https://progress-bar.dev/100) 
+
+:star: :star: :star: :star: :star:
+
+## ![Ancillary Mercy (Imperial Radch, 3)](https://covers.openlibrary.org/b/isbn/9780316246682-M.jpg) Ancillary Mercy (Imperial Radch, 3)
+*[Ann Leckie](../authors/AnnLeckie)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780316246682) / [Open Library](https://openlibrary.org/isbn/9780316246682) / [Local Book Shop](https://bookshop.org/book/9780316246682) / [Amazon](https://amazon.com/dp/0316246689)
 
 ![100%](https://progress-bar.dev/100) 
 

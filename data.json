@@ -1114,6 +1114,18 @@
             "Progress": 1.0,
             "Rating": 5.0,
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780316289719-M.jpg"
+        },
+        {
+            "Title": "Ancillary Mercy (Imperial Radch, 3)",
+            "Authors": [
+                "Ann Leckie"
+            ],
+            "ISBN13": "978-0316246682",
+            "ISBN10": "0316246689",
+            "ReadYear": 2023,
+            "Progress": 1.0,
+            "Rating": 5.0,
+            "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780316246682-M.jpg"
         }
     ]
 }

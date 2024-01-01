@@ -10,9 +10,10 @@
 <img src="https://covers.openlibrary.org/b/isbn/9780593535363-M.jpg" width=128>
 <img src="https://covers.openlibrary.org/b/isbn/9780593317211-M.jpg" width=128>
 <img src="https://covers.openlibrary.org/b/isbn/9780316289719-M.jpg" width=128>
+<img src="https://covers.openlibrary.org/b/isbn/9780316246682-M.jpg" width=128>
 
 
-## Read completion: 75.0%
+## Read completion: 76.92%
 <img src="https://covers.openlibrary.org/b/isbn/978-9388322058-M.jpg" width=128>
 <img src="https://covers.openlibrary.org/b/isbn/978-1250275035-M.jpg" width=128>
 <img src="https://covers.openlibrary.org/b/isbn/9781662505096-M.jpg" width=128>
@@ -24,6 +25,7 @@
 <img src="https://books.google.com/books/content?id=whmtDwAAQBAJ&w=96&img=1&zoom=5&printsec=frontcover" width=128>
 <img src="https://covers.openlibrary.org/b/isbn/9780593317211-M.jpg" width=128>
 <img src="https://covers.openlibrary.org/b/isbn/9780316289719-M.jpg" width=128>
+<img src="https://covers.openlibrary.org/b/isbn/9780316246682-M.jpg" width=128>
 
 ---
 ## Books with 5-star reviews, 2022
@@ -107,4 +109,4 @@
 <img src="https://covers.openlibrary.org/b/isbn/9780062407801-M.jpg" width=128>
 
 ---
-#### &copy; 2023 Bharath Krishnan
+#### &copy; 2024 Bharath Krishnan
