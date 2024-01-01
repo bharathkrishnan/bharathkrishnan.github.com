@@ -1,4 +1,4 @@
-# Year: 2024 / [2023](../books/) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
+# Year: 2024 / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
 # 2024: 1 Authors, 0 / 1 Books Read, Avg Rating: 0.0 
 
 ## ![The Strange](https://covers.openlibrary.org/b/isbn/9781534449954-M.jpg) The Strange

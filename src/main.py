@@ -62,13 +62,13 @@ def print_header(years, cur_year):
             if y == cur_year:
                 s = s + "{0} ".format(y)
             else:
-                s = s + "[{0}](../books/{1}) ".format(y, "" if y == 2023 else y)
+                s = s + "[{0}](../books/{1}) ".format(y, "" if y == 2024 else y)
             first = False
         else:
             if y == cur_year:
                 s = s + "/ {0} ".format(y)
             else:
-                s = s + "/ [{0}](../books/{1}) ".format(y, "" if y == 2023 else y)
+                s = s + "/ [{0}](../books/{1}) ".format(y, "" if y == 2024 else y)
     s = s + "\n"
     return s
 
