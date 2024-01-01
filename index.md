@@ -1,10 +1,17 @@
 # Excellent Books
 ## [Book cover mosaic generator](/mosaic)
 ## Books read by year
+- [2024](books/2024.md)
 - [2023](books/2023.md)
 - [2022](books/2022.md)
 - [2021](books/2021.md)
 - [2020](books/2020.md)
+## Books with 5-star reviews, 2024
+
+
+## Read completion: 0.0%
+
+---
 ## Books with 5-star reviews, 2023
 <img src="https://covers.openlibrary.org/b/isbn/978-1250275035-M.jpg" width=128>
 <img src="https://covers.openlibrary.org/b/isbn/9780593535363-M.jpg" width=128>

@@ -1126,6 +1126,18 @@
             "Progress": 1.0,
             "Rating": 5.0,
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780316246682-M.jpg"
+        },
+        {
+            "Title": "The Strange",
+            "Authors": [
+                "Nathan Ballingrud"
+            ],
+            "ISBN13": "978-1534449954",
+            "ISBN10": "1534449957",
+            "ReadYear": 2024,
+            "Progress": 0.0,
+            "Rating": 0.0,
+            "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781534449954-M.jpg"
         }
     ]
 }
