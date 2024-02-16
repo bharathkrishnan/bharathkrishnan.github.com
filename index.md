@@ -7,9 +7,11 @@
 - [2021](books/2021.md)
 - [2020](books/2020.md)
 ## Books with 5-star reviews, 2024
+<img src="https://covers.openlibrary.org/b/isbn/9780316462846-M.jpg" width=128>
 
 
-## Read completion: 0.0%
+## Read completion: 50.0%
+<img src="https://covers.openlibrary.org/b/isbn/9780316462846-M.jpg" width=128>
 
 ---
 ## Books with 5-star reviews, 2023

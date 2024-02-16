@@ -1,4 +1,4 @@
-# Alastair Reynolds:  Books Read 3 / 3, Avg Rating: 4.67 :star: :star: :star: :star: :star:
+# Alastair Reynolds:  Books Read 4 / 4, Avg Rating: 4.75 :star: :star: :star: :star: :star:
 
 ## ![Inhibitor Phase (Revelation Space)](https://covers.openlibrary.org/b/isbn/9780316462761-M.jpg) Inhibitor Phase (Revelation Space)
 *[Alastair Reynolds](../authors/AlastairReynolds)*
@@ -26,5 +26,14 @@
 ![100%](https://progress-bar.dev/100) 
 
 :star: :star: :star: :star:
+
+## ![Machine Vendetta (The Prefect Dreyfus Emergencies, 3)](https://covers.openlibrary.org/b/isbn/9780316462846-M.jpg) Machine Vendetta (The Prefect Dreyfus Emergencies, 3)
+*[Alastair Reynolds](../authors/AlastairReynolds)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780316462846) / [Open Library](https://openlibrary.org/isbn/9780316462846) / [Local Book Shop](https://bookshop.org/book/9780316462846) / [Amazon](https://amazon.com/dp/0316462845)
+
+![100%](https://progress-bar.dev/100) 
+
+:star: :star: :star: :star: :star:
 
 ---

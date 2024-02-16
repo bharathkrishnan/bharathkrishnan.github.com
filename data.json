@@ -1138,6 +1138,18 @@
             "Progress": 0.0,
             "Rating": 0.0,
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781534449954-M.jpg"
+        },
+        {
+            "Title": "Machine Vendetta (The Prefect Dreyfus Emergencies, 3)",
+            "Authors": [
+                "Alastair Reynolds"
+            ],
+            "ISBN13": "978-0316462846",
+            "ISBN10": "0316462845",
+            "ReadYear": 2024,
+            "Progress": 1.0,
+            "Rating": 5.0,
+            "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780316462846-M.jpg"
         }
     ]
 }
