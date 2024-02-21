@@ -1162,6 +1162,18 @@
             "Progress": 0.0,
             "Rating": 0.0,
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780765319647-M.jpg"
+        },
+        {
+            "Title": "Ascension: A Novel",
+            "Authors": [
+                "Nicholas Binge"
+            ],
+            "ISBN13": "978-0593539583",
+            "ISBN10": "0593539583",
+            "ReadYear": 2024,
+            "Progress": 0.0,
+            "Rating": 0.0,
+            "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780593539583-M.jpg"
         }
     ]
 }

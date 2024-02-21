@@ -10,7 +10,7 @@
 <img src="https://covers.openlibrary.org/b/isbn/9780316462846-M.jpg" width=128>
 
 
-## Read completion: 33.33%
+## Read completion: 25.0%
 <img src="https://covers.openlibrary.org/b/isbn/9780316462846-M.jpg" width=128>
 
 ---
