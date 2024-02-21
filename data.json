@@ -1150,6 +1150,18 @@
             "Progress": 1.0,
             "Rating": 5.0,
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780316462846-M.jpg"
+        },
+        {
+            "Title": "BLINDSIGHT (Firefall, 1)",
+            "Authors": [
+                "Peter Watts"
+            ],
+            "ISBN13": "978-0765319647",
+            "ISBN10": "0765319640",
+            "ReadYear": 2024,
+            "Progress": 0.0,
+            "Rating": 0.0,
+            "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780765319647-M.jpg"
         }
     ]
 }
