@@ -1,12 +1,12 @@
-# Peter Watts:  Books Read 0 / 1, Avg Rating: 0.0 
+# Peter Watts:  Books Read 1 / 1, Avg Rating: 5.0 :star: :star: :star: :star: :star:
 
 ## ![BLINDSIGHT (Firefall, 1)](https://covers.openlibrary.org/b/isbn/9780765319647-M.jpg) BLINDSIGHT (Firefall, 1)
 *[Peter Watts](../authors/PeterWatts)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780765319647) / [Open Library](https://openlibrary.org/isbn/9780765319647) / [Local Book Shop](https://bookshop.org/book/9780765319647) / [Amazon](https://amazon.com/dp/0765319640)
 
-![0%](https://progress-bar.dev/0) 
+![100%](https://progress-bar.dev/100) 
 
-
+:star: :star: :star: :star: :star:
 
 ---

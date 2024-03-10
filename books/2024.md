@@ -1,5 +1,5 @@
 # Year: 2024 / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2024: 4 Authors, 1 / 4 Books Read, Avg Rating: 5.0 :star: :star: :star: :star: :star:
+# 2024: 4 Authors, 2 / 4 Books Read, Avg Rating: 5.0 :star: :star: :star: :star: :star:
 
 ## ![The Strange](https://covers.openlibrary.org/b/isbn/9781534449954-M.jpg) The Strange
 *[Nathan Ballingrud](../authors/NathanBallingrud)*
@@ -24,9 +24,9 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780765319647) / [Open Library](https://openlibrary.org/isbn/9780765319647) / [Local Book Shop](https://bookshop.org/book/9780765319647) / [Amazon](https://amazon.com/dp/0765319640)
 
-![0%](https://progress-bar.dev/0) 
+![100%](https://progress-bar.dev/100) 
 
-
+:star: :star: :star: :star: :star:
 
 ## ![Ascension: A Novel](https://covers.openlibrary.org/b/isbn/9780593539583-M.jpg) Ascension: A Novel
 *[Nicholas Binge](../authors/NicholasBinge)*
