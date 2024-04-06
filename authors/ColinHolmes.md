@@ -1,0 +1,12 @@
+# Colin Holmes:  Books Read 1 / 1, Avg Rating: 2.0 :star: :star:
+
+## ![The Oxygen Farmer](https://covers.openlibrary.org/b/isbn/9780744306675-M.jpg) The Oxygen Farmer
+*[Colin Holmes](../authors/ColinHolmes)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780744306675) / [Open Library](https://openlibrary.org/isbn/9780744306675) / [Local Book Shop](https://bookshop.org/book/9780744306675) / [Amazon](https://amazon.com/dp/0744306671)
+
+![100%](https://progress-bar.dev/100) 
+
+:star: :star:
+
+---

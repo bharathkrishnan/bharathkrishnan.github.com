@@ -1174,6 +1174,18 @@
             "Progress": 0.0,
             "Rating": 0.0,
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780593539583-M.jpg"
+        },
+        {
+            "Title": "The Oxygen Farmer",
+            "Authors": [
+                "Colin Holmes"
+            ],
+            "ISBN13": "978-0744306675",
+            "ISBN10": "0744306671",
+            "ReadYear": 2024,
+            "Progress": 1.0,
+            "Rating": 2.0,
+            "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780744306675-M.jpg"
         }
     ]
 }
