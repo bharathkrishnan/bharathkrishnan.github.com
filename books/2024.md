@@ -1,5 +1,5 @@
 # Year: 2024 / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2024: 5 Authors, 3 / 5 Books Read, Avg Rating: 4.0 :star: :star: :star: :star:
+# 2024: 6 Authors, 4 / 6 Books Read, Avg Rating: 4.25 :star: :star: :star: :star:
 
 ## ![The Strange](https://covers.openlibrary.org/b/isbn/9781534449954-M.jpg) The Strange
 *[Nathan Ballingrud](../authors/NathanBallingrud)*
@@ -45,5 +45,14 @@
 ![100%](https://progress-bar.dev/100) 
 
 :star: :star:
+
+## ![The State of The Art](https://covers.openlibrary.org/b/isbn/9780316565646-M.jpg) The State of The Art
+*[Iain M. Banks](../authors/IainMBanks)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780316565646) / [Open Library](https://openlibrary.org/isbn/9780316565646) / [Local Book Shop](https://bookshop.org/book/9780316565646) / [Amazon](https://amazon.com/dp/0316565644)
+
+![100%](https://progress-bar.dev/100) 
+
+:star: :star: :star: :star: :star:
 
 ---

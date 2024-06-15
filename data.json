@@ -1186,6 +1186,18 @@
             "Progress": 1.0,
             "Rating": 2.0,
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780744306675.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "The State of The Art",
+            "Authors": [
+                "Iain M. Banks"
+            ],
+            "ISBN13": "978-0316565646",
+            "ISBN10": "0316565644",
+            "ReadYear": 2024,
+            "Progress": 1.0,
+            "Rating": 5.0,
+            "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780316565646-M.jpg"
         }
     ]
 }
