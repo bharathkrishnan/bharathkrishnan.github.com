@@ -1,5 +1,5 @@
 # Year: 2024 / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2024: 6 Authors, 4 / 6 Books Read, Avg Rating: 4.25 :star: :star: :star: :star:
+# 2024: 6 Authors, 5 / 9 Books Read, Avg Rating: 4.4 :star: :star: :star: :star:
 
 ## ![The Strange](https://covers.openlibrary.org/b/isbn/9781534449954-M.jpg) The Strange
 *[Nathan Ballingrud](../authors/NathanBallingrud)*
@@ -46,13 +46,40 @@
 
 :star: :star:
 
-## ![The State of The Art](https://covers.openlibrary.org/b/isbn/9780316565646-M.jpg) The State of The Art
+## ![The State of The Art](https://images-us.bookshop.org/ingram/9780316565646.jpg?height=300&v=v2) The State of The Art
 *[Iain M. Banks](../authors/IainMBanks)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780316565646) / [Open Library](https://openlibrary.org/isbn/9780316565646) / [Local Book Shop](https://bookshop.org/book/9780316565646) / [Amazon](https://amazon.com/dp/0316565644)
 
+![75%](https://progress-bar.dev/75) 
+
+:star: :star: :star: :star: :star:
+
+## ![Surface Detail (Culture)](https://covers.openlibrary.org/b/isbn/9780316123419-M.jpg) Surface Detail (Culture)
+*[Iain M. Banks](../authors/IainMBanks)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780316123419) / [Open Library](https://openlibrary.org/isbn/9780316123419) / [Local Book Shop](https://bookshop.org/book/9780316123419) / [Amazon](https://amazon.com/dp/0316123412)
+
 ![100%](https://progress-bar.dev/100) 
 
 :star: :star: :star: :star: :star:
+
+## ![Use of Weapons (Culture)](https://covers.openlibrary.org/b/isbn/9780316030571-M.jpg) Use of Weapons (Culture)
+*[Iain M. Banks](../authors/IainMBanks)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780316030571) / [Open Library](https://openlibrary.org/isbn/9780316030571) / [Local Book Shop](https://bookshop.org/book/9780316030571) / [Amazon](https://amazon.com/dp/0316030570)
+
+![0%](https://progress-bar.dev/0) 
+
+
+
+## ![The Player of Games (Culture)](https://covers.openlibrary.org/b/isbn/9780316005401-M.jpg) The Player of Games (Culture)
+*[Iain M. Banks](../authors/IainMBanks)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780316005401) / [Open Library](https://openlibrary.org/isbn/9780316005401) / [Local Book Shop](https://bookshop.org/book/9780316005401) / [Amazon](https://amazon.com/dp/0316005401)
+
+![0%](https://progress-bar.dev/0) 
+
+
 
 ---

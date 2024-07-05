@@ -1195,9 +1195,45 @@
             "ISBN13": "978-0316565646",
             "ISBN10": "0316565644",
             "ReadYear": 2024,
-            "Progress": 1.0,
+            "Progress": 0.75,
             "Rating": 5.0,
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780316565646.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "Surface Detail (Culture)",
+            "Authors": [
+                "Iain M. Banks"
+            ],
+            "ISBN13": "978-0316123419",
+            "ISBN10": "0316123412",
+            "ReadYear": 2024,
+            "Progress": 1.0,
+            "Rating": 5.0,
+            "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780316123419-M.jpg"
+        },
+        {
+            "Title": "Use of Weapons (Culture)",
+            "Authors": [
+                "Iain M. Banks"
+            ],
+            "ISBN13": "978-0316030571",
+            "ISBN10": "0316030570",
+            "ReadYear": 2024,
+            "Progress": 0.0,
+            "Rating": 0.0,
+            "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780316030571-M.jpg"
+        },
+        {
+            "Title": "The Player of Games (Culture)",
+            "Authors": [
+                "Iain M. Banks"
+            ],
+            "ISBN13": "978-0316005401",
+            "ISBN10": "0316005401",
+            "ReadYear": 2024,
+            "Progress": 0.0,
+            "Rating": 0.0,
+            "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780316005401-M.jpg"
         }
     ]
 }
