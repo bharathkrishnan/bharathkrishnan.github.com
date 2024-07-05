@@ -101,19 +101,18 @@ def main():
     books = {}
     authorbooks = {}
     for b in tqdm(bdata["Books"], desc="Processing Books"):
-        yl = b["ReadYear"]
-        for y in yl:
-            years[y] = 1
-            if y not in books:
-                books[y] = []
-            book = Book(b)
-            books[y].append(book)
-            authors = book.authors
-            for author in authors:
-                author_name = author.print()
-                if author_name not in authorbooks:
-                    authorbooks[author_name] = []
-                authorbooks[author_name].append(book)
+        y = b["ReadYear"]
+        years[y] = 1
+        if y not in books:
+            books[y] = []
+        book = Book(b)
+        books[y].append(book)
+        authors = book.authors
+        for author in authors:
+            author_name = author.print()
+            if author_name not in authorbooks:
+                authorbooks[author_name] = []
+            authorbooks[author_name].append(book)
     nrbooks = {}
     authors = {}
     yearly_stats = {}
