@@ -1222,6 +1222,18 @@
             "Progress": 0.0,
             "Rating": 0.0,
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780316030571-M.jpg"
+        },
+        {
+            "Title": "Wolf Hall (Wolf Hall Trilogy, 1)",
+            "Authors": [
+                "Hilary Mantel"
+            ],
+            "ISBN13": "978-1250806710",
+            "ISBN10": "1250806712",
+            "ReadYear": 2024,
+            "Progress": 0.1,
+            "Rating": 0.0,
+            "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781250806710-M.jpg"
         }
     ]
 }

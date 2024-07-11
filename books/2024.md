@@ -1,5 +1,5 @@
 # Year: 2024 / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2024: 6 Authors, 5 / 8 Books Read, Avg Rating: 4.4 :star: :star: :star: :star:
+# 2024: 7 Authors, 5 / 9 Books Read, Avg Rating: 4.4 :star: :star: :star: :star:
 
 ## ![The Strange](https://covers.openlibrary.org/b/isbn/9781534449954-M.jpg) The Strange
 *[Nathan Ballingrud](../authors/NathanBallingrud)*
@@ -70,6 +70,15 @@
 [Massachusetts Library](https://library.minlib.net/search/i=9780316030571) / [Open Library](https://openlibrary.org/isbn/9780316030571) / [Local Book Shop](https://bookshop.org/book/9780316030571) / [Amazon](https://amazon.com/dp/0316030570)
 
 ![0%](https://progress-bar.dev/0) 
+
+
+
+## ![Wolf Hall (Wolf Hall Trilogy, 1)](https://covers.openlibrary.org/b/isbn/9781250806710-M.jpg) Wolf Hall (Wolf Hall Trilogy, 1)
+*[Hilary Mantel](../authors/HilaryMantel)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781250806710) / [Open Library](https://openlibrary.org/isbn/9781250806710) / [Local Book Shop](https://bookshop.org/book/9781250806710) / [Amazon](https://amazon.com/dp/1250806712)
+
+![10%](https://progress-bar.dev/10) 
 
 
 
