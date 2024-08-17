@@ -1219,8 +1219,8 @@
             "ISBN13": "978-0316030571",
             "ISBN10": "0316030570",
             "ReadYear": 2024,
-            "Progress": 0.0,
-            "Rating": 0.0,
+            "Progress": 1.0,
+            "Rating": 5.0,
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780316030571-M.jpg"
         },
         {
@@ -1231,9 +1231,33 @@
             "ISBN13": "978-1250806710",
             "ISBN10": "1250806712",
             "ReadYear": 2024,
-            "Progress": 0.3,
+            "Progress": 0.7,
             "Rating": 0.0,
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781250806710.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "Master and Commander (Aubrey/Maturin Novels, 1)",
+            "Authors": [
+                "Patrick O'Brian"
+            ],
+            "ISBN13": "978-0393541588",
+            "ISBN10": "0393307050",
+            "ReadYear": 2024,
+            "Progress": 1.0,
+            "Rating": 5.0,
+            "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780393541588-M.jpg"
+        },
+        {
+            "Title": "Post Captain (Aubrey/Maturin Novels, 2)",
+            "Authors": [
+                "Patrick O'Brian"
+            ],
+            "ISBN13": "978-0393541595",
+            "ISBN10": "0393541592",
+            "ReadYear": 2024,
+            "Progress": 0.7,
+            "Rating": 0.0,
+            "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780393541595-M.jpg"
         }
     ]
 }

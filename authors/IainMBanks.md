@@ -1,4 +1,4 @@
-# Iain M. Banks:  Books Read 4 / 5, Avg Rating: 5.0 :star: :star: :star: :star: :star:
+# Iain M. Banks:  Books Read 5 / 5, Avg Rating: 5.0 :star: :star: :star: :star: :star:
 
 ## ![The Player of Games](https://covers.openlibrary.org/b/isbn/9780316005401-M.jpg) The Player of Games
 *[Iain M. Banks](../authors/IainMBanks)*
@@ -41,8 +41,8 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780316030571) / [Open Library](https://openlibrary.org/isbn/9780316030571) / [Local Book Shop](https://bookshop.org/book/9780316030571) / [Amazon](https://amazon.com/dp/0316030570)
 
-![0%](https://progress-bar.dev/0) 
+![100%](https://progress-bar.dev/100) 
 
-
+:star: :star: :star: :star: :star:
 
 ---

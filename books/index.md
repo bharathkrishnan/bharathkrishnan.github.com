@@ -1,5 +1,5 @@
 # Year: 2024 / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2024: 7 Authors, 5 / 9 Books Read, Avg Rating: 4.4 :star: :star: :star: :star:
+# 2024: 8 Authors, 7 / 11 Books Read, Avg Rating: 4.57 :star: :star: :star: :star: :star:
 
 ## ![The Strange](https://covers.openlibrary.org/b/isbn/9781534449954-M.jpg) The Strange
 *[Nathan Ballingrud](../authors/NathanBallingrud)*
@@ -69,16 +69,34 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780316030571) / [Open Library](https://openlibrary.org/isbn/9780316030571) / [Local Book Shop](https://bookshop.org/book/9780316030571) / [Amazon](https://amazon.com/dp/0316030570)
 
-![0%](https://progress-bar.dev/0) 
+![100%](https://progress-bar.dev/100) 
 
-
+:star: :star: :star: :star: :star:
 
 ## ![Wolf Hall (Wolf Hall Trilogy, 1)](https://images-us.bookshop.org/ingram/9781250806710.jpg?height=300&v=v2) Wolf Hall (Wolf Hall Trilogy, 1)
 *[Hilary Mantel](../authors/HilaryMantel)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781250806710) / [Open Library](https://openlibrary.org/isbn/9781250806710) / [Local Book Shop](https://bookshop.org/book/9781250806710) / [Amazon](https://amazon.com/dp/1250806712)
 
-![30%](https://progress-bar.dev/30) 
+![70%](https://progress-bar.dev/70) 
+
+
+
+## ![Master and Commander (Aubrey/Maturin Novels, 1)](https://covers.openlibrary.org/b/isbn/9780393541588-M.jpg) Master and Commander (Aubrey/Maturin Novels, 1)
+*[Patrick O'Brian](../authors/PatrickOBrian)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780393541588) / [Open Library](https://openlibrary.org/isbn/9780393541588) / [Local Book Shop](https://bookshop.org/book/9780393541588) / [Amazon](https://amazon.com/dp/0393307050)
+
+![100%](https://progress-bar.dev/100) 
+
+:star: :star: :star: :star: :star:
+
+## ![Post Captain (Aubrey/Maturin Novels, 2)](https://covers.openlibrary.org/b/isbn/9780393541595-M.jpg) Post Captain (Aubrey/Maturin Novels, 2)
+*[Patrick O'Brian](../authors/PatrickOBrian)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780393541595) / [Open Library](https://openlibrary.org/isbn/9780393541595) / [Local Book Shop](https://bookshop.org/book/9780393541595) / [Amazon](https://amazon.com/dp/0393541592)
+
+![70%](https://progress-bar.dev/70) 
 
 
 
