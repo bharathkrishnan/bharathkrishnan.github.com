@@ -1,5 +1,5 @@
 # Year: 2024 / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2024: 8 Authors, 7 / 11 Books Read, Avg Rating: 4.57 :star: :star: :star: :star: :star:
+# 2024: 8 Authors, 8 / 12 Books Read, Avg Rating: 4.62 :star: :star: :star: :star: :star:
 
 ## ![The Strange](https://covers.openlibrary.org/b/isbn/9781534449954-M.jpg) The Strange
 *[Nathan Ballingrud](../authors/NathanBallingrud)*
@@ -96,7 +96,16 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780393541595) / [Open Library](https://openlibrary.org/isbn/9780393541595) / [Local Book Shop](https://bookshop.org/book/9780393541595) / [Amazon](https://amazon.com/dp/0393541592)
 
-![70%](https://progress-bar.dev/70) 
+![100%](https://progress-bar.dev/100) 
+
+:star: :star: :star: :star: :star:
+
+## ![H.M.S. Surprise (Aubrey/Maturin Novels, 3)](https://images-us.bookshop.org/ingram/9780393541595.jpg?height=300&v=v2) H.M.S. Surprise (Aubrey/Maturin Novels, 3)
+*[Patrick O'Brian](../authors/PatrickOBrian)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780393541601) / [Open Library](https://openlibrary.org/isbn/9780393541601) / [Local Book Shop](https://bookshop.org/book/9780393541601) / [Amazon](https://amazon.com/dp/0393541606)
+
+![0%](https://progress-bar.dev/0) 
 
 
 
