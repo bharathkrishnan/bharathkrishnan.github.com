@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062979971) / [Open Library](https://openlibrary.org/isbn/9780062979971) / [Local Book Shop](https://bookshop.org/book/9780062979971) / [Amazon](https://amazon.com/dp/0062979973)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star:
 

@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780008497354) / [Open Library](https://openlibrary.org/isbn/9780008497354) / [Local Book Shop](https://bookshop.org/book/9780008497354) / [Amazon](https://amazon.com/dp/0008497354)
 
-![20%](https://progress-bar.dev/20) 
+![20%](https://geps.dev/progress/20) 
 
 
 

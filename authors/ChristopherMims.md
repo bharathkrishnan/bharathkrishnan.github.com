@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062987952) / [Open Library](https://openlibrary.org/isbn/9780062987952) / [Local Book Shop](https://bookshop.org/book/9780062987952) / [Amazon](https://amazon.com/dp/006298795X)
 
-![20%](https://progress-bar.dev/20) 
+![20%](https://geps.dev/progress/20) 
 
 
 

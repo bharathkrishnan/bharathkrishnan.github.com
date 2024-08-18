@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781982148065) / [Open Library](https://openlibrary.org/isbn/9781982148065) / [Local Book Shop](https://bookshop.org/book/9781982148065) / [Amazon](https://amazon.com/dp/1982148063)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star:
 
@@ -14,7 +14,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781662505096) / [Open Library](https://openlibrary.org/isbn/9781662505096) / [Local Book Shop](https://bookshop.org/book/9781662505096) / [Amazon](https://amazon.com/dp/1662505094)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star:
 

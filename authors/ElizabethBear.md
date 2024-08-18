@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781534403017) / [Open Library](https://openlibrary.org/isbn/9781534403017) / [Local Book Shop](https://bookshop.org/book/9781534403017) / [Amazon](https://amazon.com/dp/1534403019)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star: :star:
 

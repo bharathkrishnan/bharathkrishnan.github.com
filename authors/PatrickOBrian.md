@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780393541588) / [Open Library](https://openlibrary.org/isbn/9780393541588) / [Local Book Shop](https://bookshop.org/book/9780393541588) / [Amazon](https://amazon.com/dp/0393307050)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star: :star:
 
@@ -14,7 +14,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780393541595) / [Open Library](https://openlibrary.org/isbn/9780393541595) / [Local Book Shop](https://bookshop.org/book/9780393541595) / [Amazon](https://amazon.com/dp/0393541592)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star: :star:
 
@@ -23,7 +23,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780393541601) / [Open Library](https://openlibrary.org/isbn/9780393541601) / [Local Book Shop](https://bookshop.org/book/9780393541601) / [Amazon](https://amazon.com/dp/0393541606)
 
-![0%](https://progress-bar.dev/0) 
+![0%](https://geps.dev/progress/0) 
 
 
 

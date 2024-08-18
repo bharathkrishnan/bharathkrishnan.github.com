@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781250806710) / [Open Library](https://openlibrary.org/isbn/9781250806710) / [Local Book Shop](https://bookshop.org/book/9781250806710) / [Amazon](https://amazon.com/dp/1250806712)
 
-![70%](https://progress-bar.dev/70) 
+![70%](https://geps.dev/progress/70) 
 
 
 

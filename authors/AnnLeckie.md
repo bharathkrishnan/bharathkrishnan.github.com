@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780316289719) / [Open Library](https://openlibrary.org/isbn/9780316289719) / [Local Book Shop](https://bookshop.org/book/9780316289719) / [Amazon](https://amazon.com/dp/031628971X)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star: :star:
 
@@ -14,7 +14,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780316246682) / [Open Library](https://openlibrary.org/isbn/9780316246682) / [Local Book Shop](https://bookshop.org/book/9780316246682) / [Amazon](https://amazon.com/dp/0316246689)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star: :star:
 

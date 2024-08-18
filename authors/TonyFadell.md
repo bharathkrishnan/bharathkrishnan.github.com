@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780063046061) / [Open Library](https://openlibrary.org/isbn/9780063046061) / [Local Book Shop](https://bookshop.org/book/9780063046061) / [Amazon](https://amazon.com/dp/0063046067)
 
-![10%](https://progress-bar.dev/10) 
+![10%](https://geps.dev/progress/10) 
 
 
 

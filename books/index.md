@@ -6,7 +6,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781534449954) / [Open Library](https://openlibrary.org/isbn/9781534449954) / [Local Book Shop](https://bookshop.org/book/9781534449954) / [Amazon](https://amazon.com/dp/1534449957)
 
-![0%](https://progress-bar.dev/0) 
+![0%](https://geps.dev/progress/0) 
 
 
 
@@ -15,7 +15,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780316462846) / [Open Library](https://openlibrary.org/isbn/9780316462846) / [Local Book Shop](https://bookshop.org/book/9780316462846) / [Amazon](https://amazon.com/dp/0316462845)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star: :star:
 
@@ -24,7 +24,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780765319647) / [Open Library](https://openlibrary.org/isbn/9780765319647) / [Local Book Shop](https://bookshop.org/book/9780765319647) / [Amazon](https://amazon.com/dp/0765319640)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star: :star:
 
@@ -33,7 +33,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780593539583) / [Open Library](https://openlibrary.org/isbn/9780593539583) / [Local Book Shop](https://bookshop.org/book/9780593539583) / [Amazon](https://amazon.com/dp/0593539583)
 
-![0%](https://progress-bar.dev/0) 
+![0%](https://geps.dev/progress/0) 
 
 
 
@@ -42,7 +42,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780744306675) / [Open Library](https://openlibrary.org/isbn/9780744306675) / [Local Book Shop](https://bookshop.org/book/9780744306675) / [Amazon](https://amazon.com/dp/0744306671)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star:
 
@@ -51,7 +51,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780316565646) / [Open Library](https://openlibrary.org/isbn/9780316565646) / [Local Book Shop](https://bookshop.org/book/9780316565646) / [Amazon](https://amazon.com/dp/0316565644)
 
-![75%](https://progress-bar.dev/75) 
+![75%](https://geps.dev/progress/75) 
 
 :star: :star: :star: :star: :star:
 
@@ -60,7 +60,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780316123419) / [Open Library](https://openlibrary.org/isbn/9780316123419) / [Local Book Shop](https://bookshop.org/book/9780316123419) / [Amazon](https://amazon.com/dp/0316123412)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star: :star:
 
@@ -69,7 +69,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780316030571) / [Open Library](https://openlibrary.org/isbn/9780316030571) / [Local Book Shop](https://bookshop.org/book/9780316030571) / [Amazon](https://amazon.com/dp/0316030570)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star: :star:
 
@@ -78,7 +78,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781250806710) / [Open Library](https://openlibrary.org/isbn/9781250806710) / [Local Book Shop](https://bookshop.org/book/9781250806710) / [Amazon](https://amazon.com/dp/1250806712)
 
-![70%](https://progress-bar.dev/70) 
+![70%](https://geps.dev/progress/70) 
 
 
 
@@ -87,7 +87,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780393541588) / [Open Library](https://openlibrary.org/isbn/9780393541588) / [Local Book Shop](https://bookshop.org/book/9780393541588) / [Amazon](https://amazon.com/dp/0393307050)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star: :star:
 
@@ -96,7 +96,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780393541595) / [Open Library](https://openlibrary.org/isbn/9780393541595) / [Local Book Shop](https://bookshop.org/book/9780393541595) / [Amazon](https://amazon.com/dp/0393541592)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star: :star:
 
@@ -105,7 +105,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780393541601) / [Open Library](https://openlibrary.org/isbn/9780393541601) / [Local Book Shop](https://bookshop.org/book/9780393541601) / [Amazon](https://amazon.com/dp/0393541606)
 
-![0%](https://progress-bar.dev/0) 
+![0%](https://geps.dev/progress/0) 
 
 
 

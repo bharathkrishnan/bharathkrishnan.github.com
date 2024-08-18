@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780241505472) / [Open Library](https://openlibrary.org/isbn/9780241505472) / [Local Book Shop](https://bookshop.org/book/9780241505472) / [Amazon](https://amazon.com/dp/024150547X)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star:
 
@@ -14,7 +14,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780241505489) / [Open Library](https://openlibrary.org/isbn/9780241505489) / [Local Book Shop](https://bookshop.org/book/9780241505489) / [Amazon](https://amazon.com/dp/0241505488)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star:
 
@@ -23,7 +23,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780241505496) / [Open Library](https://openlibrary.org/isbn/9780241505496) / [Local Book Shop](https://bookshop.org/book/9780241505496) / [Amazon](https://amazon.com/dp/0241505496)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star:
 

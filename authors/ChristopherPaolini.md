@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781250762849) / [Open Library](https://openlibrary.org/isbn/9781250762849) / [Local Book Shop](https://bookshop.org/book/9781250762849) / [Amazon](https://amazon.com/dp/1250762847)
 
-![10%](https://progress-bar.dev/10) 
+![10%](https://geps.dev/progress/10) 
 
 
 

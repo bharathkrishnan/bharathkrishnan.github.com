@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781501197260) / [Open Library](https://openlibrary.org/isbn/9781501197260) / [Local Book Shop](https://bookshop.org/book/9781501197260) / [Amazon](https://amazon.com/dp/1501197266)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star:
 

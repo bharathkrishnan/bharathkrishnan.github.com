@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780593420393) / [Open Library](https://openlibrary.org/isbn/9780593420393) / [Local Book Shop](https://bookshop.org/book/9780593420393) / [Amazon](https://amazon.com/dp/059342039X)
 
-![10%](https://progress-bar.dev/10) 
+![10%](https://geps.dev/progress/10) 
 
 
 

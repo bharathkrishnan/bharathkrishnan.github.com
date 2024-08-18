@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780525538424) / [Open Library](https://openlibrary.org/isbn/9780525538424) / [Local Book Shop](https://bookshop.org/book/9780525538424) / [Amazon](https://amazon.com/dp/0525538429)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star:
 

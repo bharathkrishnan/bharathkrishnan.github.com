@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781789093155) / [Open Library](https://openlibrary.org/isbn/9781789093155) / [Local Book Shop](https://bookshop.org/book/9781789093155) / [Amazon](https://amazon.com/dp/1789093155)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star:
 
@@ -14,7 +14,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781789093131) / [Open Library](https://openlibrary.org/isbn/9781789093131) / [Local Book Shop](https://bookshop.org/book/9781789093131) / [Amazon](https://amazon.com/dp/1789093139)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star:
 

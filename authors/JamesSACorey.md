@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780316332910) / [Open Library](https://openlibrary.org/isbn/9780316332910) / [Local Book Shop](https://bookshop.org/book/9780316332910) / [Amazon](https://amazon.com/dp/0316332917)
 
-![10%](https://progress-bar.dev/10) 
+![10%](https://geps.dev/progress/10) 
 
 
 

@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780593535363) / [Open Library](https://openlibrary.org/isbn/9780593535363) / [Local Book Shop](https://bookshop.org/book/9780593535363) / [Amazon](https://amazon.com/dp/0593535367)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star: :star:
 

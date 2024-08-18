@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781982192297) / [Open Library](https://openlibrary.org/isbn/9781982192297) / [Local Book Shop](https://bookshop.org/book/9781982192297) / [Amazon](https://amazon.com/dp/1982192291)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star:
 

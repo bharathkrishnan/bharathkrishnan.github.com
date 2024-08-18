@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781250275035) / [Open Library](https://openlibrary.org/isbn/9781250275035) / [Local Book Shop](https://bookshop.org/book/9781250275035) / [Amazon](https://amazon.com/dp/1250275032)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star: :star:
 
@@ -14,7 +14,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781250275059) / [Open Library](https://openlibrary.org/isbn/9781250275059) / [Local Book Shop](https://bookshop.org/book/9781250275059) / [Amazon](https://amazon.com/dp/1250275059)
 
-![100%](https://progress-bar.dev/100) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star:
 

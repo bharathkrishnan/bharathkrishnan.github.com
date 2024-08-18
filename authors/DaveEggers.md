@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780593315347) / [Open Library](https://openlibrary.org/isbn/9780593315347) / [Local Book Shop](https://bookshop.org/book/9780593315347) / [Amazon](https://amazon.com/dp/0593315340)
 
-![10%](https://progress-bar.dev/10) 
+![10%](https://geps.dev/progress/10) 
 
 
 

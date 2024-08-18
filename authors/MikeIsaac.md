@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780393652246) / [Open Library](https://openlibrary.org/isbn/9780393652246) / [Local Book Shop](https://bookshop.org/book/9780393652246) / [Amazon](https://amazon.com/dp/0393652246)
 
-![25%](https://progress-bar.dev/25) 
+![25%](https://geps.dev/progress/25) 
 
 
 
