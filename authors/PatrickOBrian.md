@@ -18,7 +18,7 @@
 
 :star: :star: :star: :star: :star:
 
-## ![H.M.S. Surprise (Aubrey/Maturin Novels, 3)](https://images-us.bookshop.org/ingram/9780393541595.jpg?height=300&v=v2) H.M.S. Surprise (Aubrey/Maturin Novels, 3)
+## ![H.M.S. Surprise (Aubrey/Maturin Novels, 3)](https://images-us.bookshop.org/ingram/9780393541601.jpg?height=300&v=v2) H.M.S. Surprise (Aubrey/Maturin Novels, 3)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780393541601) / [Open Library](https://openlibrary.org/isbn/9780393541601) / [Local Book Shop](https://bookshop.org/book/9780393541601) / [Amazon](https://amazon.com/dp/0393541606)
