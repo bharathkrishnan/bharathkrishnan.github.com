@@ -1,4 +1,4 @@
-# Patrick O'Brian:  Books Read 2 / 3, Avg Rating: 5.0 :star: :star: :star: :star: :star:
+# Patrick O'Brian:  Books Read 3 / 4, Avg Rating: 5.0 :star: :star: :star: :star: :star:
 
 ## ![Master and Commander (Aubrey/Maturin Novels, 1)](https://images-us.bookshop.org/ingram/9780393541588.jpg?height=300&v=v2) Master and Commander (Aubrey/Maturin Novels, 1)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
@@ -23,7 +23,16 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780393541601) / [Open Library](https://openlibrary.org/isbn/9780393541601) / [Local Book Shop](https://bookshop.org/book/9780393541601) / [Amazon](https://amazon.com/dp/0393541606)
 
-![20%](https://geps.dev/progress/20) 
+![100%](https://geps.dev/progress/100) 
+
+:star: :star: :star: :star: :star:
+
+## ![The Mauritius Command (Aubrey/Maturin Novels, 3)](https://images-us.bookshop.org/ingram/9780393541618.jpg?height=300&v=v2) The Mauritius Command (Aubrey/Maturin Novels, 3)
+*[Patrick O'Brian](../authors/PatrickOBrian)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780393541618) / [Open Library](https://openlibrary.org/isbn/9780393541618) / [Local Book Shop](https://bookshop.org/book/9780393541618) / [Amazon](https://amazon.com/dp/0393541614)
+
+![10%](https://geps.dev/progress/10) 
 
 
 
