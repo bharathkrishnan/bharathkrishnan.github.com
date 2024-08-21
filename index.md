@@ -58,7 +58,7 @@
 <img src="https://covers.openlibrary.org/b/isbn/9780063028050-M.jpg" width=128>
 <img src="https://covers.openlibrary.org/b/isbn/9780316462761-M.jpg" width=128>
 <img src="https://covers.openlibrary.org/b/isbn/9780441018666-M.jpg" width=128>
-<img src="https://covers.openlibrary.org/b/isbn/978-0593466360-M.jpg" width=128>
+<img src="https://images-us.bookshop.org/ingram/9780593466360.jpg?height=300&v=v2" width=128>
 
 
 ## Read completion: 43.24%
@@ -78,7 +78,7 @@
 <img src="http://books.google.com/books/content?id=kPlOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api" width=128>
 <img src="https://covers.openlibrary.org/b/isbn/978-0062985415-M.jpg" width=128>
 <img src="https://covers.openlibrary.org/b/isbn/978-0593316108-M.jpg" width=128>
-<img src="https://covers.openlibrary.org/b/isbn/978-0593466360-M.jpg" width=128>
+<img src="https://images-us.bookshop.org/ingram/9780593466360.jpg?height=300&v=v2" width=128>
 <img src="http://books.google.com/books/content?id=wTiyzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api" width=128>
 <img src="http://books.google.com/books/content?id=uLNyzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api" width=128>
 <img src="http://books.google.com/books/content?id=ffr-zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api" width=128>
