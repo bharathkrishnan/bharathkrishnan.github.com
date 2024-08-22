@@ -109,7 +109,7 @@
 
 :star: :star: :star: :star: :star:
 
-## ![The Mauritius Command (Aubrey/Maturin Novels, 3)](https://images-us.bookshop.org/ingram/9780393541618.jpg?height=300&v=v2) The Mauritius Command (Aubrey/Maturin Novels, 3)
+## ![The Mauritius Command (Aubrey/Maturin Novels, 4)](https://images-us.bookshop.org/ingram/9780393541618.jpg?height=300&v=v2) The Mauritius Command (Aubrey/Maturin Novels, 4)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780393541618) / [Open Library](https://openlibrary.org/isbn/9780393541618) / [Local Book Shop](https://bookshop.org/book/9780393541618) / [Amazon](https://amazon.com/dp/0393541614)
@@ -118,7 +118,7 @@
 
 :star: :star: :star: :star: :star:
 
-## ![Desolation Island (Aubrey/Maturin Novels, 3)](https://images-us.bookshop.org/ingram/9780393541625.jpg?height=300&v=v2) Desolation Island (Aubrey/Maturin Novels, 3)
+## ![Desolation Island (Aubrey/Maturin Novels, 5)](https://images-us.bookshop.org/ingram/9780393541625.jpg?height=300&v=v2) Desolation Island (Aubrey/Maturin Novels, 5)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780393541625) / [Open Library](https://openlibrary.org/isbn/9780393541625) / [Local Book Shop](https://bookshop.org/book/9780393541625) / [Amazon](https://amazon.com/dp/0393541622)
