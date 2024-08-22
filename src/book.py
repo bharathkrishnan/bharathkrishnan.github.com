@@ -24,10 +24,14 @@ class Book:
 
     def get_thumbnail(self):
         # https://secure.syndetics.com/index.aspx?isbn=9780525538424/mc.gif&upc=&client=bcclsvega&type=unbound
+        bsurl = "https://images-us.bookshop.org/ingram/{0}.jpg?height=300&v=v2".format(self.isbn13.replace("-", ""))
         olurl = "https://covers.openlibrary.org/b/isbn/{0}-M.jpg".format(self.isbn13)
         gburl = "https://www.googleapis.com/books/v1/volumes?q=isbn:{0}".format(
             self.isbn13.replace("-", "")
         )
+        r = requests.get(bsurl)
+        if r.status_code == 200:
+            return bsurl
         r = requests.get(olurl)
         if r.status_code == 200:
             return olurl
