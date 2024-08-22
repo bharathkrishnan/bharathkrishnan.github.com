@@ -1279,9 +1279,21 @@
             "ISBN13": "978-0393541618",
             "ISBN10": "0393541614",
             "ReadYear": 2024,
-            "Progress": 0.1,
-            "Rating": 0.0,
+            "Progress": 1.0,
+            "Rating": 5.0,
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780393541618.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "Desolation Island (Aubrey/Maturin Novels, 3)",
+            "Authors": [
+                "Patrick O'Brian"
+            ],
+            "ISBN13": "978-0393541625",
+            "ISBN10": "0393541622",
+            "ReadYear": 2024,
+            "Progress": 0.0,
+            "Rating": 0.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9780393541625.jpg?height=300&v=v2"
         }
     ]
 }
