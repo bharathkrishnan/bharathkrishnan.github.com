@@ -123,7 +123,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780393541625) / [Open Library](https://openlibrary.org/isbn/9780393541625) / [Local Book Shop](https://bookshop.org/book/9780393541625) / [Amazon](https://amazon.com/dp/0393541622)
 
-![0%](https://geps.dev/progress/0) 
+![20%](https://geps.dev/progress/20) 
 
 
 
