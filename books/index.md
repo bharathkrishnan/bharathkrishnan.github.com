@@ -1,5 +1,5 @@
 # Year: 2024 / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2024: 8 Authors, 10 / 14 Books Read, Avg Rating: 4.7 :star: :star: :star: :star: :star:
+# 2024: 8 Authors, 11 / 15 Books Read, Avg Rating: 4.73 :star: :star: :star: :star: :star:
 
 ## ![The Strange](https://covers.openlibrary.org/b/isbn/9781534449954-M.jpg) The Strange
 *[Nathan Ballingrud](../authors/NathanBallingrud)*
@@ -123,7 +123,16 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780393541625) / [Open Library](https://openlibrary.org/isbn/9780393541625) / [Local Book Shop](https://bookshop.org/book/9780393541625) / [Amazon](https://amazon.com/dp/0393541622)
 
-![20%](https://geps.dev/progress/20) 
+![100%](https://geps.dev/progress/100) 
+
+:star: :star: :star: :star: :star:
+
+## ![The Fortune of War (Aubrey/Maturin Novels, 6)](https://covers.openlibrary.org/b/isbn/9780393541632-M.jpg) The Fortune of War (Aubrey/Maturin Novels, 6)
+*[Patrick O'Brian](../authors/PatrickOBrian)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780393541632) / [Open Library](https://openlibrary.org/isbn/9780393541632) / [Local Book Shop](https://bookshop.org/book/9780393541632) / [Amazon](https://amazon.com/dp/0393541630)
+
+![10%](https://geps.dev/progress/10) 
 
 
 

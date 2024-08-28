@@ -1,4 +1,4 @@
-# Patrick O'Brian:  Books Read 4 / 5, Avg Rating: 5.0 :star: :star: :star: :star: :star:
+# Patrick O'Brian:  Books Read 5 / 6, Avg Rating: 5.0 :star: :star: :star: :star: :star:
 
 ## ![Master and Commander (Aubrey/Maturin Novels, 1)](https://images-us.bookshop.org/ingram/9780393541588.jpg?height=300&v=v2) Master and Commander (Aubrey/Maturin Novels, 1)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
@@ -41,7 +41,16 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780393541625) / [Open Library](https://openlibrary.org/isbn/9780393541625) / [Local Book Shop](https://bookshop.org/book/9780393541625) / [Amazon](https://amazon.com/dp/0393541622)
 
-![20%](https://geps.dev/progress/20) 
+![100%](https://geps.dev/progress/100) 
+
+:star: :star: :star: :star: :star:
+
+## ![The Fortune of War (Aubrey/Maturin Novels, 6)](https://covers.openlibrary.org/b/isbn/9780393541632-M.jpg) The Fortune of War (Aubrey/Maturin Novels, 6)
+*[Patrick O'Brian](../authors/PatrickOBrian)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780393541632) / [Open Library](https://openlibrary.org/isbn/9780393541632) / [Local Book Shop](https://bookshop.org/book/9780393541632) / [Amazon](https://amazon.com/dp/0393541630)
+
+![10%](https://geps.dev/progress/10) 
 
 
 
