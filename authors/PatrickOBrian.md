@@ -45,7 +45,7 @@
 
 :star: :star: :star: :star: :star:
 
-## ![The Fortune of War (Aubrey/Maturin Novels, 6)](https://covers.openlibrary.org/b/isbn/9780393541632-M.jpg) The Fortune of War (Aubrey/Maturin Novels, 6)
+## ![The Fortune of War (Aubrey/Maturin Novels, 6)](https://images-us.bookshop.org/ingram/9780393541632.jpg?height=300&v=v2) The Fortune of War (Aubrey/Maturin Novels, 6)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780393541632) / [Open Library](https://openlibrary.org/isbn/9780393541632) / [Local Book Shop](https://bookshop.org/book/9780393541632) / [Amazon](https://amazon.com/dp/0393541630)
