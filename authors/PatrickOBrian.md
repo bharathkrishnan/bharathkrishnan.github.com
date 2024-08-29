@@ -1,4 +1,4 @@
-# Patrick O'Brian:  Books Read 5 / 6, Avg Rating: 5.0 :star: :star: :star: :star: :star:
+# Patrick O'Brian:  Books Read 6 / 7, Avg Rating: 5.0 :star: :star: :star: :star: :star:
 
 ## ![Master and Commander (Aubrey/Maturin Novels, 1)](https://images-us.bookshop.org/ingram/9780393541588.jpg?height=300&v=v2) Master and Commander (Aubrey/Maturin Novels, 1)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
@@ -49,6 +49,15 @@
 *[Patrick O'Brian](../authors/PatrickOBrian)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780393541632) / [Open Library](https://openlibrary.org/isbn/9780393541632) / [Local Book Shop](https://bookshop.org/book/9780393541632) / [Amazon](https://amazon.com/dp/0393541630)
+
+![100%](https://geps.dev/progress/100) 
+
+:star: :star: :star: :star: :star:
+
+## ![The Surgeon's Mate (Aubrey/Maturin Novels, 7)](https://images-us.bookshop.org/ingram/9780393541649.jpg?height=300&v=v2) The Surgeon's Mate (Aubrey/Maturin Novels, 7)
+*[Patrick O'Brian](../authors/PatrickOBrian)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780393541649) / [Open Library](https://openlibrary.org/isbn/9780393541649) / [Local Book Shop](https://bookshop.org/book/9780393541649) / [Amazon](https://amazon.com/dp/0393541649)
 
 ![10%](https://geps.dev/progress/10) 
 

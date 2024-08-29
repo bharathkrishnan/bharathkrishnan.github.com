@@ -1303,9 +1303,21 @@
             "ISBN13": "978-0393541632",
             "ISBN10": "0393541630",
             "ReadYear": 2024,
+            "Progress": 1.0,
+            "Rating": 5.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9780393541632.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "The Surgeon's Mate (Aubrey/Maturin Novels, 7)",
+            "Authors": [
+                "Patrick O'Brian"
+            ],
+            "ISBN13": "978-0393541649",
+            "ISBN10": "0393541649",
+            "ReadYear": 2024,
             "Progress": 0.1,
             "Rating": 0.0,
-            "ThumbNail": "https://images-us.bookshop.org/ingram/9780393541632.jpg?height=300&v=v2"
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9780393541649.jpg?height=300&v=v2"
         }
     ]
 }
