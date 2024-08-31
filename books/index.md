@@ -1,5 +1,5 @@
 # Year: 2024 / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2024: 8 Authors, 12 / 16 Books Read, Avg Rating: 4.75 :star: :star: :star: :star: :star:
+# 2024: 8 Authors, 13 / 17 Books Read, Avg Rating: 4.77 :star: :star: :star: :star: :star:
 
 ## ![The Strange](https://covers.openlibrary.org/b/isbn/9781534449954-M.jpg) The Strange
 *[Nathan Ballingrud](../authors/NathanBallingrud)*
@@ -140,6 +140,15 @@
 *[Patrick O'Brian](../authors/PatrickOBrian)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780393541649) / [Open Library](https://openlibrary.org/isbn/9780393541649) / [Local Book Shop](https://bookshop.org/book/9780393541649) / [Amazon](https://amazon.com/dp/0393541649)
+
+![100%](https://geps.dev/progress/100) 
+
+:star: :star: :star: :star: :star:
+
+## ![The Ionian Mission (Aubrey/Maturin Novels, 8)](https://images-us.bookshop.org/ingram/9780393881745.jpg?height=300&v=v2) The Ionian Mission (Aubrey/Maturin Novels, 8)
+*[Patrick O'Brian](../authors/PatrickOBrian)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780393881745) / [Open Library](https://openlibrary.org/isbn/9780393881745) / [Local Book Shop](https://bookshop.org/book/9780393881745) / [Amazon](https://amazon.com/dp/0393881741)
 
 ![10%](https://geps.dev/progress/10) 
 
