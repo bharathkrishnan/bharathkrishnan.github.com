@@ -68,7 +68,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780393881745) / [Open Library](https://openlibrary.org/isbn/9780393881745) / [Local Book Shop](https://bookshop.org/book/9780393881745) / [Amazon](https://amazon.com/dp/0393881741)
 
-![10%](https://geps.dev/progress/10) 
+![50%](https://geps.dev/progress/50) 
 
 
 
