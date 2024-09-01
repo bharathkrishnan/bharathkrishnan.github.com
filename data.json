@@ -1327,8 +1327,8 @@
             "ISBN13": "9780393881745",
             "ISBN10": "0393881741",
             "ReadYear": 2024,
-            "Progress": 0.7,
-            "Rating": 0.0,
+            "Progress": 1.0,
+            "Rating": 4.0,
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780393881745.jpg?height=300&v=v2"
         },
         {
@@ -1342,6 +1342,18 @@
             "Progress": 0.0,
             "Rating": 0.0,
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780393881738.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "The Far Side of the World (Aubrey/Maturin Novels, 10)",
+            "Authors": [
+                "Patrick O'Brian"
+            ],
+            "ISBN13": "9781324020509",
+            "ISBN10": "1324020504",
+            "ReadYear": 2024,
+            "Progress": 0.0,
+            "Rating": 0.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9781324020509.jpg?height=300&v=v2"
         }
     ]
 }
