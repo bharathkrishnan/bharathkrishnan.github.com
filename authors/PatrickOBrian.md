@@ -1,4 +1,4 @@
-# Patrick O'Brian:  Books Read 7 / 8, Avg Rating: 5.0 :star: :star: :star: :star: :star:
+# Patrick O'Brian:  Books Read 7 / 9, Avg Rating: 5.0 :star: :star: :star: :star: :star:
 
 ## ![Master and Commander (Aubrey/Maturin Novels, 1)](https://images-us.bookshop.org/ingram/9780393541588.jpg?height=300&v=v2) Master and Commander (Aubrey/Maturin Novels, 1)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
@@ -69,6 +69,15 @@
 [Massachusetts Library](https://library.minlib.net/search/i=9780393881745) / [Open Library](https://openlibrary.org/isbn/9780393881745) / [Local Book Shop](https://bookshop.org/book/9780393881745) / [Amazon](https://amazon.com/dp/0393881741)
 
 ![50%](https://geps.dev/progress/50) 
+
+
+
+## ![Treason's Harbour (Aubrey/Maturin Novels, 9)](https://images-us.bookshop.org/ingram/9780393881738.jpg?height=300&v=v2) Treason's Harbour (Aubrey/Maturin Novels, 9)
+*[Patrick O'Brian](../authors/PatrickOBrian)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780393881738) / [Open Library](https://openlibrary.org/isbn/9780393881738) / [Local Book Shop](https://bookshop.org/book/9780393881738) / [Amazon](https://amazon.com/dp/0393881733)
+
+![0%](https://geps.dev/progress/0) 
 
 
 

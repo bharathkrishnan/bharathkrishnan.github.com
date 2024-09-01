@@ -1330,6 +1330,18 @@
             "Progress": 0.5,
             "Rating": 0.0,
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780393881745.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "Treason's Harbour (Aubrey/Maturin Novels, 9)",
+            "Authors": [
+                "Patrick O'Brian"
+            ],
+            "ISBN13": "9780393881738",
+            "ISBN10": "0393881733",
+            "ReadYear": 2024,
+            "Progress": 0.0,
+            "Rating": 0.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9780393881738.jpg?height=300&v=v2"
         }
     ]
 }

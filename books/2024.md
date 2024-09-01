@@ -1,5 +1,5 @@
 # Year: 2024 / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2024: 8 Authors, 13 / 17 Books Read, Avg Rating: 4.77 :star: :star: :star: :star: :star:
+# 2024: 8 Authors, 13 / 18 Books Read, Avg Rating: 4.77 :star: :star: :star: :star: :star:
 
 ## ![The Strange](https://covers.openlibrary.org/b/isbn/9781534449954-M.jpg) The Strange
 *[Nathan Ballingrud](../authors/NathanBallingrud)*
@@ -151,6 +151,15 @@
 [Massachusetts Library](https://library.minlib.net/search/i=9780393881745) / [Open Library](https://openlibrary.org/isbn/9780393881745) / [Local Book Shop](https://bookshop.org/book/9780393881745) / [Amazon](https://amazon.com/dp/0393881741)
 
 ![50%](https://geps.dev/progress/50) 
+
+
+
+## ![Treason's Harbour (Aubrey/Maturin Novels, 9)](https://images-us.bookshop.org/ingram/9780393881738.jpg?height=300&v=v2) Treason's Harbour (Aubrey/Maturin Novels, 9)
+*[Patrick O'Brian](../authors/PatrickOBrian)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780393881738) / [Open Library](https://openlibrary.org/isbn/9780393881738) / [Local Book Shop](https://bookshop.org/book/9780393881738) / [Amazon](https://amazon.com/dp/0393881733)
+
+![0%](https://geps.dev/progress/0) 
 
 
 

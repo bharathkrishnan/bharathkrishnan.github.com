@@ -21,7 +21,7 @@
 <img src="https://images-us.bookshop.org/ingram/9780393541649.jpg?height=300&v=v2" width=128>
 
 
-## Read completion: 76.47%
+## Read completion: 72.22%
 <img src="https://covers.openlibrary.org/b/isbn/9780316462846-M.jpg" width=128>
 <img src="https://covers.openlibrary.org/b/isbn/9780765319647-M.jpg" width=128>
 <img src="https://images-us.bookshop.org/ingram/9780744306675.jpg?height=300&v=v2" width=128>
