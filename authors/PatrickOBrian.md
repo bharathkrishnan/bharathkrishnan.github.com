@@ -1,4 +1,4 @@
-# Patrick O'Brian:  Books Read 8 / 10, Avg Rating: 4.88 :star: :star: :star: :star: :star:
+# Patrick O'Brian:  Books Read 9 / 11, Avg Rating: 4.78 :star: :star: :star: :star: :star:
 
 ## ![Master and Commander (Aubrey/Maturin Novels, 1)](https://images-us.bookshop.org/ingram/9780393541588.jpg?height=300&v=v2) Master and Commander (Aubrey/Maturin Novels, 1)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
@@ -77,14 +77,23 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780393881738) / [Open Library](https://openlibrary.org/isbn/9780393881738) / [Local Book Shop](https://bookshop.org/book/9780393881738) / [Amazon](https://amazon.com/dp/0393881733)
 
-![0%](https://geps.dev/progress/0) 
+![100%](https://geps.dev/progress/100) 
 
-
+:star: :star: :star: :star:
 
 ## ![The Far Side of the World (Aubrey/Maturin Novels, 10)](https://images-us.bookshop.org/ingram/9781324020509.jpg?height=300&v=v2) The Far Side of the World (Aubrey/Maturin Novels, 10)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781324020509) / [Open Library](https://openlibrary.org/isbn/9781324020509) / [Local Book Shop](https://bookshop.org/book/9781324020509) / [Amazon](https://amazon.com/dp/1324020504)
+
+![0%](https://geps.dev/progress/0) 
+
+
+
+## ![The Reverse of the Medal (Aubrey/Maturin Novels, 11)](https://images-us.bookshop.org/ingram/9781324020516.jpg?height=300&v=v2) The Reverse of the Medal (Aubrey/Maturin Novels, 11)
+*[Patrick O'Brian](../authors/PatrickOBrian)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781324020516) / [Open Library](https://openlibrary.org/isbn/9781324020516) / [Local Book Shop](https://bookshop.org/book/9781324020516) / [Amazon](https://amazon.com/dp/1324020512)
 
 ![0%](https://geps.dev/progress/0) 
 
