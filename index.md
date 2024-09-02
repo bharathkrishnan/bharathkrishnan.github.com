@@ -38,6 +38,7 @@
 <img src="https://images-us.bookshop.org/ingram/9780393541649.jpg?height=300&v=v2" width=128>
 <img src="https://images-us.bookshop.org/ingram/9780393881745.jpg?height=300&v=v2" width=128>
 <img src="https://images-us.bookshop.org/ingram/9780393881738.jpg?height=300&v=v2" width=128>
+<img src="https://images-us.bookshop.org/ingram/9781324020509.jpg?height=300&v=v2" width=128>
 
 ---
 ## Books with 5-star reviews, 2023
