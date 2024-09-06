@@ -108,10 +108,10 @@
 
 
 
-## ![The Thirteen-Gun Salute (Aubrey/Maturin Novels, 13)](https://images-us.bookshop.org/ingram/9780006499282.jpg?height=300&v=v2) The Thirteen-Gun Salute (Aubrey/Maturin Novels, 13)
+## ![The Thirteen-Gun Salute (Aubrey/Maturin Novels, 13)](https://images-us.bookshop.org/ingram/9781324020530.jpg?height=300&v=v2) The Thirteen-Gun Salute (Aubrey/Maturin Novels, 13)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
 
-[Massachusetts Library](https://library.minlib.net/search/i=9780006499282) / [Open Library](https://openlibrary.org/isbn/9780006499282) / [Local Book Shop](https://bookshop.org/book/9780006499282) / [Amazon](https://amazon.com/dp/1324020547)
+[Massachusetts Library](https://library.minlib.net/search/i=9781324020530) / [Open Library](https://openlibrary.org/isbn/9781324020530) / [Local Book Shop](https://bookshop.org/book/9781324020530) / [Amazon](https://amazon.com/dp/1324020547)
 
 ![0%](https://geps.dev/progress/0) 
 
