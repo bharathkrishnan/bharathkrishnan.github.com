@@ -1,5 +1,5 @@
 # Year: 2024 / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2024: 8 Authors, 15 / 20 Books Read, Avg Rating: 4.67 :star: :star: :star: :star: :star:
+# 2024: 8 Authors, 17 / 25 Books Read, Avg Rating: 4.65 :star: :star: :star: :star: :star:
 
 ## ![The Strange](https://covers.openlibrary.org/b/isbn/9781534449954-M.jpg) The Strange
 *[Nathan Ballingrud](../authors/NathanBallingrud)*
@@ -168,14 +168,59 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781324020509) / [Open Library](https://openlibrary.org/isbn/9781324020509) / [Local Book Shop](https://bookshop.org/book/9781324020509) / [Amazon](https://amazon.com/dp/1324020504)
 
-![30%](https://geps.dev/progress/30) 
+![100%](https://geps.dev/progress/100) 
 
-
+:star: :star: :star: :star:
 
 ## ![The Reverse of the Medal (Aubrey/Maturin Novels, 11)](https://images-us.bookshop.org/ingram/9781324020516.jpg?height=300&v=v2) The Reverse of the Medal (Aubrey/Maturin Novels, 11)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781324020516) / [Open Library](https://openlibrary.org/isbn/9781324020516) / [Local Book Shop](https://bookshop.org/book/9781324020516) / [Amazon](https://amazon.com/dp/1324020512)
+
+![100%](https://geps.dev/progress/100) 
+
+:star: :star: :star: :star: :star:
+
+## ![The Letter of Marque (Aubrey/Maturin Novels, 12)](https://images-us.bookshop.org/ingram/9781324020523.jpg?height=300&v=v2) The Letter of Marque (Aubrey/Maturin Novels, 12)
+*[Patrick O'Brian](../authors/PatrickOBrian)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781324020523) / [Open Library](https://openlibrary.org/isbn/9781324020523) / [Local Book Shop](https://bookshop.org/book/9781324020523) / [Amazon](https://amazon.com/dp/1324020520)
+
+![0%](https://geps.dev/progress/0) 
+
+
+
+## ![The Thirteen-Gun Salute (Aubrey/Maturin Novels, 13)](https://images-us.bookshop.org/ingram/9780006499282.jpg?height=300&v=v2) The Thirteen-Gun Salute (Aubrey/Maturin Novels, 13)
+*[Patrick O'Brian](../authors/PatrickOBrian)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780006499282) / [Open Library](https://openlibrary.org/isbn/9780006499282) / [Local Book Shop](https://bookshop.org/book/9780006499282) / [Amazon](https://amazon.com/dp/1324020547)
+
+![0%](https://geps.dev/progress/0) 
+
+
+
+## ![The Nutmeg of Consolation (Aubrey/Maturin Novels, 14)](https://images-us.bookshop.org/ingram/9781324020547.jpg?height=300&v=v2) The Nutmeg of Consolation (Aubrey/Maturin Novels, 14)
+*[Patrick O'Brian](../authors/PatrickOBrian)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781324020547) / [Open Library](https://openlibrary.org/isbn/9781324020547) / [Local Book Shop](https://bookshop.org/book/9781324020547) / [Amazon](https://amazon.com/dp/1324020547)
+
+![0%](https://geps.dev/progress/0) 
+
+
+
+## ![The Truelove (Aubrey/Maturin Novels, 15)](https://images-us.bookshop.org/ingram/9781324020554.jpg?height=300&v=v2) The Truelove (Aubrey/Maturin Novels, 15)
+*[Patrick O'Brian](../authors/PatrickOBrian)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781324020554) / [Open Library](https://openlibrary.org/isbn/9781324020554) / [Local Book Shop](https://bookshop.org/book/9781324020554) / [Amazon](https://amazon.com/dp/1324020555)
+
+![0%](https://geps.dev/progress/0) 
+
+
+
+## ![The Wine-Dark Sea (Aubrey/Maturin Novels, 16)](https://images-us.bookshop.org/ingram/9781324021544.jpg?height=300&v=v2) The Wine-Dark Sea (Aubrey/Maturin Novels, 16)
+*[Patrick O'Brian](../authors/PatrickOBrian)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781324021544) / [Open Library](https://openlibrary.org/isbn/9781324021544) / [Local Book Shop](https://bookshop.org/book/9781324021544) / [Amazon](https://amazon.com/dp/1324021543)
 
 ![0%](https://geps.dev/progress/0) 
 

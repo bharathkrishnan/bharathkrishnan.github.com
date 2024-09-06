@@ -1351,8 +1351,8 @@
             "ISBN13": "9781324020509",
             "ISBN10": "1324020504",
             "ReadYear": 2024,
-            "Progress": 0.3,
-            "Rating": 0.0,
+            "Progress": 1.0,
+            "Rating": 4.0,
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781324020509.jpg?height=300&v=v2"
         },
         {
@@ -1363,9 +1363,69 @@
             "ISBN13": "9781324020516",
             "ISBN10": "1324020512",
             "ReadYear": 2024,
+            "Progress": 1.0,
+            "Rating": 5.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9781324020516.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "The Letter of Marque (Aubrey/Maturin Novels, 12)",
+            "Authors": [
+                "Patrick O'Brian"
+            ],
+            "ISBN13": "9781324020523",
+            "ISBN10": "1324020520",
+            "ReadYear": 2024,
             "Progress": 0.0,
             "Rating": 0.0,
-            "ThumbNail": "https://images-us.bookshop.org/ingram/9781324020516.jpg?height=300&v=v2"
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9781324020523.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "The Thirteen-Gun Salute (Aubrey/Maturin Novels, 13)",
+            "Authors": [
+                "Patrick O'Brian"
+            ],
+            "ISBN13": "9780006499282",
+            "ISBN10": "1324020547",
+            "ReadYear": 2024,
+            "Progress": 0.0,
+            "Rating": 0.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9780006499282.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "The Nutmeg of Consolation (Aubrey/Maturin Novels, 14)",
+            "Authors": [
+                "Patrick O'Brian"
+            ],
+            "ISBN13": "9781324020547",
+            "ISBN10": "1324020547",
+            "ReadYear": 2024,
+            "Progress": 0.0,
+            "Rating": 0.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9781324020547.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "The Truelove (Aubrey/Maturin Novels, 15)",
+            "Authors": [
+                "Patrick O'Brian"
+            ],
+            "ISBN13": "9781324020554",
+            "ISBN10": "1324020555",
+            "ReadYear": 2024,
+            "Progress": 0.0,
+            "Rating": 0.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9781324020554.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "The Wine-Dark Sea (Aubrey/Maturin Novels, 16)",
+            "Authors": [
+                "Patrick O'Brian"
+            ],
+            "ISBN13": "9781324021544",
+            "ISBN10": "1324021543",
+            "ReadYear": 2024,
+            "Progress": 0.0,
+            "Rating": 0.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9781324021544.jpg?height=300&v=v2"
         }
     ]
 }
