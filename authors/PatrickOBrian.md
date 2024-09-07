@@ -113,7 +113,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781324020530) / [Open Library](https://openlibrary.org/isbn/9781324020530) / [Local Book Shop](https://bookshop.org/book/9781324020530) / [Amazon](https://amazon.com/dp/1324020539)
 
-![0%](https://geps.dev/progress/0) 
+![20%](https://geps.dev/progress/20) 
 
 
 
