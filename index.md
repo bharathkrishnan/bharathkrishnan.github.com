@@ -20,9 +20,10 @@
 <img src="https://images-us.bookshop.org/ingram/9780393541632.jpg?height=300&v=v2" width=128>
 <img src="https://images-us.bookshop.org/ingram/9780393541649.jpg?height=300&v=v2" width=128>
 <img src="https://images-us.bookshop.org/ingram/9781324020516.jpg?height=300&v=v2" width=128>
+<img src="https://images-us.bookshop.org/ingram/9781324020523.jpg?height=300&v=v2" width=128>
 
 
-## Read completion: 68.0%
+## Read completion: 72.0%
 <img src="https://covers.openlibrary.org/b/isbn/9780316462846-M.jpg" width=128>
 <img src="https://covers.openlibrary.org/b/isbn/9780765319647-M.jpg" width=128>
 <img src="https://images-us.bookshop.org/ingram/9780744306675.jpg?height=300&v=v2" width=128>
@@ -41,6 +42,7 @@
 <img src="https://images-us.bookshop.org/ingram/9780393881738.jpg?height=300&v=v2" width=128>
 <img src="https://images-us.bookshop.org/ingram/9781324020509.jpg?height=300&v=v2" width=128>
 <img src="https://images-us.bookshop.org/ingram/9781324020516.jpg?height=300&v=v2" width=128>
+<img src="https://images-us.bookshop.org/ingram/9781324020523.jpg?height=300&v=v2" width=128>
 
 ---
 ## Books with 5-star reviews, 2023

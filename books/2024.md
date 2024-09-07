@@ -1,5 +1,5 @@
 # Year: 2024 / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2024: 8 Authors, 17 / 25 Books Read, Avg Rating: 4.65 :star: :star: :star: :star: :star:
+# 2024: 8 Authors, 18 / 25 Books Read, Avg Rating: 4.67 :star: :star: :star: :star: :star:
 
 ## ![The Strange](https://covers.openlibrary.org/b/isbn/9781534449954-M.jpg) The Strange
 *[Nathan Ballingrud](../authors/NathanBallingrud)*
@@ -186,9 +186,9 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781324020523) / [Open Library](https://openlibrary.org/isbn/9781324020523) / [Local Book Shop](https://bookshop.org/book/9781324020523) / [Amazon](https://amazon.com/dp/1324020520)
 
-![0%](https://geps.dev/progress/0) 
+![100%](https://geps.dev/progress/100) 
 
-
+:star: :star: :star: :star: :star:
 
 ## ![The Thirteen-Gun Salute (Aubrey/Maturin Novels, 13)](https://images-us.bookshop.org/ingram/9781324020530.jpg?height=300&v=v2) The Thirteen-Gun Salute (Aubrey/Maturin Novels, 13)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
