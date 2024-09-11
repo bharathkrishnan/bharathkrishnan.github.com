@@ -1,4 +1,4 @@
-# Patrick O'Brian:  Books Read 12 / 16, Avg Rating: 4.75 :star: :star: :star: :star: :star:
+# Patrick O'Brian:  Books Read 14 / 16, Avg Rating: 4.64 :star: :star: :star: :star: :star:
 
 ## ![Master and Commander (Aubrey/Maturin Novels, 1)](https://images-us.bookshop.org/ingram/9780393541588.jpg?height=300&v=v2) Master and Commander (Aubrey/Maturin Novels, 1)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
@@ -113,25 +113,25 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781324020530) / [Open Library](https://openlibrary.org/isbn/9781324020530) / [Local Book Shop](https://bookshop.org/book/9781324020530) / [Amazon](https://amazon.com/dp/1324020539)
 
-![20%](https://geps.dev/progress/20) 
+![100%](https://geps.dev/progress/100) 
 
-
+:star: :star: :star: :star:
 
 ## ![The Nutmeg of Consolation (Aubrey/Maturin Novels, 14)](https://images-us.bookshop.org/ingram/9781324020547.jpg?height=300&v=v2) The Nutmeg of Consolation (Aubrey/Maturin Novels, 14)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781324020547) / [Open Library](https://openlibrary.org/isbn/9781324020547) / [Local Book Shop](https://bookshop.org/book/9781324020547) / [Amazon](https://amazon.com/dp/1324020547)
 
-![0%](https://geps.dev/progress/0) 
+![100%](https://geps.dev/progress/100) 
 
-
+:star: :star: :star: :star:
 
 ## ![The Truelove (Aubrey/Maturin Novels, 15)](https://images-us.bookshop.org/ingram/9781324020554.jpg?height=300&v=v2) The Truelove (Aubrey/Maturin Novels, 15)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781324020554) / [Open Library](https://openlibrary.org/isbn/9781324020554) / [Local Book Shop](https://bookshop.org/book/9781324020554) / [Amazon](https://amazon.com/dp/1324020555)
 
-![0%](https://geps.dev/progress/0) 
+![20%](https://geps.dev/progress/20) 
 
 
 
