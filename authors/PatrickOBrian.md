@@ -1,4 +1,4 @@
-# Patrick O'Brian:  Books Read 14 / 16, Avg Rating: 4.64 :star: :star: :star: :star: :star:
+# Patrick O'Brian:  Books Read 15 / 16, Avg Rating: 4.6 :star: :star: :star: :star: :star:
 
 ## ![Master and Commander (Aubrey/Maturin Novels, 1)](https://images-us.bookshop.org/ingram/9780393541588.jpg?height=300&v=v2) Master and Commander (Aubrey/Maturin Novels, 1)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
@@ -131,16 +131,16 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781324020554) / [Open Library](https://openlibrary.org/isbn/9781324020554) / [Local Book Shop](https://bookshop.org/book/9781324020554) / [Amazon](https://amazon.com/dp/1324020555)
 
-![20%](https://geps.dev/progress/20) 
+![100%](https://geps.dev/progress/100) 
 
-
+:star: :star: :star: :star:
 
 ## ![The Wine-Dark Sea (Aubrey/Maturin Novels, 16)](https://images-us.bookshop.org/ingram/9781324021544.jpg?height=300&v=v2) The Wine-Dark Sea (Aubrey/Maturin Novels, 16)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781324021544) / [Open Library](https://openlibrary.org/isbn/9781324021544) / [Local Book Shop](https://bookshop.org/book/9781324021544) / [Amazon](https://amazon.com/dp/1324021543)
 
-![0%](https://geps.dev/progress/0) 
+![50%](https://geps.dev/progress/50) 
 
 
 
