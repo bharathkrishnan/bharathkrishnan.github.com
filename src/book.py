@@ -30,6 +30,7 @@ class Book:
             self.isbn13.replace("-", "")
         )
         r = requests.get(bsurl)
+        print(r)
         if r.status_code == 200:
             return bsurl
         r = requests.get(olurl)
