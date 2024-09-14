@@ -1,4 +1,4 @@
-# Patrick O'Brian:  Books Read 15 / 16, Avg Rating: 4.6 :star: :star: :star: :star: :star:
+# Patrick O'Brian:  Books Read 16 / 17, Avg Rating: 4.56 :star: :star: :star: :star: :star:
 
 ## ![Master and Commander (Aubrey/Maturin Novels, 1)](https://images-us.bookshop.org/ingram/9780393541588.jpg?height=300&v=v2) Master and Commander (Aubrey/Maturin Novels, 1)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
@@ -140,7 +140,16 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781324021544) / [Open Library](https://openlibrary.org/isbn/9781324021544) / [Local Book Shop](https://bookshop.org/book/9781324021544) / [Amazon](https://amazon.com/dp/1324021543)
 
-![50%](https://geps.dev/progress/50) 
+![100%](https://geps.dev/progress/100) 
+
+:star: :star: :star: :star:
+
+## ![The Commodore (Aubrey/Maturin Novels, 17)](https://covers.openlibrary.org/b/isbn/9781324021551-M.jpg) The Commodore (Aubrey/Maturin Novels, 17)
+*[Patrick O'Brian](../authors/PatrickOBrian)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781324021551) / [Open Library](https://openlibrary.org/isbn/9781324021551) / [Local Book Shop](https://bookshop.org/book/9781324021551) / [Amazon](https://amazon.com/dp/1324021543)
+
+![30%](https://geps.dev/progress/30) 
 
 
 

@@ -1,5 +1,5 @@
 # Year: 2024 / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2024: 8 Authors, 21 / 25 Books Read, Avg Rating: 4.57 :star: :star: :star: :star: :star:
+# 2024: 8 Authors, 22 / 26 Books Read, Avg Rating: 4.55 :star: :star: :star: :star: :star:
 
 ## ![The Strange](https://covers.openlibrary.org/b/isbn/9781534449954-M.jpg) The Strange
 *[Nathan Ballingrud](../authors/NathanBallingrud)*
@@ -222,7 +222,16 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781324021544) / [Open Library](https://openlibrary.org/isbn/9781324021544) / [Local Book Shop](https://bookshop.org/book/9781324021544) / [Amazon](https://amazon.com/dp/1324021543)
 
-![50%](https://geps.dev/progress/50) 
+![100%](https://geps.dev/progress/100) 
+
+:star: :star: :star: :star:
+
+## ![The Commodore (Aubrey/Maturin Novels, 17)](https://covers.openlibrary.org/b/isbn/9781324021551-M.jpg) The Commodore (Aubrey/Maturin Novels, 17)
+*[Patrick O'Brian](../authors/PatrickOBrian)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781324021551) / [Open Library](https://openlibrary.org/isbn/9781324021551) / [Local Book Shop](https://bookshop.org/book/9781324021551) / [Amazon](https://amazon.com/dp/1324021543)
+
+![30%](https://geps.dev/progress/30) 
 
 
 
