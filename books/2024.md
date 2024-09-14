@@ -1,5 +1,5 @@
 # Year: 2024 / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2024: 8 Authors, 22 / 26 Books Read, Avg Rating: 4.55 :star: :star: :star: :star: :star:
+# 2024: 8 Authors, 22 / 29 Books Read, Avg Rating: 4.55 :star: :star: :star: :star: :star:
 
 ## ![The Strange](https://covers.openlibrary.org/b/isbn/9781534449954-M.jpg) The Strange
 *[Nathan Ballingrud](../authors/NathanBallingrud)*
@@ -226,12 +226,39 @@
 
 :star: :star: :star: :star:
 
-## ![The Commodore (Aubrey/Maturin Novels, 17)](https://covers.openlibrary.org/b/isbn/9781324021551-M.jpg) The Commodore (Aubrey/Maturin Novels, 17)
+## ![The Commodore (Aubrey/Maturin Novels, 17)](https://images-us.bookshop.org/ingram/9781324021551.jpg?height=300&v=v2) The Commodore (Aubrey/Maturin Novels, 17)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
 
-[Massachusetts Library](https://library.minlib.net/search/i=9781324021551) / [Open Library](https://openlibrary.org/isbn/9781324021551) / [Local Book Shop](https://bookshop.org/book/9781324021551) / [Amazon](https://amazon.com/dp/1324021543)
+[Massachusetts Library](https://library.minlib.net/search/i=9781324021551) / [Open Library](https://openlibrary.org/isbn/9781324021551) / [Local Book Shop](https://bookshop.org/book/9781324021551) / [Amazon](https://amazon.com/dp/1324021551)
 
 ![30%](https://geps.dev/progress/30) 
+
+
+
+## ![The Yellow Admiral (Aubrey/Maturin Novels, 18)](https://images-us.bookshop.org/ingram/9781324021704.jpg?height=300&v=v2) The Yellow Admiral (Aubrey/Maturin Novels, 18)
+*[Patrick O'Brian](../authors/PatrickOBrian)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781324021704) / [Open Library](https://openlibrary.org/isbn/9781324021704) / [Local Book Shop](https://bookshop.org/book/9781324021704) / [Amazon](https://amazon.com/dp/1324021705)
+
+![0%](https://geps.dev/progress/0) 
+
+
+
+## ![The Hundred Days (Aubrey/Maturin Novels, 19)](https://images-us.bookshop.org/ingram/9781324021711.jpg?height=300&v=v2) The Hundred Days (Aubrey/Maturin Novels, 19)
+*[Patrick O'Brian](../authors/PatrickOBrian)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781324021711) / [Open Library](https://openlibrary.org/isbn/9781324021711) / [Local Book Shop](https://bookshop.org/book/9781324021711) / [Amazon](https://amazon.com/dp/1324021713)
+
+![0%](https://geps.dev/progress/0) 
+
+
+
+## ![Blue at the Mizzen (Aubrey/Maturin Novels, 20)](https://images-us.bookshop.org/ingram/9781324035275.jpg?height=300&v=v2) Blue at the Mizzen (Aubrey/Maturin Novels, 20)
+*[Patrick O'Brian](../authors/PatrickOBrian)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781324035275) / [Open Library](https://openlibrary.org/isbn/9781324035275) / [Local Book Shop](https://bookshop.org/book/9781324035275) / [Amazon](https://amazon.com/dp/1324035277)
+
+![0%](https://geps.dev/progress/0) 
 
 
 

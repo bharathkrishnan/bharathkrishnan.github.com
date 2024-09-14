@@ -1433,11 +1433,47 @@
                 "Patrick O'Brian"
             ],
             "ISBN13": "9781324021551",
-            "ISBN10": "1324021543",
+            "ISBN10": "1324021551",
             "ReadYear": 2024,
             "Progress": 0.3,
             "Rating": 0.0,
-            "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781324021551-M.jpg"
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9781324021551.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "The Yellow Admiral (Aubrey/Maturin Novels, 18)",
+            "Authors": [
+                "Patrick O'Brian"
+            ],
+            "ISBN13": "9781324021704",
+            "ISBN10": "1324021705",
+            "ReadYear": 2024,
+            "Progress": 0.0,
+            "Rating": 0.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9781324021704.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "The Hundred Days (Aubrey/Maturin Novels, 19)",
+            "Authors": [
+                "Patrick O'Brian"
+            ],
+            "ISBN13": "978-1324021711",
+            "ISBN10": "1324021713",
+            "ReadYear": 2024,
+            "Progress": 0.0,
+            "Rating": 0.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9781324021711.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "Blue at the Mizzen (Aubrey/Maturin Novels, 20)",
+            "Authors": [
+                "Patrick O'Brian"
+            ],
+            "ISBN13": "978-1324035275",
+            "ISBN10": "1324035277",
+            "ReadYear": 2024,
+            "Progress": 0.0,
+            "Rating": 0.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9781324035275.jpg?height=300&v=v2"
         }
     ]
 }
