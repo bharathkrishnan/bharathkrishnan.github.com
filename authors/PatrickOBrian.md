@@ -1,4 +1,4 @@
-# Patrick O'Brian:  Books Read 16 / 20, Avg Rating: 4.56 :star: :star: :star: :star: :star:
+# Patrick O'Brian:  Books Read 17 / 20, Avg Rating: 4.53 :star: :star: :star: :star: :star:
 
 ## ![Master and Commander (Aubrey/Maturin Novels, 1)](https://images-us.bookshop.org/ingram/9780393541588.jpg?height=300&v=v2) Master and Commander (Aubrey/Maturin Novels, 1)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
@@ -149,16 +149,16 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781324021551) / [Open Library](https://openlibrary.org/isbn/9781324021551) / [Local Book Shop](https://bookshop.org/book/9781324021551) / [Amazon](https://amazon.com/dp/1324021551)
 
-![30%](https://geps.dev/progress/30) 
+![100%](https://geps.dev/progress/100) 
 
-
+:star: :star: :star: :star:
 
 ## ![The Yellow Admiral (Aubrey/Maturin Novels, 18)](https://images-us.bookshop.org/ingram/9781324021704.jpg?height=300&v=v2) The Yellow Admiral (Aubrey/Maturin Novels, 18)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781324021704) / [Open Library](https://openlibrary.org/isbn/9781324021704) / [Local Book Shop](https://bookshop.org/book/9781324021704) / [Amazon](https://amazon.com/dp/1324021705)
 
-![0%](https://geps.dev/progress/0) 
+![10%](https://geps.dev/progress/10) 
 
 
 

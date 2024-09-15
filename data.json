@@ -1435,8 +1435,8 @@
             "ISBN13": "9781324021551",
             "ISBN10": "1324021551",
             "ReadYear": 2024,
-            "Progress": 0.3,
-            "Rating": 0.0,
+            "Progress": 1.0,
+            "Rating": 4.0,
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781324021551.jpg?height=300&v=v2"
         },
         {
@@ -1447,7 +1447,7 @@
             "ISBN13": "9781324021704",
             "ISBN10": "1324021705",
             "ReadYear": 2024,
-            "Progress": 0.0,
+            "Progress": 0.1,
             "Rating": 0.0,
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781324021704.jpg?height=300&v=v2"
         },
