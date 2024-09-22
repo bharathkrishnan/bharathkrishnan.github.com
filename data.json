@@ -1447,8 +1447,8 @@
             "ISBN13": "9781324021704",
             "ISBN10": "1324021705",
             "ReadYear": 2024,
-            "Progress": 0.1,
-            "Rating": 0.0,
+            "Progress": 1.0,
+            "Rating": 4.0,
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781324021704.jpg?height=300&v=v2"
         },
         {
@@ -1459,8 +1459,8 @@
             "ISBN13": "978-1324021711",
             "ISBN10": "1324021713",
             "ReadYear": 2024,
-            "Progress": 0.0,
-            "Rating": 0.0,
+            "Progress": 1.0,
+            "Rating": 4.0,
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781324021711.jpg?height=300&v=v2"
         },
         {
@@ -1471,7 +1471,7 @@
             "ISBN13": "978-1324035275",
             "ISBN10": "1324035277",
             "ReadYear": 2024,
-            "Progress": 0.0,
+            "Progress": 0.5,
             "Rating": 0.0,
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781324035275.jpg?height=300&v=v2"
         }

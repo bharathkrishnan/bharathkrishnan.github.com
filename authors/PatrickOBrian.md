@@ -1,4 +1,4 @@
-# Patrick O'Brian:  Books Read 17 / 20, Avg Rating: 4.53 :star: :star: :star: :star: :star:
+# Patrick O'Brian:  Books Read 19 / 20, Avg Rating: 4.47 :star: :star: :star: :star:
 
 ## ![Master and Commander (Aubrey/Maturin Novels, 1)](https://images-us.bookshop.org/ingram/9780393541588.jpg?height=300&v=v2) Master and Commander (Aubrey/Maturin Novels, 1)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
@@ -158,25 +158,25 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781324021704) / [Open Library](https://openlibrary.org/isbn/9781324021704) / [Local Book Shop](https://bookshop.org/book/9781324021704) / [Amazon](https://amazon.com/dp/1324021705)
 
-![10%](https://geps.dev/progress/10) 
+![100%](https://geps.dev/progress/100) 
 
-
+:star: :star: :star: :star:
 
 ## ![The Hundred Days (Aubrey/Maturin Novels, 19)](https://images-us.bookshop.org/ingram/9781324021711.jpg?height=300&v=v2) The Hundred Days (Aubrey/Maturin Novels, 19)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781324021711) / [Open Library](https://openlibrary.org/isbn/9781324021711) / [Local Book Shop](https://bookshop.org/book/9781324021711) / [Amazon](https://amazon.com/dp/1324021713)
 
-![0%](https://geps.dev/progress/0) 
+![100%](https://geps.dev/progress/100) 
 
-
+:star: :star: :star: :star:
 
 ## ![Blue at the Mizzen (Aubrey/Maturin Novels, 20)](https://images-us.bookshop.org/ingram/9781324035275.jpg?height=300&v=v2) Blue at the Mizzen (Aubrey/Maturin Novels, 20)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781324035275) / [Open Library](https://openlibrary.org/isbn/9781324035275) / [Local Book Shop](https://bookshop.org/book/9781324035275) / [Amazon](https://amazon.com/dp/1324035277)
 
-![0%](https://geps.dev/progress/0) 
+![50%](https://geps.dev/progress/50) 
 
 
 
