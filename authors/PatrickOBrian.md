@@ -1,4 +1,4 @@
-# Patrick O'Brian:  Books Read 19 / 20, Avg Rating: 4.47 :star: :star: :star: :star:
+# Patrick O'Brian:  Books Read 20 / 20, Avg Rating: 4.45 :star: :star: :star: :star:
 
 ## ![Master and Commander (Aubrey/Maturin Novels, 1)](https://images-us.bookshop.org/ingram/9780393541588.jpg?height=300&v=v2) Master and Commander (Aubrey/Maturin Novels, 1)
 *[Patrick O'Brian](../authors/PatrickOBrian)*
@@ -176,8 +176,8 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781324035275) / [Open Library](https://openlibrary.org/isbn/9781324035275) / [Local Book Shop](https://bookshop.org/book/9781324035275) / [Amazon](https://amazon.com/dp/1324035277)
 
-![50%](https://geps.dev/progress/50) 
+![100%](https://geps.dev/progress/100) 
 
-
+:star: :star: :star: :star:
 
 ---
