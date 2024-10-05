@@ -1,4 +1,4 @@
-# Alastair Reynolds:  Books Read 4 / 4, Avg Rating: 4.75 :star: :star: :star: :star: :star:
+# Alastair Reynolds:  Books Read 5 / 5, Avg Rating: 4.8 :star: :star: :star: :star: :star:
 
 ## ![Inhibitor Phase (Revelation Space)](https://covers.openlibrary.org/b/isbn/9780316462761-M.jpg) Inhibitor Phase (Revelation Space)
 *[Alastair Reynolds](../authors/AlastairReynolds)*
@@ -31,6 +31,15 @@
 *[Alastair Reynolds](../authors/AlastairReynolds)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780316462846) / [Open Library](https://openlibrary.org/isbn/9780316462846) / [Local Book Shop](https://bookshop.org/book/9780316462846) / [Amazon](https://amazon.com/dp/0316462845)
+
+![100%](https://geps.dev/progress/100) 
+
+:star: :star: :star: :star: :star:
+
+## ![Permafrost](https://images-us.bookshop.org/ingram/9781250303561.jpg?height=300&v=v2) Permafrost
+*[Alastair Reynolds](../authors/AlastairReynolds)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781250303561) / [Open Library](https://openlibrary.org/isbn/9781250303561) / [Local Book Shop](https://bookshop.org/book/9781250303561) / [Amazon](https://amazon.com/dp/1250303559)
 
 ![100%](https://geps.dev/progress/100) 
 

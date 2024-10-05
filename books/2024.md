@@ -1,5 +1,5 @@
 # Year: 2024 / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2024: 8 Authors, 26 / 29 Books Read, Avg Rating: 4.46 :star: :star: :star: :star:
+# 2024: 8 Authors, 27 / 30 Books Read, Avg Rating: 4.48 :star: :star: :star: :star:
 
 ## ![The Strange](https://covers.openlibrary.org/b/isbn/9781534449954-M.jpg) The Strange
 *[Nathan Ballingrud](../authors/NathanBallingrud)*
@@ -261,5 +261,14 @@
 ![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star:
+
+## ![Permafrost](https://images-us.bookshop.org/ingram/9781250303561.jpg?height=300&v=v2) Permafrost
+*[Alastair Reynolds](../authors/AlastairReynolds)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781250303561) / [Open Library](https://openlibrary.org/isbn/9781250303561) / [Local Book Shop](https://bookshop.org/book/9781250303561) / [Amazon](https://amazon.com/dp/1250303559)
+
+![100%](https://geps.dev/progress/100) 
+
+:star: :star: :star: :star: :star:
 
 ---
