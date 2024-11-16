@@ -1,5 +1,5 @@
 # Year: 2024 / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2024: 8 Authors, 27 / 30 Books Read, Avg Rating: 4.48 :star: :star: :star: :star:
+# 2024: 9 Authors, 27 / 31 Books Read, Avg Rating: 4.48 :star: :star: :star: :star:
 
 ## ![The Strange](https://covers.openlibrary.org/b/isbn/9781534449954-M.jpg) The Strange
 *[Nathan Ballingrud](../authors/NathanBallingrud)*
@@ -270,5 +270,14 @@
 ![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star: :star:
+
+## ![Orbital: A Novel](https://images-us.bookshop.org/ingram/9780802163622.jpg?height=300&v=v2) Orbital: A Novel
+*[Samantha Harvey](../authors/SamanthaHarvey)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780802163622) / [Open Library](https://openlibrary.org/isbn/9780802163622) / [Local Book Shop](https://bookshop.org/book/9780802163622) / [Amazon](https://amazon.com/dp/0802163629)
+
+![10%](https://geps.dev/progress/10) 
+
+
 
 ---

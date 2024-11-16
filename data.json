@@ -1486,6 +1486,18 @@
             "Progress": 1.0,
             "Rating": 5.0,
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781250303561.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "Orbital: A Novel",
+            "Authors": [
+                "Samantha Harvey"
+            ],
+            "ISBN13": "978-0802163622",
+            "ISBN10": "0802163629",
+            "ReadYear": 2024,
+            "Progress": 0.1,
+            "Rating": 0.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9780802163622.jpg?height=300&v=v2"
         }
     ]
 }
