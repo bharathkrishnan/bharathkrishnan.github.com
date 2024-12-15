@@ -1498,6 +1498,18 @@
             "Progress": 1.0,
             "Rating": 3.0,
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780802163622.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "Navigational Entanglements",
+            "Authors": [
+                "Aliette de Bodard"
+            ],
+            "ISBN13": "978-1250324887",
+            "ISBN10": "1250324882",
+            "ReadYear": 2024,
+            "Progress": 1.0,
+            "Rating": 2.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9781250324887.jpg?height=300&v=v2"
         }
     ]
 }
