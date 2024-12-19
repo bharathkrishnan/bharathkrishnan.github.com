@@ -141,7 +141,7 @@ def main():
     #   Generate Index page
     with open("../index.md", "w") as o:
         o.write("# Excellent Books\n")
-        o.write("## [Book cover mosaic generator](/mosaic)\n")
+        # o.write("## [Book cover mosaic generator](/mosaic)\n")
         o.write("## Books read by year\n")
         for y in tqdm(
             [x for (x, z) in sorted(years.items(), reverse=True)], desc="Book Index"

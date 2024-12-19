@@ -9,25 +9,30 @@ def get_thumbnail(ids):
     imgs = []
     print(ids)
     for id in ids:
+        bsurl = "https://images-us.bookshop.org/ingram/{0}.jpg?height=300&v=v2".format(id.replace("-", ""))
         olurl = "https://covers.openlibrary.org/b/isbn/{0}-M.jpg".format(id)
         gburl = "https://www.googleapis.com/books/v1/volumes?q=isbn:{0}".format(
             id.replace("-", "")
         )
-        r = requests.get(olurl)
-        if r.status_code == 200:
-            imgs.append(olurl)
+        r = requests.get(bsurl)
+        if r.status_code == 200 or r.status_code == 403:
+            imgs.append(bsurl)
         else:
-            gbr = requests.get(gburl)
-            if gbr.status_code == 200:
-                if (
-                    gbr.json()["totalItems"] > 0
-                    and "imageLinks" in gbr.json()["items"][0]["volumeInfo"]
-                ):
-                    imgs.append(
-                        gbr.json()["items"][0]["volumeInfo"]["imageLinks"][
-                            "smallThumbnail"
-                        ]
-                    )
+            r = requests.get(olurl)
+            if r.status_code == 200:
+                imgs.append(olurl)
+            else:
+                gbr = requests.get(gburl)
+                if gbr.status_code == 200:
+                    if (
+                        gbr.json()["totalItems"] > 0
+                        and "imageLinks" in gbr.json()["items"][0]["volumeInfo"]
+                    ):
+                        imgs.append(
+                            gbr.json()["items"][0]["volumeInfo"]["imageLinks"][
+                                "smallThumbnail"
+                            ]
+                        )
     return imgs
 
 
