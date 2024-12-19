@@ -179,7 +179,7 @@ def main():
             "<p>Paste a list of ISBN13 ids in the form below to generate your own Cover Mosaic</p>\n"
         )
         o.write(
-            '<form action="https://test-j7fvcrsyma-uc.a.run.app/" method="POST"><div><textarea name="ids" placeholder="9780441013593,9780316005401"></textarea></div><div><button>Mosaic!</button></div></form>\n'
+            '<form action="https://test-j7fvcrsyma-uc.a.run.app/" method="POST"><div><textarea name="ids" placeholder="9780802163622,9781250303561401"></textarea></div><div><button>Mosaic!</button></div></form>\n'
         )
         o.write("</main></body></html>\n")
 
