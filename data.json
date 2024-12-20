@@ -1510,6 +1510,18 @@
             "Progress": 1.0,
             "Rating": 2.0,
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781250324887.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "Lords of the Deccan: Southern India From The Chalukyas To The Cholas",
+            "Authors": [
+                "Anirudh Kanisetti"
+            ],
+            "ISBN13": "978-9353451608",
+            "ISBN10": "9353451604",
+            "ReadYear": 2024,
+            "Progress": 0.1,
+            "Rating": 0.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9789353451608.jpg?height=300&v=v2"
         }
     ]
 }
