@@ -1522,6 +1522,18 @@
             "Progress": 0.1,
             "Rating": 0.0,
             "ThumbNail": "https://pictures.abebooks.com/isbn/9789353451608-us-300.jpg"
+        },
+        {
+            "Title": "The Mercy of Gods (The Captive's War, 1)",
+            "Authors": [
+                "James S. A. Corey"
+            ],
+            "ISBN13": "978-0316525572",
+            "ISBN10": "031652557X",
+            "ReadYear": 2024,
+            "Progress": 0.1,
+            "Rating": 0.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9780316525572.jpg?height=300&v=v2"
         }
     ]
 }
