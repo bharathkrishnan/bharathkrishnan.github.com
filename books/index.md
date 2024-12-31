@@ -1,5 +1,5 @@
 # Year: 2024 / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2024: 12 Authors, 29 / 34 Books Read, Avg Rating: 4.34 :star: :star: :star: :star:
+# 2024: 12 Authors, 30 / 34 Books Read, Avg Rating: 4.33 :star: :star: :star: :star:
 
 ## ![The Strange](https://covers.openlibrary.org/b/isbn/9781534449954-M.jpg) The Strange
 *[Nathan Ballingrud](../authors/NathanBallingrud)*
@@ -303,8 +303,8 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780316525572) / [Open Library](https://openlibrary.org/isbn/9780316525572) / [Local Book Shop](https://bookshop.org/book/9780316525572) / [Amazon](https://amazon.com/dp/031652557X)
 
-![10%](https://geps.dev/progress/10) 
+![100%](https://geps.dev/progress/100) 
 
-
+:star: :star: :star: :star:
 
 ---
