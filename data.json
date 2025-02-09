@@ -1534,6 +1534,42 @@
             "Progress": 1.0,
             "Rating": 4.0,
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780316525572.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "Consider Phlebas (Culture)",
+            "Authors": [
+                "Ian M. Banks"
+            ],
+            "ISBN13": "978-0316005388",
+            "ISBN10": "031600538X",
+            "ReadYear": 2025,
+            "Progress": 0.5,
+            "Rating": 0.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9780316005388.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "How to Make a Few Billion Dollars",
+            "Authors": [
+                "Brad Jacobs"
+            ],
+            "ISBN13": "978-8886451740",
+            "ISBN10": "031652557X",
+            "ReadYear": 2025,
+            "Progress": 0.1,
+            "Rating": 0.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9788886451740.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "The Golden Road: How Ancient India Transformed the World",
+            "Authors": [
+                "William Dalrymple"
+            ],
+            "ISBN13": "978-1639734146",
+            "ISBN10": "1639734147",
+            "ReadYear": 2025,
+            "Progress": 0.0,
+            "Rating": 0.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9781639734146.jpg?height=300&v=v2"
         }
     ]
 }

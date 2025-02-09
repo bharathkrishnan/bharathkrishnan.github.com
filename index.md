@@ -1,10 +1,19 @@
 # Excellent Books
 ## Books read by year
+- [2025](books/2025.md)
 - [2024](books/2024.md)
 - [2023](books/2023.md)
 - [2022](books/2022.md)
 - [2021](books/2021.md)
 - [2020](books/2020.md)
+## Books with 5-star reviews, 2025
+
+
+## Read completion: 0.0%
+<img src="https://images-us.bookshop.org/ingram/9780316005388.jpg?height=300&v=v2" width=128>
+<img src="https://images-us.bookshop.org/ingram/9788886451740.jpg?height=300&v=v2" width=128>
+
+---
 ## Books with 5-star reviews, 2024
 <img src="https://covers.openlibrary.org/b/isbn/9780316462846-M.jpg" width=128>
 <img src="https://covers.openlibrary.org/b/isbn/9780765319647-M.jpg" width=128>
@@ -162,4 +171,4 @@
 <img src="https://covers.openlibrary.org/b/isbn/9780062407801-M.jpg" width=128>
 
 ---
-#### &copy; 2024 Bharath Krishnan
+#### &copy; 2025 Bharath Krishnan
