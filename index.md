@@ -9,7 +9,7 @@
 ## Books with 5-star reviews, 2025
 
 
-## Read completion: 0.0%
+## Read completion: 33.33%
 <img src="https://images-us.bookshop.org/ingram/9780316005388.jpg?height=300&v=v2" width=128>
 <img src="https://images-us.bookshop.org/ingram/9788886451740.jpg?height=300&v=v2" width=128>
 

@@ -1,5 +1,5 @@
 # Year: 2025 / [2024](../books/) / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2025: 3 Authors, 0 / 3 Books Read, Avg Rating: 0.0 
+# 2025: 3 Authors, 1 / 3 Books Read, Avg Rating: 2.0 :star: :star:
 
 ## ![Consider Phlebas (Culture)](https://images-us.bookshop.org/ingram/9780316005388.jpg?height=300&v=v2) Consider Phlebas (Culture)
 *[Ian M. Banks](../authors/IanMBanks)*
@@ -15,9 +15,9 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9788886451740) / [Open Library](https://openlibrary.org/isbn/9788886451740) / [Local Book Shop](https://bookshop.org/book/9788886451740) / [Amazon](https://amazon.com/dp/031652557X)
 
-![10%](https://geps.dev/progress/10) 
+![100%](https://geps.dev/progress/100) 
 
-
+:star: :star:
 
 ## ![The Golden Road: How Ancient India Transformed the World](https://images-us.bookshop.org/ingram/9781639734146.jpg?height=300&v=v2) The Golden Road: How Ancient India Transformed the World
 *[William Dalrymple](../authors/WilliamDalrymple)*
