@@ -1,12 +1,12 @@
 # Year: 2025 / [2024](../books/) / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2025: 3 Authors, 1 / 3 Books Read, Avg Rating: 2.0 :star: :star:
+# 2025: 3 Authors, 2 / 3 Books Read, Avg Rating: 2.0 :star: :star:
 
 ## ![Consider Phlebas (Culture)](https://images-us.bookshop.org/ingram/9780316005388.jpg?height=300&v=v2) Consider Phlebas (Culture)
 *[Ian M. Banks](../authors/IanMBanks)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780316005388) / [Open Library](https://openlibrary.org/isbn/9780316005388) / [Local Book Shop](https://bookshop.org/book/9780316005388) / [Amazon](https://amazon.com/dp/031600538X)
 
-![50%](https://geps.dev/progress/50) 
+![75%](https://geps.dev/progress/75) 
 
 
 
