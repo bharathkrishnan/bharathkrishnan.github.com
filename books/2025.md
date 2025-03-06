@@ -6,7 +6,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780316005388) / [Open Library](https://openlibrary.org/isbn/9780316005388) / [Local Book Shop](https://bookshop.org/book/9780316005388) / [Amazon](https://amazon.com/dp/031600538X)
 
-![75%](https://geps.dev/progress/75) 
+![80%](https://geps.dev/progress/80) 
 
 
 
