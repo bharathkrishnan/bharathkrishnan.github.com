@@ -1,5 +1,5 @@
 # Year: 2025 / [2024](../books/) / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2025: 3 Authors, 2 / 3 Books Read, Avg Rating: 2.0 :star: :star:
+# 2025: 5 Authors, 2 / 5 Books Read, Avg Rating: 2.0 :star: :star:
 
 ## ![Consider Phlebas (Culture)](https://images-us.bookshop.org/ingram/9780316005388.jpg?height=300&v=v2) Consider Phlebas (Culture)
 *[Ian M. Banks](../authors/IanMBanks)*
@@ -23,6 +23,24 @@
 *[William Dalrymple](../authors/WilliamDalrymple)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781639734146) / [Open Library](https://openlibrary.org/isbn/9781639734146) / [Local Book Shop](https://bookshop.org/book/9781639734146) / [Amazon](https://amazon.com/dp/1639734147)
+
+![0%](https://geps.dev/progress/0) 
+
+
+
+## ![A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://images-us.bookshop.org/ingram/9780063286344.jpg?height=300&v=v2) A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains
+*[Max S. Bennett](../authors/MaxSBennett)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780063286344) / [Open Library](https://openlibrary.org/isbn/9780063286344) / [Local Book Shop](https://bookshop.org/book/9780063286344) / [Amazon](https://amazon.com/dp/0063286343)
+
+![0%](https://geps.dev/progress/0) 
+
+
+
+## ![The MANIAC](https://images-us.bookshop.org/ingram/9780593654477.jpg?height=300&v=v2) The MANIAC
+*[Benjamin Labatut](../authors/BenjaminLabatut)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780593654477) / [Open Library](https://openlibrary.org/isbn/9780593654477) / [Local Book Shop](https://bookshop.org/book/9780593654477) / [Amazon](https://amazon.com/dp/0593654471)
 
 ![0%](https://geps.dev/progress/0) 
 

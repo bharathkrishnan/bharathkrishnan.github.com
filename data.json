@@ -1570,6 +1570,30 @@
             "Progress": 0.0,
             "Rating": 0.0,
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781639734146.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains",
+            "Authors": [
+                "Max S. Bennett"
+            ],
+            "ISBN13": "978-0063286344",
+            "ISBN10": "0063286343",
+            "ReadYear": 2025,
+            "Progress": 0.0,
+            "Rating": 0.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9780063286344.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "The MANIAC",
+            "Authors": [
+                "Benjamin Labatut"
+            ],
+            "ISBN13": "978-0593654477",
+            "ISBN10": "0593654471",
+            "ReadYear": 2025,
+            "Progress": 0.0,
+            "Rating": 0.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9780593654477.jpg?height=300&v=v2"
         }
     ]
 }
