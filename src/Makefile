@@ -1,4 +1,4 @@
-.PHONY: install update clean env deploy
+.PHONY: install update clean env build deploy
 
 # Default Python interpreter
 PYTHON := python3
@@ -29,6 +29,10 @@ clean:
 # activate env created via uv venv bookcellent --python 3.13
 env:
 	source bookcellent/bin/activate
+
+# build
+build:
+	python main.py
 
 # deploy changes to github
 deploy:

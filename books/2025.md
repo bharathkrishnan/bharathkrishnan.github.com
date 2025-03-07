@@ -2,7 +2,7 @@
 # 2025: 5 Authors, 2 / 5 Books Read, Avg Rating: 2.0 :star: :star:
 
 ## ![Consider Phlebas (Culture)](https://images-us.bookshop.org/ingram/9780316005388.jpg?height=300&v=v2) Consider Phlebas (Culture)
-*[Ian M. Banks](../authors/IanMBanks)*
+*[Iain M. Banks](../authors/IainMBanks)*
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780316005388) / [Open Library](https://openlibrary.org/isbn/9780316005388) / [Local Book Shop](https://bookshop.org/book/9780316005388) / [Amazon](https://amazon.com/dp/031600538X)
 

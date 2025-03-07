@@ -1,4 +1,4 @@
-# Iain M. Banks:  Books Read 5 / 5, Avg Rating: 5.0 :star: :star: :star: :star: :star:
+# Iain M. Banks:  Books Read 6 / 6, Avg Rating: 5.0 :star: :star: :star: :star: :star:
 
 ## ![The Player of Games](https://covers.openlibrary.org/b/isbn/9780316005401-M.jpg) The Player of Games
 *[Iain M. Banks](../authors/IainMBanks)*
@@ -44,5 +44,14 @@
 ![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star: :star:
+
+## ![Consider Phlebas (Culture)](https://images-us.bookshop.org/ingram/9780316005388.jpg?height=300&v=v2) Consider Phlebas (Culture)
+*[Iain M. Banks](../authors/IainMBanks)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780316005388) / [Open Library](https://openlibrary.org/isbn/9780316005388) / [Local Book Shop](https://bookshop.org/book/9780316005388) / [Amazon](https://amazon.com/dp/031600538X)
+
+![80%](https://geps.dev/progress/80) 
+
+
 
 ---
