@@ -38,3 +38,5 @@ build:
 deploy:
 	git commit -am "`date +"%Y-%m-%d %H"`"
 	git push origin master
+	sleep 5
+	gh run watch
