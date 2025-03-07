@@ -26,7 +26,7 @@ clean:
 	find . -type d -name "build" -exec rm -rf {} +
 	find . -type d -name "dist" -exec rm -rf {} + 
 
-# activate env
+# activate env created via uv venv bookcellent --python 3.13
 env:
 	source bookcellent/bin/activate
 
