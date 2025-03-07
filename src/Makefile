@@ -1,4 +1,4 @@
-.PHONY: install update clean
+.PHONY: install update clean env deploy
 
 # Default Python interpreter
 PYTHON := python3
@@ -25,3 +25,12 @@ clean:
 	find . -type d -name ".tox" -exec rm -rf {} +
 	find . -type d -name "build" -exec rm -rf {} +
 	find . -type d -name "dist" -exec rm -rf {} + 
+
+# activate env
+env:
+	source bookcellent/bin/activate
+
+# deploy changes to github
+deploy:
+	git commit -am "`date +"%Y-%m-%d %H"`"
+	git push origin master
