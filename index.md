@@ -7,6 +7,7 @@
 - [2021](books/2021.md)
 - [2020](books/2020.md)
 ## Books with 5-star reviews, 2025
+<img src="https://images-us.bookshop.org/ingram/9780316005388.jpg?height=300&v=v2" width=128>
 
 
 ## Read completion: 40.0%
