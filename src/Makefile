@@ -1,7 +1,7 @@
 .PHONY: install update clean env build deploy
 
 # Default Python interpreter
-PYTHON := python3
+PYTHON := python
 UV := uv
 
 # Install production dependencies
@@ -32,11 +32,11 @@ env:
 
 # build
 build:
-	python main.py
+	${PYTHON} main.py
 
 # deploy changes to github
 deploy:
 	git commit -am "`date +"%Y-%m-%d %H"`"
 	git push origin master
-	sleep 5
+	sleep 3
 	gh run watch
