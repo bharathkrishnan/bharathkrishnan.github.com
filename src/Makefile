@@ -28,7 +28,7 @@ clean:
 
 # activate env created via uv venv bookcellent --python 3.13
 env:
-	source bookcellent/bin/activate
+	source ./bookcellent/bin/activate
 
 # build
 build:
