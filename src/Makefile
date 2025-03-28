@@ -35,7 +35,7 @@ build:
 	${PYTHON} main.py
 
 # deploy changes to github
-deploy:
+deploy: build
 	git commit -am "`date +"%Y-%m-%d %H"`"
 	git push origin master
 	sleep 3
