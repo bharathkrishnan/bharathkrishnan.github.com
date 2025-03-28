@@ -5,7 +5,7 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780593654477) / [Open Library](https://openlibrary.org/isbn/9780593654477) / [Local Book Shop](https://bookshop.org/book/9780593654477) / [Amazon](https://amazon.com/dp/0593654471)
 
-![0%](https://geps.dev/progress/0) 
+![10%](https://geps.dev/progress/10) 
 
 
 
