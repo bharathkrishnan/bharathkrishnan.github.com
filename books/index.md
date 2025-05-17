@@ -1,4 +1,4 @@
-# Year: 2025 / [2024](../books/) / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
+# Year: 2025 / [2024](../books/2024) / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
 # 2025: 6 Authors, 2 / 6 Books Read, Avg Rating: 3.5 :star: :star: :star: :star:
 
 ## ![Consider Phlebas (Culture)](https://images-us.bookshop.org/ingram/9780316005388.jpg?height=300&v=v2) Consider Phlebas (Culture)
