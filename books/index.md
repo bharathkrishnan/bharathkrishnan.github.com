@@ -1,5 +1,5 @@
 # Year: 2025 / [2024](../books/) / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2025: 5 Authors, 2 / 5 Books Read, Avg Rating: 3.5 :star: :star: :star: :star:
+# 2025: 6 Authors, 2 / 6 Books Read, Avg Rating: 3.5 :star: :star: :star: :star:
 
 ## ![Consider Phlebas (Culture)](https://images-us.bookshop.org/ingram/9780316005388.jpg?height=300&v=v2) Consider Phlebas (Culture)
 *[Iain M. Banks](../authors/IainMBanks)*
@@ -43,6 +43,15 @@
 [Massachusetts Library](https://library.minlib.net/search/i=9780593654477) / [Open Library](https://openlibrary.org/isbn/9780593654477) / [Local Book Shop](https://bookshop.org/book/9780593654477) / [Amazon](https://amazon.com/dp/0593654471)
 
 ![10%](https://geps.dev/progress/10) 
+
+
+
+## ![Polostan: Volume One of Bomb Light](https://images-us.bookshop.org/ingram/9780062334497.jpg?height=300&v=v2) Polostan: Volume One of Bomb Light
+*[Neal Stephenson](../authors/NealStephenson)*
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780062334497) / [Open Library](https://openlibrary.org/isbn/9780062334497) / [Local Book Shop](https://bookshop.org/book/9780062334497) / [Amazon](https://amazon.com/dp/0062334492)
+
+![0%](https://geps.dev/progress/0) 
 
 
 
