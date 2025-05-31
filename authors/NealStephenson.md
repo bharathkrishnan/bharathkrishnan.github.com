@@ -1,4 +1,4 @@
-# Neal Stephenson:  Books Read 1 / 2, Avg Rating: 5.0 :star: :star: :star: :star: :star:
+# Neal Stephenson:  Books Read 2 / 2, Avg Rating: 4.5 :star: :star: :star: :star:
 
 ## ![Termination Shock](https://covers.openlibrary.org/b/isbn/9780063028050-M.jpg) Termination Shock
 *[Neal Stephenson](../authors/NealStephenson)*
@@ -14,8 +14,8 @@
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062334497) / [Open Library](https://openlibrary.org/isbn/9780062334497) / [Local Book Shop](https://bookshop.org/book/9780062334497) / [Amazon](https://amazon.com/dp/0062334492)
 
-![10%](https://geps.dev/progress/10) 
+![100%](https://geps.dev/progress/100) 
 
-
+:star: :star: :star: :star:
 
 ---

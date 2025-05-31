@@ -10,7 +10,7 @@
 <img src="https://images-us.bookshop.org/ingram/9780316005388.jpg?height=300&v=v2" width=128>
 
 
-## Read completion: 33.33%
+## Read completion: 50.0%
 <img src="https://images-us.bookshop.org/ingram/9780316005388.jpg?height=300&v=v2" width=128>
 <img src="https://images-us.bookshop.org/ingram/9798886451740.jpg?height=300&v=v2" width=128>
 <img src="https://images-us.bookshop.org/ingram/9780593654477.jpg?height=300&v=v2" width=128>
