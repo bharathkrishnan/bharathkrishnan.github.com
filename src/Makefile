@@ -36,7 +36,8 @@ build:
 
 # deploy changes to github
 deploy: build
-	git commit -am "`date +"%Y-%m-%d %H"`"
+	git add .
+	COMMIT_MSG=$$(./generate_commit_msg.sh) && git commit -m "$$COMMIT_MSG"
 	git push origin master
 	sleep 3
 	gh run watch
