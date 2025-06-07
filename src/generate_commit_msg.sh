@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Get the staged changes
-DIFF=$(git diff --cached)
+DIFF=$(git diff)
 
 # If no changes are staged, exit
 if [ -z "$DIFF" ]; then
