@@ -47,7 +47,7 @@ deploy: build
 			git commit -am "$${COMMIT_MSG}" && \
 			git push origin master && \
 			sleep 3 && \
-			gh run watch; \
+			gh run watch `gh run list --json databaseId --limit 1 | jq '.[0].databaseId'`; \
 		else \
 			echo "Failed to generate commit message"; \
 			exit 1; \
