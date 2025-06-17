@@ -12,7 +12,7 @@ fi
 # Generate commit message using ollama
 COMMIT_MSG=$(echo "Based on this git diff, write a clear and concise commit message that follows conventional commit format (type: subject). The message should be in present tense and describe what the changes do. Only describe changes if a file has changed. For changes in data.json describe new books being added or removed, ratings or completion percentages being updated
 
-$DIFF" | ollama run gemma3:1b)
+$DIFF" | ollama run qwen3:1.7b)
 
 # Return the message for use in git commit
 echo "$COMMIT_MSG" 
