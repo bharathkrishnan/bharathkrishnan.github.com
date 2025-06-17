@@ -36,7 +36,23 @@ build:
 
 # deploy changes to github
 deploy: build
-	COMMIT_MSG=$$(./generate_commit_msg.sh) && echo ${COMMIT_MSG} && git commit -am "$$COMMIT_MSG"
-	git push origin master
-	sleep 3
-	gh run watch
+	@if ! command -v ollama >/dev/null 2>&1; then \
+		echo "Error: ollama is not installed. Please install it first."; \
+		exit 1; \
+	fi
+	@if ! git diff --quiet; then \
+		COMMIT_MSG=$$(./generate_commit_msg.sh) && \
+		if [ $$? -eq 0 ]; then \
+			echo "$${COMMIT_MSG}" && \
+			git commit -am "$${COMMIT_MSG}" && \
+			git push origin master && \
+			sleep 3 && \
+			gh run watch; \
+		else \
+			echo "Failed to generate commit message"; \
+			exit 1; \
+		fi \
+	else \
+		echo "No changes to commit"; \
+		exit 0; \
+	fi
