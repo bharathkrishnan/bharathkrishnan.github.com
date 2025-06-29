@@ -10,5 +10,5 @@ requests==2.32.4
     # via bookcellent (pyproject.toml)
 tqdm==4.67.1
     # via bookcellent (pyproject.toml)
-urllib3==2.4.0
+urllib3==2.5.0
     # via requests
