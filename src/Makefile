@@ -1,4 +1,4 @@
-.PHONY: install update clean env build deploy commit
+.PHONY: install update clean env build deploy commit test
 
 # Default Python interpreter
 PYTHON := python
@@ -76,3 +76,8 @@ commit:
 		echo "No changes to commit"; \
 		exit 0; \
 	fi
+
+# run tests
+.PHONY: test
+test:
+	pytest ./
