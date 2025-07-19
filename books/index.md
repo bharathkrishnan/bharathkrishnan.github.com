@@ -8,7 +8,7 @@ Read: 2021, 2025
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780593135204) / [Open Library](https://openlibrary.org/isbn/9780593135204) / [Local Book Shop](https://bookshop.org/book/9780593135204) / [Amazon](https://amazon.com/dp/0593135202)
 
-![50%](https://geps.dev/progress/50) 
+![60%](https://geps.dev/progress/60) 
 
 :star: :star: :star: :star: :star:
 
