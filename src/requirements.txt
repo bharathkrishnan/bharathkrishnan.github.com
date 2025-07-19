@@ -12,4 +12,3 @@ tqdm==4.67.1
     # via bookcellent (pyproject.toml)
 urllib3==2.5.0
     # via requests
-pytest==8.2.1
