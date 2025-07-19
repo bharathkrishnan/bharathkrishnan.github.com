@@ -6,21 +6,25 @@ from tqdm import tqdm
 import datetime
 
 
-def get_stats(books):
+def get_stats(books, year=None):
     stats = {}
     stats["num_books"] = len(books)
-    stats["num_books_finished"] = len([x for x in books if x.progress > 0.7])
+    if year is not None:
+        stats["num_books_finished"] = len([x for x in books if x.get_progress_for_year(year) > 0.7])
+        finished_books = [x for x in books if x.get_progress_for_year(year) == 1.0 or x.rating > 0]
+    else:
+        stats["num_books_finished"] = len([x for x in books if x.progress and x.progress[0] > 0.7])
+        finished_books = [x for x in books if x.progress and (x.progress[0] == 1.0 or x.rating > 0)]
     stats["perc_books_finished"] = round(
         stats["num_books_finished"] * 100.0 / stats["num_books"], 2
-    )
+    ) if stats["num_books"] > 0 else 0.0
     stats["num_authors"] = len(
         set([z.print() for z in list(chain.from_iterable([x.authors for x in books]))])
     )
     stats["avg_rating"] = round(
-        sum([x.rating for x in books if x.progress == 1.0 or x.rating > 0])
-        / max(1, len([x for x in books if x.progress == 1.0 or x.rating > 0])),
+        sum([x.rating for x in finished_books]) / max(1, len(finished_books)),
         2,
-    )
+    ) if books else 0.0
     return stats
 
 
@@ -89,9 +93,8 @@ def print_year(filename, books, yearly_stats, years, y):
             )
         )
         for book in books[y]:
-            if book.readYear == y:
-                o.write(book.print())
-                o.write("\n")
+            o.write(book.print(year=y))
+            o.write("\n")
         o.write("---\n")
 
 
@@ -101,12 +104,14 @@ def main():
     books = {}
     authorbooks = {}
     for b in tqdm(bdata["Books"], desc="Processing Books"):
-        y = b["ReadYear"]
-        years[y] = 1
-        if y not in books:
-            books[y] = []
+        # Always treat ReadYear as a list
+        ryears = b["ReadYear"] if isinstance(b["ReadYear"], list) else [b["ReadYear"]]
         book = Book(b)
-        books[y].append(book)
+        for idx, y in enumerate(ryears):
+            years[y] = 1
+            if y not in books:
+                books[y] = []
+            books[y].append(book)
         authors = book.authors
         for author in authors:
             author_name = author.print()
@@ -117,8 +122,8 @@ def main():
     authors = {}
     yearly_stats = {}
     for y in years:
-        yearly_stats[y] = get_stats(books[y])
-        nrbooks[y] = len([x for x in books[y] if x.progress > 0.7])
+        yearly_stats[y] = get_stats(books[y], year=y)
+        nrbooks[y] = len([x for x in books[y] if x.get_progress_for_year(y) > 0.7])
         authors[y] = set(
             [
                 z.print()
@@ -157,11 +162,11 @@ def main():
             o.write("\n\n")
             o.write(
                 "## Read completion: {0}%\n".format(
-                    get_stats(books[y])["perc_books_finished"]
+                    get_stats(books[y], year=y)["perc_books_finished"]
                 )
             )
             for b in books[y]:
-                if "placeholder" not in b.thumbnail and b.progress > 0.0:
+                if "placeholder" not in b.thumbnail and b.get_progress_for_year(y) > 0.0:
                     o.write('<img src="{0}" width=128>\n'.format(b.thumbnail))
             o.write("\n---\n")
 

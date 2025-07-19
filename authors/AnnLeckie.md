@@ -3,6 +3,8 @@
 ## ![Translation State (Imperial Radch)](https://covers.openlibrary.org/b/isbn/9780316289719-M.jpg) Translation State (Imperial Radch)
 *[Ann Leckie](../authors/AnnLeckie)*
 
+Read: 2023
+
 [Massachusetts Library](https://library.minlib.net/search/i=9780316289719) / [Open Library](https://openlibrary.org/isbn/9780316289719) / [Local Book Shop](https://bookshop.org/book/9780316289719) / [Amazon](https://amazon.com/dp/031628971X)
 
 ![100%](https://geps.dev/progress/100) 
@@ -11,6 +13,8 @@
 
 ## ![Ancillary Mercy (Imperial Radch, 3)](https://covers.openlibrary.org/b/isbn/9780316246682-M.jpg) Ancillary Mercy (Imperial Radch, 3)
 *[Ann Leckie](../authors/AnnLeckie)*
+
+Read: 2023
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780316246682) / [Open Library](https://openlibrary.org/isbn/9780316246682) / [Local Book Shop](https://bookshop.org/book/9780316246682) / [Amazon](https://amazon.com/dp/0316246689)
 
