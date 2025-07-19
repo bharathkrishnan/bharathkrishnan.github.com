@@ -1,5 +1,5 @@
 # Year: 2025 / [2024](../books/2024) / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2025: 7 Authors, 3 / 7 Books Read, Avg Rating: 4.0 :star: :star: :star: :star:
+# 2025: 7 Authors, 4 / 7 Books Read, Avg Rating: 4.0 :star: :star: :star: :star:
 
 ## ![Project Hail Mary: A Novel](https://covers.openlibrary.org/b/isbn/9780593135204-M.jpg) Project Hail Mary: A Novel
 *[Andy Weir](../authors/AndyWeir)*
@@ -8,7 +8,7 @@ Read: 2021, 2025
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780593135204) / [Open Library](https://openlibrary.org/isbn/9780593135204) / [Local Book Shop](https://bookshop.org/book/9780593135204) / [Amazon](https://amazon.com/dp/0593135202)
 
-![60%](https://geps.dev/progress/60) 
+![80%](https://geps.dev/progress/80) 
 
 :star: :star: :star: :star: :star:
 
