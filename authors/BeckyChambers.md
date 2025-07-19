@@ -3,6 +3,8 @@
 ## ![The Galaxy, and the Ground Within: Wayfarers 4](https://covers.openlibrary.org/b/isbn/9781473647664-M.jpg) The Galaxy, and the Ground Within: Wayfarers 4
 *[Becky Chambers](../authors/BeckyChambers)*
 
+Read: 2021
+
 [Massachusetts Library](https://library.minlib.net/search/i=9781473647664) / [Open Library](https://openlibrary.org/isbn/9781473647664) / [Local Book Shop](https://bookshop.org/book/9781473647664) / [Amazon](https://amazon.com/dp/1473647665)
 
 ![100%](https://geps.dev/progress/100) 

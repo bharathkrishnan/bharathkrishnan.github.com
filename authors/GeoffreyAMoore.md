@@ -3,6 +3,8 @@
 ## ![Crossing The Chasm](https://covers.openlibrary.org/b/isbn/9780062356857-M.jpg) Crossing The Chasm
 *[Geoffrey A. Moore](../authors/GeoffreyAMoore)*
 
+Read: 2021
+
 [Massachusetts Library](https://library.minlib.net/search/i=9780062356857) / [Open Library](https://openlibrary.org/isbn/9780062356857) / [Local Book Shop](https://bookshop.org/book/9780062356857) / [Amazon](https://amazon.com/dp/0062292986)
 
 ![0%](https://geps.dev/progress/0) 

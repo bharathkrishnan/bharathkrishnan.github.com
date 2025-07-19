@@ -1,4 +1,4 @@
-.PHONY: install update clean env build deploy
+.PHONY: install update clean env build deploy commit
 
 # Default Python interpreter
 PYTHON := python
@@ -48,6 +48,26 @@ deploy: build
 			git push origin master && \
 			sleep 3 && \
 			gh run watch `gh run list --json databaseId --limit 1 | jq '.[0].databaseId'`; \
+		else \
+			echo "Failed to generate commit message"; \
+			exit 1; \
+		fi \
+	else \
+		echo "No changes to commit"; \
+		exit 0; \
+	fi
+
+# commit only (no push)
+commit:
+	@if ! command -v ollama >/dev/null 2>&1; then \
+		echo "Error: ollama is not installed. Please install it first."; \
+		exit 1; \
+	fi
+	@if ! git diff --quiet; then \
+		COMMIT_MSG=$$(./generate_commit_msg.sh) && \
+		if [ $$? -eq 0 ]; then \
+			echo "$$COMMIT_MSG" && \
+			git commit -am "$$COMMIT_MSG"; \
 		else \
 			echo "Failed to generate commit message"; \
 			exit 1; \

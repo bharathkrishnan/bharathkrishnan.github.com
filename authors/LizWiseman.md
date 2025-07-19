@@ -3,6 +3,8 @@
 ## ![Impact Players: How to Take the Lead, Play Bigger, and Multiply Your Impact](https://covers.openlibrary.org/b/isbn/9780063063327-M.jpg) Impact Players: How to Take the Lead, Play Bigger, and Multiply Your Impact
 *[Liz Wiseman](../authors/LizWiseman)*
 
+Read: 2021
+
 [Massachusetts Library](https://library.minlib.net/search/i=9780063063327) / [Open Library](https://openlibrary.org/isbn/9780063063327) / [Local Book Shop](https://bookshop.org/book/9780063063327) / [Amazon](https://amazon.com/dp/0063063328)
 
 ![0%](https://geps.dev/progress/0) 

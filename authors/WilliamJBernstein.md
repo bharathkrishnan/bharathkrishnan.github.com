@@ -3,6 +3,8 @@
 ## ![A Splendid Exchange: How Trade Shaped the World](https://covers.openlibrary.org/b/isbn/9780871139795-M.jpg) A Splendid Exchange: How Trade Shaped the World
 *[William J Bernstein](../authors/WilliamJBernstein)*
 
+Read: 2021
+
 [Massachusetts Library](https://library.minlib.net/search/i=9780871139795) / [Open Library](https://openlibrary.org/isbn/9780871139795) / [Local Book Shop](https://bookshop.org/book/9780871139795) / [Amazon](https://amazon.com/dp/0871139790)
 
 ![0%](https://geps.dev/progress/0) 

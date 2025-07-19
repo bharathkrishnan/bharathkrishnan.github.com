@@ -9,8 +9,20 @@ class Book:
         self.isbn10 = data["ISBN10"]
         self.isbn13 = data["ISBN13"].replace('-', '')
         self.rating = data["Rating"]
-        self.readYear = data["ReadYear"]
-        self.progress = data["Progress"]
+        # Always treat ReadYear as a list for backward compatibility
+        ry = data["ReadYear"]
+        if isinstance(ry, list):
+            self.readYear = ry
+        else:
+            self.readYear = [ry]
+        # Always treat Progress as a list for backward compatibility
+        prog = data["Progress"]
+        if isinstance(prog, list):
+            self.progress = prog
+        else:
+            self.progress = [prog]
+        # Map year to progress
+        self.year_progress = {y: self.progress[i] if i < len(self.progress) else 0.0 for i, y in enumerate(self.readYear)}
         if "ThumbNail" not in data or data["ThumbNail"] == "null":
             self.thumbnail = self.get_thumbnail()
             if self.thumbnail != None:
@@ -21,6 +33,9 @@ class Book:
                 )
         else:
             self.thumbnail = data["ThumbNail"]
+
+    def get_progress_for_year(self, year):
+        return self.year_progress.get(year, 0.0)
 
     def get_thumbnail(self):
         # https://secure.syndetics.com/index.aspx?isbn=9780525538424/mc.gif&upc=&client=bcclsvega&type=unbound
@@ -49,14 +64,22 @@ class Book:
             else:
                 return None
 
-    def print(self) -> str:
-        return "## ![{0}]({7}) {0}\n*{1}*\n\n[Massachusetts Library](https://library.minlib.net/search/i={3}) / [Open Library](https://openlibrary.org/isbn/{3}) / [Local Book Shop](https://bookshop.org/book/{3}) / [Amazon](https://amazon.com/dp/{2})\n\n![{5}%](https://geps.dev/progress/{5}) \n\n{6}\n".format(
+    def print(self, year=None) -> str:
+        # Show all years the book was read
+        years_str = ', '.join(str(y) for y in self.readYear)
+        # Use per-year progress if year is given, else use first
+        if year is not None:
+            progress = self.get_progress_for_year(year)
+        else:
+            progress = self.progress[0] if self.progress else 0.0
+        return "## ![{0}]({7}) {0}\n*{1}*\n\nRead: {8}\n\n[Massachusetts Library](https://library.minlib.net/search/i={3}) / [Open Library](https://openlibrary.org/isbn/{3}) / [Local Book Shop](https://bookshop.org/book/{3}) / [Amazon](https://amazon.com/dp/{2})\n\n![{5}%](https://geps.dev/progress/{5}) \n\n{6}\n".format(
             self.title,
             " & ".join([a.print_link() for a in self.authors]),
             self.isbn10,
             self.isbn13,
             "-".join(self.title.lower().split()),
-            str(round(self.progress * 100)),
+            str(round(progress * 100)),
             " ".join([":star:" for i in range(round(self.rating))]),
             self.thumbnail,
+            years_str
         )

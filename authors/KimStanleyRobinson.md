@@ -3,6 +3,8 @@
 ## ![The Years of Rice and Salt](https://covers.openlibrary.org/b/isbn/9780553109207-M.jpg) The Years of Rice and Salt
 *[Kim Stanley Robinson](../authors/KimStanleyRobinson)*
 
+Read: 2021
+
 [Massachusetts Library](https://library.minlib.net/search/i=9780553109207) / [Open Library](https://openlibrary.org/isbn/9780553109207) / [Local Book Shop](https://bookshop.org/book/9780553109207) / [Amazon](https://amazon.com/dp/0553109200)
 
 ![10%](https://geps.dev/progress/10) 

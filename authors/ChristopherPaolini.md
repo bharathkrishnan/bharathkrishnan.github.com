@@ -3,6 +3,8 @@
 ## ![To Sleep in a Sea of Stars](https://covers.openlibrary.org/b/isbn/9781250762849-M.jpg) To Sleep in a Sea of Stars
 *[Christopher Paolini](../authors/ChristopherPaolini)*
 
+Read: 2021
+
 [Massachusetts Library](https://library.minlib.net/search/i=9781250762849) / [Open Library](https://openlibrary.org/isbn/9781250762849) / [Local Book Shop](https://bookshop.org/book/9781250762849) / [Amazon](https://amazon.com/dp/1250762847)
 
 ![10%](https://geps.dev/progress/10) 
