@@ -2140,6 +2140,38 @@
             ],
             "Rating": 4.0,
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780062334497.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "Lords of Earth And Sea : A History of The Chola Empire",
+            "Authors": [
+                "Anirudh Kanisetti"
+            ],
+            "ISBN13": "978-9353455606",
+            "ISBN10": "935345560X",
+            "ReadYear": [
+                2025
+            ],
+            "Progress": [
+                0.0
+            ],
+            "Rating": 0.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9789353455606.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "Shattered Lands : Five Partitions and the Making of Modern Asia",
+            "Authors": [
+                "Sam Dalrymple"
+            ],
+            "ISBN13": "978-9369894628",
+            "ISBN10": "9369894624",
+            "ReadYear": [
+                2025
+            ],
+            "Progress": [
+                0.0
+            ],
+            "Rating": 0.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9789369894628.jpg?height=300&v=v2"
         }
     ]
 }

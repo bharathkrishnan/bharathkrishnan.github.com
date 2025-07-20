@@ -1,5 +1,5 @@
 # Year: 2025 / [2024](../books/2024) / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2025: 7 Authors, 4 / 7 Books Read, Avg Rating: 4.0 :star: :star: :star: :star:
+# 2025: 9 Authors, 4 / 9 Books Read, Avg Rating: 4.0 :star: :star: :star: :star:
 
 ## ![Project Hail Mary: A Novel](https://images-us.bookshop.org/ingram/9780593135204.jpg?height=300&v=v2) Project Hail Mary: A Novel
 *[Andy Weir](../authors/AndyWeir)*
@@ -77,5 +77,27 @@ Read: 2025
 ![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star:
+
+## ![Lords of Earth And Sea : A History of The Chola Empire](https://images-us.bookshop.org/ingram/9789353455606.jpg?height=300&v=v2) Lords of Earth And Sea : A History of The Chola Empire
+*[Anirudh Kanisetti](../authors/AnirudhKanisetti)*
+
+Read: 2025
+
+[Massachusetts Library](https://library.minlib.net/search/i=9789353455606) / [Open Library](https://openlibrary.org/isbn/9789353455606) / [Local Book Shop](https://bookshop.org/book/9789353455606) / [Amazon](https://amazon.com/dp/935345560X)
+
+![0%](https://geps.dev/progress/0) 
+
+
+
+## ![Shattered Lands : Five Partitions and the Making of Modern Asia](https://images-us.bookshop.org/ingram/9789369894628.jpg?height=300&v=v2) Shattered Lands : Five Partitions and the Making of Modern Asia
+*[Sam Dalrymple](../authors/SamDalrymple)*
+
+Read: 2025
+
+[Massachusetts Library](https://library.minlib.net/search/i=9789369894628) / [Open Library](https://openlibrary.org/isbn/9789369894628) / [Local Book Shop](https://bookshop.org/book/9789369894628) / [Amazon](https://amazon.com/dp/9369894624)
+
+![0%](https://geps.dev/progress/0) 
+
+
 
 ---
