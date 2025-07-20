@@ -1,7 +1,7 @@
 # Year: 2025 / [2024](../books/2024) / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
 # 2025: 7 Authors, 4 / 7 Books Read, Avg Rating: 4.0 :star: :star: :star: :star:
 
-## ![Project Hail Mary: A Novel](https://covers.openlibrary.org/b/isbn/9780593135204-M.jpg) Project Hail Mary: A Novel
+## ![Project Hail Mary: A Novel](https://images-us.bookshop.org/ingram/9780593135204.jpg?height=300&v=v2) Project Hail Mary: A Novel
 *[Andy Weir](../authors/AndyWeir)*
 
 Read: 2021, 2025

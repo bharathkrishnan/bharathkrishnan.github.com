@@ -1,6 +1,6 @@
 # Andy Weir:  Books Read 1 / 1, Avg Rating: 5.0 :star: :star: :star: :star: :star:
 
-## ![Project Hail Mary: A Novel](https://covers.openlibrary.org/b/isbn/9780593135204-M.jpg) Project Hail Mary: A Novel
+## ![Project Hail Mary: A Novel](https://images-us.bookshop.org/ingram/9780593135204.jpg?height=300&v=v2) Project Hail Mary: A Novel
 *[Andy Weir](../authors/AndyWeir)*
 
 Read: 2021, 2025
