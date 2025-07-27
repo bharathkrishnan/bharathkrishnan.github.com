@@ -2172,6 +2172,22 @@
             ],
             "Rating": 0.0,
             "ThumbNail": "https://images-us.bookshop.org/ingram/9789369894628.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "Avenger",
+            "Authors": [
+                "Frederick Forsyth"
+            ],
+            "ISBN13": "978-0312319519",
+            "ISBN10": "0312319517",
+            "ReadYear": [
+                2025
+            ],
+            "Progress": [
+                0.3
+            ],
+            "Rating": 0.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9780312319519.jpg?height=300&v=v2"
         }
     ]
 }
