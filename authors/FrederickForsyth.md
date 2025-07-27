@@ -11,12 +11,12 @@ Read: 2023
 
 :star:
 
-## ![Avenger](https://images-us.bookshop.org/ingram/9780312319519.jpg?height=300&v=v2) Avenger
+## ![Avenger](https://images-us.bookshop.org/ingram/9780552150446.jpg?height=300&v=v2) Avenger
 *[Frederick Forsyth](../authors/FrederickForsyth)*
 
 Read: 2025
 
-[Massachusetts Library](https://library.minlib.net/search/i=9780312319519) / [Open Library](https://openlibrary.org/isbn/9780312319519) / [Local Book Shop](https://bookshop.org/book/9780312319519) / [Amazon](https://amazon.com/dp/0312319517)
+[Massachusetts Library](https://library.minlib.net/search/i=9780552150446) / [Open Library](https://openlibrary.org/isbn/9780552150446) / [Local Book Shop](https://bookshop.org/book/9780552150446) / [Amazon](https://amazon.com/dp/0312319517)
 
 ![30%](https://geps.dev/progress/30) 
 
