@@ -11,7 +11,7 @@ Read: 2024
 
 
 
-## ![Lords of Earth And Sea : A History of The Chola Empire](https://images-us.bookshop.org/ingram/9789353455606.jpg?height=300&v=v2) Lords of Earth And Sea : A History of The Chola Empire
+## ![Lords of Earth And Sea : A History of The Chola Empire](https://pictures.abebooks.com/isbn/9789353455606-us-300.jpg) Lords of Earth And Sea : A History of The Chola Empire
 *[Anirudh Kanisetti](../authors/AnirudhKanisetti)*
 
 Read: 2025

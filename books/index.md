@@ -78,7 +78,7 @@ Read: 2025
 
 :star: :star: :star: :star:
 
-## ![Lords of Earth And Sea : A History of The Chola Empire](https://images-us.bookshop.org/ingram/9789353455606.jpg?height=300&v=v2) Lords of Earth And Sea : A History of The Chola Empire
+## ![Lords of Earth And Sea : A History of The Chola Empire](https://pictures.abebooks.com/isbn/9789353455606-us-300.jpg) Lords of Earth And Sea : A History of The Chola Empire
 *[Anirudh Kanisetti](../authors/AnirudhKanisetti)*
 
 Read: 2025
@@ -89,7 +89,7 @@ Read: 2025
 
 
 
-## ![Shattered Lands : Five Partitions and the Making of Modern Asia](https://images-us.bookshop.org/ingram/9789369894628.jpg?height=300&v=v2) Shattered Lands : Five Partitions and the Making of Modern Asia
+## ![Shattered Lands : Five Partitions and the Making of Modern Asia](https://pictures.abebooks.com/isbn/9789369894628-us-300.jpg) Shattered Lands : Five Partitions and the Making of Modern Asia
 *[Sam Dalrymple](../authors/SamDalrymple)*
 
 Read: 2025
@@ -100,7 +100,7 @@ Read: 2025
 
 
 
-## ![Avenger](https://images-us.bookshop.org/ingram/9780552150446.jpg?height=300&v=v2) Avenger
+## ![Avenger](https://pictures.abebooks.com/isbn/9780552150446-us-300.jpg) Avenger
 *[Frederick Forsyth](../authors/FrederickForsyth)*
 
 Read: 2025

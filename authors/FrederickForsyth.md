@@ -11,7 +11,7 @@ Read: 2023
 
 :star:
 
-## ![Avenger](https://images-us.bookshop.org/ingram/9780552150446.jpg?height=300&v=v2) Avenger
+## ![Avenger](https://pictures.abebooks.com/isbn/9780552150446-us-300.jpg) Avenger
 *[Frederick Forsyth](../authors/FrederickForsyth)*
 
 Read: 2025

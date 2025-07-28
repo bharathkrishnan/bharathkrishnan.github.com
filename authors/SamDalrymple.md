@@ -1,6 +1,6 @@
 # Sam Dalrymple:  Books Read 0 / 1, Avg Rating: 0.0 
 
-## ![Shattered Lands : Five Partitions and the Making of Modern Asia](https://images-us.bookshop.org/ingram/9789369894628.jpg?height=300&v=v2) Shattered Lands : Five Partitions and the Making of Modern Asia
+## ![Shattered Lands : Five Partitions and the Making of Modern Asia](https://pictures.abebooks.com/isbn/9789369894628-us-300.jpg) Shattered Lands : Five Partitions and the Making of Modern Asia
 *[Sam Dalrymple](../authors/SamDalrymple)*
 
 Read: 2025
