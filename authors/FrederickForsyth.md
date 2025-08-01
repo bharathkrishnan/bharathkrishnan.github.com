@@ -1,4 +1,4 @@
-# Frederick Forsyth:  Books Read 1 / 2, Avg Rating: 1.0 :star:
+# Frederick Forsyth:  Books Read 2 / 2, Avg Rating: 2.5 :star: :star:
 
 ## ![The Fox](https://books.google.com/books/content?id=whmtDwAAQBAJ&w=96&img=1&zoom=5&printsec=frontcover) The Fox
 *[Frederick Forsyth](../authors/FrederickForsyth)*
@@ -18,8 +18,8 @@ Read: 2025
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780552150446) / [Open Library](https://openlibrary.org/isbn/9780552150446) / [Local Book Shop](https://bookshop.org/book/9780552150446) / [Amazon](https://amazon.com/dp/0312319517)
 
-![30%](https://geps.dev/progress/30) 
+![100%](https://geps.dev/progress/100) 
 
-
+:star: :star: :star: :star:
 
 ---
