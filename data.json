@@ -2188,6 +2188,38 @@
             ],
             "Rating": 4.0,
             "ThumbNail": "https://pictures.abebooks.com/isbn/9780552150446-us-300.jpg"
+        },
+        {
+            "Title": "A Fire Upon The Deep (Zones of Thought, 1)",
+            "Authors": [
+                "Vernor Vinge"
+            ],
+            "ISBN13": "978-1250237750",
+            "ISBN10": "1250237750",
+            "ReadYear": [
+                2025
+            ],
+            "Progress": [
+                0.0
+            ],
+            "Rating": 0.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9781250237750.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "A Deepness in the Sky (Zones of Thought, 2)",
+            "Authors": [
+                "Vernor Vinge"
+            ],
+            "ISBN13": "978-1250905970",
+            "ISBN10": "1250905974",
+            "ReadYear": [
+                2025
+            ],
+            "Progress": [
+                0.0
+            ],
+            "Rating": 0.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9781250905970.jpg?height=300&v=v2"
         }
     ]
 }
