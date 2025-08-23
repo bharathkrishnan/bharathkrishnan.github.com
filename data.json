@@ -2220,6 +2220,22 @@
             ],
             "Rating": 0.0,
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781250905970.jpg?height=300&v=v2"
+        },
+        {
+            "Title": "The Children of the Sky (Zones of Thought series Book 3)",
+            "Authors": [
+                "Vernor Vinge"
+            ],
+            "ISBN13": "978-0812579925",
+            "ISBN10": "0812579925",
+            "ReadYear": [
+                2025
+            ],
+            "Progress": [
+                0.0
+            ],
+            "Rating": 0.0,
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9780812579925.jpg?height=300&v=v2"
         }
     ]
 }

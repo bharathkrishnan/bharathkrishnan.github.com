@@ -1,5 +1,5 @@
 # Year: 2025 / [2024](../books/2024) / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) 
-# 2025: 11 Authors, 5 / 12 Books Read, Avg Rating: 4.0 :star: :star: :star: :star:
+# 2025: 11 Authors, 5 / 13 Books Read, Avg Rating: 4.0 :star: :star: :star: :star:
 
 ## ![Project Hail Mary: A Novel](https://images-us.bookshop.org/ingram/9780593135204.jpg?height=300&v=v2) Project Hail Mary: A Novel
 *[Andy Weir](../authors/AndyWeir)*
@@ -128,6 +128,17 @@ Read: 2025
 Read: 2025
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781250905970) / [Open Library](https://openlibrary.org/isbn/9781250905970) / [Local Book Shop](https://bookshop.org/book/9781250905970) / [Amazon](https://amazon.com/dp/1250905974)
+
+![0%](https://geps.dev/progress/0) 
+
+
+
+## ![The Children of the Sky (Zones of Thought series Book 3)](https://images-us.bookshop.org/ingram/9780812579925.jpg?height=300&v=v2) The Children of the Sky (Zones of Thought series Book 3)
+*[Vernor Vinge](../authors/VernorVinge)*
+
+Read: 2025
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780812579925) / [Open Library](https://openlibrary.org/isbn/9780812579925) / [Local Book Shop](https://bookshop.org/book/9780812579925) / [Amazon](https://amazon.com/dp/0812579925)
 
 ![0%](https://geps.dev/progress/0) 
 
