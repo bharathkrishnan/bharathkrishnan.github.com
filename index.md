@@ -18,6 +18,7 @@
 <img src="https://images-us.bookshop.org/ingram/9780593654477.jpg?height=300&v=v2" width=128>
 <img src="https://images-us.bookshop.org/ingram/9780062334497.jpg?height=300&v=v2" width=128>
 <img src="https://pictures.abebooks.com/isbn/9780552150446-us-300.jpg" width=128>
+<img src="https://images-us.bookshop.org/ingram/9781250237750.jpg?height=300&v=v2" width=128>
 
 ---
 ## Books with 5-star reviews, 2024
