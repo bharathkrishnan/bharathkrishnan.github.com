@@ -1,6 +1,6 @@
 # Pranay Lal:  Books Read 0 / 1, Avg Rating: 0.0 
 
-## ![Invisible Empire: The Natural History of Viruses](http://books.google.com/books/content?id=k9SzzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) Invisible Empire: The Natural History of Viruses
+## ![Invisible Empire: The Natural History of Viruses](https://books.google.com/books/content?id=k9SzzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) Invisible Empire: The Natural History of Viruses
 *[Pranay Lal](../authors/PranayLal)*
 
 Read: 2022

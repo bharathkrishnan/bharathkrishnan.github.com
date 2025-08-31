@@ -1,6 +1,6 @@
 # Tony Fadell:  Books Read 0 / 1, Avg Rating: 0.0 
 
-## ![Build: An Unorthodox Guide to Making Things Worth Making](http://books.google.com/books/content?id=wTiyzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) Build: An Unorthodox Guide to Making Things Worth Making
+## ![Build: An Unorthodox Guide to Making Things Worth Making](https://books.google.com/books/content?id=wTiyzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) Build: An Unorthodox Guide to Making Things Worth Making
 *[Tony Fadell](../authors/TonyFadell)*
 
 Read: 2022

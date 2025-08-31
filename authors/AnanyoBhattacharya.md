@@ -1,6 +1,6 @@
 # Ananyo Bhattacharya:  Books Read 1 / 1, Avg Rating: 4.0 :star: :star: :star: :star:
 
-## ![The Man from the Future: The Visionary Life of John von Neumann](http://books.google.com/books/content?id=lGmPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) The Man from the Future: The Visionary Life of John von Neumann
+## ![The Man from the Future: The Visionary Life of John von Neumann](https://books.google.com/books/content?id=lGmPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) The Man from the Future: The Visionary Life of John von Neumann
 *[Ananyo Bhattacharya](../authors/AnanyoBhattacharya)*
 
 Read: 2022

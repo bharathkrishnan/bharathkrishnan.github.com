@@ -1,6 +1,6 @@
 # Seth Schulman:  Books Read 0 / 1, Avg Rating: 0.0 
 
-## ![Human Hacking: Win Friends, Influence People, and Leave Them Better Off for Having Met You](http://books.google.com/books/content?id=Zoh5zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) Human Hacking: Win Friends, Influence People, and Leave Them Better Off for Having Met You
+## ![Human Hacking: Win Friends, Influence People, and Leave Them Better Off for Having Met You](https://books.google.com/books/content?id=Zoh5zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) Human Hacking: Win Friends, Influence People, and Leave Them Better Off for Having Met You
 *[Christopher Hadnagy](../authors/ChristopherHadnagy) & [Seth Schulman](../authors/SethSchulman)*
 
 Read: 2022

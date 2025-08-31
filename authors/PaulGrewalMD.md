@@ -1,6 +1,6 @@
 # Paul Grewal M.D.:  Books Read 0 / 1, Avg Rating: 0.0 
 
-## ![Genius Foods: Become Smarter, Happier, and More Productive While Protecting Your Brain for Life](http://books.google.com/books/content?id=dB2VswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) Genius Foods: Become Smarter, Happier, and More Productive While Protecting Your Brain for Life
+## ![Genius Foods: Become Smarter, Happier, and More Productive While Protecting Your Brain for Life](https://books.google.com/books/content?id=dB2VswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) Genius Foods: Become Smarter, Happier, and More Productive While Protecting Your Brain for Life
 *[Max Lugavere](../authors/MaxLugavere) & [Paul Grewal M.D.](../authors/PaulGrewalMD)*
 
 Read: 2022

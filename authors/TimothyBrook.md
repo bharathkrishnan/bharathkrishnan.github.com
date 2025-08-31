@@ -1,6 +1,6 @@
 # Timothy Brook:  Books Read 0 / 1, Avg Rating: 0.0 
 
-## ![Great State: China and the World](http://books.google.com/books/content?id=Of-lDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) Great State: China and the World
+## ![Great State: China and the World](https://books.google.com/books/content?id=Of-lDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api) Great State: China and the World
 *[Timothy Brook](../authors/TimothyBrook)*
 
 Read: 2022

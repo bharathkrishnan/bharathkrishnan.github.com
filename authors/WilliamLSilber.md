@@ -1,6 +1,6 @@
 # William L. Silber:  Books Read 0 / 1, Avg Rating: 0.0 
 
-## ![The Power of Nothing to Lose: The Hail Mary Effect in Politics, War, and Business](http://books.google.com/books/content?id=Zm4czgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) The Power of Nothing to Lose: The Hail Mary Effect in Politics, War, and Business
+## ![The Power of Nothing to Lose: The Hail Mary Effect in Politics, War, and Business](https://books.google.com/books/content?id=Zm4czgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) The Power of Nothing to Lose: The Hail Mary Effect in Politics, War, and Business
 *[William L. Silber](../authors/WilliamLSilber)*
 
 Read: 2022

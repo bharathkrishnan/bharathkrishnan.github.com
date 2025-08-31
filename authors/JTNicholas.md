@@ -11,7 +11,7 @@ Read: 2021
 
 :star: :star:
 
-## ![Re-Coil](http://books.google.com/books/content?id=kPlOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) Re-Coil
+## ![Re-Coil](https://books.google.com/books/content?id=kPlOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) Re-Coil
 *[J T Nicholas](../authors/JTNicholas)*
 
 Read: 2022

@@ -1,6 +1,6 @@
 # Laurence Bergreen:  Books Read 0 / 1, Avg Rating: 0.0 
 
-## ![In Search of a Kingdom: Francis Drake, Elizabeth I, and the Perilous Birth of the British Empire](http://books.google.com/books/content?id=ASaWzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) In Search of a Kingdom: Francis Drake, Elizabeth I, and the Perilous Birth of the British Empire
+## ![In Search of a Kingdom: Francis Drake, Elizabeth I, and the Perilous Birth of the British Empire](https://books.google.com/books/content?id=ASaWzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) In Search of a Kingdom: Francis Drake, Elizabeth I, and the Perilous Birth of the British Empire
 *[Laurence Bergreen](../authors/LaurenceBergreen)*
 
 Read: 2021

@@ -1,6 +1,6 @@
 # Susan J. Ashford:  Books Read 0 / 1, Avg Rating: 0.0 
 
-## ![The Power of Flexing: How to Use Small Daily Experiments to Create Big Life-Changing Growth](http://books.google.com/books/content?id=xgcszgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) The Power of Flexing: How to Use Small Daily Experiments to Create Big Life-Changing Growth
+## ![The Power of Flexing: How to Use Small Daily Experiments to Create Big Life-Changing Growth](https://books.google.com/books/content?id=xgcszgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api) The Power of Flexing: How to Use Small Daily Experiments to Create Big Life-Changing Growth
 *[Susan J. Ashford](../authors/SusanJAshford)*
 
 Read: 2022
