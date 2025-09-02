@@ -1,4 +1,4 @@
-# Vernor Vinge:  Books Read 0 / 3, Avg Rating: 4.0 :star: :star: :star: :star:
+# Vernor Vinge:  Books Read 1 / 3, Avg Rating: 4.0 :star: :star: :star: :star:
 
 ## ![A Fire Upon The Deep (Zones of Thought, 1)](https://images-us.bookshop.org/ingram/9781250237750.jpg?height=300&v=v2) A Fire Upon The Deep (Zones of Thought, 1)
 *[Vernor Vinge](../authors/VernorVinge)*
@@ -7,7 +7,7 @@ Read: 2025
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781250237750) / [Open Library](https://openlibrary.org/isbn/9781250237750) / [Local Book Shop](https://bookshop.org/book/9781250237750) / [Amazon](https://amazon.com/dp/1250237750)
 
-![70%](https://geps.dev/progress/70) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star:
 
