@@ -22,7 +22,7 @@ Read: 1990s
 
 
 
-## ![The Life and Adventures of Nicholas Nickleby](https://covers.openlibrary.org/b/isbn/9781853262647-L.jpg) The Life and Adventures of Nicholas Nickleby
+## ![The Life and Adventures of Nicholas Nickleby](https://covers.openlibrary.org/b/isbn/9781853262647-M.jpg) The Life and Adventures of Nicholas Nickleby
 *[Charles Dickens](../authors/CharlesDickens)*
 
 Read: 1990s

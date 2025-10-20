@@ -1,6 +1,6 @@
 # S. A. Barnes:  Books Read 0 / 1, Avg Rating: 0.0 
 
-## ![Cold Eternity](https://covers.openlibrary.org/b/id/15101288-L.jpg) Cold Eternity
+## ![Cold Eternity](https://covers.openlibrary.org/b/id/15101288-M.jpg) Cold Eternity
 *[S. A. Barnes](../authors/SABarnes)*
 
 Read: 

@@ -2,6 +2,13 @@ from author import Author
 import requests
 
 
+def _normalize_openlibrary_thumbnail(url):
+    """Convert Open Library large thumbnails (-L.jpg) to medium (-M.jpg)."""
+    if isinstance(url, str) and "openlibrary.org" in url and "-L.jpg" in url:
+        return url.replace("-L.jpg", "-M.jpg")
+    return url
+
+
 def get_year_group(year):
     """
     Convert a year to its appropriate group (decade for years < 2020, year for 2020+)
@@ -55,16 +62,18 @@ class Book:
             else:
                 y_key = int(y) if isinstance(y, str) and y.isdigit() else y
                 self.year_progress[y_key] = prog
-        if "ThumbNail" not in data or data["ThumbNail"] == "null":
-            self.thumbnail = self.get_thumbnail()
-            if self.thumbnail != None:
+        thumb = _normalize_openlibrary_thumbnail(data.get("ThumbNail")) if "ThumbNail" in data else None
+        if thumb is None or thumb == "null":
+            self.thumbnail = _normalize_openlibrary_thumbnail(self.get_thumbnail())
+            if self.thumbnail is not None:
                 data["ThumbNail"] = self.thumbnail
             else:
                 self.thumbnail = "https://via.placeholder.com/128x202?text={0}".format(
                     "+".join(self.title.split(" "))
                 )
         else:
-            self.thumbnail = data["ThumbNail"]
+            self.thumbnail = thumb
+            data["ThumbNail"] = self.thumbnail
 
     def get_progress_for_year(self, year):
         # Handle decade strings like "2010s" - check if any year in the decade has progress

@@ -1,6 +1,6 @@
 # John le Carré:  Books Read 18 / 18, Avg Rating: 1.28 :star:
 
-## ![The little drummer girl](https://covers.openlibrary.org/b/isbn/9780553239812-L.jpg) The little drummer girl
+## ![The little drummer girl](https://covers.openlibrary.org/b/isbn/9780553239812-M.jpg) The little drummer girl
 *[John le Carré](../authors/JohnleCarré)*
 
 Read: 
@@ -132,7 +132,7 @@ Read:
 
 
 
-## ![The Russia house](https://covers.openlibrary.org/b/isbn/9780340505731-L.jpg) The Russia house
+## ![The Russia house](https://covers.openlibrary.org/b/isbn/9780340505731-M.jpg) The Russia house
 *[John le Carré](../authors/JohnleCarré)*
 
 Read: 

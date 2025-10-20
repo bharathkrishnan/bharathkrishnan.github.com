@@ -1,6 +1,6 @@
 # Richard Hooker:  Books Read 1 / 1, Avg Rating: 0.0 
 
-## ![M.A.S.H.](https://covers.openlibrary.org/b/isbn/9780671772321-L.jpg) M.A.S.H.
+## ![M.A.S.H.](https://covers.openlibrary.org/b/isbn/9780671772321-M.jpg) M.A.S.H.
 *[Richard Hooker](../authors/RichardHooker)*
 
 Read: 2000s

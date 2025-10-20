@@ -11,7 +11,7 @@ Read: 1990s
 
 
 
-## ![Love Story](https://covers.openlibrary.org/b/isbn/9780340125083-L.jpg) Love Story
+## ![Love Story](https://covers.openlibrary.org/b/isbn/9780340125083-M.jpg) Love Story
 *[Erich Segal](../authors/ErichSegal)*
 
 Read: 1990s

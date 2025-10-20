@@ -71,4 +71,20 @@ def test_book_thumbnail_fallback():
         "ThumbNail": "null"
     }
     book = Book(data)
-    assert book.thumbnail.startswith("https://") 
+    assert book.thumbnail.startswith("https://")
+
+
+def test_book_thumbnail_normalizes_openlibrary():
+    data = {
+        "Title": "Open Library Thumb",
+        "Authors": ["Author D"],
+        "ISBN10": "2222222222",
+        "ISBN13": "9782222222222",
+        "ReadYear": 2020,
+        "Progress": 1.0,
+        "Rating": 4.0,
+        "ThumbNail": "https://covers.openlibrary.org/b/isbn/9782222222222-L.jpg"
+    }
+    book = Book(data)
+    assert book.thumbnail.endswith("-M.jpg")
+    assert data["ThumbNail"].endswith("-M.jpg")

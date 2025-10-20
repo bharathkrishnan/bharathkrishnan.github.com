@@ -1,6 +1,6 @@
 # Leon Uris:  Books Read 1 / 1, Avg Rating: 0.0 
 
-## ![Exodus](https://covers.openlibrary.org/b/isbn/9780553241549-L.jpg) Exodus
+## ![Exodus](https://covers.openlibrary.org/b/isbn/9780553241549-M.jpg) Exodus
 *[Leon Uris](../authors/LeonUris)*
 
 Read: 1990s

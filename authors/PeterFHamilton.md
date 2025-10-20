@@ -66,7 +66,7 @@ Read:
 
 
 
-## ![The Dreaming Void](https://covers.openlibrary.org/b/isbn/9781509868636-L.jpg) The Dreaming Void
+## ![The Dreaming Void](https://covers.openlibrary.org/b/isbn/9781509868636-M.jpg) The Dreaming Void
 *[Peter F. Hamilton](../authors/PeterFHamilton)*
 
 Read: 
@@ -110,7 +110,7 @@ Read:
 
 
 
-## ![A Quantum Murder](https://covers.openlibrary.org/b/isbn/9781509868681-L.jpg) A Quantum Murder
+## ![A Quantum Murder](https://covers.openlibrary.org/b/isbn/9781509868681-M.jpg) A Quantum Murder
 *[Peter F. Hamilton](../authors/PeterFHamilton)*
 
 Read: 2000s
@@ -198,7 +198,7 @@ Read:
 
 
 
-## ![The Nano Flower](https://covers.openlibrary.org/b/isbn/9780812577693-L.jpg) The Nano Flower
+## ![The Nano Flower](https://covers.openlibrary.org/b/isbn/9780812577693-M.jpg) The Nano Flower
 *[Peter F. Hamilton](../authors/PeterFHamilton)*
 
 Read: 

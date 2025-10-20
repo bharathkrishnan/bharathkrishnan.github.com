@@ -77,7 +77,7 @@ Read: 1990s
 
 :star: :star: :star: :star: :star:
 
-## ![The Negotiator](https://covers.openlibrary.org/b/isbn/9780553053616-L.jpg) The Negotiator
+## ![The Negotiator](https://covers.openlibrary.org/b/isbn/9780553053616-M.jpg) The Negotiator
 *[Frederick Forsyth](../authors/FrederickForsyth)*
 
 Read: 2000s
@@ -110,7 +110,7 @@ Read: 2000s
 
 :star: :star: :star: :star: :star:
 
-## ![The Dogs of War](https://covers.openlibrary.org/b/isbn/9780553147582-L.jpg) The Dogs of War
+## ![The Dogs of War](https://covers.openlibrary.org/b/isbn/9780553147582-M.jpg) The Dogs of War
 *[Frederick Forsyth](../authors/FrederickForsyth)*
 
 Read: 1990s
@@ -132,7 +132,7 @@ Read: 2000s
 
 :star: :star: :star: :star: :star:
 
-## ![Icon](https://covers.openlibrary.org/b/isbn/9782253170716-L.jpg) Icon
+## ![Icon](https://covers.openlibrary.org/b/isbn/9782253170716-M.jpg) Icon
 *[Frederick Forsyth](../authors/FrederickForsyth)*
 
 Read: 2000s
@@ -143,7 +143,7 @@ Read: 2000s
 
 
 
-## ![The Deceiver](https://covers.openlibrary.org/b/isbn/9780552138239-L.jpg) The Deceiver
+## ![The Deceiver](https://covers.openlibrary.org/b/isbn/9780552138239-M.jpg) The Deceiver
 *[Frederick Forsyth](../authors/FrederickForsyth)*
 
 Read: 2000s

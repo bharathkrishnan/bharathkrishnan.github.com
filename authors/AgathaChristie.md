@@ -55,7 +55,7 @@ Read: 1990s
 
 
 
-## ![Curtain](https://covers.openlibrary.org/b/isbn/9780816145393-L.jpg) Curtain
+## ![Curtain](https://covers.openlibrary.org/b/isbn/9780816145393-M.jpg) Curtain
 *[Agatha Christie](../authors/AgathaChristie)*
 
 Read: 1990s

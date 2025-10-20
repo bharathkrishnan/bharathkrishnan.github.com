@@ -11,7 +11,7 @@ Read: 2025
 
 :star: :star: :star: :star:
 
-## ![The Children of the Sky (Zones of Thought series Book 3)](https://covers.openlibrary.org/b/isbn/9780812579925-L.jpg) The Children of the Sky (Zones of Thought series Book 3)
+## ![The Children of the Sky (Zones of Thought series Book 3)](https://covers.openlibrary.org/b/isbn/9780812579925-M.jpg) The Children of the Sky (Zones of Thought series Book 3)
 *[Vernor Vinge](../authors/VernorVinge)*
 
 Read: 2025
@@ -22,7 +22,7 @@ Read: 2025
 
 
 
-## ![A deepness in the sky](https://covers.openlibrary.org/b/id/182443-L.jpg) A deepness in the sky
+## ![A deepness in the sky](https://covers.openlibrary.org/b/id/182443-M.jpg) A deepness in the sky
 *[Vernor Vinge](../authors/VernorVinge)*
 
 Read: 
