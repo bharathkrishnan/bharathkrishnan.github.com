@@ -22,6 +22,17 @@ Read: 2021
 
 :star: :star: :star: :star: :star:
 
+## ![Surface Detail (Culture)](https://covers.openlibrary.org/b/id/6672209-M.jpg) Surface Detail (Culture)
+*[Iain M. Banks](../authors/IainMBanks)*
+
+Read: 2024
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781841498935) / [Open Library](https://openlibrary.org/isbn/9781841498935) / [Local Book Shop](https://bookshop.org/book/9781841498935) / [Amazon](https://amazon.com/dp/0316123412)
+
+![100%](https://geps.dev/progress/100) 
+
+:star: :star: :star: :star: :star:
+
 ## ![The State of The Art](https://images-us.bookshop.org/ingram/9780316565646.jpg?height=300&v=v2) The State of The Art
 *[Iain M. Banks](../authors/IainMBanks)*
 
@@ -30,17 +41,6 @@ Read: 2024
 [Massachusetts Library](https://library.minlib.net/search/i=9780316565646) / [Open Library](https://openlibrary.org/isbn/9780316565646) / [Local Book Shop](https://bookshop.org/book/9780316565646) / [Amazon](https://amazon.com/dp/0316565644)
 
 ![75%](https://geps.dev/progress/75) 
-
-:star: :star: :star: :star: :star:
-
-## ![Surface Detail (Culture)](https://covers.openlibrary.org/b/isbn/9780316123419-M.jpg) Surface Detail (Culture)
-*[Iain M. Banks](../authors/IainMBanks)*
-
-Read: 2024
-
-[Massachusetts Library](https://library.minlib.net/search/i=9780316123419) / [Open Library](https://openlibrary.org/isbn/9780316123419) / [Local Book Shop](https://bookshop.org/book/9780316123419) / [Amazon](https://amazon.com/dp/0316123412)
-
-![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star: :star:
 

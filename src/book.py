@@ -52,9 +52,16 @@ class Book:
             self.thumbnail = data["ThumbNail"]
 
     def get_progress_for_year(self, year):
-        # Convert year to int if it's a string, since year_progress keys are integers
-        year_key = int(year) if isinstance(year, str) else year
-        return self.year_progress.get(year_key, 0.0)
+        # Handle decade strings like "2010s" - check if any year in the decade has progress
+        if isinstance(year, str) and year.endswith('s'):
+            # For decades, check if any of the original years in the decade have progress
+            decade_start = int(year[:-1])  # Remove 's' to get decade start
+            decade_years = range(decade_start, decade_start + 10)
+            return max(self.year_progress.get(y, 0.0) for y in decade_years)
+        else:
+            # Convert year to int if it's a string, since year_progress keys are integers
+            year_key = int(year) if isinstance(year, str) else year
+            return self.year_progress.get(year_key, 0.0)
 
     def get_thumbnail(self):
         # https://secure.syndetics.com/index.aspx?isbn=9780525538424/mc.gif&upc=&client=bcclsvega&type=unbound
