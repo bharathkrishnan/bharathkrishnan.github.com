@@ -123,7 +123,8 @@ def print_year(filename, books, yearly_stats, years, y):
                 ),
             )
         )
-        for book in books[y]:
+        book_entries = _dedupe_books(books[y]) if y.endswith('s') else books[y]
+        for book in book_entries:
             # For decades, pass the decade label so progress reflects per-decade
             o.write(book.print(year=y))
             o.write("\n")
@@ -152,6 +153,18 @@ def main():
             if author_name not in authorbooks:
                 authorbooks[author_name] = []
             authorbooks[author_name].append(book)
+    # Aggregate explicit 2020s decade from yearly entries (2020-2029) and any existing "2020s" group
+    decade_label = "2020s"
+    aggregated_2020s = []
+    for year in range(2020, 2030):
+        year_key = str(year)
+        if year_key in books:
+            aggregated_2020s.extend(books[year_key])
+    if decade_label in books:
+        aggregated_2020s.extend(books[decade_label])
+    if aggregated_2020s:
+        books[decade_label] = _dedupe_books(aggregated_2020s)
+        years[decade_label] = 1
     nrbooks = {}
     authors = {}
     yearly_stats = {}
