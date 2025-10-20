@@ -1,4 +1,4 @@
-# Peter F. Hamilton:  Books Read 20 / 20, Avg Rating: 0.75 :star:
+# Peter F. Hamilton:  Books Read 19 / 19, Avg Rating: 0.79 :star:
 
 ## ![The Saints of Salvation](https://covers.openlibrary.org/b/id/10305043-M.jpg) The Saints of Salvation
 *[Peter F. Hamilton](../authors/PeterFHamilton)*
@@ -77,17 +77,6 @@ Read:
 
 
 
-## ![Exodus](https://covers.openlibrary.org/b/id/14840403-M.jpg) Exodus
-*[Peter F. Hamilton](../authors/PeterFHamilton)*
-
-Read: 
-
-[Massachusetts Library](https://library.minlib.net/search/i=9781529073713) / [Open Library](https://openlibrary.org/isbn/9781529073713) / [Local Book Shop](https://bookshop.org/book/9781529073713) / [Amazon](https://amazon.com/dp/1529073707)
-
-![100%](https://geps.dev/progress/100) 
-
-
-
 ## ![Salvation Lost](https://covers.openlibrary.org/b/id/9120190-M.jpg) Salvation Lost
 *[Peter F. Hamilton](../authors/PeterFHamilton)*
 
@@ -113,7 +102,7 @@ Read:
 ## ![A Quantum Murder](https://covers.openlibrary.org/b/isbn/9781509868681-L.jpg) A Quantum Murder
 *[Peter F. Hamilton](../authors/PeterFHamilton)*
 
-Read: 2000
+Read: 2000s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781509868681) / [Open Library](https://openlibrary.org/isbn/9781509868681) / [Local Book Shop](https://bookshop.org/book/9781509868681) / [Amazon](https://amazon.com/dp/1509868682)
 

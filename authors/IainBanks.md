@@ -1,4 +1,4 @@
-# Iain Banks:  Books Read 10 / 10, Avg Rating: 0.5 
+# Iain Banks:  Books Read 9 / 9, Avg Rating: 0.56 :star:
 
 ## ![Look to windward](https://covers.openlibrary.org/b/id/476421-M.jpg) Look to windward
 *[Iain Banks](../authors/IainBanks)*
@@ -54,17 +54,6 @@ Read:
 ![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star: :star:
-
-## ![The Hydrogen Sonata](https://covers.openlibrary.org/b/id/7425860-M.jpg) The Hydrogen Sonata
-*[Iain Banks](../authors/IainBanks)*
-
-Read: 
-
-[Massachusetts Library](https://library.minlib.net/search/i=9780316212380) / [Open Library](https://openlibrary.org/isbn/9780316212380) / [Local Book Shop](https://bookshop.org/book/9780316212380) / [Amazon](https://amazon.com/dp/0316212385)
-
-![100%](https://geps.dev/progress/100) 
-
-
 
 ## ![Matter](https://covers.openlibrary.org/b/id/1174791-M.jpg) Matter
 *[Iain Banks](../authors/IainBanks)*

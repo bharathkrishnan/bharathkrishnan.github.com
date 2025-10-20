@@ -3,7 +3,7 @@
 ## ![Life of Pi](https://covers.openlibrary.org/b/id/12840573-M.jpg) Life of Pi
 *[Yann Martel](../authors/YannMartel)*
 
-Read: 2000
+Read: 2000s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780151008117) / [Open Library](https://openlibrary.org/isbn/9780151008117) / [Local Book Shop](https://bookshop.org/book/9780151008117) / [Amazon](https://amazon.com/dp/0676973760)
 

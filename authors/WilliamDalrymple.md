@@ -1,15 +1,4 @@
-# William Dalrymple:  Books Read 1 / 6, Avg Rating: 5.0 :star: :star: :star: :star: :star:
-
-## ![The Golden Road: How Ancient India Transformed the World](file:///var/mobile/Containers/Data/Application/B51E660C-4BA9-46B1-8B22-B8AC96584816/Library/Application%20Support/Ajanta/Covers/cover-9928891283013.jpg) The Golden Road: How Ancient India Transformed the World
-*[William Dalrymple](../authors/WilliamDalrymple)*
-
-Read: 
-
-[Massachusetts Library](https://library.minlib.net/search/i=9928891283013) / [Open Library](https://openlibrary.org/isbn/9928891283013) / [Local Book Shop](https://bookshop.org/book/9928891283013) / [Amazon](https://amazon.com/dp/)
-
-![10%](https://geps.dev/progress/10) 
-
-
+# William Dalrymple:  Books Read 1 / 5, Avg Rating: 5.0 :star: :star: :star: :star: :star:
 
 ## ![The Last Mughal: The Fall of a Dynasty: Delhi, 1857](https://covers.openlibrary.org/b/id/9963901-M.jpg) The Last Mughal: The Fall of a Dynasty: Delhi, 1857
 *[William Dalrymple](../authors/WilliamDalrymple)*

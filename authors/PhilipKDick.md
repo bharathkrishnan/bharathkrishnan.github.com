@@ -3,7 +3,7 @@
 ## ![The Man in the High Castle](https://covers.openlibrary.org/b/id/420452-M.jpg) The Man in the High Castle
 *[Philip K. Dick](../authors/PhilipKDick)*
 
-Read: 2010
+Read: 2010s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9788445001844) / [Open Library](https://openlibrary.org/isbn/9788445001844) / [Local Book Shop](https://bookshop.org/book/9788445001844) / [Amazon](https://amazon.com/dp/2290005673)
 
@@ -14,7 +14,7 @@ Read: 2010
 ## ![Do Androids Dream of Electric Sheep?](https://covers.openlibrary.org/b/id/207515-M.jpg) Do Androids Dream of Electric Sheep?
 *[Philip K. Dick](../authors/PhilipKDick)*
 
-Read: 2000
+Read: 2000s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780586036051) / [Open Library](https://openlibrary.org/isbn/9780586036051) / [Local Book Shop](https://bookshop.org/book/9780586036051) / [Amazon](https://amazon.com/dp/1328694895)
 
@@ -25,7 +25,7 @@ Read: 2000
 ## ![Minority Report](https://covers.openlibrary.org/b/id/499534-M.jpg) Minority Report
 *[Philip K. Dick](../authors/PhilipKDick)*
 
-Read: 2000
+Read: 2000s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9782070426065) / [Open Library](https://openlibrary.org/isbn/9782070426065) / [Local Book Shop](https://bookshop.org/book/9782070426065) / [Amazon](https://amazon.com/dp/0575075201)
 

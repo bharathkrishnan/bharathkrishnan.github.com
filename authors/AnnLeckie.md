@@ -25,7 +25,7 @@ Read: 2023
 ## ![Ancillary Justice](https://covers.openlibrary.org/b/id/7355949-M.jpg) Ancillary Justice
 *[Ann Leckie](../authors/AnnLeckie)*
 
-Read: 2010
+Read: 2010s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781470397470) / [Open Library](https://openlibrary.org/isbn/9781470397470) / [Local Book Shop](https://bookshop.org/book/9781470397470) / [Amazon](https://amazon.com/dp/0316246638)
 
@@ -36,7 +36,7 @@ Read: 2010
 ## ![Ancillary Sword](https://covers.openlibrary.org/b/id/7422984-M.jpg) Ancillary Sword
 *[Ann Leckie](../authors/AnnLeckie)*
 
-Read: 2010
+Read: 2010s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781405525855) / [Open Library](https://openlibrary.org/isbn/9781405525855) / [Local Book Shop](https://bookshop.org/book/9781405525855) / [Amazon](https://amazon.com/dp/1478987375)
 

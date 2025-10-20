@@ -3,7 +3,7 @@
 ## ![Pump Six and Other Stories](https://covers.openlibrary.org/b/id/7247931-M.jpg) Pump Six and Other Stories
 *[Paolo Bacigalupi](../authors/PaoloBacigalupi)*
 
-Read: 2010
+Read: 2010s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781597801331) / [Open Library](https://openlibrary.org/isbn/9781597801331) / [Local Book Shop](https://bookshop.org/book/9781597801331) / [Amazon](https://amazon.com/dp/159780133X)
 
@@ -14,7 +14,7 @@ Read: 2010
 ## ![The Water Knife](https://covers.openlibrary.org/b/id/8148453-M.jpg) The Water Knife
 *[Paolo Bacigalupi](../authors/PaoloBacigalupi)*
 
-Read: 2010
+Read: 2010s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780356502120) / [Open Library](https://openlibrary.org/isbn/9780356502120) / [Local Book Shop](https://bookshop.org/book/9780356502120) / [Amazon](https://amazon.com/dp/1628996463)
 
@@ -25,7 +25,7 @@ Read: 2010
 ## ![The Windup Girl](https://covers.openlibrary.org/b/id/6463375-M.jpg) The Windup Girl
 *[Paolo Bacigalupi](../authors/PaoloBacigalupi)*
 
-Read: 2000
+Read: 2000s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9784150118099) / [Open Library](https://openlibrary.org/isbn/9784150118099) / [Local Book Shop](https://bookshop.org/book/9784150118099) / [Amazon](https://amazon.com/dp/1511319909)
 

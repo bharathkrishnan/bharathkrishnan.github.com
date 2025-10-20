@@ -14,7 +14,7 @@ Read:
 ## ![Santorini](https://covers.openlibrary.org/b/id/4170821-M.jpg) Santorini
 *[Alistair MacLean](../authors/AlistairMacLean)*
 
-Read: 1990
+Read: 1990s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780896218369) / [Open Library](https://openlibrary.org/isbn/9780896218369) / [Local Book Shop](https://bookshop.org/book/9780896218369) / [Amazon](https://amazon.com/dp/0002229528)
 
@@ -25,7 +25,7 @@ Read: 1990
 ## ![H.M.S. Ulysses](https://covers.openlibrary.org/b/id/11645475-M.jpg) H.M.S. Ulysses
 *[Alistair MacLean](../authors/AlistairMacLean)*
 
-Read: 1990
+Read: 1990s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780002433037) / [Open Library](https://openlibrary.org/isbn/9780002433037) / [Local Book Shop](https://bookshop.org/book/9780002433037) / [Amazon](https://amazon.com/dp/0006122116)
 
@@ -36,7 +36,7 @@ Read: 1990
 ## ![Force 10 from Navarone](https://covers.openlibrary.org/b/id/3430-M.jpg) Force 10 from Navarone
 *[Alistair MacLean](../authors/AlistairMacLean)*
 
-Read: 1990
+Read: 1990s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780007892204) / [Open Library](https://openlibrary.org/isbn/9780007892204) / [Local Book Shop](https://bookshop.org/book/9780007892204) / [Amazon](https://amazon.com/dp/0007892209)
 
@@ -47,7 +47,7 @@ Read: 1990
 ## ![Ice Station Zebra](https://covers.openlibrary.org/b/id/6601736-M.jpg) Ice Station Zebra
 *[Alistair MacLean](../authors/AlistairMacLean)*
 
-Read: 1990
+Read: 1990s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780002433389) / [Open Library](https://openlibrary.org/isbn/9780002433389) / [Local Book Shop](https://bookshop.org/book/9780002433389) / [Amazon](https://amazon.com/dp/9721014605)
 
@@ -91,7 +91,7 @@ Read:
 ## ![Puppet on a Chain](https://covers.openlibrary.org/b/id/6796781-M.jpg) Puppet on a Chain
 *[Alistair MacLean](../authors/AlistairMacLean)*
 
-Read: 1990
+Read: 1990s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780002216487) / [Open Library](https://openlibrary.org/isbn/9780002216487) / [Local Book Shop](https://bookshop.org/book/9780002216487) / [Amazon](https://amazon.com/dp/0006125905)
 
@@ -102,7 +102,7 @@ Read: 1990
 ## ![Fear Is the Key (Black Dagger Crime)](https://books.google.com/books/content?id=eDxXPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api) Fear Is the Key (Black Dagger Crime)
 *[Alistair MacLean](../authors/AlistairMacLean)*
 
-Read: 1980
+Read: 1980s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781405685672) / [Open Library](https://openlibrary.org/isbn/9781405685672) / [Local Book Shop](https://bookshop.org/book/9781405685672) / [Amazon](https://amazon.com/dp/1405685670)
 
@@ -124,7 +124,7 @@ Read:
 ## ![Breakheart Pass](https://covers.openlibrary.org/b/id/8673267-M.jpg) Breakheart Pass
 *[Alistair MacLean](../authors/AlistairMacLean)*
 
-Read: 1990
+Read: 1990s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780816162710) / [Open Library](https://openlibrary.org/isbn/9780816162710) / [Local Book Shop](https://bookshop.org/book/9780816162710) / [Amazon](https://amazon.com/dp/3453007077)
 
@@ -157,7 +157,7 @@ Read:
 ## ![Night without end](https://covers.openlibrary.org/b/id/11686451-M.jpg) Night without end
 *[Alistair MacLean](../authors/AlistairMacLean)*
 
-Read: 1990
+Read: 1990s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780854566914) / [Open Library](https://openlibrary.org/isbn/9780854566914) / [Local Book Shop](https://bookshop.org/book/9780854566914) / [Amazon](https://amazon.com/dp/026167188X)
 
@@ -168,7 +168,7 @@ Read: 1990
 ## ![Where eagles dare / Alistair MacLean](https://covers.openlibrary.org/b/id/789523-M.jpg) Where eagles dare / Alistair MacLean
 *[Alistair MacLean](../authors/AlistairMacLean)*
 
-Read: 1990
+Read: 1990s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781560254553) / [Open Library](https://openlibrary.org/isbn/9781560254553) / [Local Book Shop](https://bookshop.org/book/9781560254553) / [Amazon](https://amazon.com/dp/1560254556)
 
@@ -179,7 +179,7 @@ Read: 1990
 ## ![San Andreas](https://covers.openlibrary.org/b/id/4211052-M.jpg) San Andreas
 *[Alistair MacLean](../authors/AlistairMacLean)*
 
-Read: 1990
+Read: 1990s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780896217041) / [Open Library](https://openlibrary.org/isbn/9780896217041) / [Local Book Shop](https://bookshop.org/book/9780896217041) / [Amazon](https://amazon.com/dp/0002228300)
 
@@ -190,7 +190,7 @@ Read: 1990
 ## ![South by Java Head](https://covers.openlibrary.org/b/id/11717069-M.jpg) South by Java Head
 *[Alistair MacLean](../authors/AlistairMacLean)*
 
-Read: 1990
+Read: 1990s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780449125663) / [Open Library](https://openlibrary.org/isbn/9780449125663) / [Local Book Shop](https://bookshop.org/book/9780449125663) / [Amazon](https://amazon.com/dp/0708902308)
 
@@ -201,7 +201,7 @@ Read: 1990
 ## ![Athabasca](https://images-us.bookshop.org/ingram/9780008337483.jpg?height=500&v=v2) Athabasca
 *[Alistair MacLean](../authors/AlistairMacLean)*
 
-Read: 1990
+Read: 1990s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780008337483) / [Open Library](https://openlibrary.org/isbn/9780008337483) / [Local Book Shop](https://bookshop.org/book/9780008337483) / [Amazon](https://amazon.com/dp/0816131473)
 

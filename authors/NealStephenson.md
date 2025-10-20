@@ -1,9 +1,9 @@
-# Neal Stephenson:  Books Read 8 / 8, Avg Rating: 4.75 :star: :star: :star: :star: :star:
+# Neal Stephenson:  Books Read 6 / 6, Avg Rating: 4.67 :star: :star: :star: :star: :star:
 
 ## ![Snow Crash](https://covers.openlibrary.org/b/id/392508-M.jpg) Snow Crash
 *[Neal Stephenson](../authors/NealStephenson)*
 
-Read: 2000
+Read: 2000s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780553380958) / [Open Library](https://openlibrary.org/isbn/9780553380958) / [Local Book Shop](https://bookshop.org/book/9780553380958) / [Amazon](https://amazon.com/dp/055308853X)
 
@@ -14,7 +14,7 @@ Read: 2000
 ## ![Cryptonomicon](https://covers.openlibrary.org/b/id/6424001-M.jpg) Cryptonomicon
 *[Neal Stephenson](../authors/NealStephenson)*
 
-Read: 2000
+Read: 2000s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9788466616447) / [Open Library](https://openlibrary.org/isbn/9788466616447) / [Local Book Shop](https://bookshop.org/book/9788466616447) / [Amazon](https://amazon.com/dp/0380788624)
 
@@ -22,21 +22,10 @@ Read: 2000
 
 :star: :star: :star: :star:
 
-## ![The Diamond Age](https://covers.openlibrary.org/b/id/8598269-M.jpg) The Diamond Age
-*[Neal Stephenson](../authors/NealStephenson)*
-
-Read: 2000
-
-[Massachusetts Library](https://library.minlib.net/search/i=9783442451548) / [Open Library](https://openlibrary.org/isbn/9783442451548) / [Local Book Shop](https://bookshop.org/book/9783442451548) / [Amazon](https://amazon.com/dp/0670864145)
-
-![100%](https://geps.dev/progress/100) 
-
-:star: :star: :star: :star: :star:
-
 ## ![Seveneves](https://covers.openlibrary.org/b/id/9295719-M.jpg) Seveneves
 *[Neal Stephenson](../authors/NealStephenson)*
 
-Read: 2010
+Read: 2010s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780008132521) / [Open Library](https://openlibrary.org/isbn/9780008132521) / [Local Book Shop](https://bookshop.org/book/9780008132521) / [Amazon](https://amazon.com/dp/0062190377)
 
@@ -47,20 +36,9 @@ Read: 2010
 ## ![Anathem](https://covers.openlibrary.org/b/id/6304233-M.jpg) Anathem
 *[Neal Stephenson](../authors/NealStephenson)*
 
-Read: 2010
+Read: 2010s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780061701320) / [Open Library](https://openlibrary.org/isbn/9780061701320) / [Local Book Shop](https://bookshop.org/book/9780061701320) / [Amazon](https://amazon.com/dp/006166815X)
-
-![100%](https://geps.dev/progress/100) 
-
-:star: :star: :star: :star: :star:
-
-## ![Termination Shock](https://covers.openlibrary.org/b/id/11412286-M.jpg) Termination Shock
-*[Neal Stephenson](../authors/NealStephenson)*
-
-Read: 
-
-[Massachusetts Library](https://library.minlib.net/search/i=9780008404369) / [Open Library](https://openlibrary.org/isbn/9780008404369) / [Local Book Shop](https://bookshop.org/book/9780008404369) / [Amazon](https://amazon.com/dp/0008404402)
 
 ![100%](https://geps.dev/progress/100) 
 

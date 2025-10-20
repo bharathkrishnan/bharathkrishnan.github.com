@@ -143,20 +143,6 @@
         },
         {
             "Authors": [
-                "William Dalrymple"
-            ],
-            "ISBN10": "",
-            "ISBN13": "9928891283013",
-            "Progress": [
-                0.10450450330972672
-            ],
-            "Rating": 0,
-            "ReadYear": [],
-            "ThumbNail": "file:///var/mobile/Containers/Data/Application/B51E660C-4BA9-46B1-8B22-B8AC96584816/Library/Application%20Support/Ajanta/Covers/cover-9928891283013.jpg",
-            "Title": "The Golden Road: How Ancient India Transformed the World"
-        },
-        {
-            "Authors": [
                 "Daniel James Brown"
             ],
             "ISBN10": "",
@@ -280,7 +266,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=_FA3rbD5y1oC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "Title": "Mexico set"
@@ -296,7 +282,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/4170821-M.jpg",
             "Title": "Santorini"
@@ -344,7 +330,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8239628-M.jpg",
             "Title": "The Moon is Down"
@@ -421,7 +407,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/11645475-M.jpg",
             "Title": "H.M.S. Ulysses"
@@ -437,7 +423,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/14319003-M.jpg",
             "Title": "Of Mice and Men"
@@ -481,7 +467,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/3430-M.jpg",
             "Title": "Force 10 from Navarone"
@@ -511,7 +497,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/6601736-M.jpg",
             "Title": "Ice Station Zebra"
@@ -603,7 +589,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/12715902-M.jpg",
             "Title": "The Grapes of Wrath"
@@ -681,7 +667,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/11465456-M.jpg",
             "Title": "Dirk Gently\u2019s Holistic Detective Agency"
@@ -769,7 +755,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/11386937-M.jpg",
             "Title": "East of Eden"
@@ -844,7 +830,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/11465755-M.jpg",
             "Title": "Mostly Harmless"
@@ -862,20 +848,6 @@
             "ReadYear": [],
             "ThumbNail": "https://covers.openlibrary.org/b/id/7021556-M.jpg",
             "Title": "Tinker Tailor Soldier Spy"
-        },
-        {
-            "Authors": [
-                "Peter F. Hamilton"
-            ],
-            "ISBN10": "1529073707",
-            "ISBN13": "9781529073713",
-            "Progress": [
-                1
-            ],
-            "Rating": 0,
-            "ReadYear": [],
-            "ThumbNail": "https://covers.openlibrary.org/b/id/14840403-M.jpg",
-            "Title": "Exodus"
         },
         {
             "Authors": [
@@ -911,22 +883,6 @@
         },
         {
             "Authors": [
-                "Alastair Reynolds"
-            ],
-            "ISBN10": "1400167116",
-            "ISBN13": "9780316362290",
-            "Progress": [
-                1
-            ],
-            "Rating": 0,
-            "ReadYear": [
-                2025
-            ],
-            "ThumbNail": "https://covers.openlibrary.org/b/id/6298187-M.jpg",
-            "Title": "Terminal World"
-        },
-        {
-            "Authors": [
                 "Alistair MacLean"
             ],
             "ISBN10": "0006125905",
@@ -936,26 +892,12 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "Puppet on a Chain is a novel by Scottish author Alistair MacLean. Originally published in 1969 with a cover by Norman Weaver, it is set in the late 1960s narcotics underworld of Amsterdam and other locations in the Netherlands.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/6796781-M.jpg",
             "Title": "Puppet on a Chain",
             "WikipediaURL": "https://en.wikipedia.org/wiki/Puppet_on_a_Chain"
-        },
-        {
-            "Authors": [
-                "Len Deighton"
-            ],
-            "ISBN10": "0345010329",
-            "ISBN13": "9788402077592",
-            "Progress": [
-                1
-            ],
-            "Rating": 0,
-            "ReadYear": [],
-            "ThumbNail": "https://covers.openlibrary.org/b/id/4615759-M.jpg",
-            "Title": "SS-GB"
         },
         {
             "Authors": [
@@ -1032,7 +974,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1980
+                "1980s"
             ],
             "Summary": "Fear Is the Key is a 1961 first-person narrative thriller novel by Scottish author Alistair MacLean.",
             "ThumbNail": "https://books.google.com/books/content?id=eDxXPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
@@ -1136,7 +1078,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781509868681-L.jpg",
             "Title": "A Quantum Murder"
@@ -1272,7 +1214,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1980
+                "1980s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/13859660-M.jpg",
             "Title": "Treasure Island"
@@ -1288,7 +1230,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "Breakheart Pass is a novel by Scottish author Alistair MacLean (1922\u20131987), first published in 1974. It was a departure for MacLean in that, despite the thriller novel plot, the setting is essentially that of a western novel, set in the Sierra Nevada of the American West in the late 19th century. Fans of MacLean will recognize the usual plots twists, thrill-packed finale, and trademark sardonic dialogue. For American audiences, MacLean was less successful capturing an authentic tone of the western frontier, and the 1975 movie version starring Charles Bronson, Richard Crenna, Ben Johnson, and Jill Ireland, proved to be more popular with the public than the novel.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/8673267-M.jpg",
@@ -1400,7 +1342,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/6532601-M.jpg",
             "Title": "London match"
@@ -1416,7 +1358,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                1980
+                "1980s"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=oPKqxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "Title": "Trumpet-Major"
@@ -1462,7 +1404,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/15089745-M.jpg",
             "Title": "Schindler's List"
@@ -1492,7 +1434,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/9159025-M.jpg",
             "Title": "The Boys from Brazil"
@@ -1508,24 +1450,10 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/12714921-M.jpg",
             "Title": "The Restaurant at the End of the Universe"
-        },
-        {
-            "Authors": [
-                "Iain Banks"
-            ],
-            "ISBN10": "0316212385",
-            "ISBN13": "9780316212380",
-            "Progress": [
-                1
-            ],
-            "Rating": 0,
-            "ReadYear": [],
-            "ThumbNail": "https://covers.openlibrary.org/b/id/7425860-M.jpg",
-            "Title": "The Hydrogen Sonata"
         },
         {
             "Authors": [
@@ -1610,7 +1538,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1980
+                "1980s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/295773-M.jpg",
             "Title": "The Strange Case of Dr. Jekyll and Mr. Hyde"
@@ -1656,7 +1584,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/5415970-M.jpg",
             "Title": "Berlin game"
@@ -1716,7 +1644,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/11465415-M.jpg",
             "Title": "So long, and thanks for all the fish"
@@ -1854,7 +1782,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/11686451-M.jpg",
             "Title": "Night without end"
@@ -1886,7 +1814,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/789523-M.jpg",
             "Title": "Where eagles dare / Alistair MacLean"
@@ -1934,7 +1862,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/4211052-M.jpg",
             "Title": "San Andreas"
@@ -1950,7 +1878,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/11717069-M.jpg",
             "Title": "South by Java Head"
@@ -1966,7 +1894,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/2000850-M.jpg",
             "Title": "Zima Blue and Other Stories"
@@ -2025,7 +1953,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/374610-M.jpg",
             "Title": "Complete Yes Prime Minister"
@@ -2042,7 +1970,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/374609-M.jpg",
             "Title": "The Complete Yes Minister"
@@ -2058,7 +1986,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780008337483.jpg?height=500&v=v2",
             "Title": "Athabasca"
@@ -2088,7 +2016,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/210816-M.jpg",
             "Title": "Market Forces"
@@ -2264,7 +2192,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8569244-M.jpg",
             "Title": "Life, the Universe and Everything"
@@ -2357,7 +2285,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/12491973-M.jpg",
             "Title": "Luna: New Moon"
@@ -2373,7 +2301,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/474065-M.jpg",
             "Title": "River of gods"
@@ -2389,7 +2317,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=vMz9QQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "Title": "The Dervish House"
@@ -2405,7 +2333,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/6484658-M.jpg",
             "Title": "Cyberabad days"
@@ -2439,7 +2367,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8748627-M.jpg",
             "Title": "Luna: Moon Rising"
@@ -2455,7 +2383,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/9269962-M.jpg",
             "Title": "A Game of Thrones"
@@ -2471,7 +2399,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8231751-M.jpg",
             "Title": "A Clash of Kings"
@@ -2487,7 +2415,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/6501256-M.jpg",
             "Title": "A Feast for Crows"
@@ -2503,7 +2431,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/15124196-M.jpg",
             "Title": "A Storm of Swords"
@@ -2519,7 +2447,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/11298743-M.jpg",
             "Title": "A Dance With Dragons"
@@ -2535,26 +2463,10 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8802134-M.jpg",
             "Title": "A Memory Called Empire"
-        },
-        {
-            "Authors": [
-                "Arkady Martine"
-            ],
-            "ISBN10": "125018648X",
-            "ISBN13": "9781529001631",
-            "Progress": [
-                1
-            ],
-            "Rating": 5,
-            "ReadYear": [
-                2010
-            ],
-            "ThumbNail": "https://covers.openlibrary.org/b/id/10718806-M.jpg",
-            "Title": "A Desolation Called Peace"
         },
         {
             "Authors": [
@@ -2567,7 +2479,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/392508-M.jpg",
             "Title": "Snow Crash"
@@ -2583,26 +2495,10 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/6424001-M.jpg",
             "Title": "Cryptonomicon"
-        },
-        {
-            "Authors": [
-                "Neal Stephenson"
-            ],
-            "ISBN10": "0670864145",
-            "ISBN13": "9783442451548",
-            "Progress": [
-                1
-            ],
-            "Rating": 5,
-            "ReadYear": [
-                2000
-            ],
-            "ThumbNail": "https://covers.openlibrary.org/b/id/8598269-M.jpg",
-            "Title": "The Diamond Age"
         },
         {
             "Authors": [
@@ -2615,7 +2511,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/9295719-M.jpg",
             "Title": "Seveneves"
@@ -2632,26 +2528,12 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "Summary": "Anathem is a science fiction novel by American writer Neal Stephenson, published in 2008. Major themes include the many-worlds interpretation of quantum mechanics and the philosophical debate between Platonic realism and nominalism.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/6304233-M.jpg",
             "Title": "Anathem",
             "WikipediaURL": "https://en.wikipedia.org/wiki/Anathem"
-        },
-        {
-            "Authors": [
-                "Neal Stephenson"
-            ],
-            "ISBN10": "0008404402",
-            "ISBN13": "9780008404369",
-            "Progress": [
-                1
-            ],
-            "Rating": 5,
-            "ReadYear": [],
-            "ThumbNail": "https://covers.openlibrary.org/b/id/11412286-M.jpg",
-            "Title": "Termination Shock"
         },
         {
             "Authors": [
@@ -2682,7 +2564,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/283860-M.jpg",
             "Title": "Neuromancer"
@@ -2698,7 +2580,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/3327832-M.jpg",
             "Title": "Mona Lisa Overdrive"
@@ -2714,7 +2596,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/28351-M.jpg",
             "Title": "Burning Chrome"
@@ -2730,7 +2612,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8373619-M.jpg",
             "Title": "Pattern Recognition"
@@ -2746,7 +2628,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8787492-M.jpg",
             "Title": "The Peripheral"
@@ -2762,7 +2644,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "Summary": "Idoru is the second book in William Gibson's Bridge trilogy. Idoru is a science-fiction novel set in a postmodern, dystopian, cyberpunk future. One of the main characters, Colin Laney, has a talent for identifying nodal points, analogous to Gibson's own:\nLaney's node-spotter function is some sort of metaphor for whatever it is that I actually do. There are bits of the literal future right here, right now, if you know how to look for them. Although I can't tell you how; it's a non-rational process.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/3850651-M.jpg",
@@ -2780,7 +2662,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8355736-M.jpg",
             "Title": "Spook Country"
@@ -2796,7 +2678,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "Summary": "Zero History is a novel by William Gibson published in 2010. It concludes the informal trilogy begun by Pattern Recognition (2003) and continued by Spook Country (2007), and features the characters Hollis Henry and Milgrim from the latter novel as its protagonists.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/7072428-M.jpg",
@@ -2814,7 +2696,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/13090570-M.jpg",
             "Title": "Agency"
@@ -2830,7 +2712,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/283527-M.jpg",
             "Title": "Johnny Mnemonic"
@@ -2846,7 +2728,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "Summary": "For the band, see Count Zero (band)",
             "ThumbNail": "https://covers.openlibrary.org/b/id/284322-M.jpg",
@@ -2864,7 +2746,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/11447888-M.jpg",
             "Title": "The Martian"
@@ -2880,7 +2762,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2020
+                "2020s"
             ],
             "Summary": "Artemis is a 2017 science fiction novel by American writer Andy Weir. It takes place in the late 2080s in Artemis, the first and so far only city on the Moon. It follows the life of porter and smuggler Jasmine \"Jazz\" Bashara as she gets caught up in a conspiracy for control of the city.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/8235551-M.jpg",
@@ -2898,7 +2780,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2020
+                "2020s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/11200092-M.jpg",
             "Title": "Project Hail Mary"
@@ -2932,7 +2814,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8346713-M.jpg",
             "Title": "Midnight's Children"
@@ -2948,7 +2830,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8312209-M.jpg",
             "Title": "The Satanic Verses"
@@ -2964,7 +2846,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "Summary": "Haroun and the Sea of Stories is a 1990 children's novel by Salman Rushdie. It is Rushdie's fifth major publication and followed The Satanic Verses (1988). It is a phantasmagorical story that begins in a city so miserable and ruinous that it has forgotten its name.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/10236612-M.jpg",
@@ -2982,7 +2864,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8304194-M.jpg",
             "Title": "The Moor's Last Sigh"
@@ -2998,7 +2880,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "Summary": "Jennifer Government is a 2003 dystopian novel by Max Barry, set in an alternate reality where most nations in the Americas and Oceania are dominated by powerful corporations and corporate libertarianism coalitions, and where government power is extremely limited. It was a finalist for a Campbell Award, and was included in The New York Times' annual list of notable books. The novel was retitled from Jennifer Government to Logoland in its German and Italian editions. In its Brazilian edition it was retitled to EU S/A, an abbreviation of Estados Unidos Sociedade An\u00f4nima, which roughly translates to United States, Inc.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/213343-M.jpg",
@@ -3032,7 +2914,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/14612610-M.jpg",
             "Title": "Foundation"
@@ -3048,7 +2930,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/12385229-M.jpg",
             "Title": "I, Robot"
@@ -3064,7 +2946,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/9304027-M.jpg",
             "Title": "Foundation and Earth"
@@ -3152,7 +3034,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/14831167-M.jpg",
             "Title": "100 Years of Solitude"
@@ -3196,7 +3078,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/12501284-M.jpg",
             "Title": "The Complete Sherlock Holmes [4 novels, 56 stories]"
@@ -3212,7 +3094,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8292900-M.jpg",
             "Title": "No Comebacks"
@@ -3228,7 +3110,7 @@
             ],
             "Rating": 3,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/12840573-M.jpg",
             "Title": "Life of Pi"
@@ -3244,7 +3126,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/5412522-M.jpg",
             "Title": "The Bourne ultimatum"
@@ -3260,7 +3142,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/9246429-M.jpg",
             "Title": "Memoirs of Sherlock Holmes [11 stories]"
@@ -3276,7 +3158,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/6824310-M.jpg",
             "Title": "The Prodigal Daughter"
@@ -3292,7 +3174,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/4145385-M.jpg",
             "Title": "The Bourne supremacy"
@@ -3308,7 +3190,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/7274740-M.jpg",
             "Title": "The Osterman Weekend"
@@ -3324,7 +3206,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/11562774-M.jpg",
             "Title": "A Matter of Honour"
@@ -3340,7 +3222,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1980
+                "1980s"
             ],
             "Summary": "Charlie and the Great Glass Elevator is a children's book by British author Roald Dahl. It is the sequel to Charlie and the Chocolate Factory, continuing the story of young Charlie Bucket and a chocolatier, Willy Wonka, as they travel in the Great Glass Elevator. The book was published in the United States by Alfred A. Knopf, Inc. in 1972, a year after the release of the film Willy Wonka and the Chocolate Factory, and in the United Kingdom by George Allen & Unwin in 1973.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/7893583-M.jpg",
@@ -3358,7 +3240,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/7226599-M.jpg",
             "Title": "A Farewell to Arms"
@@ -3374,7 +3256,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1980
+                "1980s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/12043351-M.jpg",
             "Title": "The Adventures of Tom Sawyer"
@@ -3390,7 +3272,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "For Whom the Bell Tolls is a novel by Ernest Hemingway published in 1940. It tells the story of Robert Jordan, a young American volunteer attached to a Republican guerrilla unit during the Spanish Civil War. As a demolitions expert, he is assigned to blow up a bridge during an attack on the city of Segovia.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/2560810-M.jpg",
@@ -3408,7 +3290,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8350410-M.jpg",
             "Title": "The Case-Book of Sherlock Holmes"
@@ -3424,7 +3306,7 @@
             ],
             "Rating": 3,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "A Connecticut Yankee in King Arthur's Court is an 1889 historical novel by American humorist and writer Mark Twain. The book was originally titled A Yankee in King Arthur's Court. Some early editions are titled A Yankee at the Court of King Arthur.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/9168732-M.jpg",
@@ -3442,7 +3324,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "<p><i><b>Twenty Thousand Leagues Under the Seas</b></i> is a science fiction adventure novel by the French writer Jules Verne. It is considered a classic within its genres and world literature. It was originally serialised from March 1869 to June 1870 in Pierre-Jules Hetzel's French fortnightly periodical, the <span><i lang=\"fr\">Magasin d'\u00e9ducation et de r\u00e9cr\u00e9ation</i></span>. A deluxe octavo edition, published by Hetzel in November 1871, included 111 illustrations by Alphonse de Neuville and \u00c9douard Riou.</p>",
             "ThumbNail": "https://covers.openlibrary.org/b/id/7385699-M.jpg",
@@ -3460,7 +3342,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/10209170-M.jpg",
             "Title": "From the Earth to the Moon and Round the Moon"
@@ -3476,7 +3358,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8243267-M.jpg",
             "Title": "His Last Bow [8 stories]"
@@ -3492,7 +3374,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/9625005-M.jpg",
             "Title": "The Eleventh Commandment"
@@ -3524,7 +3406,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                1980
+                "1980s"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=ilOluQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "Title": "Kidnapped"
@@ -3540,7 +3422,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=NeCZeFsC6NYC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "Title": "The devil's alternative"
@@ -3586,7 +3468,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/499340-M.jpg",
             "Title": "The Bourne Identity"
@@ -3602,7 +3484,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/77394-M.jpg",
             "Title": "The Day of the Jackal"
@@ -3618,7 +3500,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/271801-M.jpg",
             "Title": "The Eagle Has Landed"
@@ -3634,7 +3516,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/1364556-M.jpg",
             "Title": "The Holcroft covenant"
@@ -3650,7 +3532,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/77752-M.jpg",
             "Title": "Shepherd"
@@ -3666,7 +3548,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/9273490-M.jpg",
             "Title": "The Catcher in the Rye"
@@ -3682,7 +3564,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1980
+                "1980s"
             ],
             "Summary": "<p><i><b>The Scarlet Pimpernel</b></i> is the first novel in a series of historical fiction novels by Baroness Orczy, published in 1905. It was written after her stage play of the same title enjoyed a long run in London, having opened in Nottingham in 1903.</p>",
             "ThumbNail": "https://covers.openlibrary.org/b/id/479102-M.jpg",
@@ -3700,7 +3582,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/6717853-M.jpg",
             "Title": "The Adventures of Sherlock Holmes [12 stories]"
@@ -3716,7 +3598,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "Summary": "<p><i><b>MASH: A Novel About Three Army Doctors</b></i> is a 1968 novel written by Richard Hooker with the assistance of writer W.C. Heinz. It is notable as the foundation of the <span><i>M*A*S*H</i> franchise</span>, which includes a 1970 feature film and a long-running TV series (1972\u20131983). The novel is about a fictional U.S. Mobile Army Surgical Hospital in South Korea during the Korean War.</p>",
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780671772321-L.jpg",
@@ -3734,7 +3616,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/10526366-M.jpg",
             "Title": "The Fourth Estate"
@@ -3764,7 +3646,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/11279169-M.jpg",
             "Title": "Kane & Abel"
@@ -3780,7 +3662,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "Catch-22 is a satirical war novel by American author Joseph Heller. It was his debut novel. He began writing it in 1953; the novel was first published in 1961. Often cited as one of the most significant novels of the 20th century, it uses a distinctive non-chronological third-person omniscient narration, describing events from the points of view of different characters. The separate storylines are out of sequence so the timeline develops along with the plot.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/6468653-M.jpg",
@@ -3798,7 +3680,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/5377267-M.jpg",
             "Title": "The Aquitaine progression"
@@ -3814,7 +3696,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/7274733-M.jpg",
             "Title": "The Scarlatti Inheritance"
@@ -3830,7 +3712,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/11278832-M.jpg",
             "Title": "A Twist in the Tale"
@@ -3846,7 +3728,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/14604287-M.jpg",
             "Title": "To Cut a Long Story Short"
@@ -3862,26 +3744,10 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/392623-M.jpg",
             "Title": "Nine Stories"
-        },
-        {
-            "Authors": [
-                "Frederick Forsyth"
-            ],
-            "ISBN10": "0552212385",
-            "ISBN13": "9781429974004",
-            "Progress": [
-                1
-            ],
-            "Rating": 0,
-            "ReadYear": [
-                2000
-            ],
-            "ThumbNail": "https://images-us.bookshop.org/ingram/9781429974004.jpg?height=300&v=v2",
-            "Title": "Avenger"
         },
         {
             "Authors": [
@@ -3894,7 +3760,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8237041-M.jpg",
             "Title": "The Moonstone"
@@ -3910,7 +3776,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/6283998-M.jpg",
             "Title": "The Parsifal mosaic"
@@ -3926,7 +3792,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/11410416-M.jpg",
             "Title": "Journey to the Centre of the Earth"
@@ -3942,7 +3808,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "Trevayne is Robert Ludlum's fourth novel, published in 1973 under the pseudonym Jonathan Ryder.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/7274735-M.jpg",
@@ -3960,7 +3826,7 @@
             ],
             "Rating": 3,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "<p><i><b>The Hunchback of Notre-Dame</b></i> is a French Gothic novel by Victor Hugo, published in 1831. The title refers to the Notre-Dame Cathedral, which features prominently throughout the novel. It focuses on the unfortunate story of Quasimodo, the Romani street dancer Esmeralda, and Quasimodo's guardian the Archdeacon Claude Frollo in 15th-century Paris. All its elements\u2014the Renaissance setting, impossible love affairs and marginalised characters\u2014make the work a model of the literary themes of Romanticism.</p>",
             "ThumbNail": "https://covers.openlibrary.org/b/id/2626880-M.jpg",
@@ -3978,7 +3844,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "Franny and Zooey is a book by American author J. D. Salinger which comprises his short story \"Franny\" and novella Zooey. The two works were published together as a book in 1961, having originally appeared in The New Yorker in 1955 and 1957 respectively. The book focuses on siblings Franny and Zooey, the two youngest members of the Glass family, which was a frequent focus of Salinger's writings.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/6501579-M.jpg",
@@ -3996,7 +3862,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "Raise High the Roof Beam, Carpenters and Seymour: An Introduction is a single volume featuring two novellas by J. D. Salinger, which were previously published in The New Yorker: Raise High the Roof Beam, Carpenters (1955) and Seymour: An Introduction (1959). Little, Brown republished them in this anthology in 1963. It was the first time the novellas had appeared in book form. The book was the third best-selling novel in the United States in 1963, according to Publishers Weekly.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/190228-M.jpg",
@@ -4014,7 +3880,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/369042-M.jpg",
             "Title": "The Rhinemann Exchange"
@@ -4030,7 +3896,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/6630437-M.jpg",
             "Title": "The Odessa file"
@@ -4046,7 +3912,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/10558586-M.jpg",
             "Title": "The Eagle Has Flown"
@@ -4062,7 +3928,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1980
+                "1980s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8157718-M.jpg",
             "Title": "Adventures of Huckleberry Finn"
@@ -4078,7 +3944,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1980
+                "1980s"
             ],
             "Summary": "Charlie and the Chocolate Factory is a 1964 children's novel by British author Roald Dahl. The story features the adventures of young Charlie Bucket inside the chocolate factory of eccentric chocolatier Willy Wonka.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/12459564-M.jpg",
@@ -4096,7 +3962,7 @@
             ],
             "Rating": 2,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "Switch Bitch (1974) is a book of adult short stories by British writer Roald Dahl. Four stories, originally published in Playboy between 1965 and 1974, are collected. They are linked by themes of rape by deception: in each one, some major act of cunning, cruelty, or hedonism underpins the sexuality.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/9159135-M.jpg",
@@ -4114,7 +3980,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/12744555-M.jpg",
             "Title": "The mammaries of the welfare state"
@@ -4130,7 +3996,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "Summary": "The Negotiator is a crime novel by English writer Frederick Forsyth, first published in 1989. The story includes a number of threads that are slowly woven together. The central thread concerns a kidnapping that turns into a murder and the negotiator's attempts to solve the crime.",
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780553053616-L.jpg",
@@ -4148,7 +4014,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/7274737-M.jpg",
             "Title": "The Chancellor Manuscript"
@@ -4164,7 +4030,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/10415232-M.jpg",
             "Title": "The Kill List"
@@ -4180,7 +4046,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "Summary": "The Veteran is a short story collection by British author Frederick Forsyth. The book was first published on 8 September 2001, through Thomas Dunne Books and includes five of Forsyth's short stories. This is the second short story collection by the author, following the release of his 1982 collection, No Comebacks.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/178389-M.jpg",
@@ -4198,7 +4064,7 @@
             ],
             "Rating": 3,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "The Old Man and the Sea is a 1952 novella by the American author Ernest Hemingway. Written between December 1950 and February 1951, it was the last major fictional work Hemingway published during his lifetime. It tells the story of Santiago, an aging fisherman, and his long struggle to catch a giant marlin.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/463307-M.jpg",
@@ -4216,7 +4082,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "The Dogs of War is a 1974 war novel by British writer Frederick Forsyth, featuring a small group of European mercenary soldiers hired by a British industrialist to depose the government of the fictional African country of Zangaro. The story details a geologist's mineral discovery, and the preparations for the attack: soldier recruitment, training, reconnaissance, and the logistics of the coup d'\u00e9tat. The source of the title, The Dogs of War, is Act III, scene 1, line 270 of Julius Caesar (1599), by William Shakespeare: Cry, 'Havoc!', and let slip the dogs of war.",
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780553147582-L.jpg",
@@ -4234,7 +4100,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "Not a Penny More, Not a Penny Less was Jeffrey Archer's first novel, first published in 1976. It was said to have been inspired by Archer's real-life experience of near-bankruptcy.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/14313723-M.jpg",
@@ -4252,7 +4118,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "\"The Secret Life of Walter Mitty\" (1939) is a short story by James Thurber. The most famous of Thurber's stories, it first appeared in The New Yorker on March 18, 1939, and was first collected in his book My World and Welcome to It. It has since been reprinted in James Thurber: Writings and Drawings, is available on-line on the New Yorker website, and is one of the most anthologized short stories in American literature. The story is considered one of Thurber's \"acknowledged masterpieces\". It was made into a 1947 film, with Danny Kaye in the title role, though the film is very different from the original story. It was also adapted into a 2013 film, directed by and starring Ben Stiller, and is again very different from the original.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/7373994-M.jpg",
@@ -4270,7 +4136,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "Summary": "The Fourth Protocol is a thriller novel by British writer Frederick Forsyth, published in August 1984.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/7155689-M.jpg",
@@ -4288,7 +4154,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "The Matarese Circle (1979) is a novel by Robert Ludlum. The story is followed by a 1997 sequel, The Matarese Countdown.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/4672420-M.jpg",
@@ -4306,7 +4172,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "Around the World in Eighty Days is an adventure novel by the French writer Jules Verne, first published in French in 1872. In the story, Phileas Fogg of London and his newly employed French valet Passepartout attempt to circumnavigate the world in 80 days on a wager of \u00a320,000 set by his friends at the Reform Club. It is one of Verne's most acclaimed works.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/10572141-M.jpg",
@@ -4324,7 +4190,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/10291258-M.jpg",
             "Title": "Honor Among Thieves"
@@ -4340,7 +4206,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=QRfKufm9A84C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
             "Title": "The Icarus agenda"
@@ -4356,7 +4222,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "Summary": "Icon is a thriller novel by British author Frederick Forsyth. Its plot centres on the politics of the Russian Federation in 1999, with an extremist party close to seizing power. Published by Bantam Press in September 1997, (ISBN\u00a0978-0-553-57460-9), Icon became a New York Times Bestseller and was adapted into a television film.",
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9782253170716-L.jpg",
@@ -4374,7 +4240,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "Summary": "The Deceiver is a novel by English writer Frederick Forsyth, about a retiring agent of the British SIS named Sam McCready. He is the head of Deception, Disinformation and Psychological Operations, and his maverick but brilliant successes have led to his nickname \"The Deceiver.\" The stories had previously been filmed as Frederick Forsyth Presents, a miniseries for British television, in 1989 and 1990, with McCready played by Alan Howard. The book followed in 1991. It appeared in The New York Times's list of the best-selling books for eight weeks, and its peak was #6.",
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780552138239-L.jpg",
@@ -4406,7 +4272,7 @@
             ],
             "Rating": 3,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "Summary": "The Afghan is a 2006 thriller novel by British writer Frederick Forsyth.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/1119777-M.jpg",
@@ -4424,7 +4290,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "Our Man in Havana (1958) is a novel set in Cuba by the English author Graham Greene. Greene uses the novel to mock intelligence services, especially the British MI6, and their willingness to believe reports from their local informants.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/15130107-M.jpg",
@@ -4442,7 +4308,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "Heart of Darkness is an 1899 novella by Polish-British novelist Joseph Conrad in which the sailor Charles Marlow tells his listeners the story of his assignment as steamer captain for a Belgian company in the African interior. The novel is widely regarded as a critique of European colonial rule in Africa, whilst also examining the themes of power dynamics and morality. Although Conrad does not name the river on which most of the narrative takes place, at the time of writing, the Congo Free State\u2014the location of the large and economically important Congo River\u2014was a private colony of Belgium's King Leopold II. Marlow is given an assignment to find Kurtz, an ivory trader working on a trading station far up the river, who has \"gone native\" and is the object of Marlow's expedition.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/12307847-M.jpg",
@@ -4460,7 +4326,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "Rebecca is a 1938 Gothic novel by the English author Daphne du Maurier. It depicts an unnamed young woman who impetuously marries a wealthy widower, before discovering that both he and his household are haunted by the memory of his late first wife, the title character.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/8238729-M.jpg",
@@ -4478,7 +4344,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "Summary": "The Black Swan: The Impact of the Highly Improbable is a 2007 book by Nassim Nicholas Taleb, who is a former options trader. The book focuses on the extreme impact of rare and unpredictable outlier events\u2014and the human tendency to find simplistic explanations for these events, retrospectively. Taleb calls this the Black Swan theory.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/5721840-M.jpg",
@@ -4496,7 +4362,7 @@
             ],
             "Rating": 3,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "Summary": "Skin in the Game: Hidden Asymmetries in Daily Life is a 2018 nonfiction book by Nassim Nicholas Taleb, a former options trader with a background in the mathematics of probability and statistics.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/10856868-M.jpg",
@@ -4714,7 +4580,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=8qRaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "Title": "The veteran and other stories"
@@ -4891,7 +4757,7 @@
             ],
             "Rating": 3,
             "ReadYear": [
-                2020
+                "2020s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780062407801-M.jpg",
             "Title": "Never Split the Difference: Negotiating As If Your Life Depended On It"
@@ -6793,7 +6659,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "Summary": "Ancillary Justice is a science fiction novel by the American writer Ann Leckie, published in 2013. It is Leckie's debut novel and the first in her Imperial Radch space opera trilogy, followed by Ancillary Sword (2014) and Ancillary Mercy (2015). The novel follows Breq\u2014who is both the sole survivor of a starship destroyed by treachery and the vessel of that ship's artificial consciousness\u2014as she seeks revenge against the ruler of her civilization.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/7355949-M.jpg",
@@ -6811,7 +6677,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "Summary": "Ancillary Sword is a science fiction novel by the American writer Ann Leckie, published in October 2014. It is the second novel in Leckie's \"Imperial Radch\" space opera trilogy, which began with Ancillary Justice (2013) and ended with Ancillary Mercy (2015). The novel was generally well-received by critics, received the BSFA Award for Best Novel and the Locus Award for Best Science Fiction Novel, and was nominated for the Nebula and Hugo awards.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/7422984-M.jpg",
@@ -6865,7 +6731,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/12996574-M.jpg",
             "Title": "The Secret of Chimneys"
@@ -6881,7 +6747,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/9330593-M.jpg",
             "Title": "The Firm"
@@ -6913,7 +6779,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/6379981-M.jpg",
             "Title": "At Bertram's Hotel"
@@ -6929,7 +6795,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "Exodus is a historical novel by the American novelist Leon Uris about the founding of the State of Israel beginning with a compressed retelling of the voyages of the 1947 immigration ship Exodus and describing the histories of the various main characters and the ties of their personal lives to the birth of the new Jewish state.",
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780553241549-L.jpg",
@@ -6947,7 +6813,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=ifUYW65MgywC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "Title": "The Great Train Robbery"
@@ -6963,7 +6829,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/10249524-M.jpg",
             "Title": "They Do It with Mirrors"
@@ -6979,7 +6845,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/9322902-M.jpg",
             "Title": "The Runaway Jury"
@@ -6995,7 +6861,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8443273-M.jpg",
             "Title": "The Client"
@@ -7011,7 +6877,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "The Thirteen Problems is a short story collection by British writer Agatha Christie, first published in the UK by Collins Crime Club in June 1932 and in the US by Dodd, Mead and Company in 1933 under the title The Tuesday Club Murders. The UK edition retailed at seven shillings and sixpence (7/6) and the US edition at $2.00. The thirteen stories feature the amateur detective Miss Marple, her nephew Raymond West, and her friend Sir Henry Clithering. They are the earliest stories Christie wrote about Miss Marple. The main setting for the frame story is the fictional village of St Mary Mead.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/11163587-M.jpg",
@@ -7029,7 +6895,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780816145393-L.jpg",
             "Title": "Curtain"
@@ -7045,7 +6911,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "A Pocket Full of Rye is a work of detective fiction by Agatha Christie first published in the UK by the Collins Crime Club on 9 November 1953 and in the US by Dodd, Mead & Co. the following year. The UK edition retailed at ten shillings and sixpence (10/6) and the US edition at $2.75. The book features her detective Miss Marple.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/14591386-M.jpg",
@@ -7063,7 +6929,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/9311837-M.jpg",
             "Title": "The Terminal Man"
@@ -7079,7 +6945,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/12451613-M.jpg",
             "Title": "Timeline"
@@ -7095,7 +6961,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "Summary": "The Man in the High Castle is an alternative history novel by Philip K. Dick, first published in 1962, which imagines a world in which the Axis powers won World War II. The story occurs in 1962, fifteen years after the end of the war in 1947, and depicts the life of several characters living under Imperial Japan or Nazi Germany as they rule a partitioned United States. The eponymous character is the mysterious author of a novel-within-the-novel entitled The Grasshopper Lies Heavy, a subversive alternative history of the war in which the Allied powers are victorious.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/420452-M.jpg",
@@ -7113,7 +6979,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/13301713-M.jpg",
             "Title": "A Tale of Two Cities"
@@ -7129,7 +6995,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/11100465-M.jpg",
             "Title": "Murder on the Orient Express"
@@ -7145,7 +7011,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "Summary": "Do Androids Dream of Electric Sheep? is a 1968 dystopian science fiction novel by American writer Philip K. Dick. It is set in a post-apocalyptic San Francisco, where Earth's life has been greatly damaged by a nuclear global war. The main plot follows Rick Deckard, a bounty hunter who has to \"retire\" six escaped Nexus-6 model androids, while a secondary plot follows John Isidore, a man of sub-par IQ who aids the fugitive androids.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/207515-M.jpg",
@@ -7163,7 +7029,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "Dracula is an 1897 Gothic horror novel by Irish author Bram Stoker. The narrative is related through letters, diary entries, and newspaper articles. It has no single protagonist and opens with solicitor Jonathan Harker taking a business trip to stay at the castle of a Transylvanian nobleman, Count Dracula. Harker flees after learning that Dracula is a vampire, and the Count moves to England and plagues the seaside town of Whitby. A small group, led by Abraham Van Helsing, hunts and kills him.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/12216503-M.jpg",
@@ -7181,7 +7047,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/13300802-M.jpg",
             "Title": "Oliver Twist"
@@ -7197,7 +7063,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/14573514-M.jpg",
             "Title": "The A.B.C. Murders"
@@ -7213,7 +7079,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8445673-M.jpg",
             "Title": "A Time to Kill"
@@ -7229,7 +7095,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/9330577-M.jpg",
             "Title": "The Andromeda Strain"
@@ -7245,7 +7111,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "A prize is an award to be given to a person or a group of people to recognize and reward their actions and achievements. Official prizes often involve monetary rewards as well as the fame that comes with them. Some prizes are also associated with extravagant awarding ceremonies, such as the Academy Awards.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/3886990-M.jpg",
@@ -7263,7 +7129,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "Nicholas Nickleby, or The Life and Adventures of Nicholas Nickleby, is the third novel by English author Charles Dickens, originally published as a serial from 1838 to 1839. The character of Nickleby is a young man who must support his mother and sister after his father dies.",
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781853262647-L.jpg",
@@ -7282,7 +7148,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/10526598-M.jpg",
             "Title": "The Dark Forest (The Three-Body Problem Series Book 2)"
@@ -7298,7 +7164,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/7247931-M.jpg",
             "Title": "Pump Six and Other Stories"
@@ -7314,7 +7180,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "Psmith, Journalist is a novel by P. G. Wodehouse, first released in the United Kingdom as a serial in The Captain magazine between October 1909 and February 1910, and published in book form in the UK on 29 September 1915, by Adam & Charles Black, London, and, from imported sheets, by Macmillan, New York, later that year.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/6388914-M.jpg",
@@ -7332,7 +7198,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/14066646-M.jpg",
             "Title": "Death on the Nile"
@@ -7348,7 +7214,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8117518-M.jpg",
             "Title": "The man-eater of Malgudi"
@@ -7364,7 +7230,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "The Mosquito Coast is a novel by author Paul Theroux. Published in 1981, it won the James Tait Black Memorial Prize and was the Yorkshire Post Novel of the Year.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/4616731-M.jpg",
@@ -7396,7 +7262,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/886721-M.jpg",
             "Title": "Right Ho, Jeeves"
@@ -7412,7 +7278,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/14586349-M.jpg",
             "Title": "One, Two, Buckle My Shoe"
@@ -7429,7 +7295,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/7893958-M.jpg",
             "Title": "Death's End (The Three-Body Problem Series Book 3)"
@@ -7445,7 +7311,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/10653144-M.jpg",
             "Title": "Congo"
@@ -7461,7 +7327,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/12882940-M.jpg",
             "Title": "Jurassic Park"
@@ -7493,7 +7359,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/9253430-M.jpg",
             "Title": "Disclosure"
@@ -7509,7 +7375,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/9255662-M.jpg",
             "Title": "The Chamber"
@@ -7525,7 +7391,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/12996529-M.jpg",
             "Title": "The Big Four"
@@ -7541,7 +7407,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "Appointment with Death is a work of detective fiction by British writer Agatha Christie, first published in the UK by the Collins Crime Club on 2 May 1938 and in the US by Dodd, Mead and Company later in the same year. The UK edition retailed at seven shillings and sixpence (7/6) and the US edition at $2.00.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/14561660-M.jpg",
@@ -7559,7 +7425,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/14582832-M.jpg",
             "Title": "Murder on the Links"
@@ -7575,7 +7441,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "Murder in Mesopotamia is a work of detective fiction by British writer Agatha Christie, first published in the UK by the Collins Crime Club on 6 July 1936 and in the US by Dodd, Mead and Company later in the same year. The UK edition retailed at seven shillings and sixpence (7/6) and the US edition at $2.00. The cover was designed by Robin McCartney.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/12855104-M.jpg",
@@ -7593,7 +7459,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/10656102-M.jpg",
             "Title": "The Lost World"
@@ -7609,7 +7475,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/10578479-M.jpg",
             "Title": "The Pelican Brief"
@@ -7625,7 +7491,7 @@
             ],
             "Rating": 3,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "Summary": "New York 2140 is a 2017 climate fiction novel by American science fiction author Kim Stanley Robinson. The novel is set in a New York City that has been flooded and altered by rising water. The novel received generally positive reviews.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/8595447-M.jpg",
@@ -7643,7 +7509,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/9323420-M.jpg",
             "Title": "The Partner"
@@ -7678,7 +7544,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/9254423-M.jpg",
             "Title": "Sphere"
@@ -7694,7 +7560,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/10657368-M.jpg",
             "Title": "Next"
@@ -7726,7 +7592,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/9253423-M.jpg",
             "Title": "Airframe"
@@ -7742,7 +7608,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/14578138-M.jpg",
             "Title": "Five Little Pigs"
@@ -7758,7 +7624,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780340125083-L.jpg",
             "Title": "Love Story"
@@ -7774,7 +7640,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/9322929-M.jpg",
             "Title": "The Rainmaker"
@@ -7806,7 +7672,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8393255-M.jpg",
             "Title": "State of Fear"
@@ -7822,7 +7688,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/10657212-M.jpg",
             "Title": "Rising Sun"
@@ -7838,7 +7704,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "Frankenstein; or, The Modern Prometheus is an 1818 Gothic novel written by English author Mary Shelley. Frankenstein tells the story of Victor Frankenstein, a young scientist who creates a sapient creature in an unorthodox scientific experiment that involved putting it together with different body parts. Shelley started writing the story when she was 18 and staying in Bath, and the first edition was published anonymously in London on 1 January 1818, when she was 20. Her name first appeared in the second edition, which was published in Paris in 1821.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/12356249-M.jpg",
@@ -7856,7 +7722,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/10561150-M.jpg",
             "Title": "The Mirror Crack'd from Side to Side"
@@ -7872,7 +7738,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "Summary": "The Water Knife is a 2015 science fiction novel by Paolo Bacigalupi. It is Bacigalupi's sixth novel, and is based on his short story, The Tamarisk Hunter, first published in the news magazine High Country News. It takes place in the near future, where drought brought on by climate change has devastated the Southwestern United States.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/8148453-M.jpg",
@@ -7890,7 +7756,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/499534-M.jpg",
             "Title": "Minority Report"
@@ -7906,7 +7772,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/10984324-M.jpg",
             "Title": "Prey"
@@ -7922,7 +7788,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "The Murder of Roger Ackroyd is a detective novel by the British writer Agatha Christie, her third to feature Hercule Poirot as the lead detective. The novel was published in the UK in June 1926 by William Collins, Sons, having previously been serialised as Who Killed Ackroyd? between July and September 1925 in the London Evening News. An American edition by Dodd, Mead and Company followed in 1926.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/13151356-M.jpg",
@@ -7940,7 +7806,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/13671433-M.jpg",
             "Title": "Evil Under the Sun"
@@ -7957,7 +7823,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780765382030.jpg?height=500&v=v2",
             "Title": "The Three-Body Problem (The Three-Body Problem Series, 1)"
@@ -7973,7 +7839,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "Malgudi Days is a collection of short stories by R. K. Narayan published in 1943 by Indian Thought Publications.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/7981639-M.jpg",
@@ -7991,7 +7857,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/12852588-M.jpg",
             "Title": "Cat Among the Pigeons"
@@ -8007,7 +7873,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "Swami and Friends is a 1935 novel by R. K. Narayan, marking his debut as an English-language novelist from India. It is the first book in a trilogy set in the fictional town of Malgudi during British India. The novel is followed by The Bachelor of Arts and The English Teacher, completing the trilogy.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/7240802-M.jpg",
@@ -8025,7 +7891,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2010
+                "2010s"
             ],
             "Summary": "Stories of Your Life and Others is a collection of science fiction and fantasy short stories by American writer Ted Chiang published in 2002 by Tor Books. It collects Chiang's first eight stories. All of the stories except \"Liking What You See: A Documentary\" were previously published individually elsewhere.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/524046-M.jpg",
@@ -8043,7 +7909,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2000
+                "2000s"
             ],
             "Summary": "The Windup Girl is a biopunk science fiction novel by American writer Paolo Bacigalupi. It was his debut novel and was published by Night Shade Books on September 1, 2009. The novel is set in a future Thailand and covers a number of contemporary issues such as global warming and biotechnology.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/6463375-M.jpg",
@@ -8061,7 +7927,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "The Mysterious Affair at Styles is the first detective novel by British writer Agatha Christie, introducing her fictional detective Hercule Poirot. It was written in the middle of the First World War, in 1916, and first published by John Lane in the United States in October 1920 and in the United Kingdom by The Bodley Head on 21 January 1921.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/13699667-M.jpg",
@@ -8079,7 +7945,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "Summary": "A Christmas Carol. In Prose. Being a Ghost Story of Christmas, commonly known as A Christmas Carol, is a novella by Charles Dickens, first published in London by Chapman & Hall in 1843 and illustrated by John Leech. It recounts the story of Ebenezer Scrooge, an elderly miser who is visited by the ghost of his former business partner Jacob Marley and the spirits of Christmas Past, Present and Yet to Come. In the process, Scrooge is transformed into a kinder, gentler man.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/13299222-M.jpg",
@@ -8097,7 +7963,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                1990
+                "1990s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/1048892-M.jpg",
             "Title": "David Copperfield"

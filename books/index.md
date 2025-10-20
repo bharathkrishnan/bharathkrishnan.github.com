@@ -1,5 +1,5 @@
-# Year: 2025 / [2024](../books/2024) / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) / [2010s](../books/2010s) / [2000s](../books/2000s) / [1990s](../books/1990s) / [1980s](../books/1980s) 
-# 2025: 15 Authors, 35 / 45 Books Read, Avg Rating: 0.69 :star:
+# Year: 2025 / [2024](../books/2024) / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020s](../books/2020s) / [2010s](../books/2010s) / [2000s](../books/2000s) / [1990s](../books/1990s) / [1980s](../books/1980s) 
+# 2025: 15 Authors, 34 / 44 Books Read, Avg Rating: 0.71 :star:
 
 ## ![Absolution gap](https://covers.openlibrary.org/b/id/284155-M.jpg) Absolution gap
 *[Alastair Reynolds](../authors/AlastairReynolds) & [John Lee](../authors/JohnLee)*
@@ -117,17 +117,6 @@ Read: 2025
 Read: 2025
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780575076914) / [Open Library](https://openlibrary.org/isbn/9780575076914) / [Local Book Shop](https://bookshop.org/book/9780575076914) / [Amazon](https://amazon.com/dp/0575082496)
-
-![100%](https://geps.dev/progress/100) 
-
-
-
-## ![Terminal World](https://covers.openlibrary.org/b/id/6298187-M.jpg) Terminal World
-*[Alastair Reynolds](../authors/AlastairReynolds)*
-
-Read: 2025
-
-[Massachusetts Library](https://library.minlib.net/search/i=9780316362290) / [Open Library](https://openlibrary.org/isbn/9780316362290) / [Local Book Shop](https://bookshop.org/book/9780316362290) / [Amazon](https://amazon.com/dp/1400167116)
 
 ![100%](https://geps.dev/progress/100) 
 

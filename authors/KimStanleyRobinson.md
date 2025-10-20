@@ -14,7 +14,7 @@ Read: 2021
 ## ![New York 2140](https://covers.openlibrary.org/b/id/8595447-M.jpg) New York 2140
 *[Kim Stanley Robinson](../authors/KimStanleyRobinson)*
 
-Read: 2010
+Read: 2010s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9788445008874) / [Open Library](https://openlibrary.org/isbn/9788445008874) / [Local Book Shop](https://bookshop.org/book/9788445008874) / [Amazon](https://amazon.com/dp/8445008870)
 

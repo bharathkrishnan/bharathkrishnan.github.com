@@ -3,7 +3,7 @@
 ## ![Catch-22](https://covers.openlibrary.org/b/id/6468653-M.jpg) Catch-22
 *[Joseph Heller](../authors/JosephHeller)*
 
-Read: 1990
+Read: 1990s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780340516423) / [Open Library](https://openlibrary.org/isbn/9780340516423) / [Local Book Shop](https://bookshop.org/book/9780340516423) / [Amazon](https://amazon.com/dp/0671502336)
 

@@ -3,7 +3,7 @@
 ## ![The Black Swan](https://covers.openlibrary.org/b/id/5721840-M.jpg) The Black Swan
 *[Nassim Nicholas Taleb](../authors/NassimNicholasTaleb)*
 
-Read: 2000
+Read: 2000s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781588365835) / [Open Library](https://openlibrary.org/isbn/9781588365835) / [Local Book Shop](https://bookshop.org/book/9781588365835) / [Amazon](https://amazon.com/dp/0679604189)
 
@@ -14,7 +14,7 @@ Read: 2000
 ## ![Skin in the Game](https://covers.openlibrary.org/b/id/10856868-M.jpg) Skin in the Game
 *[Nassim Nicholas Taleb](../authors/NassimNicholasTaleb)*
 
-Read: 2010
+Read: 2010s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780141982656) / [Open Library](https://openlibrary.org/isbn/9780141982656) / [Local Book Shop](https://bookshop.org/book/9780141982656) / [Amazon](https://amazon.com/dp/3328600264)
 

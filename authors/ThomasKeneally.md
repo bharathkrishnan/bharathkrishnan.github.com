@@ -3,7 +3,7 @@
 ## ![Schindler's List](https://covers.openlibrary.org/b/id/15089745-M.jpg) Schindler's List
 *[Thomas Keneally](../authors/ThomasKeneally)*
 
-Read: 2000
+Read: 2000s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780340606513) / [Open Library](https://openlibrary.org/isbn/9780340606513) / [Local Book Shop](https://bookshop.org/book/9780340606513) / [Amazon](https://amazon.com/dp/0340606517)
 

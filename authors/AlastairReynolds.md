@@ -1,4 +1,4 @@
-# Alastair Reynolds:  Books Read 28 / 28, Avg Rating: 1.04 :star:
+# Alastair Reynolds:  Books Read 27 / 27, Avg Rating: 1.07 :star:
 
 ## ![Absolution gap](https://covers.openlibrary.org/b/id/284155-M.jpg) Absolution gap
 *[Alastair Reynolds](../authors/AlastairReynolds) & [John Lee](../authors/JohnLee)*
@@ -105,17 +105,6 @@ Read: 2025
 Read: 2025
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780575076914) / [Open Library](https://openlibrary.org/isbn/9780575076914) / [Local Book Shop](https://bookshop.org/book/9780575076914) / [Amazon](https://amazon.com/dp/0575082496)
-
-![100%](https://geps.dev/progress/100) 
-
-
-
-## ![Terminal World](https://covers.openlibrary.org/b/id/6298187-M.jpg) Terminal World
-*[Alastair Reynolds](../authors/AlastairReynolds)*
-
-Read: 2025
-
-[Massachusetts Library](https://library.minlib.net/search/i=9780316362290) / [Open Library](https://openlibrary.org/isbn/9780316362290) / [Local Book Shop](https://bookshop.org/book/9780316362290) / [Amazon](https://amazon.com/dp/1400167116)
 
 ![100%](https://geps.dev/progress/100) 
 
@@ -256,7 +245,7 @@ Read: 2025
 ## ![Zima Blue and Other Stories](https://covers.openlibrary.org/b/id/2000850-M.jpg) Zima Blue and Other Stories
 *[Alastair Reynolds](../authors/AlastairReynolds)*
 
-Read: 2010
+Read: 2010s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781597800594) / [Open Library](https://openlibrary.org/isbn/9781597800594) / [Local Book Shop](https://bookshop.org/book/9781597800594) / [Amazon](https://amazon.com/dp/1597800589)
 

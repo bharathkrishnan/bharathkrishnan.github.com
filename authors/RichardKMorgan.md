@@ -47,7 +47,7 @@ Read: 2025
 ## ![Market Forces](https://covers.openlibrary.org/b/id/210816-M.jpg) Market Forces
 *[Richard K. Morgan](../authors/RichardKMorgan)*
 
-Read: 2000
+Read: 2000s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780575075122) / [Open Library](https://openlibrary.org/isbn/9780575075122) / [Local Book Shop](https://bookshop.org/book/9780575075122) / [Amazon](https://amazon.com/dp/1400151392)
 

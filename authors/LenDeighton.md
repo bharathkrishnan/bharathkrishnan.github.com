@@ -1,9 +1,9 @@
-# Len Deighton:  Books Read 10 / 10, Avg Rating: 2.6 :star: :star: :star:
+# Len Deighton:  Books Read 9 / 9, Avg Rating: 2.89 :star: :star: :star:
 
 ## ![Mexico set](https://books.google.com/books/content?id=_FA3rbD5y1oC&printsec=frontcover&img=1&zoom=1&source=gbs_api) Mexico set
 *[Len Deighton](../authors/LenDeighton)*
 
-Read: 1990
+Read: 1990s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780345314994) / [Open Library](https://openlibrary.org/isbn/9780345314994) / [Local Book Shop](https://bookshop.org/book/9780345314994) / [Amazon](https://amazon.com/dp/0345314999)
 
@@ -17,17 +17,6 @@ Read: 1990
 Read: 
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780425053232) / [Open Library](https://openlibrary.org/isbn/9780425053232) / [Local Book Shop](https://bookshop.org/book/9780425053232) / [Amazon](https://amazon.com/dp/0007343000)
-
-![100%](https://geps.dev/progress/100) 
-
-
-
-## ![SS-GB](https://covers.openlibrary.org/b/id/4615759-M.jpg) SS-GB
-*[Len Deighton](../authors/LenDeighton)*
-
-Read: 
-
-[Massachusetts Library](https://library.minlib.net/search/i=9788402077592) / [Open Library](https://openlibrary.org/isbn/9788402077592) / [Local Book Shop](https://bookshop.org/book/9788402077592) / [Amazon](https://amazon.com/dp/0345010329)
 
 ![100%](https://geps.dev/progress/100) 
 
@@ -47,7 +36,7 @@ Read:
 ## ![London match](https://covers.openlibrary.org/b/id/6532601-M.jpg) London match
 *[Len Deighton](../authors/LenDeighton)*
 
-Read: 1990
+Read: 1990s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780708983560) / [Open Library](https://openlibrary.org/isbn/9780708983560) / [Local Book Shop](https://bookshop.org/book/9780708983560) / [Amazon](https://amazon.com/dp/0816141061)
 
@@ -69,7 +58,7 @@ Read:
 ## ![Berlin game](https://covers.openlibrary.org/b/id/5415970-M.jpg) Berlin game
 *[Len Deighton](../authors/LenDeighton)*
 
-Read: 1990
+Read: 1990s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780394534077) / [Open Library](https://openlibrary.org/isbn/9780394534077) / [Local Book Shop](https://bookshop.org/book/9780394534077) / [Amazon](https://amazon.com/dp/0708981984)
 

@@ -25,7 +25,7 @@ Read:
 ## ![The Moon is Down](https://covers.openlibrary.org/b/id/8239628-M.jpg) The Moon is Down
 *[John Steinbeck](../authors/JohnSteinbeck)*
 
-Read: 1990
+Read: 1990s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780808554271) / [Open Library](https://openlibrary.org/isbn/9780808554271) / [Local Book Shop](https://bookshop.org/book/9780808554271) / [Amazon](https://amazon.com/dp/2253140058)
 
@@ -36,7 +36,7 @@ Read: 1990
 ## ![Of Mice and Men](https://covers.openlibrary.org/b/id/14319003-M.jpg) Of Mice and Men
 *[John Steinbeck](../authors/JohnSteinbeck)*
 
-Read: 1990
+Read: 1990s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780394604725) / [Open Library](https://openlibrary.org/isbn/9780394604725) / [Local Book Shop](https://bookshop.org/book/9780394604725) / [Amazon](https://amazon.com/dp/0553131001)
 
@@ -47,7 +47,7 @@ Read: 1990
 ## ![The Grapes of Wrath](https://covers.openlibrary.org/b/id/12715902-M.jpg) The Grapes of Wrath
 *[John Steinbeck](../authors/JohnSteinbeck)*
 
-Read: 1990
+Read: 1990s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9788937461750) / [Open Library](https://openlibrary.org/isbn/9788937461750) / [Local Book Shop](https://bookshop.org/book/9788937461750) / [Amazon](https://amazon.com/dp/1580497713)
 
@@ -58,7 +58,7 @@ Read: 1990
 ## ![East of Eden](https://covers.openlibrary.org/b/id/11386937-M.jpg) East of Eden
 *[John Steinbeck](../authors/JohnSteinbeck)*
 
-Read: 1990
+Read: 1990s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780434740024) / [Open Library](https://openlibrary.org/isbn/9780434740024) / [Local Book Shop](https://bookshop.org/book/9780434740024) / [Amazon](https://amazon.com/dp/6070787722)
 

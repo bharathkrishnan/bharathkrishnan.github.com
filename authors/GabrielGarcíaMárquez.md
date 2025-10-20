@@ -3,7 +3,7 @@
 ## ![100 Years of Solitude](https://covers.openlibrary.org/b/id/14831167-M.jpg) 100 Years of Solitude
 *[Gabriel García Márquez](../authors/GabrielGarcíaMárquez)*
 
-Read: 2000
+Read: 2000s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062096982) / [Open Library](https://openlibrary.org/isbn/9780062096982) / [Local Book Shop](https://bookshop.org/book/9780062096982) / [Amazon](https://amazon.com/dp/0062096982)
 

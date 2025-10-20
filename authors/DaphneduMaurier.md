@@ -3,7 +3,7 @@
 ## ![Rebecca](https://covers.openlibrary.org/b/id/8238729-M.jpg) Rebecca
 *[Daphne du Maurier](../authors/DaphneduMaurier)*
 
-Read: 1990
+Read: 1990s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780862251499) / [Open Library](https://openlibrary.org/isbn/9780862251499) / [Local Book Shop](https://bookshop.org/book/9780862251499) / [Amazon](https://amazon.com/dp/2724277449)
 
