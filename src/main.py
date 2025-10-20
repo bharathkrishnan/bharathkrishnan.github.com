@@ -1,4 +1,4 @@
-from book import Book
+from book import Book, get_year_group
 from author import Author
 import json
 from itertools import chain
@@ -10,8 +10,13 @@ def get_stats(books, year=None):
     stats = {}
     stats["num_books"] = len(books)
     if year is not None:
-        stats["num_books_finished"] = len([x for x in books if x.get_progress_for_year(year) > 0.7])
-        finished_books = [x for x in books if x.get_progress_for_year(year) == 1.0 or x.rating > 0]
+        if year.endswith('s'):  # It's a decade
+            # For decades, check if any of the original years in the decade have progress
+            stats["num_books_finished"] = len([x for x in books if any(x.get_progress_for_year(orig_year) > 0.7 for orig_year in x.readYear)])
+            finished_books = [x for x in books if any(x.get_progress_for_year(orig_year) == 1.0 or x.rating > 0 for orig_year in x.readYear)]
+        else:
+            stats["num_books_finished"] = len([x for x in books if x.get_progress_for_year(year) > 0.7])
+            finished_books = [x for x in books if x.get_progress_for_year(year) == 1.0 or x.rating > 0]
     else:
         stats["num_books_finished"] = len([x for x in books if x.progress and x.progress[0] > 0.7])
         finished_books = [x for x in books if x.progress and (x.progress[0] == 1.0 or x.rating > 0)]
@@ -61,7 +66,17 @@ def write_books(bdata):
 def print_header(years, cur_year):
     s = "# Year: "
     first = True
-    for y in [x for (x, z) in sorted(years.items(), reverse=True)]:
+    
+    # Use the same sorting logic as in main()
+    def year_sort_key(year):
+        if year.endswith('s'):  # It's a decade
+            decade_num = int(year[:-1])  # Remove 's' and convert to int
+            return (0, decade_num)  # Decades come first
+        else:
+            year_num = int(year)
+            return (1, year_num)  # Individual years come after decades
+    
+    for y in [x for x in sorted(years.keys(), key=year_sort_key, reverse=True)]:
         if first:
             if y == cur_year:
                 s = s + "{0} ".format(y)
@@ -93,7 +108,11 @@ def print_year(filename, books, yearly_stats, years, y):
             )
         )
         for book in books[y]:
-            o.write(book.print(year=y))
+            # For decades, don't pass the year to book.print() since it's a decade string
+            if y.endswith('s'):
+                o.write(book.print())
+            else:
+                o.write(book.print(year=y))
             o.write("\n")
         o.write("---\n")
 
@@ -108,10 +127,12 @@ def main():
         ryears = b["ReadYear"] if isinstance(b["ReadYear"], list) else [b["ReadYear"]]
         book = Book(b)
         for idx, y in enumerate(ryears):
-            years[y] = 1
-            if y not in books:
-                books[y] = []
-            books[y].append(book)
+            # Group years into decades for years < 2020, keep individual years for 2020+
+            year_group = get_year_group(y)
+            years[year_group] = 1
+            if year_group not in books:
+                books[year_group] = []
+            books[year_group].append(book)
         authors = book.authors
         for author in authors:
             author_name = author.print()
@@ -123,7 +144,12 @@ def main():
     yearly_stats = {}
     for y in years:
         yearly_stats[y] = get_stats(books[y], year=y)
-        nrbooks[y] = len([x for x in books[y] if x.get_progress_for_year(y) > 0.7])
+        # For decade grouping, we need to check progress differently
+        if y.endswith('s'):  # It's a decade
+            # For decades, check if any of the original years in the decade have progress
+            nrbooks[y] = len([x for x in books[y] if any(x.get_progress_for_year(orig_year) > 0.7 for orig_year in x.readYear)])
+        else:
+            nrbooks[y] = len([x for x in books[y] if x.get_progress_for_year(y) > 0.7])
         authors[y] = set(
             [
                 z.print()
@@ -131,9 +157,18 @@ def main():
             ]
         )
 
+    # Sort years properly: decades first (newest to oldest), then individual years (newest to oldest)
+    def year_sort_key(year):
+        if year.endswith('s'):  # It's a decade
+            decade_num = int(year[:-1])  # Remove 's' and convert to int
+            return (0, decade_num)  # Decades come first
+        else:
+            year_num = int(year)
+            return (1, year_num)  # Individual years come after decades
+    
     current_year = True
     for y in tqdm(
-        [x for (x, z) in sorted(years.items(), reverse=True)], desc="Book Lists"
+        [x for x in sorted(years.keys(), key=year_sort_key, reverse=True)], desc="Book Lists"
     ):
         print_year("../books/{0}.md".format(y), books, yearly_stats, years, y)
         if current_year:
@@ -149,11 +184,11 @@ def main():
         # o.write("## [Book cover mosaic generator](/mosaic)\n")
         o.write("## Books read by year\n")
         for y in tqdm(
-            [x for (x, z) in sorted(years.items(), reverse=True)], desc="Book Index"
+            [x for x in sorted(years.keys(), key=year_sort_key, reverse=True)], desc="Book Index"
         ):
             o.write("- [{0}](books/{0}.md)\n".format(y))
         for y in tqdm(
-            [x for (x, z) in sorted(years.items(), reverse=True)], desc="Book Reviews"
+            [x for x in sorted(years.keys(), key=year_sort_key, reverse=True)], desc="Book Reviews"
         ):
             o.write("## Books with 5-star reviews, {0}\n".format(y))
             for b in books[y]:

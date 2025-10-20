@@ -2,6 +2,23 @@ from author import Author
 import requests
 
 
+def get_year_group(year):
+    """
+    Convert a year to its appropriate group (decade for years < 2020, year for 2020+)
+    """
+    if isinstance(year, str) and year.endswith('s'):
+        # Already a decade string like "1990s"
+        return year
+    
+    year_int = int(year)
+    if year_int >= 2020:
+        return str(year_int)
+    else:
+        # Group into decade
+        decade = (year_int // 10) * 10
+        return f"{decade}s"
+
+
 class Book:
     def __init__(self, data) -> None:
         self.title = data["Title"]
@@ -35,7 +52,9 @@ class Book:
             self.thumbnail = data["ThumbNail"]
 
     def get_progress_for_year(self, year):
-        return self.year_progress.get(year, 0.0)
+        # Convert year to int if it's a string, since year_progress keys are integers
+        year_key = int(year) if isinstance(year, str) else year
+        return self.year_progress.get(year_key, 0.0)
 
     def get_thumbnail(self):
         # https://secure.syndetics.com/index.aspx?isbn=9780525538424/mc.gif&upc=&client=bcclsvega&type=unbound
