@@ -3,7 +3,7 @@
 ## ![Never Split the Difference: Negotiating As If Your Life Depended On It](https://covers.openlibrary.org/b/isbn/9780062407801-M.jpg) Never Split the Difference: Negotiating As If Your Life Depended On It
 *[Chris Voss](../authors/ChrisVoss)*
 
-Read: 2020s
+Read: 2020
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062407801) / [Open Library](https://openlibrary.org/isbn/9780062407801) / [Local Book Shop](https://bookshop.org/book/9780062407801) / [Amazon](https://amazon.com/dp/0062407805)
 

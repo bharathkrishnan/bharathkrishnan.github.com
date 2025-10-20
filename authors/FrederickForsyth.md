@@ -1,4 +1,4 @@
-# Frederick Forsyth:  Books Read 17 / 17, Avg Rating: 2.47 :star: :star:
+# Frederick Forsyth:  Books Read 18 / 18, Avg Rating: 2.33 :star: :star:
 
 ## ![No Comebacks](https://covers.openlibrary.org/b/id/8292900-M.jpg) No Comebacks
 *[Frederick Forsyth](../authors/FrederickForsyth)*
@@ -47,9 +47,20 @@ Read: 1990s
 ## ![The Fist Of God](https://covers.openlibrary.org/b/id/7092306-M.jpg) The Fist Of God
 *[Frederick Forsyth](../authors/FrederickForsyth)*
 
-Read: 
+Read: 2000s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780553096620) / [Open Library](https://openlibrary.org/isbn/9780553096620) / [Local Book Shop](https://bookshop.org/book/9780553096620) / [Amazon](https://amazon.com/dp/0553096621)
+
+![100%](https://geps.dev/progress/100) 
+
+
+
+## ![Avenger](https://images-us.bookshop.org/ingram/9781429974004.jpg?height=300&v=v2) Avenger
+*[Frederick Forsyth](../authors/FrederickForsyth)*
+
+Read: 2000s
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781429974004) / [Open Library](https://openlibrary.org/isbn/9781429974004) / [Local Book Shop](https://bookshop.org/book/9781429974004) / [Amazon](https://amazon.com/dp/0552212385)
 
 ![100%](https://geps.dev/progress/100) 
 

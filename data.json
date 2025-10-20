@@ -6,13 +6,12 @@
             ],
             "ISBN10": "1984803727",
             "ISBN13": "9781984803726",
-            "Notes": "Space",
             "Progress": [
                 1
             ],
             "Rating": 5,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781984803726-M.jpg",
             "Title": "Dead Space"
@@ -23,13 +22,12 @@
             ],
             "ISBN10": "1984803697",
             "ISBN13": "9781984803696",
-            "Notes": "Salvation",
             "Progress": [
                 1
             ],
             "Rating": 3,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781984803696-M.jpg",
             "Title": "Salvation Day"
@@ -45,7 +43,7 @@
             ],
             "Rating": 1,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781101946596-M.jpg",
             "Title": "Life 3.0"
@@ -56,7 +54,6 @@
             ],
             "ISBN10": "",
             "ISBN13": "9923575593033",
-            "Notes": "Burning bright notes 3",
             "Progress": [
                 1
             ],
@@ -88,7 +85,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780316005401-M.jpg",
             "Title": "The Player of Games"
@@ -104,7 +101,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780441013593-M.jpg",
             "Title": "Dune"
@@ -115,7 +112,6 @@
             ],
             "ISBN10": "",
             "ISBN13": "9940945158547",
-            "Notes": "Take a photo to save a book",
             "Progress": [
                 1
             ],
@@ -130,16 +126,31 @@
             ],
             "ISBN10": "0316212377",
             "ISBN13": "9780316212373",
-            "Notes": "Fantastic read!!",
             "Progress": [
                 1
             ],
             "Rating": 5,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780316212373-M.jpg",
             "Title": "The Hydrogen Sonata"
+        },
+        {
+            "Authors": [
+                "William Dalrymple"
+            ],
+            "ISBN10": "",
+            "ISBN13": "9928891283013",
+            "Progress": [
+                0.10450450330972672
+            ],
+            "Rating": 0,
+            "ReadYear": [
+                "2025"
+            ],
+            "ThumbNail": "file:///var/mobile/Containers/Data/Application/8591D0AD-5ADC-40AC-8C63-D476D655B97D/Library/Application%20Support/Ajanta/Covers/cover-9928891283013.jpg",
+            "Title": "The Golden Road: How Ancient India Transformed the World"
         },
         {
             "Authors": [
@@ -169,17 +180,16 @@
         },
         {
             "Authors": [
-                "Alastair Reynolds",
-                "John Lee"
+                "Alastair Reynolds"
             ],
             "ISBN10": "2258066476",
             "ISBN13": "9780575075573",
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/284155-M.jpg",
             "Title": "Absolution gap"
@@ -296,9 +306,9 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/210814-M.jpg",
             "Title": "Broken Angels"
@@ -312,9 +322,9 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/12983727-M.jpg",
             "Title": "Aurora Rising"
@@ -337,22 +347,19 @@
         },
         {
             "Authors": [
-                "Alastair Reynolds",
-                "John Lee"
+                "Alastair Reynolds"
             ],
             "ISBN10": "0575068760",
             "ISBN13": "9780316462426",
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2000s"
             ],
-            "Summary": "Revelation Space is a 2000 science fiction novel by Welsh author Alastair Reynolds. It was the first novel by him. The novel reflects Reynolds's professional background: he has a PhD in astronomy and worked for many years for the European Space Agency. It was short listed for the 2000 BSFA and Arthur C. Clarke Awards.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/911071-M.jpg",
-            "Title": "Revelation Space",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Revelation_Space"
+            "Title": "Revelation Space"
         },
         {
             "Authors": [
@@ -377,8 +384,10 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
-            "ReadYear": [],
+            "Rating": 5,
+            "ReadYear": [
+                "1990s"
+            ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/1364710-M.jpg",
             "Title": "Funeral in Berlin"
         },
@@ -527,7 +536,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/9963901-M.jpg",
             "Title": "The Last Mughal: The Fall of a Dynasty: Delhi, 1857"
@@ -557,7 +566,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8440294-M.jpg",
             "Title": "Permafrost"
@@ -571,9 +580,9 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2016"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8472398-M.jpg",
             "Title": "Revenger"
@@ -603,9 +612,9 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2017"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/9063945-M.jpg",
             "Title": "Shadow Captain"
@@ -619,9 +628,9 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/380461-M.jpg",
             "Title": "Galactic North"
@@ -651,10 +660,8 @@
             ],
             "Rating": 0,
             "ReadYear": [],
-            "Summary": "Salvation is the state of being saved or protected from harm or a dire situation. In religion and theology, salvation generally refers to the deliverance of the soul from sin and its consequences. The academic study of salvation is called soteriology.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/9159027-M.jpg",
-            "Title": "Salvation",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Salvation"
+            "Title": "Salvation"
         },
         {
             "Authors": [
@@ -711,7 +718,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2025
+                "2025"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/908806-M.jpg",
             "Title": "Use of Weapons"
@@ -739,8 +746,10 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
-            "ReadYear": [],
+            "Rating": 5,
+            "ReadYear": [
+                "1980s"
+            ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8783768-M.jpg",
             "Title": "Robinson Crusoe"
         },
@@ -769,9 +778,9 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/7319336-M.jpg",
             "Title": "On The Steel Breeze"
@@ -782,7 +791,6 @@
             ],
             "ISBN10": "1429590491",
             "ISBN13": "9780670591855",
-            "Notes": "I read this in 1994 as this was assigned reading for my english class. I had already red a few Steinbecks by this time is my memory",
             "Progress": [
                 1
             ],
@@ -851,6 +859,22 @@
         },
         {
             "Authors": [
+                "Peter F. Hamilton"
+            ],
+            "ISBN10": "1529073707",
+            "ISBN13": "9781529073713",
+            "Progress": [
+                0
+            ],
+            "Rating": 0,
+            "ReadYear": [
+                "2020s"
+            ],
+            "ThumbNail": "https://covers.openlibrary.org/b/id/14840403-M.jpg",
+            "Title": "Exodus"
+        },
+        {
+            "Authors": [
                 "Alastair Reynolds"
             ],
             "ISBN10": "0316462470",
@@ -858,9 +882,9 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/380118-M.jpg",
             "Title": "Chasm City"
@@ -874,9 +898,9 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/284263-M.jpg",
             "Title": "Century rain"
@@ -894,10 +918,24 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "Puppet on a Chain is a novel by Scottish author Alistair MacLean. Originally published in 1969 with a cover by Norman Weaver, it is set in the late 1960s narcotics underworld of Amsterdam and other locations in the Netherlands.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/6796781-M.jpg",
-            "Title": "Puppet on a Chain",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Puppet_on_a_Chain"
+            "Title": "Puppet on a Chain"
+        },
+        {
+            "Authors": [
+                "Len Deighton"
+            ],
+            "ISBN10": "0345010329",
+            "ISBN13": "9788402077592",
+            "Progress": [
+                1
+            ],
+            "Rating": 5,
+            "ReadYear": [
+                "1990s"
+            ],
+            "ThumbNail": "https://covers.openlibrary.org/b/id/4615759-M.jpg",
+            "Title": "SS-GB"
         },
         {
             "Authors": [
@@ -908,14 +946,12 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2010s"
             ],
-            "Summary": "Poseidon's Wake is a science fiction novel by Welsh author Alastair Reynolds. It forms the conclusion of Reynolds' Poseidon's Children future history trilogy, which follows the expansion of humanity and its transhuman descendants into the galaxy over the course of many centuries. Poseidon's Wake follows Blue Remembered Earth (2012) and On the Steel Breeze (2013), and was published by Gollancz on 30 April 2015.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/7428906-M.jpg",
-            "Title": "Poseidon's Wake",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Poseidon's_Wake"
+            "Title": "Poseidon's Wake"
         },
         {
             "Authors": [
@@ -954,14 +990,12 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2006"
             ],
-            "Summary": "Woken Furies (2005) is a science fiction novel by British writer Richard Morgan. It is the third novel featuring the anti-hero Takeshi Kovacs and is the sequel to Broken Angels.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/211838-M.jpg",
-            "Title": "Woken Furies",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Woken_Furies"
+            "Title": "Woken Furies"
         },
         {
             "Authors": [
@@ -976,10 +1010,8 @@
             "ReadYear": [
                 "1980s"
             ],
-            "Summary": "Fear Is the Key is a 1961 first-person narrative thriller novel by Scottish author Alistair MacLean.",
             "ThumbNail": "https://books.google.com/books/content?id=eDxXPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "Title": "Fear Is the Key (Black Dagger Crime)",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Fear_Is_the_Key_(novel)"
+            "Title": "Fear Is the Key (Black Dagger Crime)"
         },
         {
             "Authors": [
@@ -1034,7 +1066,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780316462815.jpg?height=500&v=v2",
             "Title": "Eversion"
@@ -1048,8 +1080,10 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
-            "ReadYear": [],
+            "Rating": 5,
+            "ReadYear": [
+                "1990s"
+            ],
             "ThumbNail": "https://books.google.com/books/content?id=8-hKiZW3W3UC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "Title": "Billion-dollar brain"
         },
@@ -1092,9 +1126,9 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/5277650-M.jpg",
             "Title": "Redemption Ark"
@@ -1122,9 +1156,9 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2000s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/13223488-M.jpg",
             "Title": "Altered Carbon. Vol. 1"
@@ -1168,7 +1202,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1998
+                "1998"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/1000595-M.jpg",
             "Title": "The Reality Dysfunction"
@@ -1184,7 +1218,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1997
+                "1997"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/12986869-M.jpg",
             "Title": "The Hitch Hiker's Guide to the Galaxy"
@@ -1232,10 +1266,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "Breakheart Pass is a novel by Scottish author Alistair MacLean (1922\u20131987), first published in 1974. It was a departure for MacLean in that, despite the thriller novel plot, the setting is essentially that of a western novel, set in the Sierra Nevada of the American West in the late 19th century. Fans of MacLean will recognize the usual plots twists, thrill-packed finale, and trademark sardonic dialogue. For American audiences, MacLean was less successful capturing an authentic tone of the western frontier, and the 1975 movie version starring Charles Bronson, Richard Crenna, Ben Johnson, and Jill Ireland, proved to be more popular with the public than the novel.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/8673267-M.jpg",
-            "Title": "Breakheart Pass",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Breakheart_Pass_(novel)"
+            "Title": "Breakheart Pass"
         },
         {
             "Authors": [
@@ -1246,31 +1278,28 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8457128-M.jpg",
             "Title": "Beyond the Aquila Rift"
         },
         {
             "Authors": [
-                "Alastair Reynolds",
-                "John Lee"
+                "Alastair Reynolds"
             ],
             "ISBN10": "1101060557",
             "ISBN13": "9780575077171",
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2010s"
             ],
-            "Summary": "House of Suns is a 2008 science fiction novel by Welsh author Alastair Reynolds. The novel was shortlisted for the 2009 Arthur C. Clarke Award.",
             "ThumbNail": "https://books.google.com/books/content?id=zyN0tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-            "Title": "House of Suns",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/House_of_Suns"
+            "Title": "House of Suns"
         },
         {
             "Authors": [
@@ -1288,8 +1317,8 @@
         },
         {
             "Authors": [
-                "\u0410\u0440\u043a\u0430\u0434\u0438\u0439 \u041d\u0430\u0442\u0430\u043d\u043e\u0432\u0438\u0447 \u0421\u0442\u0440\u0443\u0433\u0430\u0446\u043a\u0438\u0439",
-                "\u0411\u043e\u0440\u0438\u0441 \u041d\u0430\u0442\u0430\u043d\u043e\u0432\u0438\u0447 \u0421\u0442\u0440\u0443\u0433\u0430\u0446\u043a\u0438\u0439"
+                "Arkadii Natanovich Strugatski",
+                "Boris Natanovich Strugatski"
             ],
             "ISBN10": "0575093137",
             "ISBN13": "9781399617208",
@@ -1298,7 +1327,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/6752719-M.jpg",
             "Title": "Roadside Picnic"
@@ -1386,9 +1415,9 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 4,
             "ReadYear": [
-                2025
+                "2008"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/6670503-M.jpg",
             "Title": "The Steel Remains"
@@ -1492,8 +1521,10 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
-            "ReadYear": [],
+            "Rating": 5,
+            "ReadYear": [
+                "1990s"
+            ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/2560439-M.jpg",
             "Title": "The Ipcress File"
         },
@@ -1520,9 +1551,9 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/284350-M.jpg",
             "Title": "Pushing Ice"
@@ -1550,11 +1581,11 @@
             "ISBN10": "1857231554",
             "ISBN13": "9780748110070",
             "Progress": [
-                1
+                0.6486486196517944
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2025"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/908770-M.jpg",
             "Title": "The State of the Art"
@@ -1598,9 +1629,9 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/7254226-M.jpg",
             "Title": "Blue remembered Earth"
@@ -1658,9 +1689,9 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8202201-M.jpg",
             "Title": "Slow Bullets"
@@ -1674,9 +1705,9 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2020s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780575090729-L.jpg",
             "Title": "Inhibitor Phase"
@@ -1704,14 +1735,12 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2000s"
             ],
-            "Summary": "Diamond Dogs, Turquoise Days is a 2003 compilation of two science fiction novellas by writer Alastair Reynolds. Both are set in the Revelation Space universe, but are almost entirely unconnected with the plots of any of the novels in the same story arc.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/380244-M.jpg",
-            "Title": "Diamond Dogs, Turquoise Days",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Diamond_Dogs%2C_Turquoise_Days"
+            "Title": "Diamond Dogs, Turquoise Days"
         },
         {
             "Authors": [
@@ -1766,7 +1795,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/6672209-M.jpg",
             "Title": "Surface Detail (Culture)"
@@ -1796,9 +1825,9 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/11087255-M.jpg",
             "Title": "Elysium fire"
@@ -1830,10 +1859,8 @@
             ],
             "Rating": 0,
             "ReadYear": [],
-            "Summary": "List of works by or about British science fiction author Peter F. Hamilton.",
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780812577693-L.jpg",
-            "Title": "The Nano Flower",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Peter_F._Hamilton_bibliography"
+            "Title": "The Nano Flower"
         },
         {
             "Authors": [
@@ -1844,9 +1871,9 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2020s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/10528131-M.jpg",
             "Title": "Bone Silence"
@@ -2088,7 +2115,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/13564806-M.jpg",
             "Title": "Machine Vendetta (The Prefect Dreyfus Emergencies, 3)"
@@ -2132,10 +2159,8 @@
             ],
             "Rating": 0,
             "ReadYear": [],
-            "Summary": "A Legacy of Spies is a 2017 spy novel by British writer John le Carr\u00e9.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/12533779-M.jpg",
-            "Title": "A legacy of spies",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/A_Legacy_of_Spies"
+            "Title": "A legacy of spies"
         },
         {
             "Authors": [
@@ -2162,10 +2187,8 @@
             ],
             "Rating": 5,
             "ReadYear": [],
-            "Summary": "Smiley's People is a 1979 spy novel by John le Carr\u00e9. The novel features a British master-spy George Smiley. It is the third and final novel of the \"Karla Trilogy\", following Tinker Tailor Soldier Spy and The Honourable Schoolboy. George Smiley is called out of retirement to investigate the death of one of his old agents: a former Soviet general, the head of an Estonian \u00e9migr\u00e9 organisation based in London. Smiley learns the general had discovered information that will lead to a final confrontation with Smiley's nemesis, the Soviet spymaster Karla.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/7315617-M.jpg",
-            "Title": "Smiley's People",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Smiley's_People"
+            "Title": "Smiley's People"
         },
         {
             "Authors": [
@@ -2206,9 +2229,9 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/1726459-M.jpg",
             "Title": "Thirteen"
@@ -2236,9 +2259,9 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
+            "Rating": 5,
             "ReadYear": [
-                2025
+                "2010s"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/1286941-M.jpg",
             "Title": "The Prefect"
@@ -2269,7 +2292,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1998
+                "1998"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/199386-M.jpg",
             "Title": "Neutronium Alchemist"
@@ -2349,12 +2372,10 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2017
+                "2017"
             ],
-            "Summary": "Luna: Wolf Moon is a 2017 science fiction novel by British author Ian McDonald. It is the second book in a three-part series that also includes Luna: New Moon and Luna: Moon Rising.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/8565851-M.jpg",
-            "Title": "Luna: Wolf Moon",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Luna%3A_Wolf_Moon"
+            "Title": "Luna: Wolf Moon"
         },
         {
             "Authors": [
@@ -2463,7 +2484,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                "2010s"
+                "2019"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/8802134-M.jpg",
             "Title": "A Memory Called Empire"
@@ -2504,6 +2525,22 @@
             "Authors": [
                 "Neal Stephenson"
             ],
+            "ISBN10": "0670864145",
+            "ISBN13": "9783442451548",
+            "Progress": [
+                1
+            ],
+            "Rating": 5,
+            "ReadYear": [
+                "2000s"
+            ],
+            "ThumbNail": "https://covers.openlibrary.org/b/id/8598269-M.jpg",
+            "Title": "The Diamond Age"
+        },
+        {
+            "Authors": [
+                "Neal Stephenson"
+            ],
             "ISBN10": "0062190377",
             "ISBN13": "9780008132521",
             "Progress": [
@@ -2522,7 +2559,6 @@
             ],
             "ISBN10": "006166815X",
             "ISBN13": "9780061701320",
-            "Notes": "Great book, read it about half a dozen times",
             "Progress": [
                 1
             ],
@@ -2530,10 +2566,8 @@
             "ReadYear": [
                 "2010s"
             ],
-            "Summary": "Anathem is a science fiction novel by American writer Neal Stephenson, published in 2008. Major themes include the many-worlds interpretation of quantum mechanics and the philosophical debate between Platonic realism and nominalism.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/6304233-M.jpg",
-            "Title": "Anathem",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Anathem"
+            "Title": "Anathem"
         },
         {
             "Authors": [
@@ -2546,12 +2580,10 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2025
+                "2025"
             ],
-            "Summary": "Polostan is a 2024 spy novel by American author Neal Stephenson, and the first novel in a planned historical fiction series called Bomb Light. The novel received positive reviews from critics like The New York Times, The Washington Post and Kirkus Reviews.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/15087684-M.jpg",
-            "Title": "Polostan: Volume One of Bomb Light",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Polostan"
+            "Title": "Polostan: Volume One of Bomb Light"
         },
         {
             "Authors": [
@@ -2646,10 +2678,8 @@
             "ReadYear": [
                 "2000s"
             ],
-            "Summary": "Idoru is the second book in William Gibson's Bridge trilogy. Idoru is a science-fiction novel set in a postmodern, dystopian, cyberpunk future. One of the main characters, Colin Laney, has a talent for identifying nodal points, analogous to Gibson's own:\nLaney's node-spotter function is some sort of metaphor for whatever it is that I actually do. There are bits of the literal future right here, right now, if you know how to look for them. Although I can't tell you how; it's a non-rational process.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/3850651-M.jpg",
-            "Title": "Idoru",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Idoru"
+            "Title": "Idoru"
         },
         {
             "Authors": [
@@ -2680,10 +2710,8 @@
             "ReadYear": [
                 "2010s"
             ],
-            "Summary": "Zero History is a novel by William Gibson published in 2010. It concludes the informal trilogy begun by Pattern Recognition (2003) and continued by Spook Country (2007), and features the characters Hollis Henry and Milgrim from the latter novel as its protagonists.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/7072428-M.jpg",
-            "Title": "Zero History",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Zero_History"
+            "Title": "Zero History"
         },
         {
             "Authors": [
@@ -2730,10 +2758,8 @@
             "ReadYear": [
                 "2000s"
             ],
-            "Summary": "For the band, see Count Zero (band)",
             "ThumbNail": "https://covers.openlibrary.org/b/id/284322-M.jpg",
-            "Title": "Count Zero",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Count_Zero"
+            "Title": "Count Zero"
         },
         {
             "Authors": [
@@ -2764,10 +2790,8 @@
             "ReadYear": [
                 "2020s"
             ],
-            "Summary": "Artemis is a 2017 science fiction novel by American writer Andy Weir. It takes place in the late 2080s in Artemis, the first and so far only city on the Moon. It follows the life of porter and smuggler Jasmine \"Jazz\" Bashara as she gets caught up in a conspiracy for control of the city.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/8235551-M.jpg",
-            "Title": "Artemis",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Artemis_(novel)"
+            "Title": "Artemis"
         },
         {
             "Authors": [
@@ -2796,12 +2820,10 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1993
+                "1993"
             ],
-            "Summary": "All Quiet on the Western Front is a semi-autobiographical novel by Erich Maria Remarque, a German veteran of World War I. The book describes the German soldiers' extreme physical and mental trauma during the war as well as the detachment from civilian life felt by many upon returning home from the war. It is billed by some as \"the greatest war novel of all time\".",
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781958943489.jpg?height=300&v=v2",
-            "Title": "All Quiet on the Western Front",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front"
+            "Title": "All Quiet on the Western Front"
         },
         {
             "Authors": [
@@ -2848,10 +2870,8 @@
             "ReadYear": [
                 "2000s"
             ],
-            "Summary": "Haroun and the Sea of Stories is a 1990 children's novel by Salman Rushdie. It is Rushdie's fifth major publication and followed The Satanic Verses (1988). It is a phantasmagorical story that begins in a city so miserable and ruinous that it has forgotten its name.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/10236612-M.jpg",
-            "Title": "Haroun and the Sea of Stories",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Haroun_and_the_Sea_of_Stories"
+            "Title": "Haroun and the Sea of Stories"
         },
         {
             "Authors": [
@@ -2882,10 +2902,8 @@
             "ReadYear": [
                 "2000s"
             ],
-            "Summary": "Jennifer Government is a 2003 dystopian novel by Max Barry, set in an alternate reality where most nations in the Americas and Oceania are dominated by powerful corporations and corporate libertarianism coalitions, and where government power is extremely limited. It was a finalist for a Campbell Award, and was included in The New York Times' annual list of notable books. The novel was retitled from Jennifer Government to Logoland in its German and Italian editions. In its Brazilian edition it was retitled to EU S/A, an abbreviation of Estados Unidos Sociedade An\u00f4nima, which roughly translates to United States, Inc.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/213343-M.jpg",
-            "Title": "Jennifer Government",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Jennifer_Government"
+            "Title": "Jennifer Government"
         },
         {
             "Authors": [
@@ -2898,7 +2916,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                1998
+                "1998"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/6874573-M.jpg",
             "Title": "The Demolished Man"
@@ -2988,8 +3006,10 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
-            "ReadYear": [],
+            "Rating": 5,
+            "ReadYear": [
+                "2000s"
+            ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/13472608-M.jpg",
             "Title": "Rendezvous with Rama"
         },
@@ -3017,11 +3037,11 @@
                 1
             ],
             "Rating": 0,
-            "ReadYear": [],
-            "Summary": "3001: The Final Odyssey is a 1997 science fiction novel by British writer Arthur\u00a0C. Clarke. It is the fourth and final book in Clarke's Space Odyssey series.",
+            "ReadYear": [
+                "2000s"
+            ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/207047-M.jpg",
-            "Title": "3001",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/3001%3A_The_Final_Odyssey"
+            "Title": "3001"
         },
         {
             "Authors": [
@@ -3049,7 +3069,9 @@
                 1
             ],
             "Rating": 0,
-            "ReadYear": [],
+            "ReadYear": [
+                "1990s"
+            ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/6507069-M.jpg",
             "Title": "The Godfather"
         },
@@ -3063,7 +3085,9 @@
                 1
             ],
             "Rating": 0,
-            "ReadYear": [],
+            "ReadYear": [
+                "1990s"
+            ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/210076-M.jpg",
             "Title": "The Sicilian"
         },
@@ -3224,10 +3248,8 @@
             "ReadYear": [
                 "1980s"
             ],
-            "Summary": "Charlie and the Great Glass Elevator is a children's book by British author Roald Dahl. It is the sequel to Charlie and the Chocolate Factory, continuing the story of young Charlie Bucket and a chocolatier, Willy Wonka, as they travel in the Great Glass Elevator. The book was published in the United States by Alfred A. Knopf, Inc. in 1972, a year after the release of the film Willy Wonka and the Chocolate Factory, and in the United Kingdom by George Allen & Unwin in 1973.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/7893583-M.jpg",
-            "Title": "Charlie and the Great Glass Elevator",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Charlie_and_the_Great_Glass_Elevator"
+            "Title": "Charlie and the Great Glass Elevator"
         },
         {
             "Authors": [
@@ -3274,10 +3296,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "For Whom the Bell Tolls is a novel by Ernest Hemingway published in 1940. It tells the story of Robert Jordan, a young American volunteer attached to a Republican guerrilla unit during the Spanish Civil War. As a demolitions expert, he is assigned to blow up a bridge during an attack on the city of Segovia.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/2560810-M.jpg",
-            "Title": "For Whom the Bell Tolls",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls"
+            "Title": "For Whom the Bell Tolls"
         },
         {
             "Authors": [
@@ -3308,10 +3328,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "A Connecticut Yankee in King Arthur's Court is an 1889 historical novel by American humorist and writer Mark Twain. The book was originally titled A Yankee in King Arthur's Court. Some early editions are titled A Yankee at the Court of King Arthur.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/9168732-M.jpg",
-            "Title": "A Connecticut Yankee in King Arthur's Court",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/A_Connecticut_Yankee_in_King_Arthur's_Court"
+            "Title": "A Connecticut Yankee in King Arthur's Court"
         },
         {
             "Authors": [
@@ -3326,10 +3344,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "<p><i><b>Twenty Thousand Leagues Under the Seas</b></i> is a science fiction adventure novel by the French writer Jules Verne. It is considered a classic within its genres and world literature. It was originally serialised from March 1869 to June 1870 in Pierre-Jules Hetzel's French fortnightly periodical, the <span><i lang=\"fr\">Magasin d'\u00e9ducation et de r\u00e9cr\u00e9ation</i></span>. A deluxe octavo edition, published by Hetzel in November 1871, included 111 illustrations by Alphonse de Neuville and \u00c9douard Riou.</p>",
             "ThumbNail": "https://covers.openlibrary.org/b/id/7385699-M.jpg",
-            "Title": "20,000 Leagues under The Sea",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Seas"
+            "Title": "20,000 Leagues under The Sea"
         },
         {
             "Authors": [
@@ -3389,11 +3405,11 @@
                 1
             ],
             "Rating": 3,
-            "ReadYear": [],
-            "Summary": "The God of Small Things is a domestic fiction written by the Indian author Arundhati Roy. It is a story about childhood experiences of the fraternal twins whose lives are destroyed by the \"Love Laws\" prevalent in the 1960s in Kerala, India. The novel explores how small, seemingly insignificant occurrences, decisions, and experiences shape people's behavior in deeply significant ways. The novel also explores the lingering effects of casteism in India and British colonialism in India and has become a staple in postcolonial literature. The novel won the Booker Prize in 1997.",
+            "ReadYear": [
+                "2000s"
+            ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/10513792-M.jpg",
-            "Title": "The God of Small Things",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/The_God_of_Small_Things"
+            "Title": "The God of Small Things"
         },
         {
             "Authors": [
@@ -3433,7 +3449,6 @@
             ],
             "ISBN10": "",
             "ISBN13": "9991750833983",
-            "Notes": "Chola",
             "Progress": [
                 0.07297297567129135
             ],
@@ -3452,8 +3467,10 @@
             "Progress": [
                 1
             ],
-            "Rating": 0,
-            "ReadYear": [],
+            "Rating": 5,
+            "ReadYear": [
+                "1990s"
+            ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/4095854-M.jpg",
             "Title": "Barbarians at the gate"
         },
@@ -3566,10 +3583,8 @@
             "ReadYear": [
                 "1980s"
             ],
-            "Summary": "<p><i><b>The Scarlet Pimpernel</b></i> is the first novel in a series of historical fiction novels by Baroness Orczy, published in 1905. It was written after her stage play of the same title enjoyed a long run in London, having opened in Nottingham in 1903.</p>",
             "ThumbNail": "https://covers.openlibrary.org/b/id/479102-M.jpg",
-            "Title": "The Scarlet Pimpernel",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/The_Scarlet_Pimpernel"
+            "Title": "The Scarlet Pimpernel"
         },
         {
             "Authors": [
@@ -3600,10 +3615,8 @@
             "ReadYear": [
                 "2000s"
             ],
-            "Summary": "<p><i><b>MASH: A Novel About Three Army Doctors</b></i> is a 1968 novel written by Richard Hooker with the assistance of writer W.C. Heinz. It is notable as the foundation of the <span><i>M*A*S*H</i> franchise</span>, which includes a 1970 feature film and a long-running TV series (1972\u20131983). The novel is about a fictional U.S. Mobile Army Surgical Hospital in South Korea during the Korean War.</p>",
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780671772321-L.jpg",
-            "Title": "M.A.S.H.",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/MASH%3A_A_Novel_About_Three_Army_Doctors"
+            "Title": "M.A.S.H."
         },
         {
             "Authors": [
@@ -3631,7 +3644,9 @@
                 1
             ],
             "Rating": 0,
-            "ReadYear": [],
+            "ReadYear": [
+                "2000s"
+            ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/7092306-M.jpg",
             "Title": "The Fist Of God"
         },
@@ -3664,10 +3679,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "Catch-22 is a satirical war novel by American author Joseph Heller. It was his debut novel. He began writing it in 1953; the novel was first published in 1961. Often cited as one of the most significant novels of the 20th century, it uses a distinctive non-chronological third-person omniscient narration, describing events from the points of view of different characters. The separate storylines are out of sequence so the timeline develops along with the plot.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/6468653-M.jpg",
-            "Title": "Catch-22",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Catch-22"
+            "Title": "Catch-22"
         },
         {
             "Authors": [
@@ -3751,6 +3764,22 @@
         },
         {
             "Authors": [
+                "Frederick Forsyth"
+            ],
+            "ISBN10": "0552212385",
+            "ISBN13": "9781429974004",
+            "Progress": [
+                1
+            ],
+            "Rating": 0,
+            "ReadYear": [
+                "2000s"
+            ],
+            "ThumbNail": "https://images-us.bookshop.org/ingram/9781429974004.jpg?height=300&v=v2",
+            "Title": "Avenger"
+        },
+        {
+            "Authors": [
                 "Wilkie Collins"
             ],
             "ISBN10": "1425047637",
@@ -3810,10 +3839,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "Trevayne is Robert Ludlum's fourth novel, published in 1973 under the pseudonym Jonathan Ryder.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/7274735-M.jpg",
-            "Title": "Trevayne",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Trevayne"
+            "Title": "Trevayne"
         },
         {
             "Authors": [
@@ -3828,10 +3855,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "<p><i><b>The Hunchback of Notre-Dame</b></i> is a French Gothic novel by Victor Hugo, published in 1831. The title refers to the Notre-Dame Cathedral, which features prominently throughout the novel. It focuses on the unfortunate story of Quasimodo, the Romani street dancer Esmeralda, and Quasimodo's guardian the Archdeacon Claude Frollo in 15th-century Paris. All its elements\u2014the Renaissance setting, impossible love affairs and marginalised characters\u2014make the work a model of the literary themes of Romanticism.</p>",
             "ThumbNail": "https://covers.openlibrary.org/b/id/2626880-M.jpg",
-            "Title": "The Hunchback of Notre Dame",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre-Dame"
+            "Title": "The Hunchback of Notre Dame"
         },
         {
             "Authors": [
@@ -3846,10 +3871,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "Franny and Zooey is a book by American author J. D. Salinger which comprises his short story \"Franny\" and novella Zooey. The two works were published together as a book in 1961, having originally appeared in The New Yorker in 1955 and 1957 respectively. The book focuses on siblings Franny and Zooey, the two youngest members of the Glass family, which was a frequent focus of Salinger's writings.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/6501579-M.jpg",
-            "Title": "Franny and Zooey",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Franny_and_Zooey"
+            "Title": "Franny and Zooey"
         },
         {
             "Authors": [
@@ -3864,10 +3887,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "Raise High the Roof Beam, Carpenters and Seymour: An Introduction is a single volume featuring two novellas by J. D. Salinger, which were previously published in The New Yorker: Raise High the Roof Beam, Carpenters (1955) and Seymour: An Introduction (1959). Little, Brown republished them in this anthology in 1963. It was the first time the novellas had appeared in book form. The book was the third best-selling novel in the United States in 1963, according to Publishers Weekly.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/190228-M.jpg",
-            "Title": "Raise High the Roof Beam, Carpenters; and Seymour, An Introduction",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Raise_High_the_Roof_Beam%2C_Carpenters_and_Seymour%3A_An_Introduction"
+            "Title": "Raise High the Roof Beam, Carpenters; and Seymour, An Introduction"
         },
         {
             "Authors": [
@@ -3946,10 +3967,8 @@
             "ReadYear": [
                 "1980s"
             ],
-            "Summary": "Charlie and the Chocolate Factory is a 1964 children's novel by British author Roald Dahl. The story features the adventures of young Charlie Bucket inside the chocolate factory of eccentric chocolatier Willy Wonka.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/12459564-M.jpg",
-            "Title": "Charlie and the Chocolate Factory",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory"
+            "Title": "Charlie and the Chocolate Factory"
         },
         {
             "Authors": [
@@ -3964,10 +3983,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "Switch Bitch (1974) is a book of adult short stories by British writer Roald Dahl. Four stories, originally published in Playboy between 1965 and 1974, are collected. They are linked by themes of rape by deception: in each one, some major act of cunning, cruelty, or hedonism underpins the sexuality.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/9159135-M.jpg",
-            "Title": "Switch Bitch",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Switch_Bitch"
+            "Title": "Switch Bitch"
         },
         {
             "Authors": [
@@ -3998,10 +4015,8 @@
             "ReadYear": [
                 "2000s"
             ],
-            "Summary": "The Negotiator is a crime novel by English writer Frederick Forsyth, first published in 1989. The story includes a number of threads that are slowly woven together. The central thread concerns a kidnapping that turns into a murder and the negotiator's attempts to solve the crime.",
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780553053616-L.jpg",
-            "Title": "The Negotiator",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/The_Negotiator_(novel)"
+            "Title": "The Negotiator"
         },
         {
             "Authors": [
@@ -4048,10 +4063,8 @@
             "ReadYear": [
                 "2000s"
             ],
-            "Summary": "The Veteran is a short story collection by British author Frederick Forsyth. The book was first published on 8 September 2001, through Thomas Dunne Books and includes five of Forsyth's short stories. This is the second short story collection by the author, following the release of his 1982 collection, No Comebacks.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/178389-M.jpg",
-            "Title": "The Veteran",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/The_Veteran_(short_story_collection)"
+            "Title": "The Veteran"
         },
         {
             "Authors": [
@@ -4066,10 +4079,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "The Old Man and the Sea is a 1952 novella by the American author Ernest Hemingway. Written between December 1950 and February 1951, it was the last major fictional work Hemingway published during his lifetime. It tells the story of Santiago, an aging fisherman, and his long struggle to catch a giant marlin.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/463307-M.jpg",
-            "Title": "The Old Man and the Sea",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea"
+            "Title": "The Old Man and the Sea"
         },
         {
             "Authors": [
@@ -4084,10 +4095,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "The Dogs of War is a 1974 war novel by British writer Frederick Forsyth, featuring a small group of European mercenary soldiers hired by a British industrialist to depose the government of the fictional African country of Zangaro. The story details a geologist's mineral discovery, and the preparations for the attack: soldier recruitment, training, reconnaissance, and the logistics of the coup d'\u00e9tat. The source of the title, The Dogs of War, is Act III, scene 1, line 270 of Julius Caesar (1599), by William Shakespeare: Cry, 'Havoc!', and let slip the dogs of war.",
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780553147582-L.jpg",
-            "Title": "The Dogs of War",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/The_Dogs_of_War_(novel)"
+            "Title": "The Dogs of War"
         },
         {
             "Authors": [
@@ -4102,10 +4111,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "Not a Penny More, Not a Penny Less was Jeffrey Archer's first novel, first published in 1976. It was said to have been inspired by Archer's real-life experience of near-bankruptcy.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/14313723-M.jpg",
-            "Title": "Not a Penny More, Not a Penny Less",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Not_a_Penny_More%2C_Not_a_Penny_Less"
+            "Title": "Not a Penny More, Not a Penny Less"
         },
         {
             "Authors": [
@@ -4120,10 +4127,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "\"The Secret Life of Walter Mitty\" (1939) is a short story by James Thurber. The most famous of Thurber's stories, it first appeared in The New Yorker on March 18, 1939, and was first collected in his book My World and Welcome to It. It has since been reprinted in James Thurber: Writings and Drawings, is available on-line on the New Yorker website, and is one of the most anthologized short stories in American literature. The story is considered one of Thurber's \"acknowledged masterpieces\". It was made into a 1947 film, with Danny Kaye in the title role, though the film is very different from the original story. It was also adapted into a 2013 film, directed by and starring Ben Stiller, and is again very different from the original.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/7373994-M.jpg",
-            "Title": "The Secret Life of Walter Mitty",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/The_Secret_Life_of_Walter_Mitty"
+            "Title": "The Secret Life of Walter Mitty"
         },
         {
             "Authors": [
@@ -4138,10 +4143,8 @@
             "ReadYear": [
                 "2000s"
             ],
-            "Summary": "The Fourth Protocol is a thriller novel by British writer Frederick Forsyth, published in August 1984.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/7155689-M.jpg",
-            "Title": "The fourth protocol",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/The_Fourth_Protocol"
+            "Title": "The fourth protocol"
         },
         {
             "Authors": [
@@ -4156,10 +4159,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "The Matarese Circle (1979) is a novel by Robert Ludlum. The story is followed by a 1997 sequel, The Matarese Countdown.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/4672420-M.jpg",
-            "Title": "The Matarese Circle",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/The_Matarese_Circle"
+            "Title": "The Matarese Circle"
         },
         {
             "Authors": [
@@ -4174,10 +4175,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "Around the World in Eighty Days is an adventure novel by the French writer Jules Verne, first published in French in 1872. In the story, Phileas Fogg of London and his newly employed French valet Passepartout attempt to circumnavigate the world in 80 days on a wager of \u00a320,000 set by his friends at the Reform Club. It is one of Verne's most acclaimed works.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/10572141-M.jpg",
-            "Title": "Around the World in 80 Days",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Around_the_World_in_Eighty_Days"
+            "Title": "Around the World in 80 Days"
         },
         {
             "Authors": [
@@ -4224,10 +4223,8 @@
             "ReadYear": [
                 "2000s"
             ],
-            "Summary": "Icon is a thriller novel by British author Frederick Forsyth. Its plot centres on the politics of the Russian Federation in 1999, with an extremist party close to seizing power. Published by Bantam Press in September 1997, (ISBN\u00a0978-0-553-57460-9), Icon became a New York Times Bestseller and was adapted into a television film.",
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9782253170716-L.jpg",
-            "Title": "Icon",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Icon_(novel)"
+            "Title": "Icon"
         },
         {
             "Authors": [
@@ -4242,10 +4239,8 @@
             "ReadYear": [
                 "2000s"
             ],
-            "Summary": "The Deceiver is a novel by English writer Frederick Forsyth, about a retiring agent of the British SIS named Sam McCready. He is the head of Deception, Disinformation and Psychological Operations, and his maverick but brilliant successes have led to his nickname \"The Deceiver.\" The stories had previously been filmed as Frederick Forsyth Presents, a miniseries for British television, in 1989 and 1990, with McCready played by Alan Howard. The book followed in 1991. It appeared in The New York Times's list of the best-selling books for eight weeks, and its peak was #6.",
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780552138239-L.jpg",
-            "Title": "The Deceiver",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/The_Deceiver_(novel)"
+            "Title": "The Deceiver"
         },
         {
             "Authors": [
@@ -4257,7 +4252,9 @@
                 1
             ],
             "Rating": 2,
-            "ReadYear": [],
+            "ReadYear": [
+                "2000s"
+            ],
             "ThumbNail": "https://books.google.com/books/content?id=fmhHPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "Title": "Interpreter of maladies"
         },
@@ -4274,10 +4271,8 @@
             "ReadYear": [
                 "2000s"
             ],
-            "Summary": "The Afghan is a 2006 thriller novel by British writer Frederick Forsyth.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/1119777-M.jpg",
-            "Title": "The Afghan",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/The_Afghan"
+            "Title": "The Afghan"
         },
         {
             "Authors": [
@@ -4292,10 +4287,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "Our Man in Havana (1958) is a novel set in Cuba by the English author Graham Greene. Greene uses the novel to mock intelligence services, especially the British MI6, and their willingness to believe reports from their local informants.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/15130107-M.jpg",
-            "Title": "Our Man in Havana",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Our_Man_in_Havana"
+            "Title": "Our Man in Havana"
         },
         {
             "Authors": [
@@ -4310,10 +4303,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "Heart of Darkness is an 1899 novella by Polish-British novelist Joseph Conrad in which the sailor Charles Marlow tells his listeners the story of his assignment as steamer captain for a Belgian company in the African interior. The novel is widely regarded as a critique of European colonial rule in Africa, whilst also examining the themes of power dynamics and morality. Although Conrad does not name the river on which most of the narrative takes place, at the time of writing, the Congo Free State\u2014the location of the large and economically important Congo River\u2014was a private colony of Belgium's King Leopold II. Marlow is given an assignment to find Kurtz, an ivory trader working on a trading station far up the river, who has \"gone native\" and is the object of Marlow's expedition.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/12307847-M.jpg",
-            "Title": "Heart of Darkness",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Heart_of_Darkness"
+            "Title": "Heart of Darkness"
         },
         {
             "Authors": [
@@ -4328,10 +4319,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "Rebecca is a 1938 Gothic novel by the English author Daphne du Maurier. It depicts an unnamed young woman who impetuously marries a wealthy widower, before discovering that both he and his household are haunted by the memory of his late first wife, the title character.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/8238729-M.jpg",
-            "Title": "Rebecca",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Rebecca_(novel)"
+            "Title": "Rebecca"
         },
         {
             "Authors": [
@@ -4346,10 +4335,8 @@
             "ReadYear": [
                 "2000s"
             ],
-            "Summary": "The Black Swan: The Impact of the Highly Improbable is a 2007 book by Nassim Nicholas Taleb, who is a former options trader. The book focuses on the extreme impact of rare and unpredictable outlier events\u2014and the human tendency to find simplistic explanations for these events, retrospectively. Taleb calls this the Black Swan theory.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/5721840-M.jpg",
-            "Title": "The Black Swan",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/The_Black_Swan%3A_The_Impact_of_the_Highly_Improbable"
+            "Title": "The Black Swan"
         },
         {
             "Authors": [
@@ -4364,10 +4351,8 @@
             "ReadYear": [
                 "2010s"
             ],
-            "Summary": "Skin in the Game: Hidden Asymmetries in Daily Life is a 2018 nonfiction book by Nassim Nicholas Taleb, a former options trader with a background in the mathematics of probability and statistics.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/10856868-M.jpg",
-            "Title": "Skin in the Game",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Skin_in_the_Game_(book)"
+            "Title": "Skin in the Game"
         },
         {
             "Authors": [
@@ -4408,10 +4393,8 @@
             ],
             "Rating": 0,
             "ReadYear": [],
-            "Summary": "\"Babylon's Ashes\" is the sixth episode of the sixth and final season of the American science fiction television series The Expanse. It originally premiered on Amazon Prime in the United States on January 14, 2022, written by Daniel Abraham, Ty Franck, and Naren Shankar, and directed by Breck Eisner. The episode title draws its name from the sixth The Expanse novel of the same name written by James S. A. Corey, the joint pen name of Abraham and Franck.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/8417833-M.jpg",
-            "Title": "Babylon's Ashes",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Babylon's_Ashes_(The_Expanse_episode)"
+            "Title": "Babylon's Ashes"
         },
         {
             "Authors": [
@@ -4555,22 +4538,6 @@
         },
         {
             "Authors": [
-                "William Dalrymple"
-            ],
-            "ISBN10": "",
-            "ISBN13": "9922419098018",
-            "Progress": [
-                0.05225225165486336
-            ],
-            "Rating": 0,
-            "ReadYear": [
-                2025
-            ],
-            "ThumbNail": "file:///var/mobile/Containers/Data/Application/B51E660C-4BA9-46B1-8B22-B8AC96584816/Library/Application%20Support/Ajanta/Covers/cover-9922419098018.jpg",
-            "Title": "The Golden Road"
-        },
-        {
-            "Authors": [
                 "Frederick Forsyth"
             ],
             "ISBN10": "059304892X",
@@ -4596,7 +4563,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781250762849-M.jpg",
             "Title": "To Sleep in a Sea of Stars"
@@ -4612,7 +4579,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781250186461-M.jpg",
             "Title": "A Desolation Called Peace"
@@ -4629,7 +4596,7 @@
             ],
             "Rating": 3,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781984877864-M.jpg",
             "Title": "No Rules Rules: Netflix and the Culture of Reinvention"
@@ -4645,7 +4612,7 @@
             ],
             "Rating": 1,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781538717615-M.jpg",
             "Title": "The Effort"
@@ -4661,7 +4628,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780393881554-M.jpg",
             "Title": "The Premonition"
@@ -4677,7 +4644,7 @@
             ],
             "Rating": 2,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781534414594-M.jpg",
             "Title": "Persephone Station"
@@ -4693,7 +4660,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780062356857-M.jpg",
             "Title": "Crossing The Chasm"
@@ -4709,7 +4676,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780735211292-M.jpg",
             "Title": "Atomic Habits"
@@ -4725,7 +4692,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781799952268-M.jpg",
             "Title": "Skip the Line: The 10,000 Experiments Rule and Other Surprising Advice for Reaching Your Goals"
@@ -4741,7 +4708,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780062978158-M.jpg",
             "Title": "Beyond: The Astonishing Story of the First Human to Leave Our Planet and Journey into Space"
@@ -4757,7 +4724,7 @@
             ],
             "Rating": 3,
             "ReadYear": [
-                "2020s"
+                "2020"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780062407801-M.jpg",
             "Title": "Never Split the Difference: Negotiating As If Your Life Depended On It"
@@ -4773,7 +4740,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780062899217-M.jpg",
             "Title": "Rock Me on the Water: 1974-The Year Los Angeles Transformed Movies, Music, Television, and Politics"
@@ -4790,7 +4757,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780062802798-M.jpg",
             "Title": "World Travel: An Irreverent Guide"
@@ -4806,7 +4773,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780062980151-M.jpg",
             "Title": "Operation Pedestal: The Fleet That Battled to Malta, 1942"
@@ -4822,7 +4789,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781732265189-M.jpg",
             "Title": "An Elegant Puzzle: Systems of Engineering Management"
@@ -4838,7 +4805,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780062273208-M.jpg",
             "Title": "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers"
@@ -4854,7 +4821,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781328546395-M.jpg",
             "Title": "AI Superpowers: China, Silicon Valley, And The New World Order"
@@ -4870,7 +4837,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780871139795-M.jpg",
             "Title": "A Splendid Exchange: How Trade Shaped the World"
@@ -4886,7 +4853,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781982148065-M.jpg",
             "Title": "Machinehood"
@@ -4902,7 +4869,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780553109207-M.jpg",
             "Title": "The Years of Rice and Salt"
@@ -4919,8 +4886,8 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2021,
-                2025
+                "2021",
+                "2025"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780593135204.jpg?height=300&v=v2",
             "Title": "Project Hail Mary: A Novel"
@@ -4936,7 +4903,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=ASaWzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
             "Title": "In Search of a Kingdom: Francis Drake, Elizabeth I, and the Perilous Birth of the British Empire"
@@ -4952,7 +4919,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781982126681-M.jpg",
             "Title": "Every Sky a Grave"
@@ -4968,7 +4935,7 @@
             ],
             "Rating": 2,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780735213616-M.jpg",
             "Title": "Breath: The New Science of a Lost Art"
@@ -4984,7 +4951,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781984878106-M.jpg",
             "Title": "Think Again: The Power of Knowing What You Don't Know"
@@ -5000,7 +4967,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781534403017-M.jpg",
             "Title": "Machine: A White Space Novel"
@@ -5016,7 +4983,7 @@
             ],
             "Rating": 2,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781982132613-M.jpg",
             "Title": "Amazon Unbound: Jeff Bezos and the Invention of a Global Empire"
@@ -5032,7 +4999,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780062372420-M.jpg",
             "Title": "Four Seconds: All the Time You Need to Replace Counter-Productive Habits with Ones That Really Work"
@@ -5048,7 +5015,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780063030978-M.jpg",
             "Title": "You're Invited: The Art and Science of Cultivating Influence"
@@ -5064,7 +5031,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780062458193-M.jpg",
             "Title": "Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley"
@@ -5080,7 +5047,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781473647664-M.jpg",
             "Title": "The Galaxy, and the Ground Within: Wayfarers 4"
@@ -5096,7 +5063,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780062987952-M.jpg",
             "Title": "Arriving Today: From Factory to Front Door -- Why Everything Has Changed About How and What We Buy"
@@ -5113,7 +5080,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=D_zhzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
             "Title": "Be Exceptional: Master the Five Traits That Set Extraordinary People Apart"
@@ -5129,7 +5096,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780062851529-M.jpg",
             "Title": "N-4 Down: The Hunt for the Arctic Airship Italia"
@@ -5145,7 +5112,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780063063327-M.jpg",
             "Title": "Impact Players: How to Take the Lead, Play Bigger, and Multiply Your Impact"
@@ -5161,7 +5128,7 @@
             ],
             "Rating": 2,
             "ReadYear": [
-                2021
+                "2021"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781789093155-M.jpg",
             "Title": "Stolen Earth"
@@ -5177,7 +5144,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780063028050-M.jpg",
             "Title": "Termination Shock"
@@ -5193,7 +5160,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=k9SzzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
             "Title": "Invisible Empire: The Natural History of Viruses"
@@ -5209,7 +5176,7 @@
             ],
             "Rating": 3,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780062979971-M.jpg",
             "Title": "Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX"
@@ -5225,7 +5192,7 @@
             ],
             "Rating": 2,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780525536222-M.jpg",
             "Title": "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs"
@@ -5243,7 +5210,7 @@
             ],
             "Rating": 2.5,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780062839268-M.jpg",
             "Title": "Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell"
@@ -5259,7 +5226,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780316462761-M.jpg",
             "Title": "Inhibitor Phase (Revelation Space)"
@@ -5275,7 +5242,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780593315347-M.jpg",
             "Title": "The Every: A novel"
@@ -5291,7 +5258,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781631498237-M.jpg",
             "Title": "It's Better to Be Feared: The New England Patriots Dynasty and the Pursuit of Greatness"
@@ -5307,7 +5274,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780441018666-M.jpg",
             "Title": "Terminal World"
@@ -5323,7 +5290,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/978-0393652246-M.jpg",
             "Title": "Super Pumped: The Battle for Uber"
@@ -5339,7 +5306,7 @@
             ],
             "Rating": 3,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/978-1501197260-M.jpg",
             "Title": "The Founders: The Story of Paypal and the Entrepreneurs Who Shaped Silicon Valley"
@@ -5355,7 +5322,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=y_JEEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
             "Title": "A Shot to Save the World: The Inside Story of the Life-or-Death Race for a COVID-19 Vaccine"
@@ -5371,7 +5338,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/978-0316332910-M.jpg",
             "Title": "Leviathan Falls (The Expanse, 9)"
@@ -5387,7 +5354,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=lGmPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
             "Title": "The Man from the Future: The Visionary Life of John von Neumann"
@@ -5403,7 +5370,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/978-0062079602-M.jpg",
             "Title": "The Men Who United the States: America's Explorers, Inventors, Eccentrics and Mavericks, and the Creation of One Nation, Indivisible"
@@ -5419,7 +5386,7 @@
             ],
             "Rating": 2,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=kPlOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
             "Title": "Re-Coil"
@@ -5436,7 +5403,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/978-0062985415-M.jpg",
             "Title": "The Vortex: A True Story of History's Deadliest Storm, an Unspeakable War, and Liberation"
@@ -5452,7 +5419,7 @@
             ],
             "Rating": 3,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/978-0593316108-M.jpg",
             "Title": "The Man with the Silver Saab: A Detective Varg Novel"
@@ -5469,7 +5436,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=Zoh5zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
             "Title": "Human Hacking: Win Friends, Influence People, and Leave Them Better Off for Having Met You"
@@ -5485,7 +5452,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=xgcszgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
             "Title": "The Power of Flexing: How to Use Small Daily Experiments to Create Big Life-Changing Growth"
@@ -5501,7 +5468,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780593466360.jpg?height=300&v=v2",
             "Title": "The Murder of Roger Ackroyd (Hercule Poirot)"
@@ -5517,7 +5484,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=Zm4czgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
             "Title": "The Power of Nothing to Lose: The Hail Mary Effect in Politics, War, and Business"
@@ -5533,7 +5500,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/978-0062363381-M.jpg",
             "Title": "Getting to Yes with Yourself: And Other Worthy Opponents"
@@ -5549,7 +5516,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=wTiyzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
             "Title": "Build: An Unorthodox Guide to Making Things Worth Making"
@@ -5566,7 +5533,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=uLNyzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
             "Title": "Blistering Barnacles: An A-Z of The Rants, Rambles and Rages of Captain Haddock: Celebrating 80 years of Herg\u00e9\u2019s beloved comic character"
@@ -5582,7 +5549,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2023
+                "2023"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/978-9388322058-M.jpg",
             "Title": "The Gollancz Book of South Asian Science Fiction"
@@ -5598,9 +5565,9 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2022
+                "2022"
             ],
-            "ThumbNail": "https://covers.openlibrary.org/b/isbn/9789391028626-M.jpg",
+            "ThumbNail": "https://books.google.com/books/content?id=TgZT0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "Title": "The Gollancz Book of South Asian Science Fiction Volume 2"
         },
         {
@@ -5614,7 +5581,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=ffr-zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
             "Title": "Spy Hook"
@@ -5630,7 +5597,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=vE7yzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
             "Title": "Spy Line"
@@ -5646,7 +5613,7 @@
             ],
             "Rating": 3,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=rY8QzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
             "Title": "Spy Sinker"
@@ -5662,7 +5629,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=Of-lDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
             "Title": "Great State: China and the World"
@@ -5679,7 +5646,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/978-0062940445-M.jpg",
             "Title": "The Lehman Trilogy"
@@ -5696,7 +5663,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/978-0062956118-M.jpg",
             "Title": "M: Son of the Century: A Novel"
@@ -5713,7 +5680,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=dB2VswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
             "Title": "Genius Foods: Become Smarter, Happier, and More Productive While Protecting Your Brain for Life"
@@ -5729,7 +5696,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/978-0062883292-M.jpg",
             "Title": "Team America: Patton, MacArthur, Marshall, Eisenhower, and the World They Forged"
@@ -5745,7 +5712,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/978-0525559993-M.jpg",
             "Title": "The Power Law: Venture Capital and the Making of the New Future"
@@ -5761,7 +5728,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2022
+                "2022"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780416596700-M.jpg",
             "Title": "The Valley of the Cobras (The Adventures of Jo, Zette and Jocko)"
@@ -5777,7 +5744,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2023
+                "2023"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/978-1250275035-M.jpg",
             "Title": "Mickey7: A Novel"
@@ -5793,7 +5760,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2023
+                "2023"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781662505096-M.jpg",
             "Title": "Meru"
@@ -5809,7 +5776,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2023
+                "2023"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781786185129-M.jpg",
             "Title": "The Immortality Thief"
@@ -5825,7 +5792,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2023
+                "2023"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781250275059-M.jpg",
             "Title": "Antimatter Blues: A Mickey7 Novel"
@@ -5841,7 +5808,7 @@
             ],
             "Rating": 3,
             "ReadYear": [
-                2023
+                "2023"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781982192297.jpg?height=300&v=v2",
             "Title": "Summer's End"
@@ -5857,7 +5824,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2023
+                "2023"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780593535363-M.jpg",
             "Title": "Titanium Noir: A novel"
@@ -5873,12 +5840,10 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2023
+                "2023"
             ],
-            "Summary": "The Song of the Cell: An Exploration of Medicine and the New Human is a book on the history of the human understanding of cell biology, written by Siddhartha Mukherjee, an Indian-born American physician and oncologist, who is Assistant Professor of Medicine at Columbia University.",
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781982117351-M.jpg",
-            "Title": "The Song of the Cell: An Exploration of Medicine and the New Human",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/The_Song_of_the_Cell"
+            "Title": "The Song of the Cell: An Exploration of Medicine and the New Human"
         },
         {
             "Authors": [
@@ -5891,7 +5856,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2023
+                "2023"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780425167724-M.jpg",
             "Title": "An Instance of the Fingerpost"
@@ -5907,7 +5872,7 @@
             ],
             "Rating": 1,
             "ReadYear": [
-                2023
+                "2023"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=whmtDwAAQBAJ&w=96&img=1&zoom=5&printsec=frontcover",
             "Title": "The Fox"
@@ -5923,7 +5888,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2023
+                "2023"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780593317211-M.jpg",
             "Title": "Counterweight: A Novel"
@@ -5939,7 +5904,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2023
+                "2023"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780316289719-M.jpg",
             "Title": "Translation State (Imperial Radch)"
@@ -5955,7 +5920,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2023
+                "2023"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780316246682-M.jpg",
             "Title": "Ancillary Mercy (Imperial Radch, 3)"
@@ -5971,7 +5936,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781534449954-M.jpg",
             "Title": "The Strange"
@@ -5987,7 +5952,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780765319647-M.jpg",
             "Title": "BLINDSIGHT (Firefall, 1)"
@@ -6003,7 +5968,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780593539583-M.jpg",
             "Title": "Ascension: A Novel"
@@ -6019,7 +5984,7 @@
             ],
             "Rating": 2,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780744306675.jpg?height=300&v=v2",
             "Title": "The Oxygen Farmer"
@@ -6035,7 +6000,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780316565646.jpg?height=300&v=v2",
             "Title": "The State of The Art"
@@ -6051,7 +6016,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780316030571-M.jpg",
             "Title": "Use of Weapons (Culture)"
@@ -6067,7 +6032,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781250806710.jpg?height=300&v=v2",
             "Title": "Wolf Hall (Wolf Hall Trilogy, 1)"
@@ -6083,7 +6048,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780393541588.jpg?height=300&v=v2",
             "Title": "Master and Commander (Aubrey/Maturin Novels, 1)"
@@ -6099,7 +6064,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780393541595.jpg?height=300&v=v2",
             "Title": "Post Captain (Aubrey/Maturin Novels, 2)"
@@ -6115,7 +6080,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780393541601.jpg?height=300&v=v2",
             "Title": "H.M.S. Surprise (Aubrey/Maturin Novels, 3)"
@@ -6131,7 +6096,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780393541618.jpg?height=300&v=v2",
             "Title": "The Mauritius Command (Aubrey/Maturin Novels, 4)"
@@ -6147,7 +6112,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780393541625.jpg?height=300&v=v2",
             "Title": "Desolation Island (Aubrey/Maturin Novels, 5)"
@@ -6163,7 +6128,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780393541632.jpg?height=300&v=v2",
             "Title": "The Fortune of War (Aubrey/Maturin Novels, 6)"
@@ -6179,7 +6144,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780393541649.jpg?height=300&v=v2",
             "Title": "The Surgeon's Mate (Aubrey/Maturin Novels, 7)"
@@ -6195,7 +6160,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780393881745.jpg?height=300&v=v2",
             "Title": "The Ionian Mission (Aubrey/Maturin Novels, 8)"
@@ -6211,7 +6176,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780393881738.jpg?height=300&v=v2",
             "Title": "Treason's Harbour (Aubrey/Maturin Novels, 9)"
@@ -6227,7 +6192,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781324020509.jpg?height=300&v=v2",
             "Title": "The Far Side of the World (Aubrey/Maturin Novels, 10)"
@@ -6243,7 +6208,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781324020516.jpg?height=300&v=v2",
             "Title": "The Reverse of the Medal (Aubrey/Maturin Novels, 11)"
@@ -6259,7 +6224,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781324020523.jpg?height=300&v=v2",
             "Title": "The Letter of Marque (Aubrey/Maturin Novels, 12)"
@@ -6275,7 +6240,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781324020530.jpg?height=300&v=v2",
             "Title": "The Thirteen-Gun Salute (Aubrey/Maturin Novels, 13)"
@@ -6291,7 +6256,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781324020547.jpg?height=300&v=v2",
             "Title": "The Nutmeg of Consolation (Aubrey/Maturin Novels, 14)"
@@ -6307,7 +6272,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781324020554.jpg?height=300&v=v2",
             "Title": "The Truelove (Aubrey/Maturin Novels, 15)"
@@ -6323,7 +6288,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781324021544.jpg?height=300&v=v2",
             "Title": "The Wine-Dark Sea (Aubrey/Maturin Novels, 16)"
@@ -6339,7 +6304,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781324021551.jpg?height=300&v=v2",
             "Title": "The Commodore (Aubrey/Maturin Novels, 17)"
@@ -6355,7 +6320,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781324021704.jpg?height=300&v=v2",
             "Title": "The Yellow Admiral (Aubrey/Maturin Novels, 18)"
@@ -6371,7 +6336,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781324021711.jpg?height=300&v=v2",
             "Title": "The Hundred Days (Aubrey/Maturin Novels, 19)"
@@ -6387,7 +6352,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781324035275.jpg?height=300&v=v2",
             "Title": "Blue at the Mizzen (Aubrey/Maturin Novels, 20)"
@@ -6403,7 +6368,7 @@
             ],
             "Rating": 3,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780802163622.jpg?height=300&v=v2",
             "Title": "Orbital: A Novel"
@@ -6419,7 +6384,7 @@
             ],
             "Rating": 2,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781250324887.jpg?height=300&v=v2",
             "Title": "Navigational Entanglements"
@@ -6435,7 +6400,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://pictures.abebooks.com/isbn/9789353451608-us-300.jpg",
             "Title": "Lords of the Deccan: Southern India From The Chalukyas To The Cholas"
@@ -6451,7 +6416,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2024
+                "2024"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780316525572.jpg?height=300&v=v2",
             "Title": "The Mercy of Gods (The Captive's War, 1)"
@@ -6467,7 +6432,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2025
+                "2025"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780316005388.jpg?height=300&v=v2",
             "Title": "Consider Phlebas (Culture)"
@@ -6483,26 +6448,10 @@
             ],
             "Rating": 2,
             "ReadYear": [
-                2025
+                "2025"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9798886451740.jpg?height=300&v=v2",
             "Title": "How to Make a Few Billion Dollars"
-        },
-        {
-            "Authors": [
-                "William Dalrymple"
-            ],
-            "ISBN10": "1639734147",
-            "ISBN13": "9781639734146",
-            "Progress": [
-                0
-            ],
-            "Rating": 0,
-            "ReadYear": [
-                2025
-            ],
-            "ThumbNail": "https://images-us.bookshop.org/ingram/9781639734146.jpg?height=300&v=v2",
-            "Title": "The Golden Road: How Ancient India Transformed the World"
         },
         {
             "Authors": [
@@ -6515,7 +6464,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2025
+                "2025"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780063286344.jpg?height=300&v=v2",
             "Title": "A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains"
@@ -6531,7 +6480,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2025
+                "2025"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9780593654477.jpg?height=300&v=v2",
             "Title": "The MANIAC"
@@ -6547,7 +6496,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2025
+                "2025"
             ],
             "ThumbNail": "https://pictures.abebooks.com/isbn/9789353455606-us-300.jpg",
             "Title": "Lords of Earth And Sea : A History of The Chola Empire"
@@ -6563,7 +6512,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2025
+                "2025"
             ],
             "ThumbNail": "https://pictures.abebooks.com/isbn/9789369894628-us-300.jpg",
             "Title": "Shattered Lands : Five Partitions and the Making of Modern Asia"
@@ -6579,7 +6528,7 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2025
+                "2025"
             ],
             "ThumbNail": "https://pictures.abebooks.com/isbn/9780552150446-us-300.jpg",
             "Title": "Avenger"
@@ -6595,26 +6544,10 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                2025
+                "2025"
             ],
             "ThumbNail": "https://images-us.bookshop.org/ingram/9781250237750.jpg?height=300&v=v2",
             "Title": "A Fire Upon The Deep (Zones of Thought, 1)"
-        },
-        {
-            "Authors": [
-                "Vernor Vinge"
-            ],
-            "ISBN10": "1250905974",
-            "ISBN13": "9781250905970",
-            "Progress": [
-                0
-            ],
-            "Rating": 0,
-            "ReadYear": [
-                2025
-            ],
-            "ThumbNail": "https://images-us.bookshop.org/ingram/9781250905970.jpg?height=300&v=v2",
-            "Title": "A Deepness in the Sky (Zones of Thought, 2)"
         },
         {
             "Authors": [
@@ -6627,7 +6560,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2025
+                "2025"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780812579925-L.jpg",
             "Title": "The Children of the Sky (Zones of Thought series Book 3)"
@@ -6642,11 +6575,11 @@
                 0
             ],
             "Rating": 0,
-            "ReadYear": [],
-            "Summary": "The Gene: An Intimate History is a book written by Siddhartha Mukherjee, an Indian-born American physician and oncologist. It was published on 17 May 2016 by Scribner. The book chronicles the history of the gene and genetic research, all the way from Aristotle to Crick, Watson and Franklin and then the 21st century scientists who mapped the human genome. The book discusses the power of genetics in determining people's well-being and traits. It delves into the personal genetic history of Siddhartha Mukherjee's family, including mental illness. However, it is also a cautionary message toward not letting genetic predispositions define a person or their fate, a mentality that the author says led to the rise of eugenics in history.",
+            "ReadYear": [
+                "2024"
+            ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/11320163-M.jpg",
-            "Title": "The Gene",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/The_Gene%3A_An_Intimate_History"
+            "Title": "The Gene"
         },
         {
             "Authors": [
@@ -6661,10 +6594,8 @@
             "ReadYear": [
                 "2010s"
             ],
-            "Summary": "Ancillary Justice is a science fiction novel by the American writer Ann Leckie, published in 2013. It is Leckie's debut novel and the first in her Imperial Radch space opera trilogy, followed by Ancillary Sword (2014) and Ancillary Mercy (2015). The novel follows Breq\u2014who is both the sole survivor of a starship destroyed by treachery and the vessel of that ship's artificial consciousness\u2014as she seeks revenge against the ruler of her civilization.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/7355949-M.jpg",
-            "Title": "Ancillary Justice",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Ancillary_Justice"
+            "Title": "Ancillary Justice"
         },
         {
             "Authors": [
@@ -6679,10 +6610,8 @@
             "ReadYear": [
                 "2010s"
             ],
-            "Summary": "Ancillary Sword is a science fiction novel by the American writer Ann Leckie, published in October 2014. It is the second novel in Leckie's \"Imperial Radch\" space opera trilogy, which began with Ancillary Justice (2013) and ended with Ancillary Mercy (2015). The novel was generally well-received by critics, received the BSFA Award for Best Novel and the Locus Award for Best Science Fiction Novel, and was nominated for the Nebula and Hugo awards.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/7422984-M.jpg",
-            "Title": "Ancillary Sword",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Ancillary_Sword"
+            "Title": "Ancillary Sword"
         },
         {
             "Authors": [
@@ -6695,12 +6624,10 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2017
+                "2017"
             ],
-            "Summary": "Provenance is the chronology of the ownership, custody or location of a historical object. The term was originally mostly used in relation to works of art, but is now used in similar senses in a wide range of fields, including archaeology, paleontology, archival science, economy, computing, and scientific inquiry in general.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/8316894-M.jpg",
-            "Title": "Provenance",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Provenance"
+            "Title": "Provenance"
         },
         {
             "Authors": [
@@ -6713,12 +6640,10 @@
             ],
             "Rating": 3,
             "ReadYear": [
-                2017
+                "2017"
             ],
-            "Summary": "This is a list of books by British hard science fiction, Lovecraftian horror, and space opera author Charles Stross.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/8476037-M.jpg",
-            "Title": "Empire Games",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Charles_Stross_bibliography"
+            "Title": "Empire Games"
         },
         {
             "Authors": [
@@ -6763,7 +6688,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2017
+                "2017"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/13833828-M.jpg",
             "Title": "Bhima Lone Warrior"
@@ -6797,10 +6722,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "Exodus is a historical novel by the American novelist Leon Uris about the founding of the State of Israel beginning with a compressed retelling of the voyages of the 1947 immigration ship Exodus and describing the histories of the various main characters and the ties of their personal lives to the birth of the new Jewish state.",
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9780553241549-L.jpg",
-            "Title": "Exodus",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Exodus_(Uris_novel)"
+            "Title": "Exodus"
         },
         {
             "Authors": [
@@ -6879,10 +6802,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "The Thirteen Problems is a short story collection by British writer Agatha Christie, first published in the UK by Collins Crime Club in June 1932 and in the US by Dodd, Mead and Company in 1933 under the title The Tuesday Club Murders. The UK edition retailed at seven shillings and sixpence (7/6) and the US edition at $2.00. The thirteen stories feature the amateur detective Miss Marple, her nephew Raymond West, and her friend Sir Henry Clithering. They are the earliest stories Christie wrote about Miss Marple. The main setting for the frame story is the fictional village of St Mary Mead.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/11163587-M.jpg",
-            "Title": "The Thirteen Problems",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/The_Thirteen_Problems"
+            "Title": "The Thirteen Problems"
         },
         {
             "Authors": [
@@ -6913,10 +6834,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "A Pocket Full of Rye is a work of detective fiction by Agatha Christie first published in the UK by the Collins Crime Club on 9 November 1953 and in the US by Dodd, Mead & Co. the following year. The UK edition retailed at ten shillings and sixpence (10/6) and the US edition at $2.75. The book features her detective Miss Marple.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/14591386-M.jpg",
-            "Title": "A Pocket Full of Rye",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/A_Pocket_Full_of_Rye"
+            "Title": "A Pocket Full of Rye"
         },
         {
             "Authors": [
@@ -6963,10 +6882,8 @@
             "ReadYear": [
                 "2010s"
             ],
-            "Summary": "The Man in the High Castle is an alternative history novel by Philip K. Dick, first published in 1962, which imagines a world in which the Axis powers won World War II. The story occurs in 1962, fifteen years after the end of the war in 1947, and depicts the life of several characters living under Imperial Japan or Nazi Germany as they rule a partitioned United States. The eponymous character is the mysterious author of a novel-within-the-novel entitled The Grasshopper Lies Heavy, a subversive alternative history of the war in which the Allied powers are victorious.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/420452-M.jpg",
-            "Title": "The Man in the High Castle",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/The_Man_in_the_High_Castle"
+            "Title": "The Man in the High Castle"
         },
         {
             "Authors": [
@@ -7013,10 +6930,8 @@
             "ReadYear": [
                 "2000s"
             ],
-            "Summary": "Do Androids Dream of Electric Sheep? is a 1968 dystopian science fiction novel by American writer Philip K. Dick. It is set in a post-apocalyptic San Francisco, where Earth's life has been greatly damaged by a nuclear global war. The main plot follows Rick Deckard, a bounty hunter who has to \"retire\" six escaped Nexus-6 model androids, while a secondary plot follows John Isidore, a man of sub-par IQ who aids the fugitive androids.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/207515-M.jpg",
-            "Title": "Do Androids Dream of Electric Sheep?",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F"
+            "Title": "Do Androids Dream of Electric Sheep?"
         },
         {
             "Authors": [
@@ -7031,10 +6946,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "Dracula is an 1897 Gothic horror novel by Irish author Bram Stoker. The narrative is related through letters, diary entries, and newspaper articles. It has no single protagonist and opens with solicitor Jonathan Harker taking a business trip to stay at the castle of a Transylvanian nobleman, Count Dracula. Harker flees after learning that Dracula is a vampire, and the Count moves to England and plagues the seaside town of Whitby. A small group, led by Abraham Van Helsing, hunts and kills him.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/12216503-M.jpg",
-            "Title": "Dracula",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Dracula"
+            "Title": "Dracula"
         },
         {
             "Authors": [
@@ -7113,10 +7026,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "A prize is an award to be given to a person or a group of people to recognize and reward their actions and achievements. Official prizes often involve monetary rewards as well as the fame that comes with them. Some prizes are also associated with extravagant awarding ceremonies, such as the Academy Awards.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/3886990-M.jpg",
-            "Title": "Prizes",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Prize"
+            "Title": "Prizes"
         },
         {
             "Authors": [
@@ -7131,10 +7042,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "Nicholas Nickleby, or The Life and Adventures of Nicholas Nickleby, is the third novel by English author Charles Dickens, originally published as a serial from 1838 to 1839. The character of Nickleby is a young man who must support his mother and sister after his father dies.",
             "ThumbNail": "https://covers.openlibrary.org/b/isbn/9781853262647-L.jpg",
-            "Title": "The Life and Adventures of Nicholas Nickleby",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Nicholas_Nickleby"
+            "Title": "The Life and Adventures of Nicholas Nickleby"
         },
         {
             "Authors": [
@@ -7182,10 +7091,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "Psmith, Journalist is a novel by P. G. Wodehouse, first released in the United Kingdom as a serial in The Captain magazine between October 1909 and February 1910, and published in book form in the UK on 29 September 1915, by Adam & Charles Black, London, and, from imported sheets, by Macmillan, New York, later that year.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/6388914-M.jpg",
-            "Title": "Psmith Journalist",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Psmith%2C_Journalist"
+            "Title": "Psmith Journalist"
         },
         {
             "Authors": [
@@ -7232,10 +7139,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "The Mosquito Coast is a novel by author Paul Theroux. Published in 1981, it won the James Tait Black Memorial Prize and was the Yorkshire Post Novel of the Year.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/4616731-M.jpg",
-            "Title": "The Mosquito Coast",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/The_Mosquito_Coast_(novel)"
+            "Title": "The Mosquito Coast"
         },
         {
             "Authors": [
@@ -7343,7 +7248,7 @@
             ],
             "Rating": 0,
             "ReadYear": [
-                2025
+                "2025"
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/603591-M.jpg",
             "Title": "A Deepness in the Sky (Zones of Thought)"
@@ -7409,10 +7314,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "Appointment with Death is a work of detective fiction by British writer Agatha Christie, first published in the UK by the Collins Crime Club on 2 May 1938 and in the US by Dodd, Mead and Company later in the same year. The UK edition retailed at seven shillings and sixpence (7/6) and the US edition at $2.00.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/14561660-M.jpg",
-            "Title": "Appointment with Death",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Appointment_with_Death"
+            "Title": "Appointment with Death"
         },
         {
             "Authors": [
@@ -7443,10 +7346,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "Murder in Mesopotamia is a work of detective fiction by British writer Agatha Christie, first published in the UK by the Collins Crime Club on 6 July 1936 and in the US by Dodd, Mead and Company later in the same year. The UK edition retailed at seven shillings and sixpence (7/6) and the US edition at $2.00. The cover was designed by Robin McCartney.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/12855104-M.jpg",
-            "Title": "Murder in Mesopotamia",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Murder_in_Mesopotamia"
+            "Title": "Murder in Mesopotamia"
         },
         {
             "Authors": [
@@ -7493,10 +7394,8 @@
             "ReadYear": [
                 "2010s"
             ],
-            "Summary": "New York 2140 is a 2017 climate fiction novel by American science fiction author Kim Stanley Robinson. The novel is set in a New York City that has been flooded and altered by rising water. The novel received generally positive reviews.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/8595447-M.jpg",
-            "Title": "New York 2140",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/New_York_2140"
+            "Title": "New York 2140"
         },
         {
             "Authors": [
@@ -7526,12 +7425,10 @@
             ],
             "Rating": 4,
             "ReadYear": [
-                1996
+                "1996"
             ],
-            "Summary": "Lido Anthony \"Lee\" Iacocca was an American author and executive who developed the Ford Mustang, Continental Mark III, and Ford Pinto cars while at the Ford Motor Company in the 1960s, and then revived the Chrysler Corporation as its CEO during the 1980s. He was president of Chrysler from 1978 to 1991 and chairman and CEO from 1979 until his retirement at the end of 1992. He was one of the few executives to preside over the operations of two of the United States' Big Three automakers.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/4672223-M.jpg",
-            "Title": "Iacocca",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Lee_Iacocca"
+            "Title": "Iacocca"
         },
         {
             "Authors": [
@@ -7564,22 +7461,6 @@
             ],
             "ThumbNail": "https://covers.openlibrary.org/b/id/10657368-M.jpg",
             "Title": "Next"
-        },
-        {
-            "Authors": [
-                "Vernor Vinge"
-            ],
-            "ISBN10": "0312875622",
-            "ISBN13": "9780312875626",
-            "Progress": [
-                0
-            ],
-            "Rating": 0,
-            "ReadYear": [
-                2025
-            ],
-            "ThumbNail": "https://covers.openlibrary.org/b/id/9907912-M.jpg",
-            "Title": "The children of the sky"
         },
         {
             "Authors": [
@@ -7656,7 +7537,7 @@
             ],
             "Rating": 5,
             "ReadYear": [
-                2019
+                "2019"
             ],
             "ThumbNail": "https://books.google.com/books/content?id=WHGFoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
             "Title": "Ancestral Night"
@@ -7706,10 +7587,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "Frankenstein; or, The Modern Prometheus is an 1818 Gothic novel written by English author Mary Shelley. Frankenstein tells the story of Victor Frankenstein, a young scientist who creates a sapient creature in an unorthodox scientific experiment that involved putting it together with different body parts. Shelley started writing the story when she was 18 and staying in Bath, and the first edition was published anonymously in London on 1 January 1818, when she was 20. Her name first appeared in the second edition, which was published in Paris in 1821.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/12356249-M.jpg",
-            "Title": "Frankenstein or The Modern Prometheus",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Frankenstein"
+            "Title": "Frankenstein or The Modern Prometheus"
         },
         {
             "Authors": [
@@ -7740,10 +7619,8 @@
             "ReadYear": [
                 "2010s"
             ],
-            "Summary": "The Water Knife is a 2015 science fiction novel by Paolo Bacigalupi. It is Bacigalupi's sixth novel, and is based on his short story, The Tamarisk Hunter, first published in the news magazine High Country News. It takes place in the near future, where drought brought on by climate change has devastated the Southwestern United States.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/8148453-M.jpg",
-            "Title": "The Water Knife",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/The_Water_Knife"
+            "Title": "The Water Knife"
         },
         {
             "Authors": [
@@ -7790,10 +7667,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "The Murder of Roger Ackroyd is a detective novel by the British writer Agatha Christie, her third to feature Hercule Poirot as the lead detective. The novel was published in the UK in June 1926 by William Collins, Sons, having previously been serialised as Who Killed Ackroyd? between July and September 1925 in the London Evening News. An American edition by Dodd, Mead and Company followed in 1926.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/13151356-M.jpg",
-            "Title": "The Murder of Roger Ackroyd",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/The_Murder_of_Roger_Ackroyd"
+            "Title": "The Murder of Roger Ackroyd"
         },
         {
             "Authors": [
@@ -7841,10 +7716,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "Malgudi Days is a collection of short stories by R. K. Narayan published in 1943 by Indian Thought Publications.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/7981639-M.jpg",
-            "Title": "Malgudi days",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Malgudi_Days_(short_story_collection)"
+            "Title": "Malgudi days"
         },
         {
             "Authors": [
@@ -7875,10 +7748,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "Swami and Friends is a 1935 novel by R. K. Narayan, marking his debut as an English-language novelist from India. It is the first book in a trilogy set in the fictional town of Malgudi during British India. The novel is followed by The Bachelor of Arts and The English Teacher, completing the trilogy.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/7240802-M.jpg",
-            "Title": "Swami and Friends",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Swami_and_Friends"
+            "Title": "Swami and Friends"
         },
         {
             "Authors": [
@@ -7893,10 +7764,8 @@
             "ReadYear": [
                 "2010s"
             ],
-            "Summary": "Stories of Your Life and Others is a collection of science fiction and fantasy short stories by American writer Ted Chiang published in 2002 by Tor Books. It collects Chiang's first eight stories. All of the stories except \"Liking What You See: A Documentary\" were previously published individually elsewhere.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/524046-M.jpg",
-            "Title": "Stories of Your Life and Others",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/Stories_of_Your_Life_and_Others"
+            "Title": "Stories of Your Life and Others"
         },
         {
             "Authors": [
@@ -7911,10 +7780,8 @@
             "ReadYear": [
                 "2000s"
             ],
-            "Summary": "The Windup Girl is a biopunk science fiction novel by American writer Paolo Bacigalupi. It was his debut novel and was published by Night Shade Books on September 1, 2009. The novel is set in a future Thailand and covers a number of contemporary issues such as global warming and biotechnology.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/6463375-M.jpg",
-            "Title": "The Windup Girl",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/The_Windup_Girl"
+            "Title": "The Windup Girl"
         },
         {
             "Authors": [
@@ -7929,10 +7796,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "The Mysterious Affair at Styles is the first detective novel by British writer Agatha Christie, introducing her fictional detective Hercule Poirot. It was written in the middle of the First World War, in 1916, and first published by John Lane in the United States in October 1920 and in the United Kingdom by The Bodley Head on 21 January 1921.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/13699667-M.jpg",
-            "Title": "The Mysterious Affair at Styles",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/The_Mysterious_Affair_at_Styles"
+            "Title": "The Mysterious Affair at Styles"
         },
         {
             "Authors": [
@@ -7947,10 +7812,8 @@
             "ReadYear": [
                 "1990s"
             ],
-            "Summary": "A Christmas Carol. In Prose. Being a Ghost Story of Christmas, commonly known as A Christmas Carol, is a novella by Charles Dickens, first published in London by Chapman & Hall in 1843 and illustrated by John Leech. It recounts the story of Ebenezer Scrooge, an elderly miser who is visited by the ghost of his former business partner Jacob Marley and the spirits of Christmas Past, Present and Yet to Come. In the process, Scrooge is transformed into a kinder, gentler man.",
             "ThumbNail": "https://covers.openlibrary.org/b/id/13299222-M.jpg",
-            "Title": "A Christmas Carol",
-            "WikipediaURL": "https://en.wikipedia.org/wiki/A_Christmas_Carol"
+            "Title": "A Christmas Carol"
         },
         {
             "Authors": [

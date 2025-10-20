@@ -1,4 +1,4 @@
-# Peter F. Hamilton:  Books Read 19 / 19, Avg Rating: 0.79 :star:
+# Peter F. Hamilton:  Books Read 19 / 20, Avg Rating: 0.79 :star:
 
 ## ![The Saints of Salvation](https://covers.openlibrary.org/b/id/10305043-M.jpg) The Saints of Salvation
 *[Peter F. Hamilton](../authors/PeterFHamilton)*
@@ -74,6 +74,17 @@ Read:
 [Massachusetts Library](https://library.minlib.net/search/i=9781509868636) / [Open Library](https://openlibrary.org/isbn/9781509868636) / [Local Book Shop](https://bookshop.org/book/9781509868636) / [Amazon](https://amazon.com/dp/023070543X)
 
 ![100%](https://geps.dev/progress/100) 
+
+
+
+## ![Exodus](https://covers.openlibrary.org/b/id/14840403-M.jpg) Exodus
+*[Peter F. Hamilton](../authors/PeterFHamilton)*
+
+Read: 2020s
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781529073713) / [Open Library](https://openlibrary.org/isbn/9781529073713) / [Local Book Shop](https://bookshop.org/book/9781529073713) / [Amazon](https://amazon.com/dp/1529073707)
+
+![0%](https://geps.dev/progress/0) 
 
 
 

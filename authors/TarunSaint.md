@@ -11,7 +11,7 @@ Read: 2023
 
 
 
-## ![The Gollancz Book of South Asian Science Fiction Volume 2](https://covers.openlibrary.org/b/isbn/9789391028626-M.jpg) The Gollancz Book of South Asian Science Fiction Volume 2
+## ![The Gollancz Book of South Asian Science Fiction Volume 2](https://books.google.com/books/content?id=TgZT0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api) The Gollancz Book of South Asian Science Fiction Volume 2
 *[Tarun Saint](../authors/TarunSaint)*
 
 Read: 2022

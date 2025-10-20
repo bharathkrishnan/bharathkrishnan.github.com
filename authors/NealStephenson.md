@@ -1,4 +1,4 @@
-# Neal Stephenson:  Books Read 6 / 6, Avg Rating: 4.67 :star: :star: :star: :star: :star:
+# Neal Stephenson:  Books Read 7 / 7, Avg Rating: 4.71 :star: :star: :star: :star: :star:
 
 ## ![Snow Crash](https://covers.openlibrary.org/b/id/392508-M.jpg) Snow Crash
 *[Neal Stephenson](../authors/NealStephenson)*
@@ -21,6 +21,17 @@ Read: 2000s
 ![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star:
+
+## ![The Diamond Age](https://covers.openlibrary.org/b/id/8598269-M.jpg) The Diamond Age
+*[Neal Stephenson](../authors/NealStephenson)*
+
+Read: 2000s
+
+[Massachusetts Library](https://library.minlib.net/search/i=9783442451548) / [Open Library](https://openlibrary.org/isbn/9783442451548) / [Local Book Shop](https://bookshop.org/book/9783442451548) / [Amazon](https://amazon.com/dp/0670864145)
+
+![100%](https://geps.dev/progress/100) 
+
+:star: :star: :star: :star: :star:
 
 ## ![Seveneves](https://covers.openlibrary.org/b/id/9295719-M.jpg) Seveneves
 *[Neal Stephenson](../authors/NealStephenson)*
