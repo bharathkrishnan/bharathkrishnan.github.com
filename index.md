@@ -84,7 +84,6 @@
 
 ---
 ## Books with 5-star reviews, 2020s
-<img src="https://covers.openlibrary.org/b/isbn/9780575090729-L.jpg" width=128>
 <img src="https://covers.openlibrary.org/b/id/10528131-M.jpg" width=128>
 <img src="https://covers.openlibrary.org/b/id/8235551-M.jpg" width=128>
 <img src="https://covers.openlibrary.org/b/id/11200092-M.jpg" width=128>

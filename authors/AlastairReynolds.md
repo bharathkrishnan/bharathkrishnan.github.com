@@ -1,4 +1,4 @@
-# Alastair Reynolds:  Books Read 27 / 27, Avg Rating: 4.96 :star: :star: :star: :star: :star:
+# Alastair Reynolds:  Books Read 26 / 26, Avg Rating: 4.96 :star: :star: :star: :star: :star:
 
 ## ![Absolution gap](https://covers.openlibrary.org/b/id/284155-M.jpg) Absolution gap
 *[Alastair Reynolds](../authors/AlastairReynolds)*
@@ -193,17 +193,6 @@ Read: 2010s
 Read: 2010s
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781616961947) / [Open Library](https://openlibrary.org/isbn/9781616961947) / [Local Book Shop](https://bookshop.org/book/9781616961947) / [Amazon](https://amazon.com/dp/147321842X)
-
-![100%](https://geps.dev/progress/100) 
-
-:star: :star: :star: :star: :star:
-
-## ![Inhibitor Phase](https://covers.openlibrary.org/b/isbn/9780575090729-L.jpg) Inhibitor Phase
-*[Alastair Reynolds](../authors/AlastairReynolds)*
-
-Read: 2020s
-
-[Massachusetts Library](https://library.minlib.net/search/i=9780575090729) / [Open Library](https://openlibrary.org/isbn/9780575090729) / [Local Book Shop](https://bookshop.org/book/9780575090729) / [Amazon](https://amazon.com/dp/0316462772)
 
 ![100%](https://geps.dev/progress/100) 
 
