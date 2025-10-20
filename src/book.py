@@ -29,17 +29,32 @@ class Book:
         # Always treat ReadYear as a list for backward compatibility
         ry = data["ReadYear"]
         if isinstance(ry, list):
-            self.readYear = ry
+            raw_years = ry
         else:
-            self.readYear = [ry]
+            raw_years = [ry]
+        # Normalize year values to integers when possible (e.g., "2025" -> 2025)
+        self.readYear = [
+            int(y) if isinstance(y, str) and y.isdigit() else y for y in raw_years
+        ]
         # Always treat Progress as a list for backward compatibility
         prog = data["Progress"]
         if isinstance(prog, list):
             self.progress = prog
         else:
             self.progress = [prog]
-        # Map year to progress
-        self.year_progress = {y: self.progress[i] if i < len(self.progress) else 0.0 for i, y in enumerate(self.readYear)}
+        # Map year (normalized to int when possible) to progress.
+        # If a decade string like "2000s" appears in data, expand it to years 2000..2009.
+        self.year_progress = {}
+        for i, y in enumerate(self.readYear):
+            prog = self.progress[i] if i < len(self.progress) else 0.0
+            if isinstance(y, str) and y.endswith('s') and y[:-1].isdigit():
+                decade_start = int(y[:-1])
+                for yy in range(decade_start, decade_start + 10):
+                    # keep the max progress if multiple entries set the same year
+                    self.year_progress[yy] = max(self.year_progress.get(yy, 0.0), prog)
+            else:
+                y_key = int(y) if isinstance(y, str) and y.isdigit() else y
+                self.year_progress[y_key] = prog
         if "ThumbNail" not in data or data["ThumbNail"] == "null":
             self.thumbnail = self.get_thumbnail()
             if self.thumbnail != None:

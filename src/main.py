@@ -6,30 +6,46 @@ from tqdm import tqdm
 import datetime
 
 
+def _dedupe_books(book_list):
+    """Return a list of unique books, preferring stable identifiers.
+    Falls back to title or object id for mocks/tests.
+    """
+    seen = set()
+    unique = []
+    for b in book_list:
+        key = getattr(b, "isbn13", None) or getattr(b, "isbn10", None) or getattr(b, "title", None) or id(b)
+        if key not in seen:
+            seen.add(key)
+            unique.append(b)
+    return unique
+
+
 def get_stats(books, year=None):
     stats = {}
-    stats["num_books"] = len(books)
+    uniq_books = _dedupe_books(books)
+    stats["num_books"] = len(uniq_books)
+
     if year is not None:
-        if year.endswith('s'):  # It's a decade
-            # For decades, check if any of the original years in the decade have progress
-            stats["num_books_finished"] = len([x for x in books if any(x.get_progress_for_year(orig_year) > 0.7 for orig_year in x.readYear)])
-            finished_books = [x for x in books if any(x.get_progress_for_year(orig_year) == 1.0 or x.rating > 0 for orig_year in x.readYear)]
-        else:
-            stats["num_books_finished"] = len([x for x in books if x.get_progress_for_year(year) > 0.7])
-            finished_books = [x for x in books if x.get_progress_for_year(year) == 1.0 or x.rating > 0]
+        # Use per-group progress (year like '2021' or decade like '2010s')
+        finished_for_group = [x for x in uniq_books if x.get_progress_for_year(year) > 0.7]
+        finished_for_rating = [x for x in uniq_books if x.get_progress_for_year(year) == 1.0 or x.rating > 0]
     else:
-        stats["num_books_finished"] = len([x for x in books if x.progress and x.progress[0] > 0.7])
-        finished_books = [x for x in books if x.progress and (x.progress[0] == 1.0 or x.rating > 0)]
+        # Fallback for overall stats (e.g., author pages): use first progress entry if present
+        finished_for_group = [x for x in uniq_books if getattr(x, "progress", None) and x.progress and x.progress[0] > 0.7]
+        finished_for_rating = [x for x in uniq_books if getattr(x, "progress", None) and x.progress and (x.progress[0] == 1.0 or x.rating > 0)]
+
+    stats["num_books_finished"] = len(finished_for_group)
     stats["perc_books_finished"] = round(
         stats["num_books_finished"] * 100.0 / stats["num_books"], 2
     ) if stats["num_books"] > 0 else 0.0
+
     stats["num_authors"] = len(
-        set([z.print() for z in list(chain.from_iterable([x.authors for x in books]))])
+        set([z.print() for z in list(chain.from_iterable([x.authors for x in uniq_books]))])
     )
     stats["avg_rating"] = round(
-        sum([x.rating for x in finished_books]) / max(1, len(finished_books)),
+        sum([x.rating for x in finished_for_rating]) / max(1, len(finished_for_rating)),
         2,
-    ) if books else 0.0
+    ) if uniq_books else 0.0
     return stats
 
 
@@ -108,11 +124,8 @@ def print_year(filename, books, yearly_stats, years, y):
             )
         )
         for book in books[y]:
-            # For decades, don't pass the year to book.print() since it's a decade string
-            if y.endswith('s'):
-                o.write(book.print())
-            else:
-                o.write(book.print(year=y))
+            # For decades, pass the decade label so progress reflects per-decade
+            o.write(book.print(year=y))
             o.write("\n")
         o.write("---\n")
 

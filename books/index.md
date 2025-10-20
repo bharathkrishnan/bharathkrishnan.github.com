@@ -1,5 +1,5 @@
 # Year: 2025 / [2024](../books/2024) / [2023](../books/2023) / [2022](../books/2022) / [2021](../books/2021) / [2020](../books/2020) / [2020s](../books/2020s) / [2010s](../books/2010s) / [2000s](../books/2000s) / [1990s](../books/1990s) / [1980s](../books/1980s) 
-# 2025: 12 Authors, 0 / 15 Books Read, Avg Rating: 4.14 :star: :star: :star: :star:
+# 2025: 12 Authors, 7 / 15 Books Read, Avg Rating: 3.62 :star: :star: :star: :star:
 
 ## ![The Golden Road: How Ancient India Transformed the World](file:///var/mobile/Containers/Data/Application/8591D0AD-5ADC-40AC-8C63-D476D655B97D/Library/Application%20Support/Ajanta/Covers/cover-9928891283013.jpg) The Golden Road: How Ancient India Transformed the World
 *[William Dalrymple](../authors/WilliamDalrymple)*
@@ -8,7 +8,7 @@ Read: 2025
 
 [Massachusetts Library](https://library.minlib.net/search/i=9928891283013) / [Open Library](https://openlibrary.org/isbn/9928891283013) / [Local Book Shop](https://bookshop.org/book/9928891283013) / [Amazon](https://amazon.com/dp/)
 
-![0%](https://geps.dev/progress/0) 
+![10%](https://geps.dev/progress/10) 
 
 
 
@@ -19,7 +19,7 @@ Read: 2025
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780316068796) / [Open Library](https://openlibrary.org/isbn/9780316068796) / [Local Book Shop](https://bookshop.org/book/9780316068796) / [Amazon](https://amazon.com/dp/0316068799)
 
-![0%](https://geps.dev/progress/0) 
+![100%](https://geps.dev/progress/100) 
 
 
 
@@ -30,7 +30,7 @@ Read: 2025
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780748110070) / [Open Library](https://openlibrary.org/isbn/9780748110070) / [Local Book Shop](https://bookshop.org/book/9780748110070) / [Amazon](https://amazon.com/dp/1857231554)
 
-![0%](https://geps.dev/progress/0) 
+![65%](https://geps.dev/progress/65) 
 
 :star: :star: :star: :star: :star:
 
@@ -41,7 +41,7 @@ Read: 2025
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780062334527) / [Open Library](https://openlibrary.org/isbn/9780062334527) / [Local Book Shop](https://bookshop.org/book/9780062334527) / [Amazon](https://amazon.com/dp/0062334492)
 
-![0%](https://geps.dev/progress/0) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star:
 
@@ -52,7 +52,7 @@ Read: 2021, 2025
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780593135204) / [Open Library](https://openlibrary.org/isbn/9780593135204) / [Local Book Shop](https://bookshop.org/book/9780593135204) / [Amazon](https://amazon.com/dp/0593135202)
 
-![0%](https://geps.dev/progress/0) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star: :star:
 
@@ -63,7 +63,7 @@ Read: 2025
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780316005388) / [Open Library](https://openlibrary.org/isbn/9780316005388) / [Local Book Shop](https://bookshop.org/book/9780316005388) / [Amazon](https://amazon.com/dp/031600538X)
 
-![0%](https://geps.dev/progress/0) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star: :star:
 
@@ -74,7 +74,7 @@ Read: 2025
 
 [Massachusetts Library](https://library.minlib.net/search/i=9798886451740) / [Open Library](https://openlibrary.org/isbn/9798886451740) / [Local Book Shop](https://bookshop.org/book/9798886451740) / [Amazon](https://amazon.com/dp/031652557X)
 
-![0%](https://geps.dev/progress/0) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star:
 
@@ -96,7 +96,7 @@ Read: 2025
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780593654477) / [Open Library](https://openlibrary.org/isbn/9780593654477) / [Local Book Shop](https://bookshop.org/book/9780593654477) / [Amazon](https://amazon.com/dp/0593654471)
 
-![0%](https://geps.dev/progress/0) 
+![10%](https://geps.dev/progress/10) 
 
 
 
@@ -129,7 +129,7 @@ Read: 2025
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780552150446) / [Open Library](https://openlibrary.org/isbn/9780552150446) / [Local Book Shop](https://bookshop.org/book/9780552150446) / [Amazon](https://amazon.com/dp/0312319517)
 
-![0%](https://geps.dev/progress/0) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star:
 
@@ -140,7 +140,7 @@ Read: 2025
 
 [Massachusetts Library](https://library.minlib.net/search/i=9781250237750) / [Open Library](https://openlibrary.org/isbn/9781250237750) / [Local Book Shop](https://bookshop.org/book/9781250237750) / [Amazon](https://amazon.com/dp/1250237750)
 
-![0%](https://geps.dev/progress/0) 
+![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star:
 
@@ -162,7 +162,7 @@ Read: 2025
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780312871819) / [Open Library](https://openlibrary.org/isbn/9780312871819) / [Local Book Shop](https://bookshop.org/book/9780312871819) / [Amazon](https://amazon.com/dp/1429915099)
 
-![0%](https://geps.dev/progress/0) 
+![4%](https://geps.dev/progress/4) 
 
 
 
