@@ -94,25 +94,38 @@ class Book:
         gburl = "https://www.googleapis.com/books/v1/volumes?q=isbn:{0}".format(
             self.isbn13.replace("-", "")
         )
-        r = requests.get(bsurl)
-        if r.status_code == 200 or r.status_code == 403:
-            return bsurl
-        r = requests.get(olurl)
-        if r.status_code == 200:
-            return olurl
-        gbr = requests.get(gburl)
-        if gbr.status_code == 200:
-            print(gburl)
-            print(gbr.json())
-            if (
-                gbr.json()["totalItems"] > 0
-                and "imageLinks" in gbr.json()["items"][0]["volumeInfo"]
-            ):
-                return gbr.json()["items"][0]["volumeInfo"]["imageLinks"][
-                    "smallThumbnail"
-                ]
-            else:
-                return None
+        try:
+            r = requests.get(bsurl, timeout=5)
+            if r.status_code in (200, 403):
+                return bsurl
+        except requests.RequestException:
+            pass
+
+        try:
+            r = requests.get(olurl, timeout=5)
+            if r.status_code == 200:
+                return olurl
+        except requests.RequestException:
+            pass
+
+        try:
+            gbr = requests.get(gburl, timeout=5)
+            if gbr.status_code == 200:
+                payload = gbr.json()
+                print(gburl)
+                print(payload)
+                if (
+                    payload.get("totalItems", 0) > 0
+                    and payload.get("items")
+                    and "volumeInfo" in payload["items"][0]
+                    and "imageLinks" in payload["items"][0]["volumeInfo"]
+                ):
+                    return payload["items"][0]["volumeInfo"]["imageLinks"].get(
+                        "smallThumbnail"
+                    )
+        except requests.RequestException:
+            pass
+        return None
 
     def print(self, year=None) -> str:
         # Show all years the book was read

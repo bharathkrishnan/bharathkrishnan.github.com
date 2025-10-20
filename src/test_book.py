@@ -1,4 +1,5 @@
 import pytest
+import requests
 from book import Book
 
 @pytest.fixture
@@ -59,7 +60,11 @@ def test_book_print_multi_year(multi_year_data):
     assert "50%" in output_2023
     assert "2023" in output_2023
 
-def test_book_thumbnail_fallback():
+def test_book_thumbnail_fallback(monkeypatch):
+    def _raise(*args, **kwargs):
+        raise requests.RequestException("offline")
+
+    monkeypatch.setattr("book.requests.get", _raise)
     data = {
         "Title": "No Thumb",
         "Authors": ["Author C"],
@@ -71,7 +76,7 @@ def test_book_thumbnail_fallback():
         "ThumbNail": "null"
     }
     book = Book(data)
-    assert book.thumbnail.startswith("https://")
+    assert book.thumbnail.startswith("https://via.placeholder.com/128x202")
 
 
 def test_book_thumbnail_normalizes_openlibrary():
