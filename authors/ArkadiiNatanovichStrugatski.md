@@ -1,0 +1,14 @@
+# Arkadii Natanovich Strugatski:  Books Read 1 / 1, Avg Rating: 5.0 :star: :star: :star: :star: :star:
+
+## ![Roadside Picnic](https://covers.openlibrary.org/b/id/6752719-M.jpg) Roadside Picnic
+*[Arkadii Natanovich Strugatski](../authors/ArkadiiNatanovichStrugatski) & [Boris Natanovich Strugatski](../authors/BorisNatanovichStrugatski)*
+
+Read: 2021
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781399617208) / [Open Library](https://openlibrary.org/isbn/9781399617208) / [Local Book Shop](https://bookshop.org/book/9781399617208) / [Amazon](https://amazon.com/dp/0575093137)
+
+![100%](https://geps.dev/progress/100) 
+
+:star: :star: :star: :star: :star:
+
+---
