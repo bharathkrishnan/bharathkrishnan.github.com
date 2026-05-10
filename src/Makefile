@@ -1,16 +1,15 @@
 .PHONY: install update clean env build deploy commit test
 
-# Default Python interpreter
-PYTHON := python
+# uv executable
 UV := uv
 
-# Install production dependencies
+# Install production dependencies from uv.lock
 install:
-	$(UV) pip install -r requirements.txt
+	$(UV) sync --locked
 
-# Update dependencies to their latest compatible versions
+# Update uv.lock to the latest compatible dependency versions
 update:
-	$(UV) pip compile pyproject.toml --upgrade -o requirements.txt
+	$(UV) lock --upgrade
 
 # Clean up Python cache files and build artifacts
 clean:
@@ -26,13 +25,13 @@ clean:
 	find . -type d -name "build" -exec rm -rf {} +
 	find . -type d -name "dist" -exec rm -rf {} + 
 
-# activate env created via uv venv bookcellent --python 3.13
+# create/update the uv-managed virtual environment
 env:
-	source ./bookcellent/bin/activate
+	$(UV) sync --locked
 
 # build
 build:
-	${PYTHON} main.py
+	$(UV) run --locked python main.py
 
 # deploy changes to github
 deploy: build
@@ -80,4 +79,4 @@ commit:
 # run tests
 .PHONY: test
 test:
-	pytest ./
+	$(UV) run --locked --extra test pytest ./

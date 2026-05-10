@@ -3,13 +3,14 @@
 ## Project Structure & Module Organization
 - Source (this folder `src/`): `main.py`, `book.py`, `author.py`.
 - Tests: `test_book.py`, `test_main_stats.py` (pytest).
-- Tooling: `Makefile`, `pyproject.toml`, `requirements.txt`, `uv.lock`, `.python-version`.
+- Tooling: `Makefile`, `pyproject.toml`, `uv.lock`, `.python-version`.
 - Utilities: `cover-mosaic/` (cover mosaic Cloud Function), `bookmarklet/isbn.js` (ISBN helper).
 - Data & outputs: run from `src/`. Reads `../data.json`; writes `../index.md`, `../books/`, `../authors/`, `../mosaic/index.html`.
 
 ## Build, Test, and Development Commands
-- `uv venv bookcellent --python 3.13` then `make env`: create and activate venv.
-- `make install`: install deps via `uv pip install -r requirements.txt`.
+- `make env`: create/update the uv-managed virtual environment from `uv.lock`.
+- `make install`: install deps via `uv sync --locked`.
+- `make update`: update `uv.lock` via `uv lock --upgrade`.
 - `make build`: run `main.py` to (re)generate site content.
 - `make test`: run pytest across the repo.
 - `make clean`: remove caches and build artifacts.
@@ -35,4 +36,3 @@
 - Do not commit secrets. External CLIs used: `uv`, `ollama`, `gh`, `jq`.
 - Network calls fetch covers in `book.py` and `cover-mosaic/main.py`; prefer mocking in tests.
 - Agents: keep changes minimal/surgical, preserve file layout, and update tests alongside code.
-
