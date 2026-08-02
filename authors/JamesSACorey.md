@@ -1,11 +1,22 @@
-# James S. A. Corey:  Books Read 13 / 14, Avg Rating: 0.31 
+# James S. A. Corey:  Books Read 13 / 15, Avg Rating: 0.64 :star:
 
-## ![Caliban's war](https://covers.openlibrary.org/b/id/7314238-M.jpg) Caliban's war
+## ![Leviathan Falls (The Expanse, 9)](https://covers.openlibrary.org/b/isbn/978-0316332910-M.jpg) Leviathan Falls (The Expanse, 9)
+*[James S. A. Corey](../authors/JamesSACorey)*
+
+Read: 2022
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780316332910) / [Open Library](https://openlibrary.org/isbn/9780316332910) / [Local Book Shop](https://bookshop.org/book/9780316332910) / [Amazon](https://amazon.com/dp/0316332917)
+
+![10%](https://geps.dev/progress/10) 
+
+
+
+## ![Memory's Legion](https://covers.openlibrary.org/b/id/12674980-M.jpg) Memory's Legion
 *[James S. A. Corey](../authors/JamesSACorey)*
 
 Read: 
 
-[Massachusetts Library](https://library.minlib.net/search/i=9783453318021) / [Open Library](https://openlibrary.org/isbn/9783453318021) / [Local Book Shop](https://bookshop.org/book/9783453318021) / [Amazon](https://amazon.com/dp/1841499919)
+[Massachusetts Library](https://library.minlib.net/search/i=9780316669191) / [Open Library](https://openlibrary.org/isbn/9780316669191) / [Local Book Shop](https://bookshop.org/book/9780316669191) / [Amazon](https://amazon.com/dp/0316669148)
 
 ![100%](https://geps.dev/progress/100) 
 
@@ -22,23 +33,34 @@ Read:
 
 
 
+## ![The Vital Abyss](https://covers.openlibrary.org/b/id/7992541-M.jpg) The Vital Abyss
+*[James S. A. Corey](../authors/JamesSACorey)*
+
+Read: 
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780316217569) / [Open Library](https://openlibrary.org/isbn/9780316217569) / [Local Book Shop](https://bookshop.org/book/9780316217569) / [Amazon](https://amazon.com/dp/0316217565)
+
+![100%](https://geps.dev/progress/100) 
+
+
+
+## ![Caliban's war](https://covers.openlibrary.org/b/id/7314238-M.jpg) Caliban's war
+*[James S. A. Corey](../authors/JamesSACorey)*
+
+Read: 
+
+[Massachusetts Library](https://library.minlib.net/search/i=9783453318021) / [Open Library](https://openlibrary.org/isbn/9783453318021) / [Local Book Shop](https://bookshop.org/book/9783453318021) / [Amazon](https://amazon.com/dp/1841499919)
+
+![100%](https://geps.dev/progress/100) 
+
+
+
 ## ![Babylon's Ashes](https://covers.openlibrary.org/b/id/8417833-M.jpg) Babylon's Ashes
 *[James S. A. Corey](../authors/JamesSACorey)*
 
 Read: 
 
 [Massachusetts Library](https://library.minlib.net/search/i=9780356504285) / [Open Library](https://openlibrary.org/isbn/9780356504285) / [Local Book Shop](https://bookshop.org/book/9780356504285) / [Amazon](https://amazon.com/dp/0316217638)
-
-![100%](https://geps.dev/progress/100) 
-
-
-
-## ![Abaddon’s Gate](https://covers.openlibrary.org/b/id/8624248-M.jpg) Abaddon’s Gate
-*[James S. A. Corey](../authors/JamesSACorey)*
-
-Read: 
-
-[Massachusetts Library](https://library.minlib.net/search/i=9781841499932) / [Open Library](https://openlibrary.org/isbn/9781841499932) / [Local Book Shop](https://bookshop.org/book/9781841499932) / [Amazon](https://amazon.com/dp/1549153072)
 
 ![100%](https://geps.dev/progress/100) 
 
@@ -55,12 +77,12 @@ Read:
 
 
 
-## ![Persepolis Rising](https://covers.openlibrary.org/b/id/8573135-M.jpg) Persepolis Rising
+## ![The Mercy of Gods](https://covers.openlibrary.org/b/id/14649358-M.jpg) The Mercy of Gods
 *[James S. A. Corey](../authors/JamesSACorey)*
 
 Read: 
 
-[Massachusetts Library](https://library.minlib.net/search/i=9780316332828) / [Open Library](https://openlibrary.org/isbn/9780316332828) / [Local Book Shop](https://bookshop.org/book/9780316332828) / [Amazon](https://amazon.com/dp/0316332828)
+[Massachusetts Library](https://library.minlib.net/search/i=9780316525596) / [Open Library](https://openlibrary.org/isbn/9780316525596) / [Local Book Shop](https://bookshop.org/book/9780316525596) / [Amazon](https://amazon.com/dp/0356517799)
 
 ![100%](https://geps.dev/progress/100) 
 
@@ -77,12 +99,12 @@ Read:
 
 
 
-## ![Leviathan Falls](https://covers.openlibrary.org/b/id/14424717-M.jpg) Leviathan Falls
+## ![Persepolis Rising](https://covers.openlibrary.org/b/id/8573135-M.jpg) Persepolis Rising
 *[James S. A. Corey](../authors/JamesSACorey)*
 
 Read: 
 
-[Massachusetts Library](https://library.minlib.net/search/i=9780356510392) / [Open Library](https://openlibrary.org/isbn/9780356510392) / [Local Book Shop](https://bookshop.org/book/9780356510392) / [Amazon](https://amazon.com/dp/0356510395)
+[Massachusetts Library](https://library.minlib.net/search/i=9780316332828) / [Open Library](https://openlibrary.org/isbn/9780316332828) / [Local Book Shop](https://bookshop.org/book/9780316332828) / [Amazon](https://amazon.com/dp/0316332828)
 
 ![100%](https://geps.dev/progress/100) 
 
@@ -99,47 +121,25 @@ Read:
 
 
 
-## ![The Vital Abyss](https://covers.openlibrary.org/b/id/7992541-M.jpg) The Vital Abyss
+## ![Leviathan Falls](https://covers.openlibrary.org/b/id/14424717-M.jpg) Leviathan Falls
 *[James S. A. Corey](../authors/JamesSACorey)*
 
 Read: 
 
-[Massachusetts Library](https://library.minlib.net/search/i=9780316217569) / [Open Library](https://openlibrary.org/isbn/9780316217569) / [Local Book Shop](https://bookshop.org/book/9780316217569) / [Amazon](https://amazon.com/dp/0316217565)
+[Massachusetts Library](https://library.minlib.net/search/i=9780356510392) / [Open Library](https://openlibrary.org/isbn/9780356510392) / [Local Book Shop](https://bookshop.org/book/9780356510392) / [Amazon](https://amazon.com/dp/0356510395)
 
 ![100%](https://geps.dev/progress/100) 
 
 
 
-## ![The Mercy of Gods](https://covers.openlibrary.org/b/id/14649358-M.jpg) The Mercy of Gods
+## ![Abaddon’s Gate](https://covers.openlibrary.org/b/id/8624248-M.jpg) Abaddon’s Gate
 *[James S. A. Corey](../authors/JamesSACorey)*
 
 Read: 
 
-[Massachusetts Library](https://library.minlib.net/search/i=9780316525596) / [Open Library](https://openlibrary.org/isbn/9780316525596) / [Local Book Shop](https://bookshop.org/book/9780316525596) / [Amazon](https://amazon.com/dp/0356517799)
+[Massachusetts Library](https://library.minlib.net/search/i=9781841499932) / [Open Library](https://openlibrary.org/isbn/9781841499932) / [Local Book Shop](https://bookshop.org/book/9781841499932) / [Amazon](https://amazon.com/dp/1549153072)
 
 ![100%](https://geps.dev/progress/100) 
-
-
-
-## ![Memory's Legion](https://covers.openlibrary.org/b/id/12674980-M.jpg) Memory's Legion
-*[James S. A. Corey](../authors/JamesSACorey)*
-
-Read: 
-
-[Massachusetts Library](https://library.minlib.net/search/i=9780316669191) / [Open Library](https://openlibrary.org/isbn/9780316669191) / [Local Book Shop](https://bookshop.org/book/9780316669191) / [Amazon](https://amazon.com/dp/0316669148)
-
-![100%](https://geps.dev/progress/100) 
-
-
-
-## ![Leviathan Falls (The Expanse, 9)](https://covers.openlibrary.org/b/isbn/978-0316332910-M.jpg) Leviathan Falls (The Expanse, 9)
-*[James S. A. Corey](../authors/JamesSACorey)*
-
-Read: 2022
-
-[Massachusetts Library](https://library.minlib.net/search/i=9780316332910) / [Open Library](https://openlibrary.org/isbn/9780316332910) / [Local Book Shop](https://bookshop.org/book/9780316332910) / [Amazon](https://amazon.com/dp/0316332917)
-
-![10%](https://geps.dev/progress/10) 
 
 
 
@@ -153,5 +153,16 @@ Read: 2024
 ![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star:
+
+## ![The Faith of Beasts](https://covers.openlibrary.org/b/id/15154428-M.jpg) The Faith of Beasts
+*[James S. A. Corey](../authors/JamesSACorey)*
+
+Read: 2026
+
+[Massachusetts Library](https://library.minlib.net/search/i=9780316525671) / [Open Library](https://openlibrary.org/isbn/9780316525671) / [Local Book Shop](https://bookshop.org/book/9780316525671) / [Amazon](https://amazon.com/dp/)
+
+![0%](https://geps.dev/progress/0) 
+
+:star: :star: :star: :star: :star:
 
 ---

@@ -22,12 +22,12 @@ Read: 1990s
 
 
 
-## ![The Case-Book of Sherlock Holmes](https://covers.openlibrary.org/b/id/8350410-M.jpg) The Case-Book of Sherlock Holmes
+## ![The Adventures of Sherlock Holmes [12 stories]](https://covers.openlibrary.org/b/id/6717853-M.jpg) The Adventures of Sherlock Holmes [12 stories]
 *[Arthur Conan Doyle](../authors/ArthurConanDoyle)*
 
 Read: 1990s
 
-[Massachusetts Library](https://library.minlib.net/search/i=9780760757741) / [Open Library](https://openlibrary.org/isbn/9780760757741) / [Local Book Shop](https://bookshop.org/book/9780760757741) / [Amazon](https://amazon.com/dp/1420981161)
+[Massachusetts Library](https://library.minlib.net/search/i=9786053241485) / [Open Library](https://openlibrary.org/isbn/9786053241485) / [Local Book Shop](https://bookshop.org/book/9786053241485) / [Amazon](https://amazon.com/dp/0586061584)
 
 ![100%](https://geps.dev/progress/100) 
 
@@ -44,12 +44,12 @@ Read: 1990s
 
 
 
-## ![The Adventures of Sherlock Holmes [12 stories]](https://covers.openlibrary.org/b/id/6717853-M.jpg) The Adventures of Sherlock Holmes [12 stories]
+## ![The Case-Book of Sherlock Holmes](https://covers.openlibrary.org/b/id/8350410-M.jpg) The Case-Book of Sherlock Holmes
 *[Arthur Conan Doyle](../authors/ArthurConanDoyle)*
 
 Read: 1990s
 
-[Massachusetts Library](https://library.minlib.net/search/i=9786053241485) / [Open Library](https://openlibrary.org/isbn/9786053241485) / [Local Book Shop](https://bookshop.org/book/9786053241485) / [Amazon](https://amazon.com/dp/0586061584)
+[Massachusetts Library](https://library.minlib.net/search/i=9780760757741) / [Open Library](https://openlibrary.org/isbn/9780760757741) / [Local Book Shop](https://bookshop.org/book/9780760757741) / [Amazon](https://amazon.com/dp/1420981161)
 
 ![100%](https://geps.dev/progress/100) 
 

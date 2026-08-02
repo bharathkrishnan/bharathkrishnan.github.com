@@ -1,6 +1,6 @@
 # Daniel James Brown:  Books Read 0 / 1, Avg Rating: 0.0 
 
-## ![The Boys in the Boat](file:///var/mobile/Containers/Data/Application/B51E660C-4BA9-46B1-8B22-B8AC96584816/Library/Application%20Support/Ajanta/Covers/cover-9952120454367.jpg) The Boys in the Boat
+## ![The Boys in the Boat](file:///var/mobile/Containers/Data/Application/0F128573-35D3-4C63-B374-64B1DE4E0FC8/Library/Application%20Support/Ajanta/Covers/cover-9952120454367.jpg) The Boys in the Boat
 *[Daniel James Brown](../authors/DanielJamesBrown)*
 
 Read: 

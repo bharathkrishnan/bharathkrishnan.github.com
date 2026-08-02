@@ -22,17 +22,6 @@ Read: 2006
 
 :star: :star: :star: :star: :star:
 
-## ![Altered Carbon. Vol. 1](https://covers.openlibrary.org/b/id/13223488-M.jpg) Altered Carbon. Vol. 1
-*[Richard K. Morgan](../authors/RichardKMorgan)*
-
-Read: 2000s
-
-[Massachusetts Library](https://library.minlib.net/search/i=9780575073210) / [Open Library](https://openlibrary.org/isbn/9780575073210) / [Local Book Shop](https://bookshop.org/book/9780575073210) / [Amazon](https://amazon.com/dp/057507390X)
-
-![100%](https://geps.dev/progress/100) 
-
-:star: :star: :star: :star: :star:
-
 ## ![The Steel Remains](https://covers.openlibrary.org/b/id/6670503-M.jpg) The Steel Remains
 *[Richard K. Morgan](../authors/RichardKMorgan)*
 
@@ -43,6 +32,17 @@ Read: 2008
 ![100%](https://geps.dev/progress/100) 
 
 :star: :star: :star: :star:
+
+## ![Thirteen](https://covers.openlibrary.org/b/id/1726459-M.jpg) Thirteen
+*[Richard K. Morgan](../authors/RichardKMorgan)*
+
+Read: 2010s
+
+[Massachusetts Library](https://library.minlib.net/search/i=9781400154319) / [Open Library](https://openlibrary.org/isbn/9781400154319) / [Local Book Shop](https://bookshop.org/book/9781400154319) / [Amazon](https://amazon.com/dp/1400134315)
+
+![100%](https://geps.dev/progress/100) 
+
+:star: :star: :star: :star: :star:
 
 ## ![Market Forces](https://covers.openlibrary.org/b/id/210816-M.jpg) Market Forces
 *[Richard K. Morgan](../authors/RichardKMorgan)*
@@ -55,12 +55,12 @@ Read: 2000s
 
 :star: :star: :star: :star:
 
-## ![Thirteen](https://covers.openlibrary.org/b/id/1726459-M.jpg) Thirteen
+## ![Altered Carbon. Vol. 1](https://covers.openlibrary.org/b/id/13223488-M.jpg) Altered Carbon. Vol. 1
 *[Richard K. Morgan](../authors/RichardKMorgan)*
 
-Read: 2010s
+Read: 2000s
 
-[Massachusetts Library](https://library.minlib.net/search/i=9781400154319) / [Open Library](https://openlibrary.org/isbn/9781400154319) / [Local Book Shop](https://bookshop.org/book/9781400154319) / [Amazon](https://amazon.com/dp/1400134315)
+[Massachusetts Library](https://library.minlib.net/search/i=9780575073210) / [Open Library](https://openlibrary.org/isbn/9780575073210) / [Local Book Shop](https://bookshop.org/book/9780575073210) / [Amazon](https://amazon.com/dp/057507390X)
 
 ![100%](https://geps.dev/progress/100) 
 
